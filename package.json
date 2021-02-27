@@ -1,0 +1,38 @@
+{
+  "name": "muramasa-vn-translation",
+  "version": "0.0.1",
+  "description": "Gonna put some work towards extracting text, recording gameplay and translating to the Soukou Akki Muramasa Visual Novel",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klesun/muramasa-vn-translation.git"
+  },
+  "keywords": [
+    "english",
+    "Soukou",
+    "Akki",
+    "Muramasa",
+    "Full",
+    "Metal",
+    "Demon",
+    "Muramasa",
+    "text",
+    "recording",
+    "google",
+    "translate"
+  ],
+  "author": "klesun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klesun/muramasa-vn-translation/issues"
+  },
+  "homepage": "https://github.com/klesun/muramasa-vn-translation#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "node-static": "^0.7.11"
+  }
+}
