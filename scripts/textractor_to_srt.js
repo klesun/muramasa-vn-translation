@@ -74,7 +74,7 @@ const main = async () => {
         const {startAbsMs, translatedLines} = srtRecords[i];
         const endAbsMs = i + 1 < srtRecords.length
             ? srtRecords[i + 1].startAbsMs
-            : startAbsMs + 30 * 1000;
+            : startAbsMs + 5 * 1000;
         for (const [lang, line] of Object.entries(translatedLines)) {
             const startRelTs = makeSrtTimestamp(startAbsMs - videoBirthMs);
             const endRelTs = makeSrtTimestamp(endAbsMs - videoBirthMs);

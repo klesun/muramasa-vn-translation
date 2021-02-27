@@ -11,5 +11,16 @@ And I still don't understand what happened to the girl T_T.
 They say later that "Her mind and body were broken" to the point she could not talk, but I can't infer from the text what exactly happened to her body besides being raped and humiliated...
 
 ```bash
-/c/m/ffmpeg/bin/ffmpeg.exe -i game_recording.mp4 -i game_recording.en.srt -i game_recording.ja.srt -map 0:v -map 0:a -map 1 -map 2 -c:v copy -c:a copy -c:s srt -metadata:s:s:0 language=eng -metadata:s:s:1 language=jpn outfile.mkv
+# -ss needs to be repeated before each input for correct timing
+# see also https://superuser.com/a/704118/341432
+/c/m/ffmpeg/bin/ffmpeg.exe  \
+  -ss 00:20:45 -i game_recording.mp4 \
+  -ss 00:20:45 -i game_recording.eng.srt \
+  -ss 00:20:45 -i game_recording.jpn.srt \
+  -map 0:v -map 0:a -map 1 -map 2 \
+  -c:v copy -c:a copy \
+  -c:s srt \
+    -metadata:s:s:0 language=eng \
+    -metadata:s:s:1 language=jpn \
+  outfile.mkv
 ```
