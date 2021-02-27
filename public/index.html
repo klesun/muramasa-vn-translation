@@ -10,6 +10,7 @@
     <div>
         <textarea id="translated_output" cols="100" rows="40"></textarea>
     </div>
+    <div id="error_log"></div>
 
     <script type="module" src="./index.js"></script>
 </body>
@@ -18,5 +19,10 @@
     textarea {
         /* to prevent horizontal scroll from appearing when vertical scroll takes part of the allocated space */
         padding-right: 12px;
+    }
+    #error_log {
+        white-space: pre;
+        color: red;
+        font-family: monospace;
     }
 </style>

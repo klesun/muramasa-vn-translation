@@ -3,6 +3,7 @@ import TranslateLine from "./modules/TranslateLine.js";
 
 const gui = {
     translated_output: document.getElementById('translated_output'),
+    error_log: document.getElementById('error_log'),
 };
 
 const main = async () => {
@@ -26,5 +27,5 @@ const main = async () => {
 
 main().catch(exc => {
     console.error(exc);
-    alert('Main function execution failed - ' + exc);
+    gui.error_log.textContent += 'Main function execution failed - ' + exc;
 });
