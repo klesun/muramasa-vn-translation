@@ -7,6 +7,9 @@ I'll put here everything that I'll use during extraction and translation of this
 
 ____________________
 
+You can find shared links to uncut hentai scenes in the [/uncut_hentai_scenes/](https://github.com/klesun/muramasa-vn-translation/tree/master/assets/uncut_hentai_scenes) folder
+____________________
+
 As it appears, the [#8 VN in vndb](https://vndb.org/v2016) does not have much in terms of being translated to english.
 
 The most serious movement on the moment of writing is the @Maa-chan2018's 24+ hours of [recorded gameplay](https://www.youtube.com/watch?v=AXSc9oNXSTk&list=PL3gfx-bBhOYKHY7QJcyxsnO4qeRgMwUmS) with translation added in form of hardsub. It seems to translate 4 Chapters of one of the possible routes. This is awesome, but still far from fully covering all the game.
