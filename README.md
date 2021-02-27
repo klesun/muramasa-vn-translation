@@ -2,6 +2,9 @@
 ### aka Full Metal Demon Muramasa
 
 I'll put here everything that I'll use during extraction and translation of this God-tier Visual Novel.
+
+![image](https://user-images.githubusercontent.com/5202330/109388412-7f2c1d80-790f-11eb-9aa2-d69f47b86324.png)
+
 ____________________
 
 As it appears, the [#8 VN in vndb](https://vndb.org/v2016) does not have much in terms of being translated to english.
