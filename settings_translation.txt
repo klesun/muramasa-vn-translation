@@ -1,0 +1,29 @@
+## テ キ ス ト 設 定
+   Text setting
+  
+  自 動 メ ッ セ ー ジ 送 り の 音 声 設 定
+  Setting the sound and voice of the automatic message transmission
+    - ? 了 ま で 待 っ
+      Wait until the end
+    - 再 生 を 中 断 す る
+      Interrupt rebirth
+  
+  
+  自 動 メ ッ セ ー ジ 送 り の 待 ち 時 間
+  Waiting time for sending an automatic message
+  
+  文 字 送 り 時 の 音 声 再 生
+  Regeneration of sound and voice when sending sentences
+    - 全 て 再 生
+      All revived
+    - ク リ ッ ク で 停 止
+      Stop at the click
+  
+  未 読 時 で も ス キ ッ プ
+  Skip even when unread
+  
+  選 択 肢 で 自 動 文 字 送 り & ス キ ッ プ を 解 除 す る
+  Select to remove the automatic text sending & skip
+  
+  メ ッ セ ー ジ ス ピ ー ド
+  Message speed
