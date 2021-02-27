@@ -12,12 +12,14 @@ const main = async () => {
         const lines = textPart.trimEnd().split(/[\r\n]+/);
         if (lines.length === 3) {
             const [seconds, centiseconds, japLine] = lines;
-            gui.translated_output.textContent += japLine + '\n';
+            gui.translated_output.value += japLine + '\n';
+            gui.translated_output.scrollTop = gui.translated_output.scrollHeight;
             const engLine = await TranslateLine({line: japLine});
-            gui.translated_output.textContent += engLine + '\n\n';
+            gui.translated_output.value += engLine + '\n\n';
             gui.translated_output.scrollTop = gui.translated_output.scrollHeight;
         } else {
-            gui.translated_output.textContent += textPart;
+            gui.translated_output.value += textPart;
+            gui.translated_output.scrollTop = gui.translated_output.scrollHeight;
         }
     }
 };
