@@ -9,7 +9,7 @@ import Api from './Api.js';
  */
 export default async ({
     line,
-    tkkHourlySalt = 443659.1100698392,
+    tkkHourlySalt = '443659.1100698392',
     sourceLang = 'ja',
     targetLang = 'en',
 }) => {

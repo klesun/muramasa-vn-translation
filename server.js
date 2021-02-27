@@ -1,4 +1,5 @@
 import proxyRequest from "./backend/api/proxyRequest.js";
+import streamSentences from "./backend/api/streamSentences.js";
 
 import * as nodeStatic from 'node-static';
 import * as http from 'http';
@@ -8,6 +9,8 @@ const file = new (nodeStatic.Server)('./public');
 const handleHttpRequest = async (req, res) => {
     if (req.url === '/api/proxyRequest') {
         await proxyRequest(req, res);
+    } else if (req.url === '/api/streamSentences') {
+        await streamSentences(req, res);
     } else {
         await file.serve(req, res);
     }
