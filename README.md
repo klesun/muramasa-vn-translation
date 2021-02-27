@@ -7,7 +7,7 @@ I'll put here everything that I'll use during extraction and translation of this
 
 ____________________
 
-You can find shared links to uncut hentai scenes in the [/uncut_hentai_scenes/](https://github.com/klesun/muramasa-vn-translation/tree/master/assets/uncut_hentai_scenes) folder
+You can find shared links to uncut hentai scenes in the [/uncut_hentai_scenes/](https://github.com/klesun/muramasa-vn-translation/tree/master/uncut_hentai_scenes) folder
 ____________________
 
 As it appears, the [#8 VN in vndb](https://vndb.org/v2016) does not have much in terms of being translated to english.
