@@ -1,0 +1,65 @@
+<head>
+    <meta charset="utf-8"/>
+</head>
+<body>
+<p>GOOGLETRANSLATE() in spreadsheet is shit, it does not preserve html tags and translated text quality is very poor</p>
+<p>So use this page which translates through actual google API</p>
+<form onsubmit="alert('Wait for js to load!')">
+    <div>
+        <label>
+            <span><code>window.TKK</code> value from https://translate.google.ru/</span>
+            <input name="tkkHourlySalt" type="string" value="443659.1100698392"/>
+        </label>
+    </div>
+    <div>
+        <label>
+            <span>Delay between calls in ms (be too gready, and proxy ip gets banned ;c)</span>
+            <input name="delayBetweenCallsMs" type="number" value="5000"/>
+        </label>
+    </div>
+    <div>
+        <textarea wrap="off" name="inputLangCsv" cols="200" rows="20" placeholder="Copy japanese cells you want to translate here..."></textarea>
+    </div>
+    <div>
+        <button>Translate!</button>
+    </div>
+    <div>
+        <textarea wrap="off" name="outputLangCsv" cols="200" rows="20" placeholder="The translated output will go here"></textarea>
+    </div>
+</form>
+
+<script type="module">
+import TranslateLine from "../modules/TranslateLine.js";
+
+(() => {
+    const mainForm = document.forms[0];
+
+    const translate = async () => {
+        const inputCsv = mainForm['inputLangCsv'].value;
+        if (!inputCsv) {
+            throw new Error('Enter some text yopta');
+        }
+
+        mainForm['outputLangCsv'].value = '';
+        const tkkHourlySalt = mainForm['tkkHourlySalt'].value;
+        const delayBetweenCallsMs = mainForm['delayBetweenCallsMs'].value;
+
+        for (const line of inputCsv.trim().split('\n')) {
+            const translated = await TranslateLine({line, tkkHourlySalt});
+            const delim = '\n';
+            mainForm['outputLangCsv'].value += translated + delim;
+
+            await new Promise(resolve => setTimeout(resolve, Math.floor(Math.random() * delayBetweenCallsMs)));
+        }
+    };
+    mainForm.onsubmit = async (evt) => {
+        evt.preventDefault();
+        translate()
+            .catch(exc => {
+                console.error('Failed to translate', exc);
+                alert('zhopa ' + exc);
+            });
+    };
+})()
+</script>
+</body>
