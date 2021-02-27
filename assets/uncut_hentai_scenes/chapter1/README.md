@@ -1,5 +1,5 @@
 
-You can download the video with translation subtitles attached from this magnet link:
+You can download the video with translation subtitles attached by opening this magnet link:
 
 <a href="https://tinyurl.com/vc9mtv8c">magnet:?xt=urn:btih:866f4f1c2b25020298fd41a2b80b8909e31660e9</a>
 
