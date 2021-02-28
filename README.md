@@ -1,5 +1,5 @@
-## Soukou Akki Muramasa VN Translation
-### aka Full Metal Demon Muramasa
+# Soukou Akki Muramasa VN Translation
+### 装甲悪鬼村正 | Full Metal Demon Muramasa
 
 I'll put here everything that I'll use during extraction and translation of this God-tier Visual Novel.
 
