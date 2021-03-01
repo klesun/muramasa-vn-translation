@@ -16,13 +16,13 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
  * you can can it in the original output folder with:
  * $ stat NameOfYourRecording.mp4
  */
-const videoBirthMs = new Date('2021-02-27T17:56:35.272Z').getTime();
+const videoBirthMs = new Date('2021-02-28T14:00:32.720Z').getTime();
 /**
  * video is teensy little bit slower than subs, and that's annoying
  * when subs appear a moment before, so fixing it with an artificial delay
  */
 const SUBS_EXTRA_DELAY_MS = 35;
-const chapterDir = __dirname + '/../assets/cut_hentai_scenes/chapter1';
+const chapterDir = __dirname + '/../assets/recordings/chapter5';
 const textractorSentencesPath = chapterDir + '/textractor_sentences.txt';
 const translatedSentencesPath = chapterDir + '/translated_sentences.txt';
 
@@ -50,7 +50,9 @@ const main = async () => {
         translatedSentencesText
             .trim().split(/(?:\r\n|\n){2}/)
             .map(lineTranslationText => {
-                return lineTranslationText.split(/(?:\r\n|\n)/);
+                return lineTranslationText
+					.split(/(?:\r\n|\n)/)
+					.map(l => l.trim());
             })
     );
     const srtRecords = textractorSentencesText
@@ -63,7 +65,10 @@ const main = async () => {
             return {
                 startAbsMs: seconds * 1000 + +msPart + SUBS_EXTRA_DELAY_MS,
                 translatedLines: {
-                    'eng': japToEng.get(japLine),
+                    'eng': japToEng.get(japLine.trim())
+						// tags have special meaning in srt apparently
+						.replace(/^\s*<</, '《'),
+						.replace(/>>$/, '》'),
                     'jpn': japLine,
                 },
             };
