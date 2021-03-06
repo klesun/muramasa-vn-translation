@@ -21,7 +21,7 @@ export const buildSrtBlock = ({index, startRelMs, endRelMs, sentence}) => {
     const startRelTs = makeSrtTimestamp(startRelMs);
     const endRelTs = makeSrtTimestamp(endRelMs);
 
-    return buildSrtBlock({index, startRelTs, endRelTs, sentence});
+    return joinSrtBlockParts({index, startRelTs, endRelTs, sentence});
 };
 
 export const parseSrtSentence = (block) => {
