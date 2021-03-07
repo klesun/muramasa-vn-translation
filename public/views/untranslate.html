@@ -1,0 +1,34 @@
+<head>
+    <meta charset="utf8"/>
+</head>
+
+<body>
+    <p>This page helps to map Garejei's translated sentences to the auto-translated ones</p>
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Auto-Translated</th>
+                <th>Gareji-Translated</th>
+                <th>Drag</th>
+                <th>Drop</th>
+            </tr>
+        </thead>
+        <tbody id="sentences_list">
+        </tbody>
+    </table>
+    <script type="module" src="./untranslate.js"></script>
+</body>
+
+<style>
+    td.google-holder {
+        max-width: 600px;
+    }
+    tr:hover {
+        background-color: #a3ffff;
+    }
+    .with-pretext {
+        color: #1b7930;
+        cursor: help;
+    }
+</style>

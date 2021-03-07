@@ -2,7 +2,7 @@
 import { promises as fs } from 'fs';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
-import {joinSrtBlockParts, makeSrtTimestamp, parseSrtSentence} from "./utils.js";
+import {joinSrtBlockParts, parseSrtSentence} from "../public/modules/SrtUtils.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -38,7 +38,11 @@ const main = async () => {
             .get(japLine.trim())
             // tags have special meaning in srt apparently
             .replace(/^\s*<</, '《')
-            .replace(/>>$/, '》');
+            .replace(/>>$/, '》')
+            // fixing google translate artifacts on some input
+            .replace(/^\s*"(.*)》/, '《$1》')
+            .replace(/^\s*《(.*)"/, '《$1》')
+            ;
 
         return parsedBlock;
     };

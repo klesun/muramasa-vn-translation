@@ -1,7 +1,7 @@
 import proxyRequest from "./backend/api/proxyRequest.js";
 import streamSentences from "./backend/api/streamSentences.js";
 
-import * as nodeStatic from 'node-static';
+import nodeStatic from 'node-static';
 import * as http from 'http';
 
 const file = new (nodeStatic.Server)('./public');
