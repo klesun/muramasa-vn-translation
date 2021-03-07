@@ -17,8 +17,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
  * you can can it in the original output folder with:
  * $ stat NameOfYourRecording.mp4
  */
-const videoBirthMs = new Date('2021-02-28 21:53:12.605578200 +0200').getTime();
-const chapterDir = __dirname + '/../assets/recordings/ayane_route';
+const videoBirthMs = new Date('2021-03-01 11:29:47.576324800 +0200').getTime();
+const chapterDir = __dirname + '/../assets/recordings/ayane_route_end';
 const textractorSentencesPath = chapterDir + '/textractor_sentences.txt';
 
 const parseTranslatorBlock = (lineTimingText) => {
