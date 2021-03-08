@@ -12,7 +12,7 @@ ____________________
 
 As it appears, the [#8 VN in vndb](https://vndb.org/v2016) does not have much in terms of being translated to english.
 
-The most serious movement on the moment of writing is the @Maa-chan2018's 24+ hours of [recorded gameplay](https://www.youtube.com/watch?v=AXSc9oNXSTk&list=PL3gfx-bBhOYKHY7QJcyxsnO4qeRgMwUmS) with translation added in form of hardsub. It seems to translate 4 Chapters of one of the possible routes. This is awesome, but still far from fully covering all the game.
+The most serious movement on the moment of writing is the @Maa-chan2018's 24+ hours of [recorded gameplay](https://www.youtube.com/watch?v=AXSc9oNXSTk&list=PL3gfx-bBhOYKHY7QJcyxsnO4qeRgMwUmS) with translation added in form of hardsub. It seems to translate 4 Chapters of the Common Route. This is awesome, but still far from fully covering all the game.
 
 As I'm coming closer to the end of chapter 4 T_T, I decided to get the actual game, capture the text of remaining chapters using [Textractor](https://github.com/Artikash/Textractor) and translate them all using [Google Translate](https://translate.google.jp/) API (very high quality auto-translation, but still inferior to a good human translator of course).
 
@@ -23,8 +23,14 @@ I'll push all extracted and translated text to this repo - feel free to make pul
 
 ### My Plan
 - ~~Get the game~~ Done: the [official site](http://www.fmd-muramasa.com/spec/) has a list of web stores where it can be bought using credit card, I [used dlsite.com](https://www.dlsite.com/pro/work/=/product_id/VJ010347.html). Installing this game from multipart rar archive and f*cking with locale issues deserve a separate article, but if I do everything right, you won't need that.
-- Make a plan of the routes.
+- ~~Make a plan of the routes.~~ [see here](https://klesun.github.io/muramasa-vn-translation/docs/saiga_guide_eng.html)
 - Record each possible route with additionally logging the text and timestamps using Textractor
+    - ~~Hero~~
+    - ~~Revenge~~
+    - ~~Demon~~
+    - ~~Evil Demon~~
+    - True End
+    - Bad Endings
 - Cleanup and organize recorded videos and texts into a folder hierarchy according to the [routes guide](https://seiya-saiga.com/game/nitroplus/muramasa.html)
 - Generate youtube-format captions
 - Add mosaic in the hentai scenes
