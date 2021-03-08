@@ -12,7 +12,7 @@ ____________________
 
 As it appears, the [#8 VN in vndb](https://vndb.org/v2016) does not have much in terms of being translated to english.
 
-The most serious movement on the moment of writing is the @Maa-chan2018's 24+ hours of [recorded gameplay](https://www.youtube.com/watch?v=AXSc9oNXSTk&list=PL3gfx-bBhOYKHY7QJcyxsnO4qeRgMwUmS) with translation added in form of hardsub. It seems to translate 4 Chapters of one of the possible routes. This is awesome, but still far from fully covering all the game.
+The most serious movement on the moment of writing is the @Maa-chan2018's 24+ hours of [recorded gameplay](https://www.youtube.com/watch?v=AXSc9oNXSTk&list=PL3gfx-bBhOYKHY7QJcyxsnO4qeRgMwUmS) with translation added in form of hardsub. It seems to translate 4 Chapters of the Common Route. This is awesome, but still far from fully covering all the game.
 
 As I'm coming closer to the end of chapter 4 T_T, I decided to get the actual game, capture the text of remaining chapters using [Textractor](https://github.com/Artikash/Textractor) and translate them all using [Google Translate](https://translate.google.jp/) API (very high quality auto-translation, but still inferior to a good human translator of course).
 
