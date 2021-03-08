@@ -5596,4 +5596,5 @@ With her and him. Which was correct?
 それとも、どちらも正しくなかったのか。　あるいは、どちらも正しかったのか――――
 Or were neither correct? Or were both correct?
 
-二人の戦いは、まだ続いている。	The battle between the two is still going on.
+二人の戦いは、まだ続いている。
+The battle between the two is still going on.
