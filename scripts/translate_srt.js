@@ -10,7 +10,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
  * video is teensy little bit slower than subs, and that's annoying
  * when subs appear a moment before, so fixing it with an artificial delay
  */
-const chapterDir = __dirname + '/../assets/recordings/ayane_route';
+const chapterDir = __dirname + '/../assets/recordings/ayane_route_end';
 const translatedSentencesPath = chapterDir + '/translated_sentences.txt';
 const srcSrtPath = chapterDir + '/game_recording.jpn.srt';
 const outSrtPath = chapterDir + '/game_recording.eng.srt';

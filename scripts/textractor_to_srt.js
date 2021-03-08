@@ -17,8 +17,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
  * you can can it in the original output folder with:
  * $ stat NameOfYourRecording.mp4
  */
-const videoBirthMs = new Date('2021-03-01 11:29:47.576324800 +0200').getTime();
-const chapterDir = __dirname + '/../assets/recordings/ayane_route_end';
+const videoBirthMs = new Date('2021-03-06 19:42:19.2889619 +0200').getTime();
+const chapterDir = __dirname + '/../assets/recordings/ootori_route/rec4';
 const textractorSentencesPath = chapterDir + '/textractor_sentences.txt';
 
 const parseTranslatorBlock = (lineTimingText) => {
@@ -51,7 +51,18 @@ const main = async () => {
     }).join('\n\n');
 
     await fs.writeFile(chapterDir + `/game_recording.jpn.srt`, srtOutput);
-    await fs.writeFile(chapterDir + `/jpnLines.txt`, srtRecords.map(r => r.sentence).join('\n'));
+    const jpnLines = srtRecords.map(r => r.sentence);
+    const jpnLinesHtml = `
+        <head>
+            <meta charset="utf8"/>
+        </head>
+        <body>
+            <pre>
+${jpnLines.join('\\n')}
+            </pre>
+        </body>
+    `;
+    await fs.writeFile(chapterDir + `/jpnLines.html`, jpnLinesHtml);
 };
 
 main().catch(exc => {
