@@ -11,15 +11,19 @@ import {buildSrtBlock} from "../public/modules/SrtUtils.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-/**
- * this metadata value is very fragile, it disappears when you
- * move file to different folder, so it can only be hardcoded
- * you can can it in the original output folder with:
- * $ stat NameOfYourRecording.mp4
- */
-const videoBirthMs = new Date('2021-03-06 19:42:19.2889619 +0200').getTime();
-const chapterDir = __dirname + '/../assets/recordings/ootori_route/rec4';
-const textractorSentencesPath = chapterDir + '/textractor_sentences.txt';
+const parseObsTimestamp = (fileName) => {
+    // const videoBirthMs = new Date('2021-03-06 23:28:01.0526299 +0200').getTime();
+    const match = fileName.match(/^(\d{4}-\d{2}-\d{2}) (\d{2}-\d{2}-\d{2}\.\d{7})\.txt$/);
+    if (!match) {
+        return null;
+    }
+    const [, datePart, timePart] = match;
+    const normalized = datePart + ' ' + timePart.replace(/-/g, ':') + ' +0200';
+
+    return new Date(normalized).getTime();
+};
+
+const chapterDir = __dirname + '/../assets/recordings/devil_route/rec8';
 
 const parseTranslatorBlock = (lineTimingText) => {
     const lines = lineTimingText.split(/(?:\r\n|\n)/);
@@ -32,22 +36,32 @@ const parseTranslatorBlock = (lineTimingText) => {
 };
 
 const main = async () => {
-    const textractorSentencesText = await fs.readFile(textractorSentencesPath, 'utf8');
+    const existingFiles = await fs.readdir(chapterDir);
+    const textractorSentencesFileName = existingFiles.find(parseObsTimestamp);
+    if (!textractorSentencesFileName) {
+        throw new Error('No files matching textractor pattern in ' + chapterDir + ' - none of:\n' + existingFiles.join('\n'));
+    }
+    const videoBirthMs = parseObsTimestamp(textractorSentencesFileName);
+    const textractorSentencesText = await fs.readFile(chapterDir + '/' + textractorSentencesFileName, 'utf8');
 
     const srtRecords = textractorSentencesText
         .trim().split(/(?:\r\n|\n){2}/)
         .map(parseTranslatorBlock);
 
-    const srtOutput = srtRecords.map((srtRecord, i) => {
+    const srtOutput = srtRecords.flatMap((srtRecord, i) => {
         const {startAbsMs, sentence} = srtRecord;
-        const startRelMs = startAbsMs - videoBirthMs;
+        const startRelMs = Math.max(startAbsMs - videoBirthMs, 0);
         const endRelMs = i + 1 < srtRecords.length
             ? srtRecords[i + 1].startAbsMs - videoBirthMs
             : startRelMs + 5 * 1000;
+        if (endRelMs < 0) {
+            // on some recordings there were subs before video start in the buffer
+            return [];
+        }
 
-        return buildSrtBlock({
+        return [buildSrtBlock({
             index: i + 1, startRelMs, endRelMs, sentence,
-        });
+        })];
     }).join('\n\n');
 
     await fs.writeFile(chapterDir + `/game_recording.jpn.srt`, srtOutput);
@@ -58,11 +72,12 @@ const main = async () => {
         </head>
         <body>
             <pre>
-${jpnLines.join('\\n')}
+${jpnLines.join('\n')}
             </pre>
         </body>
     `;
     await fs.writeFile(chapterDir + `/jpnLines.html`, jpnLinesHtml);
+    await fs.writeFile(chapterDir + `/translated_sentences.txt`, '');
 };
 
 main().catch(exc => {
