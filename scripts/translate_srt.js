@@ -6,16 +6,14 @@ import {joinSrtBlockParts, parseSrtSentence} from "../public/modules/SrtUtils.js
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-/**
- * video is teensy little bit slower than subs, and that's annoying
- * when subs appear a moment before, so fixing it with an artificial delay
- */
-const chapterDir = __dirname + '/../assets/recordings/ootori_route/rec4';
-const translatedSentencesPath = chapterDir + '/translated_sentences.txt';
-const srcSrtPath = chapterDir + '/game_recording.jpn.srt';
-const outSrtPath = chapterDir + '/game_recording.eng.srt';
+const translateAt = async ({
+    chapterDir,
+    fileNameRoot = 'game_recording',
+}) => {
+    const translatedSentencesPath = chapterDir + '/translated_sentences.txt';
+    const srcSrtPath = chapterDir + '/' + fileNameRoot + '.jpn.srt';
+    const outSrtPath = chapterDir + '/' + fileNameRoot + '.eng.srt';
 
-const main = async () => {
     const translatedSentencesText = await fs.readFile(translatedSentencesPath, 'utf8');
     const srcSrtText = await fs.readFile(srcSrtPath, 'utf8');
 
@@ -42,7 +40,7 @@ const main = async () => {
             // fixing google translate artifacts on some input
             .replace(/^\s*"(.*)》/, '《$1》')
             .replace(/^\s*《(.*)"/, '《$1》')
-            ;
+        ;
 
         return parsedBlock;
     };
@@ -55,6 +53,33 @@ const main = async () => {
         .join('\n\n');
 
     await fs.writeFile(outSrtPath, translatedSrt);
+};
+
+const locations = [
+    [__dirname + '/../assets/recordings/ayane_route', 'game_recording_after_h2'],
+    [__dirname + '/../assets/recordings/ayane_route_end'],
+    [__dirname + '/../assets/recordings/ootori_route/rec1'],
+    [__dirname + '/../assets/recordings/ootori_route/rec2'],
+    [__dirname + '/../assets/recordings/ootori_route/rec3'],
+    [__dirname + '/../assets/recordings/ootori_route/rec4'],
+    [__dirname + '/../assets/recordings/ootori_route/rec4', 'game_recording_after_h'],
+    [__dirname + '/../assets/recordings/devil_route/rec1'],
+    [__dirname + '/../assets/recordings/devil_route/rec2'],
+    [__dirname + '/../assets/recordings/devil_route/rec3'],
+    [__dirname + '/../assets/recordings/devil_route/rec3', 'game_recording_during_h'],
+    [__dirname + '/../assets/recordings/devil_route/rec3', 'game_recording_after_h'],
+    [__dirname + '/../assets/recordings/devil_route/rec4'],
+    [__dirname + '/../assets/recordings/devil_route/rec5'],
+    [__dirname + '/../assets/recordings/devil_route/rec6'],
+    [__dirname + '/../assets/recordings/devil_route/rec7'],
+    [__dirname + '/../assets/recordings/devil_route/rec8'],
+    [__dirname + '/../assets/recordings/devil_route/rec8', 'game_recording_after_h'],
+];
+
+const main = async () => {
+    for (const [chapterDir, fileNameRoot] of locations) {
+        await translateAt({chapterDir, fileNameRoot});
+    }
 };
 
 main().catch(exc => {
