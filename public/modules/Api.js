@@ -1,4 +1,14 @@
 
+const parseResponse = rs => rs.status !== 200
+    ? Promise.reject(rs.statusText)
+    : rs.json();
+
+const post = (route, params) => {
+    return fetch(route, {
+        method: 'POST',
+        body: JSON.stringify(params),
+    }).then(parseResponse);
+};
 
 /**
  * @param {Response} rs
@@ -31,4 +41,5 @@ export default {
         const rs = await fetch('/api/streamSentences');
         yield * streamResponseChunks(rs);
     },
+    addGarejeiKeyframe: (params) => post('/api/addGarejeyKeyframe', params),
 };

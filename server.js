@@ -1,5 +1,6 @@
 import proxyRequest from "./backend/api/proxyRequest.js";
 import streamSentences from "./backend/api/streamSentences.js";
+import addGarejeyKeyframe from "./backend/api/addGarejeyKeyframe.js";
 
 import nodeStatic from 'node-static';
 import * as http from 'http';
@@ -11,6 +12,8 @@ const handleHttpRequest = async (req, res) => {
         await proxyRequest(req, res);
     } else if (req.url === '/api/streamSentences') {
         await streamSentences(req, res);
+    } else if (req.url === '/api/addGarejeyKeyframe') {
+        await addGarejeyKeyframe(req, res);
     } else {
         await file.serve(req, res);
     }
