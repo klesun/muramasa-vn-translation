@@ -32,7 +32,7 @@ I'll push all extracted and translated text to this repo - feel free to make pul
     - ~~True End~~
     - Bad Endings
 - ~~Cleanup and organize recorded videos and texts into a folder hierarchy according to the [routes guide](https://seiya-saiga.com/game/nitroplus/muramasa.html)~~
-- Generate youtube-format captions
+- ~~Generate youtube-format captions~~
 - Upload hentai scenes [to lbry](https://odysee.com/@muramasa-vn-translation-nsfw:c)
     - ~~Kurusuno~~
     - Misao
