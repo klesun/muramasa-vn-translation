@@ -30,7 +30,7 @@ const translateAt = async ({
     const translateBlock = parsedBlock => {
         const japLine = parsedBlock.sentence;
         if (!japToEng.get(japLine.trim())) {
-            throw new Error('Missing translation for: ' + japLine + ' at block #' + parsedBlock.index);
+            throw new Error('Missing translation for: ' + japLine + ' at block #' + parsedBlock.index + ' dir: ' + chapterDir);
         }
         parsedBlock.sentence = japToEng
             .get(japLine.trim())
