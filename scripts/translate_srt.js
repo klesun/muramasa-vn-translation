@@ -56,6 +56,7 @@ const translateAt = async ({
 };
 
 const locations = [
+    [__dirname + '/../assets/chapter3', 'game_recording_during_h'],
     [__dirname + '/../assets/recordings/ayane_route', 'game_recording_after_h2'],
     [__dirname + '/../assets/recordings/ayane_route_end'],
     [__dirname + '/../assets/recordings/ootori_route/rec1'],
@@ -74,7 +75,6 @@ const locations = [
     [__dirname + '/../assets/recordings/devil_route/rec7'],
     [__dirname + '/../assets/recordings/devil_route/rec8'],
     [__dirname + '/../assets/recordings/devil_route/rec8', 'game_recording_after_h'],
-    [__dirname + '/../uncut_hentai_scenes/chapter3'],
 ];
 
 const main = async () => {
