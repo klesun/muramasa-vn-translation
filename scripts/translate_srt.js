@@ -74,6 +74,7 @@ const locations = [
     [__dirname + '/../assets/recordings/devil_route/rec7'],
     [__dirname + '/../assets/recordings/devil_route/rec8'],
     [__dirname + '/../assets/recordings/devil_route/rec8', 'game_recording_after_h'],
+    [__dirname + '/../uncut_hentai_scenes/chapter3'],
 ];
 
 const main = async () => {

@@ -1,3 +1,5 @@
 /.idea/
 /node_modules/
 .DS_Store
+/assets/**/*.eng.srt
+/uncut_hentai_scenes/**/*.eng.srt
