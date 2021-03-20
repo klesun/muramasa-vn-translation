@@ -14,7 +14,7 @@ As it appears, the [#8 VN in vndb](https://vndb.org/v2016) does not have much in
 
 The most serious movement on the moment of writing is the @Maa-chan2018's 24+ hours of [recorded gameplay](https://www.youtube.com/watch?v=AXSc9oNXSTk&list=PL3gfx-bBhOYKHY7QJcyxsnO4qeRgMwUmS) with translation added in form of hardsub. It seems to translate 4 Chapters of the Common Route. This is awesome, but still far from fully covering all the game.
 
-As I'm coming closer to the end of chapter 4 T_T, I decided to get the actual game, capture the text of remaining chapters using [Textractor](https://github.com/Artikash/Textractor) and translate them all using [Google Translate](https://translate.google.jp/) API (very high quality auto-translation, but still inferior to a good human translator of course).
+As I'm coming closer to the end of chapter 4 T_T, I decided to get the actual game, capture the text of remaining chapters using [Textractor](https://github.com/Artikash/Textractor) and translate them all using [Google Translate](https://translate.google.jp/) API (relatively high quality auto-translation, but still inferior to a good human translator of course).
 
 I'm also recording the video - if all plays well, I'll upload videos for all remaining chapters with captured and translated text attached as captions.
 
@@ -29,17 +29,25 @@ I'll push all extracted and translated text to this repo - feel free to make pul
     - ~~Revenge~~
     - ~~Demon~~
     - ~~Evil Demon~~
-    - True End
+    - ~~True End~~
     - Bad Endings
-- Cleanup and organize recorded videos and texts into a folder hierarchy according to the [routes guide](https://seiya-saiga.com/game/nitroplus/muramasa.html)
+- ~~Cleanup and organize recorded videos and texts into a folder hierarchy according to the [routes guide](https://seiya-saiga.com/game/nitroplus/muramasa.html)~~
 - Generate youtube-format captions
-- Add mosaic in the hentai scenes
-- Upload cut hentai scenes missing in Maa-chan's videos (they are pretty important to the plot)
-- Edit and upload continuously each video between the choices (if there is less than an hour between choices, join them together).
+- Upload hentai scenes [to lbry](https://odysee.com/@muramasa-vn-translation-nsfw:c)
+    - ~~Kurusuno~~
+    - Misao
+    - Bandits Boss
+    - Bald one from the Rokukahara
+    - Ayane
+    - Ottori
+    - Chachamaru
+    - Muramasa
 
 __________________________
 
 This will very likely come in handy (very detailed plot summary of each chapter)
+
+### [Garejei Mirror](https://klesun.github.io/muramasa-vn-translation/docs/garejei_mirror/)
 
 > I'm reposting the links someone posted here of Gare's summary of the whole game.
 
