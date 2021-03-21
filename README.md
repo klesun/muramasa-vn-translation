@@ -37,6 +37,7 @@ I'll push all extracted and translated text to this repo - feel free to make pul
     - ~~Ottori~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_72_nsfw_kanae:4
     - ~~Chachamaru~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_77_nsfw_chachamaru:c
     - ~~Muramasa~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/game_recording_during_h_eng_hardsubbed:9
+- Apply improvements described in the [issues](https://github.com/klesun/muramasa-vn-translation/issues)
 
 __________________________
 
