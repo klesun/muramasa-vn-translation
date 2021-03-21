@@ -29,14 +29,14 @@ I'll push all extracted and translated text to this repo - feel free to make pul
 - ~~Cleanup and organize recorded videos and texts into a folder hierarchy according to the [routes guide](https://seiya-saiga.com/game/nitroplus/muramasa.html)~~
 - ~~Generate youtube-format captions~~
 - Upload hentai scenes [to lbry](https://lbry.tv/@muramasa-vn-translation-nsfw:c?view=about)
-    - ~~Kurusuno~~
-    - Misao
-    - Bandits Boss
-    - Bald one from the Rokukahara
-    - Ayane
-    - Ottori
-    - Chachamaru
-    - Muramasa
+    - ~~Kurusuno~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_11.5_nsfw_kurusuno:2
+    - ~~Misao~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_32.5_nsfw_misao:6
+    - ~~Bandits Boss~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_58.5_nsfw_bandits_boss:2
+    - ~~Bald one from the Rokukahara~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_63_nsfw_bald_from_rokuhara:0
+    - ~~Ayane~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_65_nsfw_ayane:e
+    - ~~Ottori~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_72_nsfw_kanae:4
+    - ~~Chachamaru~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_77_nsfw_chachamaru:c
+    - ~~Muramasa~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/game_recording_during_h_eng_hardsubbed:9
 
 __________________________
 
