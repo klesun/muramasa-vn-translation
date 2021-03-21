@@ -1,7 +1,10 @@
-Two H-Scenes in the recording, so divided to 5 parts
+Two H-Scenes in the recording, so divided to 4 parts
 
 | yt      | start      | end      | description
 | ------- | ---        | ---      | --------------
-| \#50-58 | 00:00:00   |          |
-| \#59    | 06:46:30   |          | Bandits Boss h-scene
-| \#60-61 |            | 11:25:00 |
+| \#62    | 00:00:00   |          |
+| \#63    | 06:46:30   |          | Bald from Rokuhara h-scene
+| \#64    |            | 11:25:00 |
+| \#65    | 08:56:24.5 |          | Ayane H-Scene
+| \#66    |            | 11:25:00 |
+
