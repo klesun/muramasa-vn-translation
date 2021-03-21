@@ -3,6 +3,7 @@ import { promises as fs } from 'fs';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 import {joinSrtBlockParts, parseSrtSentence} from "../public/modules/SrtUtils.js";
+import {RECORDING_LOCATIONS} from "../assets/assets_index.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -55,36 +56,8 @@ const translateAt = async ({
     await fs.writeFile(outSrtPath, translatedSrt);
 };
 
-const locations = [
-    [__dirname + '/../assets/recordings/chapter3', 'game_recording_during_h'],
-    [__dirname + '/../assets/recordings/chapter5', 'game_recording_during_h'],
-    [__dirname + '/../assets/recordings/ayane_route', 'game_recording_during_h'],
-    [__dirname + '/../assets/recordings/ayane_route', 'game_recording_before_h2'],
-    [__dirname + '/../assets/recordings/ayane_route', 'game_recording_during_h2'],
-    [__dirname + '/../assets/recordings/ayane_route', 'game_recording_after_h2'],
-    [__dirname + '/../assets/recordings/ayane_route_end'],
-    [__dirname + '/../assets/recordings/ootori_route/rec1'],
-    [__dirname + '/../assets/recordings/ootori_route/rec2'],
-    [__dirname + '/../assets/recordings/ootori_route/rec3'],
-    [__dirname + '/../assets/recordings/ootori_route/rec4'],
-    [__dirname + '/../assets/recordings/ootori_route/rec4', 'game_recording_during_h'],
-    [__dirname + '/../assets/recordings/ootori_route/rec4', 'game_recording_after_h'],
-    [__dirname + '/../assets/recordings/devil_route/rec1'],
-    [__dirname + '/../assets/recordings/devil_route/rec2'],
-    [__dirname + '/../assets/recordings/devil_route/rec3'],
-    [__dirname + '/../assets/recordings/devil_route/rec3', 'game_recording_during_h'],
-    [__dirname + '/../assets/recordings/devil_route/rec3', 'game_recording_after_h'],
-    [__dirname + '/../assets/recordings/devil_route/rec4'],
-    [__dirname + '/../assets/recordings/devil_route/rec5'],
-    [__dirname + '/../assets/recordings/devil_route/rec6'],
-    [__dirname + '/../assets/recordings/devil_route/rec7'],
-    [__dirname + '/../assets/recordings/devil_route/rec8'],
-    [__dirname + '/../assets/recordings/devil_route/rec8', 'game_recording_during_h'],
-    [__dirname + '/../assets/recordings/devil_route/rec8', 'game_recording_after_h'],
-];
-
 const main = async () => {
-    for (const [chapterDir, fileNameRoot] of locations) {
+    for (const [chapterDir, fileNameRoot] of RECORDING_LOCATIONS) {
         await translateAt({chapterDir, fileNameRoot});
     }
 };
