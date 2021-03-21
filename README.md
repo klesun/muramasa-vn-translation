@@ -5,16 +5,11 @@ I'll put here everything that I'll use during extraction and translation of this
 
 ![image](https://user-images.githubusercontent.com/5202330/109388412-7f2c1d80-790f-11eb-9aa2-d69f47b86324.png)
 
-____________________
-
-You can find shared links to uncut hentai scenes in the [/uncut_hentai_scenes/](https://github.com/klesun/muramasa-vn-translation/tree/master/uncut_hentai_scenes) folder
-____________________
-
 As it appears, the [#8 VN in vndb](https://vndb.org/v2016) does not have much in terms of being translated to english.
 
 The most serious movement on the moment of writing is the @Maa-chan2018's 24+ hours of [recorded gameplay](https://www.youtube.com/watch?v=AXSc9oNXSTk&list=PL3gfx-bBhOYKHY7QJcyxsnO4qeRgMwUmS) with translation added in form of hardsub. It seems to translate 4 Chapters of the Common Route. This is awesome, but still far from fully covering all the game.
 
-As I'm coming closer to the end of chapter 4 T_T, I decided to get the actual game, capture the text of remaining chapters using [Textractor](https://github.com/Artikash/Textractor) and translate them all using [Google Translate](https://translate.google.jp/) API (very high quality auto-translation, but still inferior to a good human translator of course).
+As I'm coming closer to the end of chapter 4 T_T, I decided to get the actual game, capture the text of remaining chapters using [Textractor](https://github.com/Artikash/Textractor) and translate them all using [Google Translate](https://translate.google.jp/) API (relatively high quality auto-translation, but still inferior to a good human translator of course).
 
 I'm also recording the video - if all plays well, I'll upload videos for all remaining chapters with captured and translated text attached as captions.
 
@@ -29,17 +24,26 @@ I'll push all extracted and translated text to this repo - feel free to make pul
     - ~~Revenge~~
     - ~~Demon~~
     - ~~Evil Demon~~
-    - True End
+    - ~~True End~~
     - Bad Endings
-- Cleanup and organize recorded videos and texts into a folder hierarchy according to the [routes guide](https://seiya-saiga.com/game/nitroplus/muramasa.html)
-- Generate youtube-format captions
-- Add mosaic in the hentai scenes
-- Upload cut hentai scenes missing in Maa-chan's videos (they are pretty important to the plot)
-- Edit and upload continuously each video between the choices (if there is less than an hour between choices, join them together).
+- ~~Cleanup and organize recorded videos and texts into a folder hierarchy according to the [routes guide](https://seiya-saiga.com/game/nitroplus/muramasa.html)~~
+- ~~Generate youtube-format captions~~
+- ~~Upload hentai scenes [to lbry](https://lbry.tv/@muramasa-vn-translation-nsfw:c?view=about)~~
+    - ~~Kurusuno~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_11.5_nsfw_kurusuno:2
+    - ~~Misao~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_32.5_nsfw_misao:6
+    - ~~Bandits Boss~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_58.5_nsfw_bandits_boss:2
+    - ~~Bald one from the Rokukahara~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_63_nsfw_bald_from_rokuhara:0
+    - ~~Ayane~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_65_nsfw_ayane:e
+    - ~~Ottori~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_72_nsfw_kanae:4
+    - ~~Chachamaru~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_77_nsfw_chachamaru:c
+    - ~~Muramasa~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/game_recording_during_h_eng_hardsubbed:9
+- Apply improvements described in the [issues](https://github.com/klesun/muramasa-vn-translation/issues)
 
 __________________________
 
 This will very likely come in handy (very detailed plot summary of each chapter)
+
+### [Garejei Mirror](https://klesun.github.io/muramasa-vn-translation/docs/garejei_mirror/)
 
 > I'm reposting the links someone posted here of Gare's summary of the whole game.
 
@@ -66,3 +70,6 @@ This will very likely come in handy (very detailed plot summary of each chapter)
 __________________________________
 
 Along the way I'll possibly write a small web app that will continuously eat the logged output of Textractor and translate it with Google Translate on the fly. May as well consider doing that in form of an extension, if that won't be too complicated. But in a web app I could even correct while reading if I make such UI...
+______________________
+
+Manual from the game installation directory: [here](https://klesun.github.io/muramasa-vn-translation/docs/Manual/)
