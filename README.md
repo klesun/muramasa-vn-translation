@@ -70,3 +70,6 @@ This will very likely come in handy (very detailed plot summary of each chapter)
 __________________________________
 
 Along the way I'll possibly write a small web app that will continuously eat the logged output of Textractor and translate it with Google Translate on the fly. May as well consider doing that in form of an extension, if that won't be too complicated. But in a web app I could even correct while reading if I make such UI...
+______________________
+
+Manual from the game installation directory: [here](https://klesun.github.io/muramasa-vn-translation/docs/Manual/)
