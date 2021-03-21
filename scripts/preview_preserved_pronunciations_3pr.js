@@ -23,7 +23,9 @@ const collectKanjiToRomaji = async (dirPath) => {
                         // "subaru" is very frequently used word in Japanese
                         wordPairs.push(['統様', 'Subaru-sama']);
                     } else if (kanWords[i] === '卓' && !dirPath.endsWith('/chapter3')) {
-                        // skip, frequently used word
+                        // skip, frequently used word "suguru", something like table
+                    } else if (kanWords[i] === '光' && !dirPath.endsWith('/chapter5') && !dirPath.match('/devil_route/rec\d+')) {
+                        // skip, frequently used word "hikaru", light
                     } else {
                         wordPairs.push([kanWords[i], romWords[i]]);
                     }
