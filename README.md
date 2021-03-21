@@ -28,7 +28,7 @@ I'll push all extracted and translated text to this repo - feel free to make pul
     - Bad Endings
 - ~~Cleanup and organize recorded videos and texts into a folder hierarchy according to the [routes guide](https://seiya-saiga.com/game/nitroplus/muramasa.html)~~
 - ~~Generate youtube-format captions~~
-- Upload hentai scenes [to lbry](https://lbry.tv/@muramasa-vn-translation-nsfw:c?view=about)
+- ~~Upload hentai scenes [to lbry](https://lbry.tv/@muramasa-vn-translation-nsfw:c?view=about)~~
     - ~~Kurusuno~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_11.5_nsfw_kurusuno:2
     - ~~Misao~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_32.5_nsfw_misao:6
     - ~~Bandits Boss~~ - https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_58.5_nsfw_bandits_boss:2
