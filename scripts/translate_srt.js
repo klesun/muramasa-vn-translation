@@ -67,6 +67,7 @@ const locations = [
     [__dirname + '/../assets/recordings/ootori_route/rec2'],
     [__dirname + '/../assets/recordings/ootori_route/rec3'],
     [__dirname + '/../assets/recordings/ootori_route/rec4'],
+    [__dirname + '/../assets/recordings/ootori_route/rec4', 'game_recording_during_h'],
     [__dirname + '/../assets/recordings/ootori_route/rec4', 'game_recording_after_h'],
     [__dirname + '/../assets/recordings/devil_route/rec1'],
     [__dirname + '/../assets/recordings/devil_route/rec2'],
