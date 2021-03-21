@@ -14,7 +14,9 @@ const translateAt = async ({
     const translatedSentencesText = await fs.readFile(translatedSentencesPath, 'utf8');
     const srcSrtText = await fs.readFile(srcSrtPath, 'utf8');
 
-    const japToEng = parseSentenceTranslationsFile(translatedSentencesText);
+    const japToEng = new Map(
+        parseSentenceTranslationsFile(translatedSentencesText)
+    );
 
     const translateBlock = parsedBlock => {
         const japLine = parsedBlock.sentence;

@@ -37,23 +37,21 @@ export const parseSrtSentence = (block) => {
 
 /**
  * @param {string} translatedSentencesText - contents of translated_sentences.txt
- * @return {Map<string, string>} - mapping from japanese sentence to translated english one
+ * @return {[string, string][]} - mapping from japanese sentence to translated english one
  */
 export const parseSentenceTranslationsFile = (translatedSentencesText) => {
-    return new Map(
-      translatedSentencesText
-        .trim().split(/(?:\r\n|\n){2}/)
-        .map(lineTranslationText => {
-            let [jpn, eng] = lineTranslationText
-              .split(/(?:\r\n|\n)/);
-            eng = eng.trim()
-              // tags have special meaning in srt apparently
-              .replace(/^\s*<</, '《')
-              .replace(/>>$/, '》')
-              // fixing google translate artifacts on some input
-              .replace(/^\s*"(.*)》/, '《$1》')
-              .replace(/^\s*《(.*)"/, '《$1》');
-            return [jpn.trim(), eng];
-        })
-    );
+    return translatedSentencesText
+    .trim().split(/(?:\r\n|\n){2}/)
+    .map(lineTranslationText => {
+        let [jpn, eng] = lineTranslationText
+          .split(/(?:\r\n|\n)/);
+        eng = eng.trim()
+          // tags have special meaning in srt apparently
+          .replace(/^\s*<</, '《')
+          .replace(/>>$/, '》')
+          // fixing google translate artifacts on some input
+          .replace(/^\s*"(.*)》/, '《$1》')
+          .replace(/^\s*《(.*)"/, '《$1》');
+        return [jpn.trim(), eng];
+    });
 };
