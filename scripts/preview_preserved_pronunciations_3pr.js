@@ -22,6 +22,8 @@ const collectKanjiToRomaji = async (dirPath) => {
                     if (kanWords[i] === '統' && !dirPath.endsWith('/chapter5')) {
                         // "subaru" is very frequently used word in Japanese
                         wordPairs.push(['統様', 'Subaru-sama']);
+                    } else if (kanWords[i] === '卓' && !dirPath.endsWith('/chapter3')) {
+                        // skip, frequently used word
                     } else {
                         wordPairs.push([kanWords[i], romWords[i]]);
                     }
@@ -36,10 +38,12 @@ const collectKanjiToRomaji = async (dirPath) => {
     // think I saw Prince be referred same way
     kanjiToRomaji.set('御館', 'Boss-Lady');
     kanjiToRomaji.set('銀星号', 'Silver Star');
+    kanjiToRomaji.set('武者', 'musha');
     kanjiToRomaji.set('劔冑', 'tsurugi*');
     kanjiToRomaji.set('劒冑', 'tsurugi');
     kanjiToRomaji.set('陰義', 'shinogi');
     kanjiToRomaji.set('御堂', 'midou');
+    kanjiToRomaji.set('脛巾', 'habaki');
     kanjiToRomaji.set('吉野御流合', 'Yoshino Goryu');
     kanjiToRomaji.set('鉄炮', 'Tetsuhao');
     // TODO: add words like Tsurugi, Musha, etc...

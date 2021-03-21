@@ -7,6 +7,7 @@ export const RECORDING_LOCATIONS = [
   [__dirname + '/../assets/recordings/chapter3', 'game_recording_during_h'],
   [__dirname + '/../assets/recordings/chapter5'],
   [__dirname + '/../assets/recordings/chapter5', 'game_recording_during_h'],
+  [__dirname + '/../assets/recordings/chapter5', 'game_recording_after_h'],
   [__dirname + '/../assets/recordings/ayane_route'],
   [__dirname + '/../assets/recordings/ayane_route', 'game_recording_during_h'],
   [__dirname + '/../assets/recordings/ayane_route', 'game_recording_before_h2'],
