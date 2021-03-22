@@ -17,6 +17,7 @@ const collectKanjiToRomaji = async (dirPath) => {
             const kanWords = kan.split(' ');
             const romWords = rom.split(' ');
             const wordPairs = [];
+            wordPairs.push([kan, rom]);
             if (kanWords.length === romWords.length) {
                 for (let i = 0; i < kanWords.length; ++i) {
                     if (kanWords[i] === '統' && !dirPath.endsWith('/chapter5')) {
@@ -30,8 +31,6 @@ const collectKanjiToRomaji = async (dirPath) => {
                         wordPairs.push([kanWords[i], romWords[i]]);
                     }
                 }
-            } else {
-                wordPairs.push([kan, rom]);
             }
             return wordPairs;
         })
@@ -48,13 +47,19 @@ const collectKanjiToRomaji = async (dirPath) => {
     kanjiToRomaji.set('脛巾', 'habaki');
     kanjiToRomaji.set('吉野御流合', 'Yoshino Goryu');
     kanjiToRomaji.set('鉄炮', 'Tetsuhao');
-    // TODO: add words like Tsurugi, Musha, etc...
+    kanjiToRomaji.set('古河公方', 'Kogakubo'); // a way to refer to the government perhaps?
+    kanjiToRomaji.set('改とやら', 'Arata Toyara'); // fake name Kageaki used in Ayane route
+    // Some historical dude, google translates it as
+    // Minamoto, but Kageaki says specifically Genzanmi
+    kanjiToRomaji.set('源三位', 'Genzanmi (3rd)');
+
     return kanjiToRomaji;
 };
 
 const mistranslations = [
     ['武', 'Takeshi', 'Bushido'],
     ['ない', 'Okay', 'Yes'],
+    ['改', 'Kai', 'Arata'],
 ];
 
 const honorifics = new Map([
@@ -82,7 +87,8 @@ const honorifics = new Map([
     ['氏', 'shi'],
     ['し', 'shi'],
     ['殿', 'dono'],
-    ['との', 'dono'],
+    ['との', 'tono'],
+    ['どの', 'dono'],
     ['トノ', 'dono'],
     ['姉ちゃん', 'nēchan'],
     ['お姉ちゃん', 'onēchan'],
