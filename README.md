@@ -9,6 +9,8 @@ ________________________________
 
 - Create a [github account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you don't have one
 - Navigate to the `translated_sentences.txt` file containing the chapter for which you want to submit a correction:
+    - Common Route Chapter 5
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/chapter5/translated_sentences.txt)
     - Hero Route
         - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route_end/translated_sentences.txt)
     - Revenge Route
@@ -16,7 +18,9 @@ ________________________________
         - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec2/translated_sentences.txt)
         - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec3/translated_sentences.txt)
         - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec4/translated_sentences.txt)
-    - ...
+    - Tyrant Route
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec1/translated_sentences.txt)
+        - ...
 - Hit the _Edit_ button (pencil icon)
 - Edit the translation lines. If possible, try to focus on a random place in the file to avoid conflicting with other contributors.
 - When you are done editing, in the bottom of the page, optionally type some message describing your changes and hit the green "Propose changes" button.
