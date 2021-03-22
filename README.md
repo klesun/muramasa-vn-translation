@@ -12,7 +12,8 @@ ________________________________
     - Common Route Chapter 5
         - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/chapter5/translated_sentences.txt)
     - Hero Route
-        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route_end/translated_sentences.txt)
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route/rec1/translated_sentences.txt)
+        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route_end/translated_sentences.txt)
     - Revenge Route
         - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec1/translated_sentences.txt)
         - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec2/translated_sentences.txt)
