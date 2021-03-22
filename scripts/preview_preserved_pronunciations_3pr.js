@@ -100,59 +100,57 @@ const honorifics = new Map([
     ['お兄さん', 'oniisan'],
 ]);
 
+const dirPaths = new Set(RECORDING_LOCATIONS.map(l => l[0]));
+
 const main = async () => {
-    for (const location of RECORDING_LOCATIONS) {
-        if (location.length === 1) {
-            const dirPath = location[0];
-            const kanjiToRomaji = await collectKanjiToRomaji(dirPath);
-            const transTxt = await fs.readFile(dirPath + '/translated_sentences.txt', 'utf8');
-            const newJpnSentences = [];
-            for (let [jpn, eng] of parseSentenceTranslationsFile(transTxt)) {
-                for (let [kan, rom] of kanjiToRomaji) {
-                    let index;
-                    while ((index = jpn.indexOf(kan)) > -1) {
-                        // console.log(jpn);
-                        const postfix = jpn.slice(index + kan.length, index + kan.length + 5);
-                        const honorific = [...honorifics].find(h => postfix.startsWith(h[0]));
-                        if (honorific) {
-                            kan += honorific[0];
-                            rom += '-' + honorific[1];
-                        }
-                        jpn = jpn.replace(kan, rom);
-                        // console.log('  '.repeat(index) + '^^'.repeat(kan.length) + ' - ' + rom + (honorific ? '---' + honorific[1] : ''));
-                        // console.log(eng + '\n');
+    for (const dirPath of dirPaths) {
+        const dirPath = location[0];
+        const kanjiToRomaji = await collectKanjiToRomaji(dirPath);
+        const transTxt = await fs.readFile(dirPath + '/translated_sentences.txt', 'utf8');
+        const newJpnSentences = [];
+        for (let [jpn, eng] of parseSentenceTranslationsFile(transTxt)) {
+            for (let [kan, rom] of kanjiToRomaji) {
+                let index;
+                while ((index = jpn.indexOf(kan)) > -1) {
+                    // console.log(jpn);
+                    const postfix = jpn.slice(index + kan.length, index + kan.length + 5);
+                    const honorific = [...honorifics].find(h => postfix.startsWith(h[0]));
+                    if (honorific) {
+                        kan += honorific[0];
+                        rom += '-' + honorific[1];
                     }
+                    jpn = jpn.replace(kan, rom);
+                    // console.log('  '.repeat(index) + '^^'.repeat(kan.length) + ' - ' + rom + (honorific ? '---' + honorific[1] : ''));
+                    // console.log(eng + '\n');
                 }
-                // manual corrections
-                for (let [kan, wrong, right] of mistranslations) {
-                    let bushidoAt;
-                    const takeshiAt = eng.indexOf(wrong);
-                    if (takeshiAt > -1 && (bushidoAt = jpn.indexOf(kan)) > -1) {
-                        // I think it's some bug in google translate, for some reason
-                        // it strongly believes that Bushido reads as Takeshi
-                        // console.log(kan);
-                        // console.log('  '.repeat(bushidoAt) + '^^'.repeat(kan.length) + ' - ' + right);
-                        // console.log(eng + '\n');
-                        jpn = jpn.replace(kan, right);
-                    }
-                }
-                newJpnSentences.push(jpn);
             }
-            console.log('huj newJpnSentences', JSON.stringify(newJpnSentences));
-            const jpnLinesHtml = `
-                <head>
-                    <meta charset="utf8"/>
-                </head>
-                <body>
-                    <pre>
-${newJpnSentences.join('\n')}
-                    </pre>
-                </body>
-            `;
-            await fs.writeFile(dirPath + '/jpnLines.html', jpnLinesHtml)
-        } else {
-            // more divisions within same directory
+            // manual corrections
+            for (let [kan, wrong, right] of mistranslations) {
+                let bushidoAt;
+                const takeshiAt = eng.indexOf(wrong);
+                if (takeshiAt > -1 && (bushidoAt = jpn.indexOf(kan)) > -1) {
+                    // I think it's some bug in google translate, for some reason
+                    // it strongly believes that Bushido reads as Takeshi
+                    // console.log(kan);
+                    // console.log('  '.repeat(bushidoAt) + '^^'.repeat(kan.length) + ' - ' + right);
+                    // console.log(eng + '\n');
+                    jpn = jpn.replace(kan, right);
+                }
+            }
+            newJpnSentences.push(jpn);
         }
+        console.log('huj newJpnSentences', JSON.stringify(newJpnSentences));
+        const jpnLinesHtml = `
+            <head>
+                <meta charset="utf8"/>
+            </head>
+            <body>
+                <pre>
+${newJpnSentences.join('\n')}
+                </pre>
+            </body>
+        `;
+        await fs.writeFile(dirPath + '/jpnLines.html', jpnLinesHtml)
     }
 };
 
