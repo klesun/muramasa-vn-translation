@@ -22,9 +22,12 @@ ________________________________
         - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec1/translated_sentences.txt)
         - ...
 - Hit the _Edit_ button (pencil icon)
+    ![image](https://user-images.githubusercontent.com/5202330/111995352-8070f480-8b21-11eb-8797-344e417dd109.png)
 - Edit the translation lines. If possible, try to focus on a random place in the file to avoid conflicting with other contributors.
-- When you are done editing, in the bottom of the page, optionally type some message describing your changes and hit the green "Propose changes" button.
-- You should end up on a page [like this](https://github.com/klesun/muramasa-vn-translation/pull/5). If you did, congrats, you made your first contribution!
+- When you are done editing, in the bottom of the page hit the green "Propose changes" button.
+    ![image](https://user-images.githubusercontent.com/5202330/111995092-3720a500-8b21-11eb-866f-65125711b4ac.png)
+- You should end up on a page [like this](https://github.com/klesun/muramasa-vn-translation/pull/5). Confirm by clicking "Create pull request"
+- Congrats! You made your first contribution!
 
 I'll update subs on youtube from time to time when big enough bunch of corrections accumulates.
 
