@@ -7502,7 +7502,7 @@ My mother, Bushido, says she wants harmony. So what's at the end of the martial 
 << Therefore. If Bushido kills, both good and bad will be destroyed.
 
 《故に。　武は善ならず。　武は悪ならず》
-<< Therefore. Bushido is not good. Takeshi is not evil》
+<< Therefore. Bushido is not good. Bushido is not evil》
 
 《殺すきりの殺法なり》
 《Killing method of killing》
@@ -7601,7 +7601,7 @@ That's right. As long as it couldn't fulfill its raison d'etre, it had no choice
 But-Bushido!
 
 正しき武！　偽りを捨てた真なる武！
-Correct Bushido! True Takeshi who abandoned lies!
+Correct Bushido! True Bushido who abandoned lies!
 
 その果てに神への登極があるならば……　光の道は閉ざされておらぬ！
 If there is a pole to God at the end ... Hikaru's way is not closed!
@@ -7655,7 +7655,7 @@ Let Hikaru return in his arms!
 《…………. I should have said that. Beyond Bushido is only destruction》
 
 《おのれが武を求め、武によって至尊の座に即こうというのであれば――　その父をも刃にかけねばならぬ道理》
-《If I want Bushido and want to take the position of supreme by Takeshi-the reason why I have to put my father on the blade》
+《If I want Bushido and want to take the position of supreme by Bushido - the reason why I have to put my father on the blade》
 
 何の。　ならば、父も神にすれば良い。
 What? Then, my father should be a god.
@@ -9134,7 +9134,7 @@ Hikaru heads for somewhere with a quick pace that doesn't seem to be very conval
 "... what do you mean?"
 
 「山賊どもとやらは、武を侮った。　真相は殺法に過ぎぬ武を、見誤った」
-"The bandits and others despised Bushido. The truth was that they misunderstood Takeshi, who was nothing more than a killing method."
+"The bandits and others despised Bushido. The truth was that they misunderstood Bushido, who was nothing more than a killing method."
 
 「あなたが偽りの武を見せたからだ、母上。　戦って負けても殺されずに済むなどと彼らに信じさせた」
 "Because you showed false martial arts, mother. I made them believe that they wouldn't be killed if they fought and lost."
