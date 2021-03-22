@@ -18,7 +18,7 @@ ________________________________
         - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec4/translated_sentences.txt)
     - ...
 - Hit the _Edit_ button (pencil icon)
-- Edit the translation lines. If there are already some [Pull Requests](https://github.com/klesun/muramasa-vn-translation/pulls), try to avoid changes on the line in the start and focus on the random place in file to avoid conflicting with other contributors.
+- Edit the translation lines. If possible, try to focus on a random place in the file to avoid conflicting with other contributors.
 - When you are done editing, in the bottom of the page, optionally type some message describing your changes and hit the green "Propose changes" button.
 - You should end up on a page [like this](https://github.com/klesun/muramasa-vn-translation/pull/5). If you did, congrats, you made your first contribution!
 
