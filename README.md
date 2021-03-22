@@ -4,6 +4,28 @@
 #### Full Playlist: https://www.youtube.com/playlist?list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
 ________________________________
 
+# How to contribute
+### (make corrections for obvious mistakes in machine translation)
+
+- Create a [github account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you don't have one
+- Navigate to the `translated_sentences.txt` file containing the chapter for which you want to submit a correction:
+    - Hero Route
+        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route_end/translated_sentences.txt)
+    - Revenge Route
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec1/translated_sentences.txt)
+        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec2/translated_sentences.txt)
+        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec3/translated_sentences.txt)
+        - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec4/translated_sentences.txt)
+    - ...
+- Hit the _Edit_ button (pencil icon)
+- Edit the translation lines. If there are already some [Pull Requests](https://github.com/klesun/muramasa-vn-translation/pulls), try to avoid changes on the line in the start and focus on the random place in file to avoid conflicting with other contributors.
+- When you are done editing, in the bottom of the page, optionally type some message describing your changes and hit the green "Propose changes" button.
+- You should end up on a page [like this](https://github.com/klesun/muramasa-vn-translation/pull/5). If you did, congrats, you made your first contribution!
+
+I'll update subs on youtube from time to time when big enough bunch of corrections accumulates.
+
+________________________________
+
 I'll put here everything that I'll use during extraction and translation of this God-tier Visual Novel.
 
 ![image](https://user-images.githubusercontent.com/5202330/109388412-7f2c1d80-790f-11eb-9aa2-d69f47b86324.png)
