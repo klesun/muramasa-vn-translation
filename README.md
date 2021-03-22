@@ -13,7 +13,8 @@ ________________________________
         - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/chapter5/translated_sentences.txt)
     - Hero Route
         - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route/rec1/translated_sentences.txt)
-        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route_end/translated_sentences.txt)
+        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route/rec2/translated_sentences.txt)
+        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route/rec3/translated_sentences.txt)
     - Revenge Route
         - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec1/translated_sentences.txt)
         - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec2/translated_sentences.txt)
@@ -21,7 +22,13 @@ ________________________________
         - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec4/translated_sentences.txt)
     - Tyrant Route
         - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec1/translated_sentences.txt)
-        - ...
+        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec2/translated_sentences.txt)
+        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec3/translated_sentences.txt)
+        - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec4/translated_sentences.txt)
+        - [Recording 5](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec5/translated_sentences.txt)
+        - [Recording 6](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec6/translated_sentences.txt)
+        - [Recording 7](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec7/translated_sentences.txt)
+        - [Recording 8](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec8/translated_sentences.txt)
 - Hit the _Edit_ button (pencil icon)
     ![image](https://user-images.githubusercontent.com/5202330/111995352-8070f480-8b21-11eb-8797-344e417dd109.png)
 - Edit the translation lines. If possible, try to focus on a random place in the file to avoid conflicting with other contributors.
