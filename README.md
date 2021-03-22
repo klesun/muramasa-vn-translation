@@ -1,7 +1,8 @@
 # Soukou Akki Muramasa VN Translation
 ### 装甲悪鬼村正 | Full Metal Demon Muramasa
 
-### Full Playlist: https://www.youtube.com/playlist?list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
+#### Full Playlist: https://www.youtube.com/playlist?list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
+________________________________
 
 I'll put here everything that I'll use during extraction and translation of this God-tier Visual Novel.
 
