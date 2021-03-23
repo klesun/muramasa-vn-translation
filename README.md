@@ -91,18 +91,6 @@ This will very likely come in handy (very detailed plot summary of each chapter)
 - Chapter 2 http://bit.ly/CH2JjVEyp
 - Chapter 3 http://bit.ly/CH3Lclkyy
 - Chapter 4 http://bit.ly/CH4NbiJWh
-- Chapter 5  http://bit.ly/2zzoWJX
-- Hero Route - Ichijou http://bit.ly/HEROugbLbo
-- Revenge Route - Kanae http://bit.ly/REVENGEmfmNtq
-- Tyrant Route - Muramasa (Part 1)  http://bit.ly/TYRANT1L5hTgu
-- Tyrant 2  http://bit.ly/TYRANT2mdaEoE
-- Tyrant 3  http://bit.ly/TYRANT3KPf0kF
-- Tyrant 4  http://bit.ly/TYRANT4mjtkmV
-- Tyrant 5  http://bit.ly/TYRANT5L3raFM
-- Tyrant 6 + Ending "Chachamaru" http://bit.ly/TYRANT6LgVEkn
-- Tyrant 7 http://bit.ly/TYRANT7L8oVRq
-- Tyrant Finale http://bit.ly/TYRANT8FINALE
-- Epilogue http://bit.ly/MURAMASAEPILOGUE
 
 
 (it would be pretty cool to automatically replace generated translations with ones from the summary... may as well manually check the summary while reading and correct)
