@@ -25,7 +25,13 @@ const collectKanjiToRomaji = async (dirPath) => {
                         wordPairs.push(['統様', 'Subaru-sama']);
                     } else if (kanWords[i] === '卓' && !dirPath.endsWith('/chapter3')) {
                         // skip, frequently used word "suguru", something like table
-                    } else if (kanWords[i] === '光' && !dirPath.endsWith('/chapter5') && !dirPath.match('/devil_route/rec\d+')) {
+                    } else if (kanWords[i] === '操' && !dirPath.endsWith('/chapter3')) {
+                        // skip, frequently used word "misao", apparently it means something
+                    } else if (kanWords[i] === '光' && !dirPath.endsWith('/chapter5')
+                            && !dirPath.match('/devil_route/rec\d+')
+                            && !dirPath.endsWith('/ayane_route/rec2')
+                            && !dirPath.endsWith('/ayane_route/rec3')
+                    ) {
                         // skip, frequently used word "hikaru", light
                     } else {
                         wordPairs.push([kanWords[i], romWords[i]]);
