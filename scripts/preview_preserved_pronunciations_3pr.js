@@ -110,7 +110,6 @@ const dirPaths = new Set(RECORDING_LOCATIONS.map(l => l[0]));
 
 const main = async () => {
     for (const dirPath of dirPaths) {
-        const dirPath = location[0];
         const kanjiToRomaji = await collectKanjiToRomaji(dirPath);
         const transTxt = await fs.readFile(dirPath + '/translated_sentences.txt', 'utf8');
         const newJpnSentences = [];
