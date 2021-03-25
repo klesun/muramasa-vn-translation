@@ -10,18 +10,25 @@ ________________________________
 - Create a [github account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you don't have one
 - Navigate to the `translated_sentences.txt` file containing the chapter for which you want to submit a correction:
     - Common Route Chapter 5
-        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/chapter5/translated_sentences.txt)
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/chapter5/translated_sentences.txt) \#50-61
     - Hero Route
-        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route/rec1/translated_sentences.txt)
-        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route_end/translated_sentences.txt)
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route/rec1/translated_sentences.txt) \#62
+        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route/rec2/translated_sentences.txt) \#63-66
+        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route/rec3/translated_sentences.txt) \#67
     - Revenge Route
-        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec1/translated_sentences.txt)
-        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec2/translated_sentences.txt)
-        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec3/translated_sentences.txt)
-        - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec4/translated_sentences.txt)
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec1/translated_sentences.txt) \#68
+        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec2/translated_sentences.txt) \#69
+        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec3/translated_sentences.txt) \#70
+        - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec4/translated_sentences.txt) \#71-73
     - Tyrant Route
-        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec1/translated_sentences.txt)
-        - ...
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec1/translated_sentences.txt) \#74
+        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec2/translated_sentences.txt) \#75
+        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec3/translated_sentences.txt) \#76-78
+        - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec4/translated_sentences.txt) \#79
+        - [Recording 5](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec5/translated_sentences.txt) \#80
+        - [Recording 6](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec6/translated_sentences.txt) \#81
+        - [Recording 7](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec7/translated_sentences.txt) \#82
+        - [Recording 8](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec8/translated_sentences.txt) \#83-85
 - Hit the _Edit_ button (pencil icon)
     ![image](https://user-images.githubusercontent.com/5202330/111995352-8070f480-8b21-11eb-8797-344e417dd109.png)
 - Edit the translation lines. If possible, try to focus on a random place in the file to avoid conflicting with other contributors.
@@ -84,18 +91,6 @@ This will very likely come in handy (very detailed plot summary of each chapter)
 - Chapter 2 http://bit.ly/CH2JjVEyp
 - Chapter 3 http://bit.ly/CH3Lclkyy
 - Chapter 4 http://bit.ly/CH4NbiJWh
-- Chapter 5  http://bit.ly/2zzoWJX
-- Hero Route - Ichijou http://bit.ly/HEROugbLbo
-- Revenge Route - Kanae http://bit.ly/REVENGEmfmNtq
-- Tyrant Route - Muramasa (Part 1)  http://bit.ly/TYRANT1L5hTgu
-- Tyrant 2  http://bit.ly/TYRANT2mdaEoE
-- Tyrant 3  http://bit.ly/TYRANT3KPf0kF
-- Tyrant 4  http://bit.ly/TYRANT4mjtkmV
-- Tyrant 5  http://bit.ly/TYRANT5L3raFM
-- Tyrant 6 + Ending "Chachamaru" http://bit.ly/TYRANT6LgVEkn
-- Tyrant 7 http://bit.ly/TYRANT7L8oVRq
-- Tyrant Finale http://bit.ly/TYRANT8FINALE
-- Epilogue http://bit.ly/MURAMASAEPILOGUE
 
 
 (it would be pretty cool to automatically replace generated translations with ones from the summary... may as well manually check the summary while reading and correct)
