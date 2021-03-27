@@ -1,12 +1,169 @@
 [
 {
-  "garejeiIndex": 14,
-  "garejei": "Time for the magician to retire from the stage, Aoe. You shall meet all the people you’ve murdered in the other world. One day, I, too, shall end up there: save your hatred for me till then.",
-  "googleIndex": 89,
-  "google": "《The illusionist who has run out of seeds is about to leave. Leave to the people you have in your hands, Aoe》"
+    "garejeiIndex": 14,
+    "garejei": "Time for the magician to retire from the stage, Aoe. You shall meet all the people you’ve murdered in the other world. One day, I, too, shall end up there: save your hatred for me till then.",
+    "googleIndex": 89,
+    "google": "《The illusionist who has run out of seeds is about to leave. Leave to the people you have in your hands, Aoe》",
+    "rowSpan": 2
 },
-{"garejeiIndex":"12","garejei":"I’ve had just about enough of you.","googleIndex":"87","google":"《I'm tired of that hand! 》"},
-{"garejeiIndex":"15","garejei":"Why? Why do you withstand the hellish nightmares I’m showing you?! Why?","googleIndex":"108","google":"《Why aaa! Why can you bear it!》"},
-{"garejeiIndex":"16","garejei":"Hellish nightmares…? Hmpf. I’ve had my fair share of those – nightmares of my own doing. Nothing you could possibly show me would amount to more than cheap illusions in my eyes!","googleIndex":"110","google":"《Hell? Is it a nightmare? You don't have to show me that kind of thing."},
-{"garejeiIndex":"19","garejei":"Nightamres have no effect on you? Then how about this!","googleIndex":"120","google":"《…… If you say that nightmares and hell do not go through. How about this》"},
-{"garejeiIndex":"21","garejei":"W-why…? W-hy am I seeing her at a time like this…? Subaru…","googleIndex":"127","google":"why. Why is something like this?"},
+{
+    "garejeiIndex":"12",
+    "garejei":"I’ve had just about enough of you.",
+    "googleIndex":"87",
+    "google":"《I'm tired of that hand! 》",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":"15",
+    "garejei":"Why? Why do you withstand the hellish nightmares I’m showing you?! Why?",
+    "googleIndex":"108",
+    "google":"《Why aaa! Why can you bear it!》",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex":"16",
+    "garejei":"Hellish nightmares…? Hmpf. I’ve had my fair share of those – nightmares of my own doing. Nothing you could possibly show me would amount to more than cheap illusions in my eyes!",
+    "googleIndex":"110",
+    "google":"《Hell? Is it a nightmare? You don't have to show me that kind of thing.",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":"19",
+    "garejei":"Nightamres have no effect on you? Then how about this!",
+    "googleIndex":"120",
+    "google":"《…… If you say that nightmares and hell do not go through. How about this》",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":"21",
+    "garejei":"W-why…? W-hy am I seeing her at a time like this…? Subaru…",
+    "googleIndex":"127",
+    "google":"why. Why is something like this?",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": "26",
+    "garejei": "Midou! Midou!!",
+    "googleIndex": "132",
+    "google": "《Mido ――――!》",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": "30",
+    "garejei": "I find myself in the same old room. A cell. An ever-gloomy, dark cell. My feet and hands are not bound. There are no bars to keep the rest of the world out, either. Despite that… I am a prisoner of this place. I’ve been here for so long, gazing at the same old dream. Today, it starts again. The very same dream… is about to begin once more.",
+    "googleIndex": "133",
+    "google": "The place to wake up is as usual. It's dark, dark, in prison.",
+    "rowSpan": 6
+},
+{
+    "garejeiIndex": "32",
+    "garejei": "I am in the embrace of a woman. Mother. There is one more person here. Father.",
+    "googleIndex": "140",
+    "google": "...... I am embraced by a woman. I'm holding my mother.",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex": "33",
+    "garejei": "The mother turns to the father and tells him sharply:",
+    "googleIndex": "142",
+    "google": "Mother tells her father to stab him word for word.",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": "34",
+    "garejei": "The father gazes at her in silence. He has no choice in this matter – his face betrays his feelings.",
+    "googleIndex": "149",
+    "google": "My father is listening silently.",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex": "35",
+    "garejei": "The mother repeats the words.",
+    "googleIndex": "151",
+    "google": "Mother repeats.",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": "49",
+    "garejei": "Tanaka… Minato is probably thinking about where you hid his share…",
+    "googleIndex": "175",
+    "google": "\"Tanaka Ah. Minato-kun, you're telling me with your face that I'm not there?\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": "50",
+    "garejei": "No way! Minato isn’t a glutton like that. Unlike you, boss.",
+    "googleIndex": "176",
+    "google": "\"I haven't said that. Seniors aren't that nasty. It's different from the director.\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": "48",
+    "garejei": "Thank you.",
+    "googleIndex": "174",
+    "google": "\"Thank you. Both are happy.\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": "45",
+    "garejei": "Good work, Minato! You can go home now.",
+    "googleIndex": "170",
+    "google": "\"......... Yeah, no problem. It's okay to go up today. It's past the fixed time, right?\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": "54",
+    "garejei": "However… things have changed recently, as the Rokuhara Shoungate’s power becomes firmer with each day. The dog-loving landlord living in that house disappeared, his beloved pet killed. In that park, there once stood a small playground. Not anymore. It was carried away to be used up as raw material. The constant barking of dogs and the ever-joyful laughter of children – all gone.",
+    "googleIndex": "191",
+    "google": "By the way, the appearance of the town has changed a little. Suddenly I look around and notice it.",
+    "rowSpan": 5
+},
+{
+    "garejeiIndex": "55",
+    "garejei": "There’s one more change. A certain person isn’t here anymore.",
+    "googleIndex": "197",
+    "google": "(one more)",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": "57",
+    "garejei": "Kageaki!",
+    "googleIndex": "202",
+    "google": "\"Keimei!\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": "58",
+    "garejei": "Ah, Hikaru. I’ve already told you there’s really no need for you to come all the way out here to meet me, didn’t I.",
+    "googleIndex": "204",
+    "google": "\"Light. You're saying you don't have to come to pick me up.\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": "60",
+    "garejei": "You did. I don’t remember agreeing to it, though. What’s wrong with a sister wanting to meet her brother?",
+    "googleIndex": "205",
+    "google": "\"Um. I heard, but I don't remember accepting it.\"",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex": "61",
+    "garejei": "It’s dangerous for women to be out so late at night. You’re not a child anymore, Hikaru. … In any case, I’m home.",
+    "googleIndex": "207",
+    "google": "\"Women and girls don't go out unnecessarily. You're no longer a child.\"",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex": "62",
+    "garejei": "Stop being such a dinosaur – that’s a completely old-fashioned way of thinking! Women will have your head for such statements! … In any case, welcome home, Kageaki.",
+    "googleIndex": "209",
+    "google": "\"The idea is old, Keimei. It's a total attack from women's groups!\"",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex": "64",
+    "garejei": "I see, that is indeed true. But the reason you speak if is the age-old tradition of men fighting while women protect the household. We’re living in modern times, though: there are plenty of men who cannot fight, and plenty of women who know nothing about keeping a household.",
+    "googleIndex": "212",
+    "google": "\"I see. That's justified. But the reason is that the man fights outside, the woman protects the house ... it's all about the ancient division of roles.\"",
+    "rowSpan": 2
+},

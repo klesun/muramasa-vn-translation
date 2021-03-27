@@ -113,11 +113,13 @@ const main = async () => {
         if (googleRadio && garejeiRadio) {
             const tr = googleRadio.parentNode.parentNode;
             const garejeiBlock = garejeiRadio.parentNode;
+            const rowSpan = prompt('Rows span is...', '') || '1';
             await Api.addGarejeiKeyframe({
                 garejeiIndex: garejeiBlock.getAttribute('data-garejei-index'),
                 garejei: garejeiBlock.querySelector('.garejei-sentence-text').textContent,
                 googleIndex: tr.getAttribute('data-google-index'),
                 google: tr.querySelector('.google-holder').textContent,
+                rowSpan: +rowSpan,
             });
             googleRadio.checked = false;
             garejeiRadio.checked = false;
