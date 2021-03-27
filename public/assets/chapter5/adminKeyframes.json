@@ -1,5 +1,12 @@
 [
 {
+    "garejeiIndex":12,
+    "garejei":"I’ve had just about enough of you.",
+    "googleIndex":87,
+    "google":"《I'm tired of that hand! 》",
+    "rowSpan": 1
+},
+{
     "garejeiIndex": 14,
     "garejei": "Time for the magician to retire from the stage, Aoe. You shall meet all the people you’ve murdered in the other world. One day, I, too, shall end up there: save your hatred for me till then.",
     "googleIndex": 89,
@@ -7,163 +14,289 @@
     "rowSpan": 2
 },
 {
-    "garejeiIndex":"12",
-    "garejei":"I’ve had just about enough of you.",
-    "googleIndex":"87",
-    "google":"《I'm tired of that hand! 》",
-    "rowSpan": 1
-},
-{
-    "garejeiIndex":"15",
+    "garejeiIndex":15,
     "garejei":"Why? Why do you withstand the hellish nightmares I’m showing you?! Why?",
-    "googleIndex":"108",
+    "googleIndex":108,
     "google":"《Why aaa! Why can you bear it!》",
     "rowSpan": 2
 },
 {
-    "garejeiIndex":"16",
+    "garejeiIndex":16,
     "garejei":"Hellish nightmares…? Hmpf. I’ve had my fair share of those – nightmares of my own doing. Nothing you could possibly show me would amount to more than cheap illusions in my eyes!",
-    "googleIndex":"110",
+    "googleIndex":110,
     "google":"《Hell? Is it a nightmare? You don't have to show me that kind of thing.",
     "rowSpan": 1
 },
 {
-    "garejeiIndex":"19",
+    "garejeiIndex":19,
     "garejei":"Nightamres have no effect on you? Then how about this!",
-    "googleIndex":"120",
+    "googleIndex":120,
     "google":"《…… If you say that nightmares and hell do not go through. How about this》",
     "rowSpan": 1
 },
 {
-    "garejeiIndex":"21",
+    "garejeiIndex":21,
     "garejei":"W-why…? W-hy am I seeing her at a time like this…? Subaru…",
-    "googleIndex":"127",
+    "googleIndex":127,
     "google":"why. Why is something like this?",
     "rowSpan": 1
 },
 {
-    "garejeiIndex": "26",
+    "garejeiIndex":26,
     "garejei": "Midou! Midou!!",
-    "googleIndex": "132",
+    "googleIndex":132,
     "google": "《Mido ――――!》",
     "rowSpan": 1
 },
 {
-    "garejeiIndex": "30",
+    "garejeiIndex":30,
     "garejei": "I find myself in the same old room. A cell. An ever-gloomy, dark cell. My feet and hands are not bound. There are no bars to keep the rest of the world out, either. Despite that… I am a prisoner of this place. I’ve been here for so long, gazing at the same old dream. Today, it starts again. The very same dream… is about to begin once more.",
-    "googleIndex": "133",
+    "googleIndex":133,
     "google": "The place to wake up is as usual. It's dark, dark, in prison.",
     "rowSpan": 6
 },
 {
-    "garejeiIndex": "32",
+    "garejeiIndex":32,
     "garejei": "I am in the embrace of a woman. Mother. There is one more person here. Father.",
-    "googleIndex": "140",
+    "googleIndex":140,
     "google": "...... I am embraced by a woman. I'm holding my mother.",
     "rowSpan": 2
 },
 {
-    "garejeiIndex": "33",
+    "garejeiIndex":33,
     "garejei": "The mother turns to the father and tells him sharply:",
-    "googleIndex": "142",
+    "googleIndex":142,
     "google": "Mother tells her father to stab him word for word.",
     "rowSpan": 1
 },
 {
-    "garejeiIndex": "34",
+    "garejeiIndex":34,
     "garejei": "The father gazes at her in silence. He has no choice in this matter – his face betrays his feelings.",
-    "googleIndex": "149",
+    "googleIndex":149,
     "google": "My father is listening silently.",
     "rowSpan": 2
 },
 {
-    "garejeiIndex": "35",
+    "garejeiIndex":35,
     "garejei": "The mother repeats the words.",
-    "googleIndex": "151",
+    "googleIndex":151,
     "google": "Mother repeats.",
     "rowSpan": 1
 },
 {
-    "garejeiIndex": "49",
+    "garejeiIndex":49,
     "garejei": "Tanaka… Minato is probably thinking about where you hid his share…",
-    "googleIndex": "175",
+    "googleIndex":175,
     "google": "\"Tanaka Ah. Minato-kun, you're telling me with your face that I'm not there?\"",
     "rowSpan": 1
 },
 {
-    "garejeiIndex": "50",
+    "garejeiIndex":50,
     "garejei": "No way! Minato isn’t a glutton like that. Unlike you, boss.",
-    "googleIndex": "176",
+    "googleIndex":176,
     "google": "\"I haven't said that. Seniors aren't that nasty. It's different from the director.\"",
     "rowSpan": 1
 },
 {
-    "garejeiIndex": "48",
+    "garejeiIndex":48,
     "garejei": "Thank you.",
-    "googleIndex": "174",
+    "googleIndex":174,
     "google": "\"Thank you. Both are happy.\"",
     "rowSpan": 1
 },
 {
-    "garejeiIndex": "45",
+    "garejeiIndex":45,
     "garejei": "Good work, Minato! You can go home now.",
-    "googleIndex": "170",
+    "googleIndex":170,
     "google": "\"......... Yeah, no problem. It's okay to go up today. It's past the fixed time, right?\"",
     "rowSpan": 1
 },
 {
-    "garejeiIndex": "54",
+    "garejeiIndex":54,
     "garejei": "However… things have changed recently, as the Rokuhara Shoungate’s power becomes firmer with each day. The dog-loving landlord living in that house disappeared, his beloved pet killed. In that park, there once stood a small playground. Not anymore. It was carried away to be used up as raw material. The constant barking of dogs and the ever-joyful laughter of children – all gone.",
-    "googleIndex": "191",
+    "googleIndex":191,
     "google": "By the way, the appearance of the town has changed a little. Suddenly I look around and notice it.",
     "rowSpan": 5
 },
 {
-    "garejeiIndex": "55",
+    "garejeiIndex":55,
     "garejei": "There’s one more change. A certain person isn’t here anymore.",
-    "googleIndex": "197",
+    "googleIndex":197,
     "google": "(one more)",
     "rowSpan": 1
 },
 {
-    "garejeiIndex": "57",
+    "garejeiIndex":57,
     "garejei": "Kageaki!",
-    "googleIndex": "202",
+    "googleIndex":202,
     "google": "\"Keimei!\"",
     "rowSpan": 1
 },
 {
-    "garejeiIndex": "58",
+    "garejeiIndex":58,
     "garejei": "Ah, Hikaru. I’ve already told you there’s really no need for you to come all the way out here to meet me, didn’t I.",
-    "googleIndex": "204",
+    "googleIndex":204,
     "google": "\"Light. You're saying you don't have to come to pick me up.\"",
     "rowSpan": 1
 },
 {
-    "garejeiIndex": "60",
+    "garejeiIndex":60,
     "garejei": "You did. I don’t remember agreeing to it, though. What’s wrong with a sister wanting to meet her brother?",
-    "googleIndex": "205",
+    "googleIndex":205,
     "google": "\"Um. I heard, but I don't remember accepting it.\"",
     "rowSpan": 2
 },
 {
-    "garejeiIndex": "61",
+    "garejeiIndex":61,
     "garejei": "It’s dangerous for women to be out so late at night. You’re not a child anymore, Hikaru. … In any case, I’m home.",
-    "googleIndex": "207",
+    "googleIndex":207,
     "google": "\"Women and girls don't go out unnecessarily. You're no longer a child.\"",
     "rowSpan": 2
 },
 {
-    "garejeiIndex": "62",
+    "garejeiIndex":62,
     "garejei": "Stop being such a dinosaur – that’s a completely old-fashioned way of thinking! Women will have your head for such statements! … In any case, welcome home, Kageaki.",
-    "googleIndex": "209",
+    "googleIndex":209,
     "google": "\"The idea is old, Keimei. It's a total attack from women's groups!\"",
     "rowSpan": 2
 },
 {
-    "garejeiIndex": "64",
+    "garejeiIndex":64,
     "garejei": "I see, that is indeed true. But the reason you speak if is the age-old tradition of men fighting while women protect the household. We’re living in modern times, though: there are plenty of men who cannot fight, and plenty of women who know nothing about keeping a household.",
-    "googleIndex": "212",
+    "googleIndex":212,
     "google": "\"I see. That's justified. But the reason is that the man fights outside, the woman protects the house ... it's all about the ancient division of roles.\"",
     "rowSpan": 2
+},
+{
+    "garejeiIndex":68,
+    "garejei": "Ah, Saeki, good evening.",
+    "googleIndex":215,
+    "google": "\"Mr. Saeki. Tonight\"",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex":69,
+    "garejei": "Good evening, Minato siblings. I see you two are getting along just fine.",
+    "googleIndex":217,
+    "google": "\"Oh, Minato-san's brother and sister. Good evening.\"",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex":70,
+    "garejei": "We are indeed. And that’s why you should probably be on your way now.",
+    "googleIndex":220,
+    "google": "\"Um. I'm on good terms. So don't stop there, please be careful and leave early. Mr. Saeki.\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":71,
+    "garejei": "Hikaru!",
+    "googleIndex":221,
+    "google": "\"Here, light!\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":72,
+    "garejei": "Ohoho! Must be nice to be young!",
+    "googleIndex":222,
+    "google": "\"Cheeks! You can't be young\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":73,
+    "garejei": "I was just teasing her. She knows not to take it seriously.",
+    "googleIndex":224,
+    "google": "\"It's just a light talk. I'm familiar with Mr. Saeki.\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":76,
+    "garejei": "Again with those assertions. You hardly know yourself.",
+    "googleIndex":228,
+    "google": "\"I say that again. You don't know yourself.\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":77,
+    "garejei": "That’s not true. I do know myself.",
+    "googleIndex":229,
+    "google": "\"I know\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":81,
+    "garejei": "Indeed, I can see it very clearly in my mind. What a shame that I will never have a chance to see it come to fruition.",
+    "googleIndex":233,
+    "google": "\"I can clearly imagine it in my mind. If I think I can't see it ... um. I'm sorry, I can't help it.\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":82,
+    "garejei": "W-well… I-if you were the one to lock me up in the household… I… I would give it some thought…",
+    "googleIndex":234,
+    "google": "\"... Well ... that's right ...\"",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex":85,
+    "garejei": "What’s wrong, Hikaru? You look like you want to say something.",
+    "googleIndex":240,
+    "google": "\"What's the light? It's like a face screaming unvoiced.\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":83,
+    "garejei": "I see. Is that a challenge for me to prove that there is indeed no need for you to be out there fighting like men? Hmm… how problematic…",
+    "googleIndex":238,
+    "google": "\"That means surpassing you with your strength and eliminating the need to fight in place of a man. It's a difficult task ...\"",
+    "rowSpan": 0
+},
+{
+    "garejeiIndex":89,
+    "garejei": "Hey, I can’t walk like this…!",
+    "googleIndex":246,
+    "google": "\"I can't walk!\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 97,
+    "garejei": "Ah~ I’m finally alive again~ I can never smoke these in front of the elder.",
+    "googleIndex": 287,
+    "google": "\"Ah ... I'll come back to life. I can't smoke in front of the head family.\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 90,
+    "garejei": "Of course you can! Now go! We’re running out of ingredients at home, so we’ll have to go shopping right away! First, the tofu shop, then the greengrocers, then the liquor store and finally the fish market!",
+    "googleIndex": 249,
+    "google": "\"Yes. I'm going shopping. I don't have enough ingredients for dinner.\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 103,
+    "garejei": "Did this town have any good reputation to begin with?",
+    "googleIndex": 303,
+    "google": "\"Isn't there a ticket in town?\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 105,
+    "garejei": "And you said that to the elder’s face? I’m glad I wasn’t there, then.",
+    "googleIndex": 306,
+    "google": "\"Is it in front of the head family?\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 106,
+    "garejei": "Eh, they’ve gotten used to it by now.",
+    "googleIndex": 309,
+    "google": "\"Well, I'm used to it. I wasn't angry enough to cut my blood vessels.\"",
+    "rowSpan": 0
+},
+{
+    "garejeiIndex": 107,
+    "garejei": "So, is the elder really planning to do this? Driving them out, I mean.",
+    "googleIndex": 315,
+    "google": "\"Is the head family serious? Exhausting them with their own strength, etc.\"",
+    "rowSpan": 1
 },

@@ -9,7 +9,9 @@ const gui = {
     sentences_list: document.getElementById('sentences_list'),
 };
 
-const shiftChunk = (headTr, targetGoogleIndex) => {
+const shiftChunk = (headTr, keyframe) => {
+    const targetGoogleIndex = keyframe.googleIndex;
+    const rowSpan = Math.max(1, keyframe.rowSpan || 0);
     const headGoogleIndex = +headTr.getAttribute('data-google-index');
     const chunkGarejeiDoms = [];
     for (let i = headGoogleIndex - 1; i < gui.sentences_list.children.length; ++i) {
@@ -23,13 +25,16 @@ const shiftChunk = (headTr, targetGoogleIndex) => {
     }
     const targetTrs = [];
     for (let i = 0; i < chunkGarejeiDoms.length; ++i) {
-        const tr = gui.sentences_list.children[targetGoogleIndex - 1 + i];
+        const trIndex = i > 0
+            ? targetGoogleIndex - 1 + i  + rowSpan - 1
+            : targetGoogleIndex - 1 + i;
+        const tr = gui.sentences_list.children[trIndex];
         if (!tr) {
             const msg = `Chunk of ${chunkGarejeiDoms.length} would go outside last ${gui.sentences_list.children.length} if put at ${targetGoogleIndex}`;
             alert(msg);
             return;
         } else if (tr.querySelector('.gareji-holder > *')) {
-            const msg = `Row #${targetGoogleIndex + i} has existing garejei sentence`;
+            const msg = `Row #${targetGoogleIndex + i} has existing garejei sentence, tried to move ${headTr.innerHTML}`;
             alert(msg);
             return;
         } else {
@@ -84,7 +89,18 @@ const placeKeyframes = (keyframes) => {
     for (const keyframe of keyframes) {
         const selector = `[data-garejei-index="${keyframe.garejeiIndex}"]`;
         const headTr = gui.sentences_list.querySelector(selector).parentNode.parentNode;
-        shiftChunk(headTr, keyframe.googleIndex);
+        const garejeiDom = headTr.querySelector('.gareji-holder > *');
+        if (keyframe.rowSpan !== undefined) {
+            garejeiDom.insertBefore(Dom('span', {}, keyframe.rowSpan), garejeiDom.children[0]);
+        }
+
+        const existingGarejei = gui.sentences_list.children[keyframe.googleIndex - 1]
+            .querySelector('.gareji-holder > *');
+        if (!existingGarejei) {
+            // some of generated keyframes cover more than few sentences at once - they
+            //have to be corrected to be linked to the first of the matched sentences
+            shiftChunk(headTr, keyframe);
+        }
     }
 };
 
@@ -95,16 +111,19 @@ const main = async () => {
         fetch('./../assets/chapter5/adminKeyframes.json').then(rs => rs.text()),
     ]);
     const adminKeyframes = JSON.parse(adminKeyframesText + 'null]').slice(0, -1);
-
+    const keyframes = [...garejeiData.keyframes, ...adminKeyframes];
     const googleSrtRecords = googleSrtText
         .trim().split(/\n\n/)
         .map(parseSrtSentence);
 
-    googleSrtRecords.map(makeTr)
-        .forEach(tr => gui.sentences_list.appendChild(tr));
-
-    putGarejeiBlocks(garejeiData.garejeiBlocks);
-    placeKeyframes([...garejeiData.keyframes, ...adminKeyframes]);
+    const regenerate = () => {
+        gui.sentences_list.innerHTML = '';
+        googleSrtRecords.map(makeTr)
+            .forEach(tr => gui.sentences_list.appendChild(tr));
+        putGarejeiBlocks(garejeiData.garejeiBlocks);
+        placeKeyframes(keyframes);
+    };
+    regenerate();
 
     gui.untranslate_linking_form.onchange = async () => {
         const googleRadio = gui.untranslate_linking_form.querySelector('[name="linkedGoogleSentence"]:checked');
@@ -114,13 +133,17 @@ const main = async () => {
             const tr = googleRadio.parentNode.parentNode;
             const garejeiBlock = garejeiRadio.parentNode;
             const rowSpan = prompt('Rows span is...', '') || '1';
-            await Api.addGarejeiKeyframe({
-                garejeiIndex: garejeiBlock.getAttribute('data-garejei-index'),
+            const keyframe = {
+                garejeiIndex: +garejeiBlock.getAttribute('data-garejei-index'),
                 garejei: garejeiBlock.querySelector('.garejei-sentence-text').textContent,
-                googleIndex: tr.getAttribute('data-google-index'),
+                googleIndex: +tr.getAttribute('data-google-index'),
                 google: tr.querySelector('.google-holder').textContent,
                 rowSpan: +rowSpan,
-            });
+            };
+            keyframes.push(keyframe);
+            regenerate();
+            const whenAdded = Api.addGarejeiKeyframe(keyframe);
+            await whenAdded;
             googleRadio.checked = false;
             garejeiRadio.checked = false;
         }
