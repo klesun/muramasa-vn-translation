@@ -161,22 +161,6 @@
       "distDiff": 22
     },
     {
-      "garejeiIndex": 404,
-      "garejei": "Leader of the bandits. I challenge you to a duel. If I win, you will promise to order your men to leave the town alone from now on.",
-      "googleIndex": 1422,
-      "google": "Chief of the bandits. That younger brother. If there is another man who stands out, that person too.",
-      "dist": 91,
-      "distDiff": 8
-    },
-    {
-      "garejeiIndex": 464,
-      "garejei": "I’m running out of time.",
-      "googleIndex": 2684,
-      "google": "\"I'm running out of stock ...\"",
-      "dist": 12,
-      "distDiff": 6
-    },
-    {
       "garejeiIndex": 604,
       "garejei": "*sigh* Why didn’t you call me sooner?",
       "googleIndex": 2263,
@@ -215,14 +199,6 @@
       "google": "劒 冑. It is that helmet that called himself Muramasa.",
       "dist": 23,
       "distDiff": 8
-    },
-    {
-      "garejeiIndex": 847,
-      "garejei": "Vow? What are you talking about?",
-      "googleIndex": 2248,
-      "google": "\"What are you talking about?\"",
-      "dist": 10,
-      "distDiff": 6
     },
     {
       "garejeiIndex": 853,
