@@ -663,8 +663,9 @@
       "text": "Thank you. I’ll have one, then."
     },
     {
-      "type": "unknown",
-      "innerHTML": "Subaru: We talked about those brigands again. The elder just keeps going on and on about how the town’s good reputation will be affected if we let people like that do as they please. Tch.<br>\n…"
+      "type": "quote",
+      "speaker": "Subaru",
+      "text": "We talked about those brigands again. The elder just keeps going on and on about how the town’s good reputation will be affected if we let people like that do as they please. Tch.\n…"
     },
     {
       "type": "quote",
@@ -955,8 +956,9 @@
       "text": "(You guessed it – we’re treated to another flashback.)"
     },
     {
-      "type": "comment",
-      "text": "Female student: Hikaru! Please, accept this letter!"
+      "type": "quote",
+      "speaker": "Female student",
+      "text": "Hikaru! Please, accept this letter!"
     },
     {
       "type": "comment",
@@ -986,8 +988,9 @@
       "text": "Another female student appears."
     },
     {
-      "type": "comment",
-      "text": "Other female student: Ah, Her Ladyship Hikaru and her brother! Mornin’, you two."
+      "type": "quote",
+      "speaker": "Other female student",
+      "text": "Ah, Her Ladyship Hikaru and her brother! Mornin’, you two."
     },
     {
       "type": "quote",
@@ -1065,8 +1068,9 @@
       "src": "./Full Metal Daemon Muramasa – Plot summary_translation – Chapter 5 _ gareblogs_files/e23.jpg"
     },
     {
-      "type": "comment",
-      "text": "Department chief: M-m apologies, but we cannot possibly supply you with all the items you demanded…"
+      "type": "quote",
+      "speaker": "Department chief",
+      "text": "M-m apologies, but we cannot possibly supply you with all the items you demanded…"
     },
     {
       "type": "quote",
@@ -1087,8 +1091,9 @@
       "text": "Tch, these guys are really fuckin’ poor… whatever, we’ll only take this amount, then."
     },
     {
-      "type": "comment",
-      "text": "Dep. chief: I.. I’m in your debt, s-sir! I’ll p-prepare the goods right away!"
+      "type": "quote",
+      "speaker": "Dep. chief",
+      "text": "I.. I’m in your debt, s-sir! I’ll p-prepare the goods right away!"
     },
     {
       "type": "comment",
@@ -1939,8 +1944,9 @@
       "text": "-hohohohoho!"
     },
     {
-      "type": "unknown",
-      "innerHTML": "…<br>\nBoss: How about no."
+      "type": "quote",
+      "speaker": "…\nBoss",
+      "text": "How about no."
     },
     {
       "type": "innerThought",
@@ -2166,8 +2172,8 @@
       "text": "And thus, I remain within the depths of this darkness, unmoving and unable to break the chains that bind me."
     },
     {
-      "type": "unknown",
-      "innerHTML": "Weird dream sequence over.<br>\nThe next day, Kageaki runs into the female bandit leader ocne again, overseeing her men as they carry a bunch of grain and other goods out from a store. The looting seemingly continues. She looks at the approaching Kageaki with a smile on her face."
+      "type": "comment",
+      "text": "Weird dream sequence over.\nThe next day, Kageaki runs into the female bandit leader ocne again, overseeing her men as they carry a bunch of grain and other goods out from a store. The looting seemingly continues. She looks at the approaching Kageaki with a smile on her face."
     },
     {
       "type": "image",
@@ -2447,8 +2453,8 @@
       "text": "In my carelessness, I forgot to dispose of the farewell letter that I left in her room."
     },
     {
-      "type": "unknown",
-      "innerHTML": "End of scene.<br>\n<em>The next morning, I awoke earlier than usual. I wonder why – is it because my body has been energized by the vow I took last night?</em>"
+      "type": "comment",
+      "text": "End of scene.\nThe next morning, I awoke earlier than usual. I wonder why – is it because my body has been energized by the vow I took last night?"
     },
     {
       "type": "image",
@@ -2715,16 +2721,19 @@
       "text": "Ah, it’s f-fine…"
     },
     {
-      "type": "comment",
-      "text": "*in the background* Subaru: *sob* *sob* My son is so mean to me… T_T"
+      "type": "quote",
+      "speaker": "Subaru",
+      "text": "*sob* *sob* My son is so mean to me… T_T",
+      "pretext": "*in the background* "
     },
     {
       "type": "comment",
       "text": "After a while, Kageaki once again requests the boss to stop with their pillaging."
     },
     {
-      "type": "unknown",
-      "innerHTML": "Kageaki: There is an abandoned rice field in the vicinity, you could move in there. How about it? Should the need arise, I would help out myself and make the towsfolk accept you and your<br>\nmen."
+      "type": "quote",
+      "speaker": "Kageaki",
+      "text": "There is an abandoned rice field in the vicinity, you could move in there. How about it? Should the need arise, I would help out myself and make the towsfolk accept you and your\nmen."
     },
     {
       "type": "quote",
@@ -3182,8 +3191,9 @@
       "text": "A blade exists for the sake of violence, nothing more. Swung only for the sake of shedding blood. Naming myself as just, labeling the enemy as evil – ’tis the only path I follow."
     },
     {
-      "type": "unknown",
-      "innerHTML": "Muramasa: Therefore, my blade is not truly just, nor is it truly evil. It is a tool for murder – nothing more, nothing less. The principle I follow is written as thus – the strong survive;<br>\nthe weak perish."
+      "type": "quote",
+      "speaker": "Muramasa",
+      "text": "Therefore, my blade is not truly just, nor is it truly evil. It is a tool for murder – nothing more, nothing less. The principle I follow is written as thus – the strong survive;\nthe weak perish."
     },
     {
       "type": "quote",
@@ -3554,8 +3564,9 @@
       "text": "You’re wrong. There will be countless men with relatives, brothers, sisters or sons among your victims. They will surely come to avenge them one day."
     },
     {
-      "type": "innerThought",
-      "text": "any"
+      "type": "quote",
+      "speaker": "Hikaru",
+      "text": "Like I said, such a thing will not happen. Because I’m not planning to leave any survivors. Well then, mother. Educate me. What would you do?"
     },
     {
       "type": "quote",
@@ -3743,8 +3754,9 @@
       "innerHTML": "<a href=\"https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e94.jpg\"><img class=\"aligncenter size-full wp-image-413\" title=\"e94\" alt=\"\" src=\"./Full Metal Daemon Muramasa – Plot summary_translation – Chapter 5 _ gareblogs_files/e94.jpg\" width=\"584\" height=\"329\"></a><a href=\"https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e92.jpg\"><br>\n</a>"
     },
     {
-      "type": "innerThought",
-      "text": "just what hell is this?!"
+      "type": "quote",
+      "speaker": "Kageaki",
+      "text": "What… is this? This ominous feeling, this terrible scenery and sounds, this scent, this touch, this smell, this taste, this fate… just what hell is this?!"
     },
     {
       "type": "innerThought",
@@ -3814,8 +3826,9 @@
       "src": "./Full Metal Daemon Muramasa – Plot summary_translation – Chapter 5 _ gareblogs_files/e96.jpg"
     },
     {
-      "type": "comment",
-      "text": "Hikaru/Ginseigou: Very well. I shall educate you regarding my true purpose. What I want is… to spread the chaos of war across this land. The one and only, true way of the sword!"
+      "type": "quote",
+      "speaker": "Hikaru/Ginseigou",
+      "text": "Very well. I shall educate you regarding my true purpose. What I want is… to spread the chaos of war across this land. The one and only, true way of the sword!"
     },
     {
       "type": "quote",

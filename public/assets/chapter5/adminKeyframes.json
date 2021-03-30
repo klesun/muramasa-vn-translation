@@ -2827,3 +2827,66 @@
     "google": "Killed.",
     "rowSpan": 0
 },
+{
+    "garejeiIndex": 102,
+    "garejei": "We talked about those brigands again. The elder just keeps going on and on about how the town’s good reputation will be affected if we let people like that do as they please. Tch.\n…",
+    "googleIndex": 302,
+    "google": "\"The head family is just one point to push and push. If you leave those guys alone, it will be related to the ticket of this town ... Well, this is it.\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 191,
+    "garejei": "M-m apologies, but we cannot possibly supply you with all the items you demanded…",
+    "googleIndex": 627,
+    "google": "\"No, no ... even if I was told that. If I had to bring that much goods ... my company wouldn't be able to run ...\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 196,
+    "garejei": "I.. I’m in your debt, s-sir! I’ll p-prepare the goods right away!",
+    "googleIndex": 651,
+    "google": "\"Yes. Thank you. I will prepare it soon ...!\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 381,
+    "garejei": "How about no.",
+    "googleIndex": 1148,
+    "google": "\"Reject\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 555,
+    "garejei": "There is an abandoned rice field in the vicinity, you could move in there. How about it? Should the need arise, I would help out myself and make the towsfolk accept you and your\nmen.",
+    "googleIndex": 2034,
+    "google": "\"If you turn to the back, there is a field that has been left unattended. Why don't you enter there?\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 553,
+    "garejei": "*sob* *sob* My son is so mean to me… T_T",
+    "googleIndex": 2000,
+    "google": "\"Don't worry. I'm supposed to be hungry, so I'm leaving to eat soon.\"",
+    "rowSpan": 0
+},
+{
+    "garejeiIndex": 656,
+    "garejei": "Therefore, my blade is not truly just, nor is it truly evil. It is a tool for murder – nothing more, nothing less. The principle I follow is written as thus – the strong survive;\nthe weak perish.",
+    "googleIndex": 2502,
+    "google": "《 Therefore. Takeshi is not good. Takeshi is not evil》",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex": 778,
+    "garejei": "What… is this? This ominous feeling, this terrible scenery and sounds, this scent, this touch, this smell, this taste, this fate… just what hell is this?!",
+    "googleIndex": 3233,
+    "google": "What is this?",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex": 795,
+    "garejei": "Very well. I shall educate you regarding my true purpose. What I want is… to spread the chaos of war across this land. The one and only, true way of the sword!",
+    "googleIndex": 3278,
+    "google": "\"Well, okay. Let's interpret my meaning as being questioned.\"",
+    "rowSpan": 3
+},

@@ -22,12 +22,16 @@ const srcSrtPath = chapterDir + '/game_recording.jpn.srt';
 
 const parseGarejeiBlock = (p) => {
     const children = [...p.children];
-    if (children.length === 0) {
+    if (children.length === 0 || children[0] !== p.childNodes[0]) {
         const text = p.textContent;
-        const asQuote = text.match(/^([a-zA-Z]+):\s*(.*)$/);
+        const asQuote = text.match(/^(\s*\*.*?\*\s|)([a-zA-Z.…'\/]+(?:\s+[a-zA-Z.'\/]+){0,2})(\s*\*.*?\*\s|):\s*(\S.*)$/s);
         if (asQuote) {
-            const [, speaker, text] = asQuote;
-            return [{type: 'quote', speaker, text}];
+            const [, pretext, speaker, posttext, text] = asQuote;
+            return [{
+                type: 'quote', speaker, text,
+                ...pretext ? {pretext} : {},
+                ...posttext ? {posttext} : {},
+            }];
         } else {
             return [{type: 'comment', text: p.textContent}];
         }
