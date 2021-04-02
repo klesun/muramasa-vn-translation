@@ -3,11 +3,13 @@ import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
+export const CHAPTER5_REC1_DIR = __dirname + '/../assets/recordings/chapter5';
+
 export const RECORDING_LOCATIONS = [
   [__dirname + '/../assets/recordings/chapter3', 'game_recording_during_h'],
-  [__dirname + '/../assets/recordings/chapter5'],
-  [__dirname + '/../assets/recordings/chapter5', 'game_recording_during_h'],
-  [__dirname + '/../assets/recordings/chapter5', 'game_recording_after_h'],
+  [CHAPTER5_REC1_DIR],
+  [CHAPTER5_REC1_DIR, 'game_recording_during_h'],
+  [CHAPTER5_REC1_DIR, 'game_recording_after_h'],
   [__dirname + '/../assets/recordings/ayane_route/rec1'],
   [__dirname + '/../assets/recordings/ayane_route/rec2', 'game_recording_during_h'],
   [__dirname + '/../assets/recordings/ayane_route/rec2', 'game_recording_before_h2'],

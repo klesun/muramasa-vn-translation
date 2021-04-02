@@ -36,15 +36,26 @@ const parseGarejeiBlock = (p) => {
             return [{type: 'comment', text: p.textContent}];
         }
     } else if (children.every(c => c.tagName === 'EM')) {
-        const text = children.map(em => em.textContent.trimEnd()).join(' ');
+        const text = p.textContent.trimEnd();
         return [{type: 'innerThought', text}];
     } else if (children.every(c => c.tagName === 'A' && c.querySelector('img'))) {
         return children.map(c => {
             const img = c.querySelector('img');
             return {type: 'image', src: img.getAttribute('src')};
         });
+    } else if (children.every(c => c.tagName === 'A' && c.textContent.trim() === '')) {
+        return children.map(c => {
+            return {type: 'nbspLink', url: c.getAttribute('href')};
+        });
     }
-    return [{type: 'unknown', innerHTML: p.innerHTML}];
+    return [{type: 'unknown', innerHTML: p.innerHTML, text: p.textContent}];
+};
+
+// TODO: try only compare when same amount of dots with text between them
+
+const normalizeText = (text) => {
+    // TODO: HUFFMANNNNNN to make rare words have more weight
+    return text.replace(/\s+/g, '').toLowerCase();
 };
 
 const main = async () => {
@@ -97,7 +108,7 @@ const main = async () => {
 
     const noSpToSp = new Map(
         translatedSrtBlocks.map(b => b.sentence).map(s => [
-            s.replace(/\s+/g, ''), s
+            normalizeText(s), s
         ])
     );
 
@@ -110,7 +121,7 @@ const main = async () => {
             const optSet = new Set(noSpToSp.keys());
             const options = [];
             for (let j = 0; j < 2; ++j) {
-                const closestEng = closest(block.text.replace(/\s+/g, ''), [...optSet]);
+                const closestEng = closest(normalizeText(block.text), [...optSet]);
                 const dist = distance(block.text, closestEng);
                 options.push({dist, text: noSpToSp.get(closestEng)});
                 optSet.delete(closestEng);
