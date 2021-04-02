@@ -71,9 +71,7 @@ const parseGarejeiBlock = (p) => {
             return {type: 'image', src: img.getAttribute('src')};
         });
     } else if (children.every(c => c.tagName === 'A' && c.textContent.trim() === '')) {
-        return children.map(c => {
-            return {type: 'nbspLink', url: c.getAttribute('href')};
-        });
+        return [{type: 'nbspLinks', nbspLinks: children.map(c => c.getAttribute('href'))}];
     }
     return [{type: 'unknown', innerHTML: p.innerHTML, text: p.textContent}];
 };
