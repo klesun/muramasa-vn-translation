@@ -460,12 +460,11 @@
       "text": "Ah, Hikaru. I’ve already told you there’s really no need for you to come all the way out here to meet me, didn’t I."
     },
     {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e10.jpg"
-    },
-    {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e9.jpg"
+      "type": "nbspLinks",
+      "nbspLinks": [
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e10.jpg",
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e9.jpg"
+      ]
     },
     {
       "type": "quote",
@@ -566,12 +565,11 @@
       "text": "*blushes*"
     },
     {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e12.jpg"
-    },
-    {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e11.jpg"
+      "type": "nbspLinks",
+      "nbspLinks": [
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e12.jpg",
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e11.jpg"
+      ]
     },
     {
       "type": "quote",
@@ -747,8 +745,10 @@
       "text": "Defend me, Kageaki! When did this daughter of mine turn into such a beast?"
     },
     {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e17.jpg"
+      "type": "nbspLinks",
+      "nbspLinks": [
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e17.jpg"
+      ]
     },
     {
       "type": "quote",
@@ -832,8 +832,10 @@
       "text": "Huh? Where did Subaru disappear to?"
     },
     {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e18.jpg"
+      "type": "nbspLinks",
+      "nbspLinks": [
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e18.jpg"
+      ]
     },
     {
       "type": "quote",
@@ -2351,12 +2353,11 @@
       "text": "You are one cold-hearted woman. So, you ordered Kageaki not to kill anyone? How foolish. That way, what awaits him is nothing but certain death. You have to understand that bandits like that cannot be reasoned with. The only thing they understand is violence."
     },
     {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e57.jpg"
-    },
-    {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e56-5.jpg"
+      "type": "nbspLinks",
+      "nbspLinks": [
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e57.jpg",
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e56-5.jpg"
+      ]
     },
     {
       "type": "quote",
@@ -3434,12 +3435,11 @@
       "text": "Please, you cannot talk now! Your wounds will only worsen at this rate!"
     },
     {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e84.jpg"
-    },
-    {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e84.jpg"
+      "type": "nbspLinks",
+      "nbspLinks": [
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e84.jpg",
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e84.jpg"
+      ]
     },
     {
       "type": "quote",
@@ -3770,12 +3770,11 @@
       "text": "Silencing my own fear, I decided to walk up to the crimson spider. It looked all the more ominous from up close. Now then… how do I go about making a contract with it? I was clueless in that regard. At any rate, I tried touching it."
     },
     {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e94.jpg"
-    },
-    {
-      "type": "nbspLink",
-      "url": "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e92.jpg"
+      "type": "nbspLinks",
+      "nbspLinks": [
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e94.jpg",
+        "https://web.archive.org/web/20140122193928/http://gareblogs.files.wordpress.com/2012/09/e92.jpg"
+      ]
     },
     {
       "type": "quote",
