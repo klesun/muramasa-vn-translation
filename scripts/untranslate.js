@@ -20,11 +20,38 @@ const chapterDir = __dirname + '/../assets/recordings/chapter5';
 const translatedSentencesPath = chapterDir + '/translated_sentences.txt';
 const srcSrtPath = chapterDir + '/game_recording.jpn.srt';
 
+/**
+ * @return RegExp
+ *
+ * to split complex regex into multiple lines, usage:
+ * let regex = mkReg([
+ *		/^>\$EX NAME\s+/,
+ *		/(?<lastName>[A-Z][^\/]*)\//,
+ *		/(?<firstName>[A-Z].*?)\s+/,
+ *		/TX1\s+/,
+ *		'(', mkReg([
+ *			/(?<taxCurrency1>[A-Z]{3})\s+/,
+ *			/(?<taxAmount1>\d*\.?\d+)\s+/,
+ *			/(?<taxCode1>[A-Z0-9]{2})/,
+ *		]), ')?\\s+',
+ *	])
+ */
+const mkReg = (parts, flags) => new RegExp(parts
+    .map(r => typeof r === 'string' ? r : r.source)
+    .join(''), flags);
+
 const parseGarejeiBlock = (p) => {
     const children = [...p.children];
     if (children.length === 0 || children[0] !== p.childNodes[0]) {
         const text = p.textContent;
-        const asQuote = text.match(/^(\s*\*.*?\*\s|)([a-zA-Z.…'\/]+(?:\s+[a-zA-Z.'\/]+){0,2})(\s*\*.*?\*\s|):\s*(\S.*)$/s);
+        const asQuote = text.match(mkReg([
+            /^(\s*\*.*?\*\s|)/,
+            '(',
+            /[a-zA-Z.…'\/\-]+/,
+            /(?:\s+\(?[a-zA-Z.'\/\-]+\)?){0,2}/,
+            ')',
+            /(\s*\*.*?\*\s|):\s*(\S.*)$/,
+        ], 's'));
         if (asQuote) {
             const [, pretext, speaker, posttext, text] = asQuote;
             return [{

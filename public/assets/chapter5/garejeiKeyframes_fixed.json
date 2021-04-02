@@ -224,11 +224,13 @@
     },
     {
       "type": "unknown",
-      "innerHTML": "<strong>Note:</strong> This project is a fairly old work of mine, written and translated back in 2012, when I was still just starting out as a fan translator — as such, it’s not exactly the highest quality work I’ve ever put out, to say the least. I would’ve deleted it long ago, but since people still seem to be interested in it, I decided to keep it, but felt the need to give this quick warning beforehand."
+      "innerHTML": "<strong>Note:</strong> This project is a fairly old work of mine, written and translated back in 2012, when I was still just starting out as a fan translator — as such, it’s not exactly the highest quality work I’ve ever put out, to say the least. I would’ve deleted it long ago, but since people still seem to be interested in it, I decided to keep it, but felt the need to give this quick warning beforehand.",
+      "text": ""
     },
     {
       "type": "unknown",
-      "innerHTML": "<span id=\"more-307\"></span>"
+      "innerHTML": "<span id=\"more-307\"></span>",
+      "text": ""
     },
     {
       "type": "unknown",
@@ -402,8 +404,9 @@
       "text": "Good work, Minato! You can go home now."
     },
     {
-      "type": "comment",
-      "text": "Tanaka (co-worker): Ah, Minato! Why don’t you take some of these fruits? We received it from a client. I’m sure Subaru and the little Hikaru will be happy."
+      "type": "quote",
+      "speaker": "Tanaka (co-worker)",
+      "text": "Ah, Minato! Why don’t you take some of these fruits? We received it from a client. I’m sure Subaru and the little Hikaru will be happy."
     },
     {
       "type": "image",
