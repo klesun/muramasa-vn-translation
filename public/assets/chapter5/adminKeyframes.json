@@ -91,10 +91,17 @@
     "rowSpan": 1
 },
 {
-    "garejeiIndex":50,
-    "garejei": "No way! Minato isn’t a glutton like that. Unlike you, boss.",
-    "googleIndex":176,
-    "google": "\"I haven't said that. Seniors aren't that nasty. It's different from the director.\"",
+    "garejeiIndex":45,
+    "garejei": "Good work, Minato! You can go home now.",
+    "googleIndex":170,
+    "google": "\"......... Yeah, no problem. It's okay to go up today. It's past the fixed time, right?\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex":46,
+    "garejei": "Ah, Minato! Why don’t you take some of these fruits? We received it from a client. I’m sure Subaru and the little Hikaru will be happy.",
+    "googleIndex":173,
+    "google": "\"Thank you for your hard work. Oh, Minato-senpai. There is a box of fruits that I got from my business partner in the warehouse, so please bring a little. To Toru and Mitsu-chan.\"",
     "rowSpan": 1
 },
 {
@@ -105,10 +112,10 @@
     "rowSpan": 1
 },
 {
-    "garejeiIndex":45,
-    "garejei": "Good work, Minato! You can go home now.",
-    "googleIndex":170,
-    "google": "\"......... Yeah, no problem. It's okay to go up today. It's past the fixed time, right?\"",
+    "garejeiIndex":50,
+    "garejei": "No way! Minato isn’t a glutton like that. Unlike you, boss.",
+    "googleIndex":176,
+    "google": "\"I haven't said that. Seniors aren't that nasty. It's different from the director.\"",
     "rowSpan": 1
 },
 {
