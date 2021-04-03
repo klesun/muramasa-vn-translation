@@ -1353,8 +1353,8 @@
 {
     "garejeiIndex": 501,
     "garejei": "Were you… were you the one that bandaged me?",
-    "googleIndex": 1866,
-    "google": "\"Then, Mr. Toshi ... This is a bandage. And it will be a gold drug discovery.\"",
+    "googleIndex": 1885,
+    "google": "ololo",
     "rowSpan": 1
 },
 {
@@ -1528,7 +1528,7 @@
 {
     "garejeiIndex": 564,
     "garejei": "I’ll commit suicide.",
-    "googleIndex": 2094,
+    "googleIndex": 2095,
     "google": "Let's get hungry. ...... The thought eventually settled there.",
     "rowSpan": 1
 },
@@ -1545,6 +1545,13 @@
     "googleIndex": 2101,
     "google": "After returning to the mountain and explaining the situation to his younger brothers. It's a shame that I've been breached twice, and at least to apologize for this.",
     "rowSpan": 1
+},
+{
+    "garejeiIndex": 571,
+    "garejei": "...",
+    "googleIndex": 2102,
+    "google": "ololo",
+    "rowSpan": 0
 },
 {
     "garejeiIndex": 572,
@@ -1572,7 +1579,7 @@
     "garejei": "Suddenly, a noise can be heard from the other room",
     "googleIndex": 2144,
     "google": "\"...?\"",
-    "rowSpan": 1
+    "rowSpan": 0
 },
 {
     "garejeiIndex": 579,
@@ -1747,7 +1754,7 @@
     "garejei": "It is a miracle in itself that you were able to keep her alive for a whole year under these conditions. It is all thanks to your and your mother’s continued devotion to her care, as well as the strong willpower of the patient herself. As for her physical condition… I am worried about complications, but once her strength returns, she will mostly be free of that danger. However, this is all I can do for her right now.",
     "googleIndex": 2276,
     "google": "\"It's amazing that critically ill patients have survived at the medical level in this country for a year. In addition to the devoted care of their families, the patients themselves have been physically and mentally strong. Let's do it",
-    "rowSpan": 3
+    "rowSpan": 4
 },
 {
     "garejeiIndex": 612,
@@ -1794,9 +1801,9 @@
 {
     "garejeiIndex": 621,
     "garejei": "You idiot! Listen to me, Kageaki. I just went to check on Hikaru. She was sleeping like a baby. I haven’t seen her that much at peace in a long while. So don’t you give up hope that easily… you hear me, Kageaki? Don’t dwell on the past. Always look ahead. Don’t think about what would’ve happened if you had chosen a different path in life. Your eyes should always be fixated on what is in front of you. Got it?",
-    "googleIndex": 2320,
+    "googleIndex": 2322,
     "google": "\"fool\"",
-    "rowSpan": 10
+    "rowSpan": 8
 },
 {
     "garejeiIndex": 623,
@@ -1892,9 +1899,9 @@
 {
     "garejeiIndex": 655,
     "garejei": "A blade exists for the sake of violence, nothing more. Swung only for the sake of shedding blood. Naming myself as just, labeling the enemy as evil – ’tis the only path I follow.",
-    "googleIndex": 2499,
+    "googleIndex": 2500,
     "google": "《Takeshi is just a raging power》",
-    "rowSpan": 1
+    "rowSpan": 0
 },
 {
     "garejeiIndex": 657,
@@ -2952,4 +2959,18 @@
     "googleIndex": 1439,
     "google": "――Fool, I have to be a brute to control the brute. No need for katakiuchi. I've kept it concise, but it will convey what I need to convey.",
     "rowSpan": 0
+},
+{
+    "garejeiIndex": 503,
+    "garejei": "Yes, I took care of your wounds.",
+    "googleIndex": 1886,
+    "google": "\"Yes, I am\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 509,
+    "garejei": "Yes. I had to be able to react quickly in case your condition was about to worsen, and after considering your… “circumstances”, I couldn’t call a doctor from the town, either.",
+    "googleIndex": 1897,
+    "google": "\"I gave first aid, but I'm not a specialist in medical care for minutes. I don't know when and what kind of condition will change .... But if you think it's convenient, you can call a doctor lightly. Zu \"",
+    "rowSpan": 2
 },

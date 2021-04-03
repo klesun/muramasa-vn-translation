@@ -35,8 +35,9 @@ const addGarejeiAt = async (dirPath, gareDir) => {
         } else if (garejeiBlock.type === 'innerThought') {
             displayText = garejeiBlock.text;
         } else if (garejeiBlock.type === 'quote') {
-            displayText = '"' + garejeiBlock.text + (garejeiBlock.speaker ? '" - ' + garejeiBlock.speaker : '');
+            displayText = '"' + garejeiBlock.text + '"' + (garejeiBlock.speaker ? ' - ' + garejeiBlock.speaker : '');
         }
+        // TODO: support when multiple garejei blocks match single google block
         if (displayText) {
             displayText = '🕸 ' + displayText;
             const keyframe = gareToKeyframe.get(garejeiIndex);

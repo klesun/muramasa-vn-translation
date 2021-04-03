@@ -34,6 +34,16 @@ const shiftChunk = (headTr, keyframe) => {
             alert(msg);
             return;
         } else if (tr.querySelector('.gareji-holder > *')) {
+            if (targetTrs.length > 0) {
+                // TODO: support
+                // // sometimes it's two blocks in Garejei blog, but in the game it's actually single block
+                // const cutoutText = chunkGarejeiDoms[i]
+                //     .querySelector('.garejei-sentence-text').textContent;
+                // targetTrs.slice(-1)[0]
+                //     .querySelector('.gareji-holder > *')
+                //     .appendChild(Dom('div', {}, cutoutText));
+                // continue;
+            }
             const msg = `Row #${targetGoogleIndex + i} has existing garejei sentence, tried to move ${headTr.innerHTML}`;
             alert(msg);
             return;
