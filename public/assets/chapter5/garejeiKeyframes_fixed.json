@@ -1205,8 +1205,9 @@
       "src": "./Full Metal Daemon Muramasa – Plot summary_translation – Chapter 5 _ gareblogs_files/e26.jpg"
     },
     {
-      "type": "comment",
-      "text": "Kageaki’s (foster) father: Subaru… I know this is sudden, but.."
+      "type": "quote",
+      "speaker": "Kageaki’s (foster) father",
+      "text": "Subaru… I know this is sudden, but.."
     },
     {
       "type": "quote",
@@ -1214,8 +1215,9 @@
       "text": "Yes?"
     },
     {
-      "type": "comment",
-      "text": "Kageaki’s father: I’m thinking of adopting him."
+      "type": "quote",
+      "speaker": "Kageaki’s father",
+      "text": "I’m thinking of adopting him."
     },
     {
       "type": "quote",
