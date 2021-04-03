@@ -52,6 +52,7 @@ const parseGarejeiBlock = (p) => {
             ')',
             /(\s*\*.*?\*\s|):\s*(\S.*)$/,
         ], 's'));
+        const asAnonQuote = text.match(/^\s*[“”"]\s*(\S.*)[“”"]\s*$/);
         if (asQuote) {
             const [, pretext, speaker, posttext, text] = asQuote;
             return [{
@@ -59,6 +60,9 @@ const parseGarejeiBlock = (p) => {
                 ...pretext ? {pretext} : {},
                 ...posttext ? {posttext} : {},
             }];
+        } else if (asAnonQuote) {
+            const [, text] = asAnonQuote;
+            return [{type: 'quote', speaker: '', text}];
         } else {
             return [{type: 'comment', text: p.textContent}];
         }

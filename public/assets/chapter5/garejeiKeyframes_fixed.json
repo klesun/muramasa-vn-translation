@@ -363,8 +363,9 @@
       "text": "The mother repeats the words."
     },
     {
-      "type": "comment",
-      "text": "“This child has no father.”"
+      "type": "quote",
+      "speaker": "",
+      "text": "This child has no father."
     },
     {
       "type": "image",
@@ -375,8 +376,9 @@
       "text": "I… have no father. This person… is not my father."
     },
     {
-      "type": "comment",
-      "text": "“You cannot love this child.”"
+      "type": "quote",
+      "speaker": "",
+      "text": "You cannot love this child."
     },
     {
       "type": "innerThought",
@@ -2345,8 +2347,9 @@
       "text": "When you are in a race against the clock, you do not have the luxury of following the ideals represented by my mother’s words. I left her a letter with a very simple message."
     },
     {
-      "type": "comment",
-      "text": "“Do not avenge me.”"
+      "type": "quote",
+      "speaker": "",
+      "text": "Do not avenge me."
     },
     {
       "type": "comment",
@@ -2809,8 +2812,9 @@
       "text": "I have to. There is no other way."
     },
     {
-      "type": "comment",
-      "text": "“I’ll have to slip out of here, first…”"
+      "type": "quote",
+      "speaker": "",
+      "text": "I’ll have to slip out of here, first…"
     },
     {
       "type": "innerThought",
@@ -4006,24 +4010,27 @@
       "src": "./Full Metal Daemon Muramasa – Plot summary_translation – Chapter 5 _ gareblogs_files/e98.jpg"
     },
     {
-      "type": "comment",
-      "text": "“Meet a demon – slay the demon.”"
+      "type": "quote",
+      "speaker": "",
+      "text": "Meet a demon – slay the demon."
     },
     {
       "type": "innerThought",
       "text": "I uttered those dreadful words…"
     },
     {
-      "type": "comment",
-      "text": "“Meet a saint – slay the saint.”"
+      "type": "quote",
+      "speaker": "",
+      "text": "Meet a saint – slay the saint."
     },
     {
       "type": "innerThought",
       "text": "…without fully understanding the meaning behind them."
     },
     {
-      "type": "comment",
-      "text": "“Therein lies… the way of the sword.”"
+      "type": "quote",
+      "speaker": "",
+      "text": "Therein lies… the way of the sword."
     },
     {
       "type": "comment",

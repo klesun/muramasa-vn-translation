@@ -753,7 +753,7 @@
     "garejei": "I intended it as a joke, but Hikaru didn’t see it as such. She remained silent. The final trial was cutting the helmet in two. However, it was by design an impossible task. The helmet was made in a way so that it cannot be completely cut in half. It was not supposed to be. The point of this exam was for the wielder of the sword to realize his or her own limits as a human being.",
     "googleIndex": 897,
     "google": "I intended to be a joke, but the light didn't come on. I'm down and pondering. ...... I think it's not just because of the poorness of the joke. There is no usual room in the current light.",
-    "rowSpan": 0
+    "rowSpan": 1
 },
 {
     "garejeiIndex": 275,
@@ -2548,17 +2548,31 @@
     "rowSpan": 2
 },
 {
+    "garejeiIndex": 830,
+    "garejei": "Meet a demon – slay the demon.",
+    "googleIndex": 3404,
+    "google": "\"Meet the demon ... Slash the demon\"",
+    "rowSpan": 1
+},
+{
     "garejeiIndex": 831,
     "garejei": "I uttered those dreadful words…",
-    "googleIndex": 3407,
-    "google": "Without knowing the meaning.",
+    "googleIndex": 3405,
+    "google": "ololo",
     "rowSpan": 1
+},
+{
+    "garejeiIndex": 832,
+    "garejei": "Meet a saint – slay the saint.",
+    "googleIndex": 3406,
+    "google": "ololo",
+    "rowSpan": 0
 },
 {
     "garejeiIndex": 833,
     "garejei": "…without fully understanding the meaning behind them.",
-    "googleIndex": 3409,
-    "google": "―――― I made a pledge.",
+    "googleIndex": 3407,
+    "google": "ololo",
     "rowSpan": 1
 },
 {
@@ -2910,4 +2924,32 @@
     "googleIndex": 714,
     "google": "\"Series ...\"",
     "rowSpan": 1
+},
+{
+    "garejeiIndex": 271,
+    "garejei": "If only I was stronger…",
+    "googleIndex": 889,
+    "google": "\"Not enough power\"",
+    "rowSpan": 1
+},
+{
+    "garejeiIndex": 451,
+    "garejei": "Hmpf. No, I’m going to take your head instead. I’m sure it’ll make me feel better, too.",
+    "googleIndex": 1396,
+    "google": "\"That's it. But this is also this.\"",
+    "rowSpan": 2
+},
+{
+    "garejeiIndex": 39,
+    "garejei": "You cannot love this child.",
+    "googleIndex": 156,
+    "google": "〝This child ……",
+    "rowSpan": 0
+},
+{
+    "garejeiIndex": 467,
+    "garejei": "Do not avenge me.",
+    "googleIndex": 1439,
+    "google": "――Fool, I have to be a brute to control the brute. No need for katakiuchi. I've kept it concise, but it will convey what I need to convey.",
+    "rowSpan": 0
 },
