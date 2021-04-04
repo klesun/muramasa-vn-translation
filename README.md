@@ -10,25 +10,25 @@ ________________________________
 - Create a [github account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you don't have one
 - Navigate to the `translated_sentences.txt` file containing the chapter for which you want to submit a correction:
     - Common Route Chapter 5
-        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/chapter5/translated_sentences.txt) \#50-61
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ma_common_route/ma05_star_craft/translated_sentences.txt) \#50-61
     - Hero Route
-        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route/rec1/translated_sentences.txt) \#62
-        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route/rec2/translated_sentences.txt) \#63-66
-        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ayane_route/rec3/translated_sentences.txt) \#67
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/mb_hero_route/rec1/translated_sentences.txt) \#62
+        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/mb_hero_route/rec2/translated_sentences.txt) \#63-66
+        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/mb_hero_route/rec3/translated_sentences.txt) \#67
     - Revenge Route
-        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec1/translated_sentences.txt) \#68
-        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec2/translated_sentences.txt) \#69
-        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec3/translated_sentences.txt) \#70
-        - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/ootori_route/rec4/translated_sentences.txt) \#71-73
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/mc_revenge_route/rec1/translated_sentences.txt) \#68
+        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/mc_revenge_route/rec2/translated_sentences.txt) \#69
+        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/mc_revenge_route/rec3/translated_sentences.txt) \#70
+        - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/mc_revenge_route/rec4/translated_sentences.txt) \#71-73
     - Tyrant Route
-        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec1/translated_sentences.txt) \#74
-        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec2/translated_sentences.txt) \#75
-        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec3/translated_sentences.txt) \#76-78
-        - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec4/translated_sentences.txt) \#79
-        - [Recording 5](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec5/translated_sentences.txt) \#80
-        - [Recording 6](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec6/translated_sentences.txt) \#81
-        - [Recording 7](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec7/translated_sentences.txt) \#82
-        - [Recording 8](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/devil_route/rec8/translated_sentences.txt) \#83-85
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/md_devil_route/rec1/translated_sentences.txt) \#74
+        - [Recording 2](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/md_devil_route/rec2/translated_sentences.txt) \#75
+        - [Recording 3](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/md_devil_route/rec3/translated_sentences.txt) \#76-78
+        - [Recording 4](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/md_devil_route/rec4/translated_sentences.txt) \#79
+        - [Recording 5](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/md_devil_route/rec5/translated_sentences.txt) \#80
+        - [Recording 6](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/md_devil_route/rec6/translated_sentences.txt) \#81
+        - [Recording 7](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/md_devil_route/rec7/translated_sentences.txt) \#82
+        - [Recording 8](https://github.com/klesun/muramasa-vn-translation/blob/master/assets/recordings/md_devil_route/rec8/translated_sentences.txt) \#83-85
 - Hit the _Edit_ button (pencil icon)
     ![image](https://user-images.githubusercontent.com/5202330/111995352-8070f480-8b21-11eb-8797-344e417dd109.png)
 - Edit the translation lines. If possible, try to focus on a random place in the file to avoid conflicting with other contributors.

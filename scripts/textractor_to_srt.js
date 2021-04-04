@@ -23,7 +23,7 @@ const parseObsTimestamp = (fileName) => {
     return new Date(normalized).getTime();
 };
 
-const chapterDir = __dirname + '/../assets/recordings/devil_route/rec8';
+const chapterDir = __dirname + '/../assets/recordings/md_devil_route/rec8';
 
 const parseTranslatorBlock = (lineTimingText) => {
     const lines = lineTimingText.split(/(?:\r\n|\n)/);
