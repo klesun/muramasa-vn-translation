@@ -1,0 +1,210 @@
+[
+    {
+      "garejeiIndex": 24,
+      "garejei": "Ahahahahahaha!! What did you see? What did you see?!",
+      "googleIndex": 129,
+      "google": "《Hahahahahahaha! What did you see? What did you see! 》",
+      "dist": 14,
+      "distDiff": 21
+    },
+    {
+      "garejeiIndex": 38,
+      "garejei": "I… have no father. This person… is not my father.",
+      "googleIndex": 155,
+      "google": "-This person is not my father.",
+      "dist": 25,
+      "distDiff": 8
+    },
+    {
+      "garejeiIndex": 40,
+      "garejei": "I am… not loved by that person.",
+      "googleIndex": 157,
+      "google": "I-I'm not loved by this person.",
+      "dist": 11,
+      "distDiff": 11
+    },
+    {
+      "garejeiIndex": 42,
+      "garejei": "The moment when Minato Hikaru was robbed of her father by her own mother.",
+      "googleIndex": 162,
+      "google": "The moment when Minato Mitsuru's father was robbed by his mother.",
+      "dist": 37,
+      "distDiff": 13
+    },
+    {
+      "garejeiIndex": 51,
+      "garejei": "Ah, but do take some for yourself, Minato. It would only go to waste if we left it all to rot here.",
+      "googleIndex": 178,
+      "google": "\"Ah, but please bring your own, senior. I have a drink, and it's a waste if I leave it rotten.\"",
+      "dist": 66,
+      "distDiff": 8
+    },
+    {
+      "garejeiIndex": 63,
+      "garejei": "I’m not saying it’s an absolute rule or any such thing. But there’s a good reason for “old-fashioned” things like that to exist, Hikaru. You can’t just sweep it under the rug by screaming “discrimination”.",
+      "googleIndex": 211,
+      "google": "\"I'm not saying it in a general way. But there is a reason for the custom that has been going on since ancient times. I can't admit that I don't scrutinize it and just deny it with a single word of discrimination.\"",
+      "dist": 139,
+      "distDiff": 15
+    },
+    {
+      "garejeiIndex": 64,
+      "garejei": "I see, that is indeed true. But the reason you speak if is the age-old tradition of men fighting while women protect the household. We’re living in modern times, though: there are plenty of men who cannot fight, and plenty of women who know nothing about keeping a household.",
+      "googleIndex": 212,
+      "google": "\"I see. That's justified. But the reason is that the man fights outside, the woman protects the house ... it's all about the ancient division of roles.\"",
+      "dist": 201,
+      "distDiff": 7
+    },
+    {
+      "garejeiIndex": 65,
+      "garejei": "That is true. But no one can claim for certain which way of thinking is the correct one. Especially the latter group.",
+      "googleIndex": 214,
+      "google": "\"That's true, but I can't tell anyone that it's right, especially the latter ...\"",
+      "dist": 74,
+      "distDiff": 11
+    },
+    {
+      "garejeiIndex": 78,
+      "garejei": "…except for one thing. You hardly even realize how good a wedding dress would look on you.",
+      "googleIndex": 230,
+      "google": "\"Except for one. Light. You don't know how innocent white suits you.\"",
+      "dist": 61,
+      "distDiff": 6
+    },
+    {
+      "garejeiIndex": 90,
+      "garejei": "Of course you can! Now go! We’re running out of ingredients at home, so we’ll have to go shopping right away! First, the tofu shop, then the greengrocers, then the liquor store and finally the fish market!",
+      "googleIndex": 251,
+      "google": "\"No! Let's go, Kagemei. First, the tofu shop. Then, go to the greengrocers, liquor stores, and fishmongers!\"",
+      "dist": 144,
+      "distDiff": 11
+    },
+    {
+      "garejeiIndex": 110,
+      "garejei": "Um… if you would excuse me, my beloved children. What… exactly are you two doing, staring at each other like that?",
+      "googleIndex": 336,
+      "google": "\"... Ah, my children. Why are you guys staring at each other with chopsticks?\"",
+      "dist": 78,
+      "distDiff": 9
+    },
+    {
+      "garejeiIndex": 130,
+      "garejei": "You wouldn’t expect it from how it looks, but… this is really delicious. It differs a bit from the usual seasoning, but it’s not bad at all.",
+      "googleIndex": 391,
+      "google": "\"It's delicious. It's a little different from the usual seasoning, but ... this is pretty good.\"",
+      "dist": 97,
+      "distDiff": 10
+    },
+    {
+      "garejeiIndex": 137,
+      "garejei": "Probably off to wash her hands. Don’t worry about it. Now, go on.",
+      "googleIndex": 395,
+      "google": "\"Isn't it hand-washing? Don't worry about it.\"",
+      "dist": 43,
+      "distDiff": 6
+    },
+    {
+      "garejeiIndex": 161,
+      "garejei": "Ever since then, our days have been like this. Each night, she has a violent seizure, and we somehow manage to calm her. And in the end, I’m always thankful for the fact that she managed to survive yet another day. Each day, I look at her ever-weakening visage and let out a deep sigh. That comprises my daily routine now.",
+      "googleIndex": 474,
+      "google": "Since then, these days have continued. The light was bedridden, had seizures almost every night, calmed it down, managed to sleep, and thanked my sister for surviving today.",
+      "dist": 236,
+      "distDiff": 7
+    },
+    {
+      "garejeiIndex": 178,
+      "garejei": "Who can keep count of that? Not me. But you need to stop phrasing it like I’m the cause of all this.",
+      "googleIndex": 541,
+      "google": "\"Do you count it one by one? And that's it. Also, stop saying that I'm the cause.\"",
+      "dist": 70,
+      "distDiff": 6
+    },
+    {
+      "garejeiIndex": 199,
+      "garejei": "Think about it. They might be former military, but their numbers don’t even reach a hundred. If we gather the men from the town and strike without warning, we can emerge victorious.",
+      "googleIndex": 677,
+      "google": "\"Think about it. They may be regular soldiers, but the number does not reach a hundred. If the men of the town gather and suddenly attack, is there any reason not to win?\"",
+      "dist": 103,
+      "distDiff": 30
+    },
+    {
+      "garejeiIndex": 238,
+      "garejei": "She had a fit last night. Fortunately, it did not escalate any further.",
+      "googleIndex": 753,
+      "google": "\"... I had a seizure last night. Fortunately, it didn't matter.\"",
+      "dist": 35,
+      "distDiff": 13
+    },
+    {
+      "garejeiIndex": 272,
+      "garejei": "I ended up failing right at my final trial, the most important moment of all. What have I been doing these past two years…? I have failed you, Kageaki…",
+      "googleIndex": 891,
+      "google": "\"In the final trial, it takes time and exposes you like this ... What have I been training in the last two years?\"",
+      "dist": 105,
+      "distDiff": 10
+    },
+    {
+      "garejeiIndex": 310,
+      "garejei": "No doubt. Kageaki… are you really going to do this?",
+      "googleIndex": 995,
+      "google": "\"... I believe that. Kageaki, are you really going to do it?\"",
+      "dist": 28,
+      "distDiff": 6
+    },
+    {
+      "garejeiIndex": 340,
+      "garejei": "All of a sudden, my vision went black. It took me a few seconds to realize that I was being tightly hugged by her.",
+      "googleIndex": 1036,
+      "google": "The field of vision was suddenly closed. It took me a few seconds to realize that I was hugging my head.",
+      "dist": 65,
+      "distDiff": 22
+    },
+    {
+      "garejeiIndex": 604,
+      "garejei": "*sigh* Why didn’t you call me sooner?",
+      "googleIndex": 2263,
+      "google": "\"Why didn't you call me earlier?\"",
+      "dist": 18,
+      "distDiff": 6
+    },
+    {
+      "garejeiIndex": 622,
+      "garejei": "Yes. I don’t have the luxury to stop now.",
+      "googleIndex": 2349,
+      "google": "\"Yes. I didn't have time to stop.\"",
+      "dist": 24,
+      "distDiff": 6
+    },
+    {
+      "garejeiIndex": 733,
+      "garejei": "Do I have to explain the meaning of the word to you?",
+      "googleIndex": 3009,
+      "google": "\"Shall I explain the meaning of the word?\"",
+      "dist": 24,
+      "distDiff": 13
+    },
+    {
+      "garejeiIndex": 799,
+      "garejei": "Okay, well… first of all. If you don’t want to die horribly by my hands, you might want to start running now.",
+      "googleIndex": 3290,
+      "google": "\"For now ... if you don't want to die here, you need to run away. The bandit's masterpiece.\"",
+      "dist": 76,
+      "distDiff": 9
+    },
+    {
+      "garejeiIndex": 814,
+      "garejei": "A Tsurugi. The one that called herself “Muramasa”.",
+      "googleIndex": 3350,
+      "google": "劒 冑. It is that helmet that called himself Muramasa.",
+      "dist": 23,
+      "distDiff": 8
+    },
+    {
+      "garejeiIndex": 853,
+      "garejei": "Please…! Stop it! Why are you forcing me to commit such a thing?! Answer me, Muramasa!!",
+      "googleIndex": 3481,
+      "google": "\"Why do you do that? Answer, Muramasa!\"",
+      "dist": 59,
+      "distDiff": 6
+    }
+]
