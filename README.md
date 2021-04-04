@@ -9,7 +9,7 @@ ________________________________
 
 - Create a [github account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you don't have one
 - Navigate to the `translated_sentences.txt` file containing the chapter for which you want to submit a correction:
-    - Common Route Chapter 5
+    - Common Route Chapter 5 "Star Craft"
         - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/public/assets/ma_common_route/ma05_star_craft/translated_sentences.txt) \#50-61
     - Hero Route
         - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/public/assets/mb_hero_route/rec1/translated_sentences.txt) \#62
@@ -29,6 +29,15 @@ ________________________________
         - [Recording 6](https://github.com/klesun/muramasa-vn-translation/blob/master/public/assets/md_devil_route/rec6/translated_sentences.txt) \#81
         - [Recording 7](https://github.com/klesun/muramasa-vn-translation/blob/master/public/assets/md_devil_route/rec7/translated_sentences.txt) \#82
         - [Recording 8](https://github.com/klesun/muramasa-vn-translation/blob/master/public/assets/md_devil_route/rec8/translated_sentences.txt) \#83-85
+    - (Following already translated by Maa-chan, but just in case)
+    - Common Route Chapter 1 "Crimson Craft"
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/public/assets/ma_common_route/ma01_crimson_craft/translated_sentences.txt) \#1-14
+    - Common Route Chapter 2 "Two Old Crafts"
+        - soon
+    - Common Route Chapter 3 "Counterattack Craft"
+        - soon
+    - Common Route Chapter 4 "Sky-Shaking Craft"
+        - [Recording 1](https://github.com/klesun/muramasa-vn-translation/blob/master/public/assets/ma_common_route/ma04_sky_shaking_craft/translated_sentences.txt) \#40-49
 - Hit the _Edit_ button (pencil icon)
     ![image](https://user-images.githubusercontent.com/5202330/111995352-8070f480-8b21-11eb-8797-344e417dd109.png)
 - Edit the translation lines. If possible, try to focus on a random place in the file to avoid conflicting with other contributors.
