@@ -1,0 +1,21 @@
+{
+  "env": {
+    "browser": true,
+    "node": false,
+    "es6": true
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaVersion": 2021
+  },
+  "rules": {
+    "prefer-const": "warn",
+    "indent": ["warn", 4],
+    "semi": ["error", "always"],
+    "no-undef": "error",
+    "comma-dangle": ["warn", {
+      "arrays": "always-multiline",
+      "objects": "always-multiline"
+    }]
+  }
+}
