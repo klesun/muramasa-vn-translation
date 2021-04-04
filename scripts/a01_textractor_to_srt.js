@@ -18,7 +18,7 @@ const parseObsTimestamp = (fileName) => {
         return null;
     }
     const [, datePart, timePart] = match;
-    const normalized = datePart + ' ' + timePart.replace(/-/g, ':') + ' +0200';
+    const normalized = datePart + ' ' + timePart.replace(/-/g, ':') + ' +0300';
 
     return new Date(normalized).getTime();
 };
