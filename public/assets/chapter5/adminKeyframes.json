@@ -2213,17 +2213,17 @@
 },
 {
     "garejeiIndex": 734,
-    "garejei": "No, that won’t be necessary. But I’ll not allow such a thing, Hikaru. You know very well that murder gives birth to nothing but further grudges.",
-    "googleIndex": 3012,
-    "google": "\"Do not pass\"",
-    "rowSpan": 3
+    "garejei": "ololo",
+    "googleIndex": 3014,
+    "google": "ololo",
+    "rowSpan": 1
 },
 {
     "garejeiIndex": 735,
     "garejei": "No, it won’t. Because I’m not planning to leave any survivors.",
-    "googleIndex": 3015,
-    "google": "\"No remaining\"",
-    "rowSpan": 3
+    "googleIndex": 3017,
+    "google": "ololo",
+    "rowSpan": 1
 },
 {
     "garejeiIndex": 736,
@@ -2573,7 +2573,7 @@
     "garejei": "Meet a saint – slay the saint.",
     "googleIndex": 3406,
     "google": "ololo",
-    "rowSpan": 0
+    "rowSpan": 1
 },
 {
     "garejeiIndex": 833,
@@ -2716,6 +2716,13 @@
     "rowSpan": 4
 },
 {
+    "garejeiIndex": 863,
+    "garejei": "ololo",
+    "googleIndex": 3511,
+    "google": "ololo",
+    "rowSpan": 1
+},
+{
     "garejeiIndex": 864,
     "garejei": "Don’t cry, Kageaki. Do you really want to send me off with tears? You truly are such a troublesome son. Right until the very end, you cause me nothing but headaches…",
     "googleIndex": 3512,
@@ -2728,6 +2735,13 @@
     "googleIndex": 3517,
     "google": "\"You're not bad. You didn't kill me. I couldn't fulfill the role of a shrine princess ... I inadvertently allowed Muramasa to release, my responsibility.\"",
     "rowSpan": 3
+},
+{
+    "garejeiIndex": 867,
+    "garejei": "ololo",
+    "googleIndex": 3521,
+    "google": "ololo",
+    "rowSpan": 2
 },
 {
     "garejeiIndex": 868,
@@ -2907,9 +2921,9 @@
 {
     "garejeiIndex": 778,
     "garejei": "What… is this? This ominous feeling, this terrible scenery and sounds, this scent, this touch, this smell, this taste, this fate… just what hell is this?!",
-    "googleIndex": 3233,
+    "googleIndex": 3232,
     "google": "What is this?",
-    "rowSpan": 2
+    "rowSpan": 3
 },
 {
     "garejeiIndex": 795,

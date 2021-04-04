@@ -115,13 +115,14 @@ const placeKeyframes = (keyframes) => {
 };
 
 const main = async () => {
-    const [googleSrtText, garejeiData, adminKeyframesText] = await Promise.all([
+    const [googleSrtText, autoKeyframes, garejeiBlocks, adminKeyframesText] = await Promise.all([
         fetch('./../assets/chapter5/game_recording.eng.srt').then(rs => rs.text()),
-        fetch('./../assets/chapter5/garejeiKeyframes_fixed.json').then(rs => rs.json()),
+        fetch('./../assets/chapter5/autoKeyframes_fixed.json').then(rs => rs.json()),
+        fetch('./../assets/chapter5/garejeiBlocks.json').then(rs => rs.json()),
         fetch('./../assets/chapter5/adminKeyframes.json').then(rs => rs.text()),
     ]);
     const adminKeyframes = JSON.parse(adminKeyframesText + 'null]').slice(0, -1);
-    const keyframes = [...garejeiData.keyframes, ...adminKeyframes];
+    const keyframes = [...autoKeyframes, ...adminKeyframes];
     const googleSrtRecords = googleSrtText
         .trim().split(/\n\n/)
         .map(parseSrtSentence);
@@ -130,7 +131,7 @@ const main = async () => {
         gui.sentences_list.innerHTML = '';
         googleSrtRecords.map(makeTr)
             .forEach(tr => gui.sentences_list.appendChild(tr));
-        putGarejeiBlocks(garejeiData.garejeiBlocks);
+        putGarejeiBlocks(garejeiBlocks);
         placeKeyframes(keyframes);
     };
     regenerate();

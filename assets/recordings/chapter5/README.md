@@ -1,3 +1,12 @@
+Youtube: #50-58, #59 (h-scene), #60-61
+Length: 02:55:22
+
+| yt      | start      | end      | description
+| ----    | ---        | ---      | --------------
+| \#50-58 | 00:00:00   |          |
+| \#63    | 04:08:50.00|          | Boss-Lady h-scene
+| \#64    | 04:17:52.50|          | Chapter 5 ending (as well as Common route's)
+
 ```bash
 # -ss needs to be repeated before each input for correct timing
 # see also https://superuser.com/a/704118/341432

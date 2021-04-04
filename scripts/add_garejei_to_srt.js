@@ -9,10 +9,12 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const addGarejeiAt = async (dirPath, gareDir) => {
     const adminKeyframesStr = await fs.readFile(gareDir + '/adminKeyframes.json');
-    const garejeiKeyframes_fixedStr = await fs.readFile(gareDir + '/garejeiKeyframes_fixed.json');
+    const garejeiKeyframes_fixedStr = await fs.readFile(gareDir + '/autoKeyframes_fixed.json');
+    const garejeiBlocksStr = await fs.readFile(gareDir + '/garejeiBlocks.json');
     const srcSrtText = await fs.readFile(dirPath + '/game_recording.eng.srt', 'utf8');
 
-    const {keyframes, garejeiBlocks} = JSON.parse(garejeiKeyframes_fixedStr);
+    const keyframes = JSON.parse(garejeiKeyframes_fixedStr);
+    const garejeiBlocks = JSON.parse(garejeiBlocksStr);
     const adminKeyframes = JSON.parse(adminKeyframesStr + 'null]').slice(0, -1);
     const srcSrtBlocks = srcSrtText
         .trim().split(/\n\n/)
@@ -29,6 +31,10 @@ const addGarejeiAt = async (dirPath, gareDir) => {
     for (let i = 0; i < garejeiBlocks.length; ++i) {
         const garejeiBlock = garejeiBlocks[i];
         const garejeiIndex = i + 1;
+        if ('text' in garejeiBlock && garejeiBlock.text.match(/^[\s….]*$/)) {
+            continue; // useless, as Gare naturally does not add consistent "..." matching those in the game, as
+                      // that would be meaningless, considering he does not translate every sentence anyway
+        }
         let displayText = null;
         if ((garejeiBlock.type === 'comment' || garejeiBlock.type === 'unknown') && garejeiBlock.text.trimEnd()) {
             commentsBuffer.push(garejeiBlock.text.trimEnd());

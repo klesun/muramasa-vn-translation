@@ -40,17 +40,17 @@ const mkReg = (parts, flags) => new RegExp(parts
     .map(r => typeof r === 'string' ? r : r.source)
     .join(''), flags);
 
-const parseGarejeiBlock = (p) => {
+const parseGarejeiBlock = (p, i) => {
     const children = [...p.children];
     if (children.length === 0 || children[0] !== p.childNodes[0]) {
         const text = p.textContent;
         const asQuote = text.match(mkReg([
-            /^(\s*\*.*?\*\s|)/,
+            /^(\s*\*.*?\*\s*|)/,
             '(',
             /[a-zA-Z.…'’\/\-]+/,
             /(?:\s+\(?[a-zA-Z.'’\/\-]+\)?){0,2}/,
             ')',
-            /(\s*\*.*?\*\s|):\s*(\S.*)$/,
+            /(\s*\*.*?\*\s*|):\s*(\S.*)$/,
         ], 's'));
         const asAnonQuote = text.match(/^\s*[“”"]\s*(\S.*)[“”"]\s*$/);
         if (asQuote) {
@@ -68,7 +68,7 @@ const parseGarejeiBlock = (p) => {
         }
     } else if (children.every(c => c.tagName === 'EM')) {
         const text = p.textContent.trimEnd();
-        return [{type: 'innerThought', text}];
+        return [{type: i < 3 ? 'webpageTechnicalPart' : 'innerThought', text}];
     } else if (children.every(c => c.tagName === 'A' && c.querySelector('img'))) {
         return children.map(c => {
             const img = c.querySelector('img');
@@ -143,7 +143,6 @@ const main = async () => {
 
     const keyframes = [];
 
-    //console.log('garejeiBlocks', garejeiBlocks.slice(0, 50));
     for (let i = 0; i < garejeiBlocks.length; ++i) {
         const block = garejeiBlocks[i];
         if (block.type === 'quote' || block.type === 'innerThought') {
@@ -169,9 +168,8 @@ const main = async () => {
         }
     }
 
-    const result = {keyframes, garejeiBlocks};
-
-    await fs.writeFile(chapterDir + '/garejeiKeyframes.json', JSON.stringify(result));
+    await fs.writeFile(chapterDir + '/autoKeyframes.json', JSON.stringify(keyframes, null, 4));
+    await fs.writeFile(chapterDir + '/garejeiBlocks.json', JSON.stringify(garejeiBlocks, null, 4));
 };
 
 main().catch(exc => {
