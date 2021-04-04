@@ -60,11 +60,11 @@ I'll push all extracted and translated text to this repo - feel free to make pul
 - ~~Get the game~~ Done: the [official site](http://www.fmd-muramasa.com/spec/) has a list of web stores where it can be bought using credit card, I [used dlsite.com](https://www.dlsite.com/pro/work/=/product_id/VJ010347.html). Installing this game from multipart rar archive and f*cking with locale issues deserve a separate article, but if I do everything right, you won't need that.
 - ~~Make a plan of the routes.~~ [see here](https://klesun.github.io/muramasa-vn-translation/docs/saiga_guide_eng.html)
 - Record each possible route with additionally logging the text and timestamps using Textractor
-    - ~~Hero~~
-    - ~~Revenge~~
-    - ~~Demon~~
-    - ~~Evil Demon~~
-    - ~~True End~~
+    - ~~Hero - 英雄編 - `mb`~~
+    - ~~Revenge - 復讐編 - `mc`~~
+    - ~~Demon - 魔王編 - `md01-md05`~~
+    - ~~Evil Demon - エピローグ - `md06_001-md06_003` ~~
+    - ~~True End - 悪鬼編 - `md06_004` ~~
     - Bad Endings
 - ~~Cleanup and organize recorded videos and texts into a folder hierarchy according to the [routes guide](https://seiya-saiga.com/game/nitroplus/muramasa.html)~~
 - ~~Generate youtube-format captions~~
@@ -101,3 +101,5 @@ Along the way I'll possibly write a small web app that will continuously eat the
 ______________________
 
 Manual from the game installation directory: [here](https://klesun.github.io/muramasa-vn-translation/docs/Manual/)
+
+![easter egg](https://www.nitroplus.co.jp/secret/muramasamune/img/namanikuATK.jpg)
