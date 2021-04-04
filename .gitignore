@@ -1,5 +1,5 @@
 /.idea/
 /node_modules/
 .DS_Store
-/assets/**/*.eng.srt
-/assets/**/jpnLines.html
+/public/assets/**/*.eng.srt
+/public/assets/**/jpnLines.html
