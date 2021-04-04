@@ -156,7 +156,7 @@ ${newJpnSentences.join('\n')}
                 </pre>
             </body>
         `;
-        await fs.writeFile(dirPath + '/jpnLines.html', jpnLinesHtml)
+        await fs.writeFile(dirPath + '/jpnLines.html', jpnLinesHtml);
     }
 };
 

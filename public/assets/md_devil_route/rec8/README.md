@@ -1,6 +1,8 @@
 Youtube: #83, #84 (h-scene), #85
 Length: 4:30:22
 
+Gareblog: https://klesun.github.io/muramasa-vn-translation/docs/garejei_mirror/Tyrant%20%E2%80%93%20Part%209%20(FINAL)%20_%20gareblogs.htm
+
 | yt   | start      | end      | description                                                                                           | link
 | ---- | ---        | ---      | --------------                                                                                        | ----------
 | \#83 | 00:00:00   |          | solved Hikaru's puzzle, end of battle, aftermath                                                      | https://www.youtube.com/watch?v=I-6DbEWJdVg&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ

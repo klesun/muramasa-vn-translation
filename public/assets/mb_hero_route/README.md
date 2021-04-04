@@ -1,5 +1,7 @@
 Two H-Scenes in the recording, so divided to 4 parts
 
+Gareblog: https://klesun.github.io/muramasa-vn-translation/docs/garejei_mirror/Hero%20(Ichijou%E2%80%99s%20Route%20finale)%20_%20gareblogs.htm
+
 | yt      | start      | end      | description                       | link
 | ------- | ---        | ---      | --------------                    | -------
 | \#62    | 00:00:00   |          | rec1                              | https://www.youtube.com/watch?v=HHU4Nppwp3g&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
@@ -8,4 +10,3 @@ Two H-Scenes in the recording, so divided to 4 parts
 | \#65    | 08:56:24.5 |          | rec2: Ayane H-Scene               | https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_65_nsfw_ayane:e
 | \#66    |            | 11:25:00 | rec2                              | https://www.youtube.com/watch?v=vEBhTr-AfHQ&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
 | \#67    |            |          | rec3                              | https://www.youtube.com/watch?v=WjPs3cEbLmE&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
-

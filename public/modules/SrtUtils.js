@@ -41,17 +41,17 @@ export const parseSrtSentence = (block) => {
  */
 export const parseSentenceTranslationsFile = (translatedSentencesText) => {
     return translatedSentencesText
-    .trim().split(/(?:\r\n|\n){2}/)
-    .map(lineTranslationText => {
-        let [jpn, eng] = lineTranslationText
-          .split(/(?:\r\n|\n)/);
-        eng = eng.trim()
-          // tags have special meaning in srt apparently
-          .replace(/^\s*<</, '《')
-          .replace(/>>$/, '》')
-          // fixing google translate artifacts on some input
-          .replace(/^\s*"(.*)》/, '《$1》')
-          .replace(/^\s*《(.*)"/, '《$1》');
-        return [jpn.trim(), eng];
-    });
+        .trim().split(/(?:\r\n|\n){2}/)
+        .map(lineTranslationText => {
+            let [jpn, eng] = lineTranslationText
+                .split(/(?:\r\n|\n)/);
+            eng = eng.trim()
+                // tags have special meaning in srt apparently
+                .replace(/^\s*<</, '《')
+                .replace(/>>$/, '》')
+                // fixing google translate artifacts on some input
+                .replace(/^\s*"(.*)》/, '《$1》')
+                .replace(/^\s*《(.*)"/, '《$1》');
+            return [jpn.trim(), eng];
+        });
 };

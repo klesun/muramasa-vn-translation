@@ -3,7 +3,7 @@ import { promises as fs } from 'fs';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 import FastestLevenshtein from 'fastest-levenshtein';
-import {parseSrtSentence} from "../public/modules/SrtUtils.js";
+import {parseSentenceTranslationsFile, parseSrtSentence} from "../public/modules/SrtUtils.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const {distance, closest} = FastestLevenshtein;
@@ -32,13 +32,7 @@ const main = async () => {
 
     const garejeiBlocks = JSON.parse(garejeiBlocksStr);
     const japToEng = new Map(
-        translatedSentencesText
-            .trim().split(/(?:\r\n|\n){2}/)
-            .map(lineTranslationText => {
-                return lineTranslationText
-                    .split(/(?:\r\n|\n)/)
-                    .map(l => l.trim());
-            })
+        parseSentenceTranslationsFile(translatedSentencesText)
     );
 
     const translateBlock = parsedBlock => {
@@ -46,15 +40,7 @@ const main = async () => {
         if (!japToEng.get(japLine.trim())) {
             throw new Error('Missing translation for: ' + japLine);
         }
-        parsedBlock.sentence = japToEng
-            .get(japLine.trim())
-            // tags have special meaning in srt apparently
-            .replace(/^\s*<</, '《')
-            .replace(/>>$/, '》')
-            // fixing google translate artifacts on some input
-            .replace(/^\s*"(.*)》/, '《$1》')
-            .replace(/^\s*《(.*)"/, '《$1》')
-        ;
+        parsedBlock.sentence = japToEng.get(japLine.trim());
 
         return parsedBlock;
     };
