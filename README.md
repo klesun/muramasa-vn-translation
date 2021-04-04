@@ -4,7 +4,7 @@
 #### Full Playlist: https://www.youtube.com/playlist?list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
 ________________________________
 
-# How to contribute
+# How you can contribute
 ### (make corrections for obvious mistakes in machine translation)
 
 - Create a [github account](https://github.com/join?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home) if you don't have one
