@@ -16,7 +16,7 @@ const {distance, closest} = FastestLevenshtein;
  */
 
 const garejeiPath = __dirname + '/../docs/garejei_mirror/Chapter 5 _ gareblogs.htm';
-const chapterDir = __dirname + '/../assets/recordings/chapter5';
+const chapterDir = __dirname + '/../assets/recordings/ma_common_route/ma05_star_craft';
 const translatedSentencesPath = chapterDir + '/translated_sentences.txt';
 const srcSrtPath = chapterDir + '/game_recording.jpn.srt';
 

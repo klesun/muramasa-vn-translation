@@ -20,17 +20,17 @@ const collectKanjiToRomaji = async (dirPath) => {
             wordPairs.push([kan, rom]);
             if (kanWords.length === romWords.length) {
                 for (let i = 0; i < kanWords.length; ++i) {
-                    if (kanWords[i] === '統' && !dirPath.endsWith('/chapter5')) {
+                    if (kanWords[i] === '統' && !dirPath.endsWith('/ma05_star_craft')) {
                         // "subaru" is very frequently used word in Japanese
                         wordPairs.push(['統様', 'Subaru-sama']);
                     } else if (kanWords[i] === '卓' && !dirPath.endsWith('/chapter3')) {
                         // skip, frequently used word "suguru", something like table
                     } else if (kanWords[i] === '操' && !dirPath.endsWith('/chapter3')) {
                         // skip, frequently used word "misao", apparently it means something
-                    } else if (kanWords[i] === '光' && !dirPath.endsWith('/chapter5')
-                            && !dirPath.match('/devil_route/rec\d+')
-                            && !dirPath.endsWith('/ayane_route/rec2')
-                            && !dirPath.endsWith('/ayane_route/rec3')
+                    } else if (kanWords[i] === '光' && !dirPath.endsWith('/ma05_star_craft')
+                            && !dirPath.match('/md_devil_route/rec\d+')
+                            && !dirPath.endsWith('/mb_hero_route/rec2')
+                            && !dirPath.endsWith('/mb_hero_route/rec3')
                     ) {
                         // skip, frequently used word "hikaru", light
                     } else {
@@ -58,6 +58,7 @@ const collectKanjiToRomaji = async (dirPath) => {
     // Some historical dude, google translates it as
     // Minamoto, but Kageaki says specifically Genzanmi
     kanjiToRomaji.set('源三位', 'Genzanmi (3rd)');
+    kanjiToRomaji.set('騎', 'craft'); // that's how Maa-chan translated it, I believe it's a common word to refer to both tsurugis and dragoons
 
     return kanjiToRomaji;
 };
