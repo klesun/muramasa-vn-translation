@@ -116,10 +116,10 @@ const placeKeyframes = (keyframes) => {
 
 const main = async () => {
     const [googleSrtText, autoKeyframes, garejeiBlocks, adminKeyframesText] = await Promise.all([
-        fetch('./../assets/chapter5/game_recording.eng.srt').then(rs => rs.text()),
-        fetch('./../assets/chapter5/autoKeyframes_fixed.json').then(rs => rs.json()),
-        fetch('./../assets/chapter5/garejeiBlocks.json').then(rs => rs.json()),
-        fetch('./../assets/chapter5/adminKeyframes.json').then(rs => rs.text()),
+        fetch('./../public/assets/ma_common_route/ma05_star_craft/game_recording.eng.srt').then(rs => rs.text()),
+        fetch('./../public/assets/ma_common_route/ma05_star_craft/autoKeyframes_fixed.json').then(rs => rs.json()),
+        fetch('./../public/assets/ma_common_route/ma05_star_craft/garejeiBlocks.json').then(rs => rs.json()),
+        fetch('./../public/assets/ma_common_route/ma05_star_craft/adminKeyframes.json').then(rs => rs.text()),
     ]);
     const adminKeyframes = JSON.parse(adminKeyframesText + 'null]').slice(0, -1);
     const keyframes = [...autoKeyframes, ...adminKeyframes];

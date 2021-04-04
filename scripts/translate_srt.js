@@ -1,7 +1,7 @@
 
 import { promises as fs } from 'fs';
 import {joinSrtBlockParts, parseSentenceTranslationsFile, parseSrtSentence} from "../public/modules/SrtUtils.js";
-import {RECORDING_LOCATIONS} from "../assets/assets_index.js";
+import {RECORDING_LOCATIONS} from "../backend/assets_index.js";
 
 const translateAt = async ({
     chapterDir,

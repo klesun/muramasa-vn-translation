@@ -1,6 +1,6 @@
 
 import { promises as fs } from 'fs';
-import {CHAPTER5_REC1_DIR, RECORDING_LOCATIONS} from "../assets/assets_index.js";
+import {CHAPTER5_REC1_DIR, RECORDING_LOCATIONS} from "../backend/assets_index.js";
 
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';

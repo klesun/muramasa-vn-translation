@@ -1,4 +1,4 @@
-import {RECORDING_LOCATIONS} from "../assets/assets_index.js";
+import {RECORDING_LOCATIONS} from "../backend/assets_index.js";
 import {promises as fs} from "fs";
 import {parseSentenceTranslationsFile} from "../public/modules/SrtUtils.js";
 import {dirname} from 'path';
@@ -10,7 +10,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
  * @return {Map<string, string>}
  */
 const collectKanjiToRomaji = async (dirPath) => {
-    const characterNamesText = await fs.readFile(__dirname + '/../assets/character_names.json', 'utf8');
+    const characterNamesText = await fs.readFile(__dirname + '/../public/assets/character_names.json', 'utf8');
     const characterNames = JSON.parse(characterNamesText);
     const kanjiToRomaji = new Map(
         characterNames.flatMap(([kan, rom]) => {
