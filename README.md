@@ -101,3 +101,5 @@ Along the way I'll possibly write a small web app that will continuously eat the
 ______________________
 
 Manual from the game installation directory: [here](https://klesun.github.io/muramasa-vn-translation/docs/Manual/)
+
+![easter egg](https://www.nitroplus.co.jp/secret/muramasamune/img/namanikuATK.jpg)
