@@ -6,6 +6,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 export const CHAPTER5_REC1_DIR = __dirname + '/../public/assets/ma_common_route/ma05_star_craft';
 
 export const RECORDING_LOCATIONS = [
+  [__dirname + '/../public/assets/ma_common_route/ma01_crimson_craft'],
+  [__dirname + '/../public/assets/ma_common_route/ma04_sky_shaking_craft'],
   [__dirname + '/../public/assets/ma_common_route/ma03_counterattack_craft', 'game_recording_during_h'],
   [CHAPTER5_REC1_DIR],
   [CHAPTER5_REC1_DIR, 'game_recording_during_h'],

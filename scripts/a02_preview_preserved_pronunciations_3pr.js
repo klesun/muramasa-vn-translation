@@ -59,7 +59,7 @@ const collectKanjiToRomaji = async (dirPath) => {
     // Minamoto, but Kageaki says specifically Genzanmi
     kanjiToRomaji.set('源三位', 'Genzanmi (3rd)');
     kanjiToRomaji.set('騎', 'craft'); // that's how Maa-chan translated it, I believe it's a common word to refer to both tsurugis and dragoons
-
+    kanjiToRomaji.set('入道', 'Nyudo'); // that's how servant boy (girl?) refers to the bald monk from Rokuhara
     return kanjiToRomaji;
 };
 
@@ -145,7 +145,7 @@ const main = async () => {
             }
             newJpnSentences.push(jpn);
         }
-        console.log('huj newJpnSentences', JSON.stringify(newJpnSentences));
+        //console.log('huj newJpnSentences', JSON.stringify(newJpnSentences));
         const jpnLinesHtml = `
             <head>
                 <meta charset="utf8"/>
