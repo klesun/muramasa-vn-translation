@@ -1,0 +1,1 @@
+Gareblog: https://klesun.github.io/muramasa-vn-translation/docs/garejei_mirror/Revenge%20(Kanae%E2%80%99s%20Route%20finale)%20_%20gareblogs.htm
