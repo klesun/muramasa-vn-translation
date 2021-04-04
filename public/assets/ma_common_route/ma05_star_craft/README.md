@@ -1,11 +1,10 @@
 Youtube: #50-58, #59 (h-scene), #60-61
-Length: 02:55:22
 
-| yt      | start      | end      | description
-| ----    | ---        | ---      | --------------
-| \#50-58 | 00:00:00   |          |
-| \#63    | 04:08:50.00|          | Boss-Lady h-scene
-| \#64    | 04:17:52.50|          | Chapter 5 ending (as well as Common route's)
+| yt      | start      | end      | description                                  | link
+| ----    | ---        | ---      | -------------------------------------------- | -----
+| \#50-58 | 00:00:00   |          |                                              | https://www.youtube.com/watch?v=AtdlsN15gPs&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
+| \#63    | 04:08:50.00|          | Boss-Lady h-scene                            | https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_58.5_nsfw_bandits_boss:2
+| \#64    | 04:17:52.50|          | Chapter 5 ending (as well as Common route's) | https://www.youtube.com/watch?v=882IUW3_9Tw&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
 
 ```bash
 # -ss needs to be repeated before each input for correct timing

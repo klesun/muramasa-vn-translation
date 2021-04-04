@@ -61,7 +61,9 @@ const main = async () => {
     for (const {garejeiPath, chapterDir} of GARE_BLOGS) {
         const garejeiHtml = await fs.readFile(garejeiPath, 'utf8');
         const garejeiDom = new jsdom.JSDOM(garejeiHtml);
-        const garejeiBlocks = [...garejeiDom.window.document.querySelectorAll('.entry-content > *')]
+        const nodeList = garejeiDom.window.document
+            .querySelectorAll('.entry-content > *');
+        const garejeiBlocks = [...nodeList]
             .flatMap(parseGarejeiBlock);
 
         await fs.writeFile(chapterDir + '/garejeiBlocks.json', JSON.stringify(garejeiBlocks, null, 4));

@@ -1,10 +1,11 @@
 Two H-Scenes in the recording, so divided to 4 parts
 
-| yt      | start      | end      | description
-| ------- | ---        | ---      | --------------
-| \#62    | 00:00:00   |          | rec1
-| \#63    | 06:46:30   |          | rec2: Bald from Rokuhara h-scene
-| \#64    |            | 11:25:00 | rec2
-| \#65    | 08:56:24.5 |          | rec2: Ayane H-Scene
-| \#66    |            | 11:25:00 | rec2
+| yt      | start      | end      | description                       | link
+| ------- | ---        | ---      | --------------                    | -------
+| \#62    | 00:00:00   |          | rec1                              | https://www.youtube.com/watch?v=HHU4Nppwp3g&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
+| \#63    | 06:46:30   |          | rec2: Bald from Rokuhara h-scene  | https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_63_nsfw_bald_from_rokuhara:0
+| \#64    |            | 11:25:00 | rec2                              | https://www.youtube.com/watch?v=MtvQbEnefgM&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
+| \#65    | 08:56:24.5 |          | rec2: Ayane H-Scene               | https://lbry.tv/@muramasa-vn-translation-nsfw:c/fmd_muramasa_65_nsfw_ayane:e
+| \#66    |            | 11:25:00 | rec2                              | https://www.youtube.com/watch?v=vEBhTr-AfHQ&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
+| \#67    |            |          | rec3                              | https://www.youtube.com/watch?v=WjPs3cEbLmE&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
 

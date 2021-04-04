@@ -1,11 +1,11 @@
-Youtube: #74, #75 (h-scene), #76
+Youtube: #83, #84 (h-scene), #85
 Length: 4:30:22
 
-| yt   | start      | end      | description
-| ---- | ---        | ---      | --------------
-| \#74 | 00:00:00   |          | solved Hikaru's puzzle, end of battle, aftermath
-| \#75 | 02:35:00.0 |          | h-scene with Muramasa, about 20 minutes of talking with some girls then another h-scene with Muramasa
-| \#76 |            |          | encountering Sorimaichi, Muramasa's ending, load, True Ending
+| yt   | start      | end      | description                                                                                           | link
+| ---- | ---        | ---      | --------------                                                                                        | ----------
+| \#83 | 00:00:00   |          | solved Hikaru's puzzle, end of battle, aftermath                                                      | https://www.youtube.com/watch?v=I-6DbEWJdVg&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
+| \#84 | 02:35:00.0 |          | h-scene with Muramasa, about 20 minutes of talking with some girls then another h-scene with Muramasa | https://lbry.tv/@muramasa-vn-translation-nsfw:c/game_recording_during_h_eng_hardsubbed:9
+| \#86 |            |          | encountering Sorimaichi, Muramasa's ending, load, True Ending                                         | https://www.youtube.com/watch?v=DLfnhR_lDhU&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ
    <!--   4:30:22 -->
    <!-- -01:10:42 -->
    <!-- =03:19:40 -->
