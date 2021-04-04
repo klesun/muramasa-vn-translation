@@ -1,0 +1,1 @@
+This directory holds various random documents related to the game, usually not participating directly in automated processing, but rather serving just as a reference for humans. 
