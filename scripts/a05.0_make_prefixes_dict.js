@@ -13,6 +13,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
  */
 
 const routeDir = __dirname + '/../public/assets/mb_hero_route';
+const recordingDir = routeDir + '/rec1';
 
 const memoizedPrefixes = new Map();
 
@@ -22,10 +23,13 @@ const getPrefixes = (sentence) => {
     }
     const prefixes = new Set();
     for (let i = 0; i < sentence.length; ++i) {
-        for (let length = 3; length <= 18; ++length) {
+        if (i > 0 && sentence[i - 1].match(/[a-zA-Z]/)) {
+            continue; // only match word parts from the very start
+        }
+        for (let length = 3; length <= 24; ++length) {
             const prefix = sentence.slice(i, i + length);
-            if (prefix.includes(' ')) {
-                break;
+            if (prefix.match(/\s+\S{0,2}$/) && sentence[i + length] && sentence[i + length].match(/[a-zA-Z]/)) {
+                continue; // skip if trying to take a cut from the next word smaller than 3 letters
             }
             prefixes.add(prefix);
         }
@@ -71,7 +75,7 @@ const main = async () => {
         .filter(b => !skipRemaining && !(skipRemaining = b.text && b.text === '(Yup, this is all I can safely show you.)'));
 
     let keepSkipping = true;
-    const translatedSrtBlocks = (await getTranslatedSrt(routeDir + '/rec1'))
+    const translatedSrtBlocks = (await getTranslatedSrt(recordingDir))
         .filter(b => !keepSkipping || !(keepSkipping = b.sentence !== 'Conquer. To fight the evil of this world.'));
 
     const googleSentences = translatedSrtBlocks
@@ -94,8 +98,8 @@ const main = async () => {
 
     const getPrefixUniquenessScore = prefix => {
         return prefix.length / Math.max(
-            googlePrefixCounts.get(prefix),
-            garePrefixCounts.get(prefix)
+            Math.min(2, googlePrefixCounts.get(prefix)),
+            Math.min(2, garePrefixCounts.get(prefix))
         );
     };
 
@@ -120,7 +124,8 @@ const main = async () => {
         return {score, prefixes: noSubs};
     };
 
-    for (let i = 0; i < Math.min(100, gareBlocks.length); ++i) {
+    const rawResults = [];
+    for (let i = 0; i < gareBlocks.length; ++i) {
         const gareBlock = gareBlocks[i];
         if (!['innerThought', 'quote'].includes(gareBlock.type)) {
             continue;
@@ -130,8 +135,8 @@ const main = async () => {
                 .filter(gare => googlePrefixCounts.has(gare))
         );
         const isQuote = gareBlock.type === 'quote';
-        const gareProgress = i / gareSentences.length;
-        console.log(' ' + ('#' + i).padStart(6) + '    ' + String(Math.round(100 * gareProgress)).padStart(3) + '% - ' + gareBlock.text + ' --> ' + gareUniqueness.score.toFixed(2) + ' - ' + gareUniqueness.noSubs.map(prefix => prefix + ' ' + getPrefixUniquenessScore(prefix).toFixed(3)).join(', '));
+        const gareProgress = i / gareBlocks.length;
+        console.log(' ' + ('#' + i).padStart(6) + '    ' + String(Math.round(100 * gareProgress)).padStart(3) + '% - ' + gareBlock.text + ' --> ' + gareUniqueness.score.toFixed(2));
         const googleScored = googleSentences
             .filter(sen => !!sen.match(/(^"|"$)/) === isQuote)
             .map(googleSentence => {
@@ -139,19 +144,30 @@ const main = async () => {
                 const googleIndex = googleSentenceToIndex.get(googleSentence);
                 const googleProgress = googleIndex / googleSentences.length;
                 const progressDistance = Math.abs(gareProgress - googleProgress);
+                // Garejei usually joins multiple sentences together, and very rarely splits them, so if google sentence is longer, it is probably wrong
+                const extraChars = Math.max(0, googleSentence.length - gareBlock.text.length);
                 return {
+                    score: Math.max(0, score - score * progressDistance * 2) * (1 - extraChars / gareBlock.text.length),
                     sentence: googleSentence,
-                    score: score - score * Math.sqrt(progressDistance),
                     prefixes: prefixes,
                     progress: googleProgress,
+                    googleIndex: googleIndex,
                 };
             });
         const alikes = googleScored.sort((a,b) => b.score - a.score);
         for (const {sentence, score, prefixes, progress} of alikes.slice(0, 10)) {
-            console.log('  ' + score.toFixed(2).padStart(6) + ' - ' + String(Math.round(100 * progress)).padStart(3) + '% - ' + sentence + ' --> ' + prefixes.map(prefix => prefix + ' ' + getPrefixUniquenessScore(prefix)).join(', '));
+            console.log('  ' + score.toFixed(2).padStart(6) + ' - ' + String(Math.round(100 * progress)).padStart(3) + '% - ' + sentence + ' --> ' + prefixes.map(prefix => prefix + ' ' + getPrefixUniquenessScore(prefix).toFixed(3)).join(', '));
         }
         console.log('___________________');
+        rawResults.push({
+            garejeiIndex: i + 1,
+            garejei: gareBlock.text,
+            garejeiProgress: gareProgress,
+            googleScored: alikes.slice(0, 40),
+        });
     }
+
+    await fs.writeFile(recordingDir + '/rawKeyframes.json', JSON.stringify(rawResults, null, 4));
 
     // const score = (prefix) => {
     //     return Math.max(
