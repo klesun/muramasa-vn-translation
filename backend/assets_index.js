@@ -9,8 +9,8 @@ export const CHAPTER5_REC1_DIR = __dirname + '/../public/assets/ma_common_route/
 
 export const RECORDING_LOCATIONS = [
     [__dirname + '/../public/assets/ma_common_route/ma01_crimson_craft'],
-    [__dirname + '/../public/assets/ma_common_route/ma04_sky_shaking_craft'],
     [__dirname + '/../public/assets/ma_common_route/ma03_counterattack_craft', 'game_recording_during_h'],
+    [__dirname + '/../public/assets/ma_common_route/ma04_sky_shaking_craft'],
     [CHAPTER5_REC1_DIR],
     [CHAPTER5_REC1_DIR, 'game_recording_during_h'],
     [CHAPTER5_REC1_DIR, 'game_recording_after_h'],
@@ -43,8 +43,8 @@ export const RECORDING_LOCATIONS = [
 /**
  * @return {Promise<SrtBlock[]>}
  */
-export const getTranslatedSrt = async (recordingDir) => {
-    const srcSrtStr = await fs.readFile(recordingDir + '/game_recording.jpn.srt', 'utf8');
+export const getTranslatedSrt = async (recordingDir, fileNameRoot = 'game_recording') => {
+    const srcSrtStr = await fs.readFile(recordingDir + '/' + fileNameRoot + '.jpn.srt', 'utf8');
     const translatedSentencesStr = await fs.readFile(recordingDir + '/translated_sentences.txt', 'utf8');
 
     const japToEng = new Map(

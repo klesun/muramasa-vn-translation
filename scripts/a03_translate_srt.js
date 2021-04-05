@@ -8,7 +8,7 @@ const translateAt = async ({
     fileNameRoot = 'game_recording',
 }) => {
     const outSrtPath = chapterDir + '/' + fileNameRoot + '.eng.srt';
-    const translatedSrtBlocks = await getTranslatedSrt(chapterDir);
+    const translatedSrtBlocks = await getTranslatedSrt(chapterDir, fileNameRoot);
 
     const translatedSrt = translatedSrtBlocks
         .map(joinSrtBlockParts)
