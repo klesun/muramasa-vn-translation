@@ -70,13 +70,16 @@ const removeSubs = (prefixes) => {
 
 const main = async () => {
     const gareBlocksStr = await fs.readFile(routeDir + '/garejeiBlocks.json', 'utf8');
-    let skipRemaining = false;
-    const gareBlocks = JSON.parse(gareBlocksStr)
-        .filter(b => !skipRemaining && !(skipRemaining = b.text && b.text === '(Yup, this is all I can safely show you.)'));
 
-    let keepSkipping = true;
-    const translatedSrtBlocks = (await getTranslatedSrt(recordingDir))
-        .filter(b => !keepSkipping || !(keepSkipping = b.sentence !== 'Conquer. To fight the evil of this world.'));
+    const gareBlocksUncut = JSON.parse(gareBlocksStr);
+    const gareEndIndex = gareBlocksUncut
+        .findIndex(b => b.text === '(Yup, this is all I can safely show you.)');
+    const gareBlocks = gareBlocksUncut.slice(0, gareEndIndex);
+
+    const translatedSrtBlocksUncut = await getTranslatedSrt(recordingDir);
+    const googleBaseIndex = translatedSrtBlocksUncut
+        .findIndex(b => b.sentence === 'Conquer. To fight the evil of this world.');
+    const translatedSrtBlocks = translatedSrtBlocksUncut.slice(googleBaseIndex);
 
     const googleSentences = translatedSrtBlocks
         .map(b => b.sentence.toLowerCase())
@@ -90,7 +93,7 @@ const main = async () => {
 
     const googleSentenceToIndex = new Map();
     for (let i = 0; i < googleSentences.length; ++i) {
-        googleSentenceToIndex.set(googleSentences[i], i);
+        googleSentenceToIndex.set(googleSentences[i], i + 1);
     }
 
     const googlePrefixCounts = getPrefixCounts(googleSentences);
@@ -151,7 +154,7 @@ const main = async () => {
                     sentence: googleSentence,
                     prefixes: prefixes,
                     progress: googleProgress,
-                    googleIndex: googleIndex,
+                    googleIndex: googleBaseIndex + googleIndex,
                 };
             });
         const alikes = googleScored.sort((a,b) => b.score - a.score);

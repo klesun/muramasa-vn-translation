@@ -5,6 +5,7 @@ import {CHAPTER5_REC1_DIR, RECORDING_LOCATIONS} from "../backend/assets_index.js
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 import {joinSrtBlockParts, parseSrtSentence} from "../public/modules/SrtUtils.js";
+import {allocateBetweenKeyframes} from "../public/modules/GareLinker.js";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const addGarejeiAt = async (dirPath, gareDir) => {
@@ -13,69 +14,14 @@ const addGarejeiAt = async (dirPath, gareDir) => {
     const gareBlocksStr = await fs.readFile(gareDir + '/garejeiBlocks.json');
     const srcSrtStr = await fs.readFile(dirPath + '/game_recording.eng.srt', 'utf8');
 
-    const keyframes = JSON.parse(garejeiKeyframes_fixedStr);
+    const autoKeyframes = JSON.parse(garejeiKeyframes_fixedStr);
     const garejeiBlocks = JSON.parse(gareBlocksStr);
     const adminKeyframes = JSON.parse(adminKeyframesStr + 'null]').slice(0, -1);
+    const keyframes = [...autoKeyframes, ...adminKeyframes];
     const srcSrtBlocks = srcSrtStr
         .trim().split(/\n\n/)
         .map(parseSrtSentence);
-
-    const gareToKeyframe = new Map(
-        [...keyframes, ...adminKeyframes].map(kf => [
-            kf.garejeiIndex, kf
-        ])
-    );
-    const outSrtBlocks = [];
-    let lastEndGoogleIndex = 1;
-    let commentsBuffer = [];
-    for (let i = 0; i < garejeiBlocks.length; ++i) {
-        const garejeiBlock = garejeiBlocks[i];
-        const garejeiIndex = i + 1;
-        if ('text' in garejeiBlock && garejeiBlock.text.match(/^[\s….]*$/)) {
-            continue; // useless, as Gare naturally does not add consistent "..." matching those in the game, as
-                      // that would be meaningless, considering he does not translate every sentence anyway
-        }
-        let displayText = null;
-        if ((garejeiBlock.type === 'comment' || garejeiBlock.type === 'unknown') && garejeiBlock.text.trimEnd()) {
-            commentsBuffer.push(garejeiBlock.text.trimEnd());
-        } else if (garejeiBlock.type === 'innerThought') {
-            displayText = garejeiBlock.text;
-        } else if (garejeiBlock.type === 'quote') {
-            displayText = '"' + garejeiBlock.text + '"' + (garejeiBlock.speaker ? ' - ' + garejeiBlock.speaker : '');
-        }
-        // TODO: support when multiple garejei blocks match single google block
-        if (displayText) {
-            displayText = '🕸 ' + displayText;
-            const keyframe = gareToKeyframe.get(garejeiIndex);
-            const googleIndex = keyframe ? keyframe.googleIndex : lastEndGoogleIndex;
-            outSrtBlocks.push(...srcSrtBlocks.slice(lastEndGoogleIndex -1, googleIndex - 1));
-            const rowSpan = keyframe ? keyframe.rowSpan ?? 1 : 1;
-            const googleSrt = srcSrtBlocks[googleIndex - 1];
-            if (commentsBuffer.length > 0 && googleIndex > 1) {
-                srcSrtBlocks[googleIndex - 2].sentence =
-                    commentsBuffer.map(s => '🕸 ' + s).join('\n').trimEnd() + '\n🤖 ' +
-                    srcSrtBlocks[googleIndex - 2].sentence;
-                commentsBuffer = [];
-            }
-            if (rowSpan === 0) {
-                googleSrt.sentence = displayText + '\n🤖 ' + googleSrt.sentence;
-                outSrtBlocks.push(googleSrt);
-            } else if (rowSpan === 1) {
-                googleSrt.sentence = displayText;
-                outSrtBlocks.push(googleSrt);
-            } else {
-                outSrtBlocks.push({
-                    index: null,
-                    startRelTs: googleSrt.startRelTs,
-                    endRelTs: srcSrtBlocks[googleIndex - 1 + rowSpan - 1].endRelTs,
-                    sentence: displayText,
-                });
-            }
-            lastEndGoogleIndex = googleIndex + Math.max(rowSpan, 1);
-        }
-    }
-    outSrtBlocks.push(...srcSrtBlocks.slice(lastEndGoogleIndex -1));
-    outSrtBlocks.forEach((srtBlock, i) => srtBlock.index = i + 1);
+    const outSrtBlocks = allocateBetweenKeyframes({garejeiBlocks, keyframes, srcSrtBlocks});
 
     const outSrt = outSrtBlocks
         .map(joinSrtBlockParts)

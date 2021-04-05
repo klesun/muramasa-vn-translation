@@ -1,12 +1,15 @@
 import {parseSrtSentence} from "../modules/SrtUtils.js";
 import {Dom} from 'https://klesun-misc.github.io/dev_data/common/js/Dom.js';
 import Api from "../modules/Api.js";
+import {allocateBetweenKeyframes} from "../modules/GareLinker.js";
 
 const gui = {
     /** @type {HTMLFormElement} */
     untranslate_linking_form: document.getElementById('untranslate_linking_form'),
     /** @type {HTMLTableSectionElement} */
     sentences_list: document.getElementById('sentences_list'),
+    /** @type {HTMLParagraphElement} */
+    status_panel: document.getElementById('status_panel'),
 };
 
 const shiftChunk = (headTr, keyframe) => {
@@ -68,58 +71,34 @@ const makeTr = (googleSrtRecord) => {
     ]);
 };
 
-const putGarejeiBlocks = (garejeiBlocks) => {
-    let commentsBuffer = [];
-    let googleIndex = 1;
-    for (let i = 0; i < garejeiBlocks.length; ++i) {
-        const block = garejeiBlocks[i];
-        if (block.type === 'innerThought' || block.type === 'quote') {
-            const garejiDom = Dom('div', {
-                'data-garejei-index': i + 1,
-                ...commentsBuffer.length > 0 ? {
-                    title: commentsBuffer.slice(-2).join('\n'),
-                    class: 'with-pretext',
-                } : {},
-            }, [
-                Dom('input', {type: 'radio', name: 'linkedGarejeiSentence'}),
-                Dom('span', {class: 'garejei-sentence-text'}, block.text)
-            ]);
-            commentsBuffer = [];
-            gui.sentences_list.children[googleIndex++ - 1]
-                .querySelector('.gareji-holder')
-                .appendChild(garejiDom);
-        } else if (block.type === 'comment') {
-            commentsBuffer.push(block.text);
-        }
-    }
+const makeGarejeiDom = (linkedBlock) => {
+    return Dom('div', {
+        'data-garejei-index': linkedBlock.garejeiIndex,
+    }, [
+        Dom('input', {type: 'radio', name: 'linkedGarejeiSentence'}),
+        Dom('span', {class: 'garejei-sentence-text'}, linkedBlock.sentence),
+    ]);
 };
 
-const placeKeyframes = (keyframes) => {
-    keyframes.sort((a,b) => b.garejeiIndex - a.garejeiIndex);
-    for (const keyframe of keyframes) {
-        const selector = `[data-garejei-index="${keyframe.garejeiIndex}"]`;
-        const headTr = gui.sentences_list.querySelector(selector).parentNode.parentNode;
-        const garejeiDom = headTr.querySelector('.gareji-holder > *');
-        if (keyframe.rowSpan !== undefined) {
-            garejeiDom.insertBefore(Dom('span', {}, keyframe.rowSpan), garejeiDom.children[0]);
-        }
-
-        const existingGarejei = gui.sentences_list.children[keyframe.googleIndex - 1]
-            .querySelector('.gareji-holder > *');
-        if (!existingGarejei) {
-            // some of generated keyframes cover more than few sentences at once - they
-            //have to be corrected to be linked to the first of the matched sentences
-            shiftChunk(headTr, keyframe);
+const putGarejeiBlocks = (allocated) => {
+    for (const linkedBlock of allocated) {
+        if (linkedBlock.garejeiIndex) {
+            const garejiDom = makeGarejeiDom(linkedBlock);
+            gui.sentences_list
+                .children[linkedBlock.googleIndex - 1]
+                .querySelector('.gareji-holder')
+                .appendChild(garejiDom);
         }
     }
 };
 
 const main = async () => {
+    const recordingDir = 'mb_hero_route/rec1';
     const [googleSrtText, autoKeyframes, garejeiBlocks, adminKeyframesText] = await Promise.all([
-        fetch('./../public/assets/ma_common_route/ma05_star_craft/game_recording.eng.srt').then(rs => rs.text()),
-        fetch('./../public/assets/ma_common_route/ma05_star_craft/autoKeyframes_fixed.json').then(rs => rs.json()),
-        fetch('./../public/assets/ma_common_route/ma05_star_craft/garejeiBlocks.json').then(rs => rs.json()),
-        fetch('./../public/assets/ma_common_route/ma05_star_craft/adminKeyframes.json').then(rs => rs.text()),
+        fetch('./../assets/' + recordingDir + '/game_recording.eng.srt').then(rs => rs.text()),
+        fetch('./../assets/' + recordingDir + '/autoKeyframes.json').then(rs => rs.json()),
+        fetch('./../assets/mb_hero_route/garejeiBlocks.json').then(rs => rs.json()),
+        fetch('./../assets/' + recordingDir + '/adminKeyframes.json').then(rs => rs.status === 404 ? '[' : rs.text()),
     ]);
     const adminKeyframes = JSON.parse(adminKeyframesText + 'null]').slice(0, -1);
     const keyframes = [...autoKeyframes, ...adminKeyframes];
@@ -127,14 +106,29 @@ const main = async () => {
         .trim().split(/\n\n/)
         .map(parseSrtSentence);
 
-    const regenerate = () => {
-        gui.sentences_list.innerHTML = '';
-        googleSrtRecords.map(makeTr)
-            .forEach(tr => gui.sentences_list.appendChild(tr));
-        putGarejeiBlocks(garejeiBlocks);
-        placeKeyframes(keyframes);
+    gui.sentences_list.innerHTML = '';
+    const trs = googleSrtRecords.map(makeTr);
+    let startMs = Date.now();
+    let lastMs = Date.now();
+    for (let i = 0; i < trs.length; ++i) {
+        gui.sentences_list.appendChild(trs[i]);
+        if (i === 600) {
+            lastMs = Date.now();
+            await new Promise(_ => setTimeout(_, 1));
+        }
+    }
+
+    const regenerate = async () => {
+        trs.forEach(tr => tr.querySelector('.gareji-holder').innerHTML = '');
+        const allocated = allocateBetweenKeyframes({
+            garejeiBlocks, keyframes, srcSrtBlocks: googleSrtRecords,
+        });
+        putGarejeiBlocks(allocated);
     };
-    regenerate();
+    await regenerate();
+
+    gui.status_panel.setAttribute('data-status', 'loaded');
+    gui.status_panel.textContent = 'Loaded in ' + (Date.now() - startMs + ' ms');
 
     gui.untranslate_linking_form.onchange = async () => {
         const googleRadio = gui.untranslate_linking_form.querySelector('[name="linkedGoogleSentence"]:checked');
@@ -152,8 +146,8 @@ const main = async () => {
                 rowSpan: +rowSpan,
             };
             keyframes.push(keyframe);
-            regenerate();
-            const whenAdded = Api.addGarejeiKeyframe(keyframe);
+            await regenerate();
+            const whenAdded = Api.addGarejeiKeyframe({...keyframe, recordingDir});
             await whenAdded;
             googleRadio.checked = false;
             garejeiRadio.checked = false;

@@ -19,6 +19,8 @@ const main = async () => {
     const rawKeyframesStr = await fs.readFile(recordingDir + '/rawKeyframes.json', 'utf8');
     const rawKeyframes = JSON.parse(rawKeyframesStr)
         .sort((a,b) => getSortValue(b.googleScored) - getSortValue(a.googleScored));
+
+    const autoKeyframes = [];
     const gareToFrame = {};
     for (const rawKeyframe of rawKeyframes) {
         console.log('___________________________________');
@@ -59,13 +61,17 @@ const main = async () => {
         console.log(boundedScored[0].sentence);
 
         // TODO: resort when best entry changes
-        gareToFrame[rawKeyframe.garejeiIndex] = {
+        const autoKeyframe = {
             garejeiIndex: rawKeyframe.garejeiIndex,
             garejei: rawKeyframe.garejei,
             googleIndex: boundedScored[0].googleIndex,
             google: boundedScored[0].sentence,
         };
+        gareToFrame[rawKeyframe.garejeiIndex] = autoKeyframe;
+        autoKeyframes.push(autoKeyframe);
     }
+
+    await fs.writeFile(recordingDir + '/autoKeyframes.json', JSON.stringify(autoKeyframes.sort((a,b) => a.garejeiIndex - b.garejeiIndex), null, 4));
 };
 
 main().catch(exc => {

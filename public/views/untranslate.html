@@ -4,15 +4,22 @@
 
 <body>
     <p>This page helps to map Garejei's translated sentences to the auto-translated ones</p>
+    <p id="status_panel" data-status="loading">Loading...</p>
     <form id="untranslate_linking_form">
-        <table>
+        <table style="table-layout: fixed">
+            <colgroup>
+                <col style="width: 40px"/>
+                <col style="width: 800px"/>
+                <col style="width: 40px"/>
+                <col style="width: 800px"/>
+            </colgroup>
             <thead>
-            <tr>
-                <th>#</th>
-                <th>Auto-Translated</th>
-                <th>Drag</th>
-                <th>Gareji-Translated</th>
-            </tr>
+                <tr>
+                    <th>#</th>
+                    <th>Auto-Translated</th>
+                    <th>Drag</th>
+                    <th>Gareji-Translated</th>
+                </tr>
             </thead>
             <tbody id="sentences_list">
             </tbody>
@@ -31,5 +38,24 @@
     .with-pretext {
         color: #1b7930;
         cursor: help;
+    }
+    #status_panel[data-status="loading"] {
+        background-color: orange;
+    }
+    #status_panel[data-status="loaded"] {
+        background-color: green;
+    }
+    tbody {
+        font-size: 11px;
+    }
+    td {
+        white-space: pre-wrap;
+    }
+    td.google-holder {
+        text-align: right;
+    }
+    [data-garejei-index] {
+        display: flex;
+        align-items: center;
     }
 </style>
