@@ -10,13 +10,13 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const addGarejeiAt = async (dirPath, gareDir) => {
     const adminKeyframesStr = await fs.readFile(gareDir + '/adminKeyframes.json');
     const garejeiKeyframes_fixedStr = await fs.readFile(gareDir + '/autoKeyframes_fixed.json');
-    const garejeiBlocksStr = await fs.readFile(gareDir + '/garejeiBlocks.json');
-    const srcSrtText = await fs.readFile(dirPath + '/game_recording.eng.srt', 'utf8');
+    const gareBlocksStr = await fs.readFile(gareDir + '/garejeiBlocks.json');
+    const srcSrtStr = await fs.readFile(dirPath + '/game_recording.eng.srt', 'utf8');
 
     const keyframes = JSON.parse(garejeiKeyframes_fixedStr);
-    const garejeiBlocks = JSON.parse(garejeiBlocksStr);
+    const garejeiBlocks = JSON.parse(gareBlocksStr);
     const adminKeyframes = JSON.parse(adminKeyframesStr + 'null]').slice(0, -1);
-    const srcSrtBlocks = srcSrtText
+    const srcSrtBlocks = srcSrtStr
         .trim().split(/\n\n/)
         .map(parseSrtSentence);
 

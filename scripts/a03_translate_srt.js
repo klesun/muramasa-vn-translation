@@ -1,37 +1,16 @@
 
 import { promises as fs } from 'fs';
-import {joinSrtBlockParts, parseSentenceTranslationsFile, parseSrtSentence} from "../public/modules/SrtUtils.js";
-import {RECORDING_LOCATIONS} from "../backend/assets_index.js";
+import {joinSrtBlockParts} from "../public/modules/SrtUtils.js";
+import {getTranslatedSrt, RECORDING_LOCATIONS} from "../backend/assets_index.js";
 
 const translateAt = async ({
     chapterDir,
     fileNameRoot = 'game_recording',
 }) => {
-    const translatedSentencesPath = chapterDir + '/translated_sentences.txt';
-    const srcSrtPath = chapterDir + '/' + fileNameRoot + '.jpn.srt';
     const outSrtPath = chapterDir + '/' + fileNameRoot + '.eng.srt';
+    const translatedSrtBlocks = await getTranslatedSrt(chapterDir);
 
-    const translatedSentencesText = await fs.readFile(translatedSentencesPath, 'utf8');
-    const srcSrtText = await fs.readFile(srcSrtPath, 'utf8');
-
-    const japToEng = new Map(
-        parseSentenceTranslationsFile(translatedSentencesText)
-    );
-
-    const translateBlock = parsedBlock => {
-        const japLine = parsedBlock.sentence;
-        if (!japToEng.get(japLine.trim())) {
-            throw new Error('Missing translation for: ' + japLine + ' at block #' + parsedBlock.index + ' dir: ' + chapterDir);
-        }
-        parsedBlock.sentence = japToEng.get(japLine.trim());
-
-        return parsedBlock;
-    };
-
-    const translatedSrt = srcSrtText
-        .trim().split(/\n\n/)
-        .map(parseSrtSentence)
-        .map(translateBlock)
+    const translatedSrt = translatedSrtBlocks
         .map(joinSrtBlockParts)
         .join('\n\n');
 

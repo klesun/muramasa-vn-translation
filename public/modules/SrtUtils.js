@@ -1,4 +1,12 @@
 
+/**
+ * @typedef {{
+ *     index: number | string,
+ *     startRelTs: string,
+ *     endRelTs: string,
+ *     sentence: string
+ * }} SrtBlock
+ */
 
 export const makeSrtTimestamp = (relMs) => {
     const relCs = Math.floor(relMs / 10);
@@ -11,7 +19,9 @@ export const makeSrtTimestamp = (relMs) => {
         + String(relCs % 100).padStart(2, '0');
 };
 
-export const joinSrtBlockParts = ({index, startRelTs, endRelTs, sentence}) => {
+/** @param {SrtBlock} srtBlock */
+export const joinSrtBlockParts = (srtBlock) => {
+    const {index, startRelTs, endRelTs, sentence} = srtBlock;
     return `${index}\n` +
         `${startRelTs} --> ${endRelTs}\n` +
         `${sentence}`;
@@ -24,10 +34,14 @@ export const buildSrtBlock = ({index, startRelMs, endRelMs, sentence}) => {
     return joinSrtBlockParts({index, startRelTs, endRelTs, sentence});
 };
 
-export const parseSrtSentence = (block) => {
-    const lines = block.split(/\n/);
+/**
+ * @param {string} blockStr
+ * @return {SrtBlock}
+ */
+export const parseSrtSentence = (blockStr) => {
+    const lines = blockStr.split(/\n/);
     if (lines.length !== 3) {
-        throw new Error('Unexpected sentence block format: ' + block);
+        throw new Error('Unexpected sentence block format: ' + blockStr);
     }
     const [index, startEndLine, sentence] = lines;
     const [startRelTs, endRelTs] = startEndLine.split(' --> ');
@@ -36,11 +50,11 @@ export const parseSrtSentence = (block) => {
 };
 
 /**
- * @param {string} translatedSentencesText - contents of translated_sentences.txt
+ * @param {string} translatedSentencesStr - contents of translated_sentences.txt
  * @return {[string, string][]} - mapping from japanese sentence to translated english one
  */
-export const parseSentenceTranslationsFile = (translatedSentencesText) => {
-    return translatedSentencesText
+export const parseSentenceTranslationsFile = (translatedSentencesStr) => {
+    return translatedSentencesStr
         .trim().split(/(?:\r\n|\n){2}/)
         .map(lineTranslationText => {
             let [jpn, eng] = lineTranslationText

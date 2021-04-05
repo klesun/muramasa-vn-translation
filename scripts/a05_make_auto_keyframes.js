@@ -3,7 +3,7 @@ import { promises as fs } from 'fs';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
 import FastestLevenshtein from 'fastest-levenshtein';
-import {parseSentenceTranslationsFile, parseSrtSentence} from "../public/modules/SrtUtils.js";
+import {getTranslatedSrt} from "../backend/assets_index.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const {distance, closest} = FastestLevenshtein;
@@ -15,8 +15,6 @@ const {distance, closest} = FastestLevenshtein;
  */
 
 const chapterDir = __dirname + '/../public/assets/ma_common_route/ma05_star_craft';
-const translatedSentencesPath = chapterDir + '/translated_sentences.txt';
-const srcSrtPath = chapterDir + '/game_recording.jpn.srt';
 
 // TODO: try only compare when same amount of dots with text between them
 
@@ -26,30 +24,10 @@ const normalizeText = (text) => {
 };
 
 const main = async () => {
-    const translatedSentencesText = await fs.readFile(translatedSentencesPath, 'utf8');
-    const srcSrtText = await fs.readFile(srcSrtPath, 'utf8');
-    const garejeiBlocksStr = await fs.readFile(chapterDir + '/garejeiBlocks.json', 'utf8');
+    const gareBlocksStr = await fs.readFile(chapterDir + '/garejeiBlocks.json', 'utf8');
 
-    const garejeiBlocks = JSON.parse(garejeiBlocksStr);
-    const japToEng = new Map(
-        parseSentenceTranslationsFile(translatedSentencesText)
-    );
-
-    const translateBlock = parsedBlock => {
-        const japLine = parsedBlock.sentence;
-        if (!japToEng.get(japLine.trim())) {
-            throw new Error('Missing translation for: ' + japLine);
-        }
-        parsedBlock.sentence = japToEng.get(japLine.trim());
-
-        return parsedBlock;
-    };
-
-    const srcJpnSrtBlocks = srcSrtText
-        .trim().split(/\n\n/)
-        .map(parseSrtSentence);
-    const translatedSrtBlocks = srcJpnSrtBlocks
-        .map(parsedBlock => translateBlock({...parsedBlock}));
+    const garejeiBlocks = JSON.parse(gareBlocksStr);
+    const translatedSrtBlocks = await getTranslatedSrt(chapterDir);
 
     const engToIndex = new Map(
         translatedSrtBlocks.map((b) => [
@@ -59,7 +37,7 @@ const main = async () => {
 
     const noSpToSp = new Map(
         translatedSrtBlocks.map(b => b.sentence).map(s => [
-            normalizeText(s), s
+            normalizeText(s), s,
         ])
     );
 
