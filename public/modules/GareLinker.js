@@ -54,6 +54,9 @@ export const allocateBetweenKeyframes = ({garejeiBlocks, keyframes, srcSrtBlocks
             outSrtBlock.garejeiIndex = garejeiIndex;
             outSrtBlock.googleIndex = googleIndex;
             outSrtBlock.rowSpan = rowSpan;
+            outSrtBlock.score = keyframe?.score ?? undefined;
+            outSrtBlock.nextScore = keyframe?.nextScore ?? undefined;
+            outSrtBlock.prefixes = keyframe?.prefixes ?? undefined;
 
             outSrtBlocks.push(outSrtBlock);
             lastEndGoogleIndex = googleIndex + Math.max(rowSpan, 1);

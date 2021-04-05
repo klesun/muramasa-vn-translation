@@ -19,6 +19,15 @@ export const makeSrtTimestamp = (relMs) => {
         + String(relCs % 100).padStart(2, '0');
 };
 
+export const parseSrtTimestamp = (timestampStr) => {
+    let [, h, m, s, decimalPart] = timestampStr.match(/^(\d{2}):(\d{2}):(\d{2}),(\d+)$/);
+    m = +m + h * 60;
+    s = +s + m * 60;
+    s += '.' + decimalPart;
+    const ms = Math.round(s * 1000);
+    return ms;
+};
+
 /** @param {SrtBlock} srtBlock */
 export const joinSrtBlockParts = (srtBlock) => {
     const {index, startRelTs, endRelTs, sentence} = srtBlock;

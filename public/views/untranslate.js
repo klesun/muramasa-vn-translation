@@ -1,4 +1,4 @@
-import {parseSrtSentence} from "../modules/SrtUtils.js";
+import {parseSrtSentence, parseSrtTimestamp} from "../modules/SrtUtils.js";
 import {Dom} from 'https://klesun-misc.github.io/dev_data/common/js/Dom.js';
 import Api from "../modules/Api.js";
 import {allocateBetweenKeyframes} from "../modules/GareLinker.js";
@@ -13,8 +13,14 @@ const gui = {
 };
 
 const makeTr = (googleSrtRecord) => {
+    const timestampMs = parseSrtTimestamp(googleSrtRecord.startRelTs);
     return Dom('tr', {'data-google-index': googleSrtRecord.index}, [
         Dom('td', {}, googleSrtRecord.index),
+        Dom('td', {}, [
+            Dom('a', {
+                href: 'https://www.youtube.com/watch?v=HHU4Nppwp3g&t=' + Math.round(timestampMs / 1000) + 's',
+            }, googleSrtRecord.startRelTs),
+        ]),
         Dom('td', {class: 'google-holder'}, googleSrtRecord.sentence),
         Dom('td', {}, [
             Dom('input', {type: 'radio', name: 'linkedGoogleSentence'}),
@@ -24,11 +30,20 @@ const makeTr = (googleSrtRecord) => {
 };
 
 const makeGarejeiDom = (linkedBlock) => {
+    const reliability = linkedBlock.rowSpan > 0
+        ? '🐶x' + linkedBlock.rowSpan
+        : linkedBlock.score
+            ? linkedBlock.score.toFixed(2) + ' vs ' + linkedBlock.nextScore?.toFixed(2)
+            : '';
     return Dom('div', {
         'data-garejei-index': linkedBlock.garejeiIndex,
     }, [
         Dom('input', {type: 'radio', name: 'linkedGarejeiSentence'}),
         Dom('span', {class: 'garejei-sentence-text'}, linkedBlock.sentence.replace(/\n🤖 \S.*/, '')),
+        Dom('span', {
+            title: (linkedBlock.prefixes || []).join(' | '),
+        }, reliability),
+        Dom('span', {}, linkedBlock.garejeiIndex),
     ]);
 };
 
@@ -53,7 +68,7 @@ const main = async () => {
         fetch('./../assets/' + recordingDir + '/adminKeyframes.json').then(rs => rs.status === 404 ? '[' : rs.text()),
     ]);
     const adminKeyframes = JSON.parse(adminKeyframesText + 'null]').slice(0, -1);
-    const keyframes = [...autoKeyframes, ...adminKeyframes];
+    let keyframes = [...autoKeyframes, ...adminKeyframes];
     const googleSrtRecords = googleSrtText
         .trim().split(/\n\n/)
         .map(parseSrtSentence);
@@ -73,7 +88,8 @@ const main = async () => {
     const regenerate = async () => {
         trs.forEach(tr => tr.querySelector('.gareji-holder').innerHTML = '');
         const allocated = allocateBetweenKeyframes({
-            garejeiBlocks, keyframes, srcSrtBlocks: googleSrtRecords,
+            garejeiBlocks, keyframes,
+            srcSrtBlocks: JSON.parse(JSON.stringify(googleSrtRecords)),
         });
         putGarejeiBlocks(allocated);
     };
@@ -89,7 +105,16 @@ const main = async () => {
         if (googleRadio && garejeiRadio) {
             const tr = googleRadio.parentNode.parentNode;
             const garejeiBlock = garejeiRadio.parentNode;
-            const rowSpan = prompt('Rows span is...', '') || '1';
+            let rowSpan = prompt('Rows span is...', '');
+            if (!rowSpan) {
+                if (rowSpan === '') {
+                    rowSpan = 1;
+                } else {
+                    googleRadio.checked = false;
+                    garejeiRadio.checked = false;
+                    return;
+                }
+            }
             const keyframe = {
                 garejeiIndex: +garejeiBlock.getAttribute('data-garejei-index'),
                 garejei: garejeiBlock.querySelector('.garejei-sentence-text').textContent,

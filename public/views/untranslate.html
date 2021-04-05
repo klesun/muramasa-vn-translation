@@ -8,14 +8,16 @@
     <form id="untranslate_linking_form">
         <table style="table-layout: fixed">
             <colgroup>
-                <col style="width: 40px"/>
+                <col style="width: 20px"/>
+                <col style="width: 80px"/>
                 <col style="width: 800px"/>
-                <col style="width: 40px"/>
-                <col style="width: 800px"/>
+                <col style="width: 20px"/>
+                <col style="width: 1100px"/>
             </colgroup>
             <thead>
                 <tr>
                     <th>#</th>
+                    <th>Video Timestamp</th>
                     <th>Auto-Translated</th>
                     <th>Drag</th>
                     <th>Gareji-Translated</th>
@@ -57,5 +59,11 @@
     [data-garejei-index] {
         display: flex;
         align-items: center;
+    }
+    [data-garejei-index] > * {
+        margin-right: 6px;
+    }
+    .garejei-sentence-text {
+        flex: 1;
     }
 </style>

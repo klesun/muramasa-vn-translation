@@ -6,6 +6,7 @@ import {parseSentenceTranslationsFile, parseSrtSentence} from "../public/modules
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 export const CHAPTER5_REC1_DIR = __dirname + '/../public/assets/ma_common_route/ma05_star_craft';
+export const HERO_ROUTE_REC1_DIR = __dirname + '/../public/assets/mb_hero_route/rec1';
 
 export const RECORDING_LOCATIONS = [
     [__dirname + '/../public/assets/ma_common_route/ma01_crimson_craft'],
@@ -14,7 +15,7 @@ export const RECORDING_LOCATIONS = [
     [CHAPTER5_REC1_DIR],
     [CHAPTER5_REC1_DIR, 'game_recording_during_h'],
     [CHAPTER5_REC1_DIR, 'game_recording_after_h'],
-    [__dirname + '/../public/assets/mb_hero_route/rec1'],
+    [HERO_ROUTE_REC1_DIR],
     [__dirname + '/../public/assets/mb_hero_route/rec2', 'game_recording_during_h'],
     [__dirname + '/../public/assets/mb_hero_route/rec2', 'game_recording_before_h2'],
     [__dirname + '/../public/assets/mb_hero_route/rec2', 'game_recording_during_h2'],

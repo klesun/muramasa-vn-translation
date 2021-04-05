@@ -77,6 +77,9 @@ const main = async () => {
             garejei: rawKeyframe.garejei,
             googleIndex: boundedScored[0].googleIndex,
             google: boundedScored[0].sentence,
+            score: boundedScored[0].score,
+            nextScore: boundedScored[1]?.score,
+            prefixes: boundedScored[0].prefixes,
         };
         gareToFrame[rawKeyframe.garejeiIndex] = autoKeyframe;
         autoKeyframes.push(autoKeyframe);

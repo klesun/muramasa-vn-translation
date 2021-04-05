@@ -165,7 +165,7 @@ const main = async () => {
             garejeiIndex: i + 1,
             garejei: gareBlock.text,
             garejeiProgress: gareProgress,
-            googleScored: alikes.slice(0, 40),
+            googleScored: alikes.slice(0, 80),
         });
     }
 
