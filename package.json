@@ -32,9 +32,9 @@
   },
   "homepage": "https://github.com/klesun/muramasa-vn-translation#readme",
   "dependencies": {
+    "klesun-node-tools": "https://github.com/klesun-misc/klesun-node-tools/tarball/3e44f2bb4ad8ee34a3eb78dbae9b7b7295965c8c",
     "fastest-levenshtein": "^1.0.12",
     "jsdom": "^16.4.0",
-    "node-fetch": "^2.6.1",
-    "node-static": "^0.7.11"
+    "node-fetch": "^2.6.1"
   }
 }
