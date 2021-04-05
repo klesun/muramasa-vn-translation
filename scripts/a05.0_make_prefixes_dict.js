@@ -101,8 +101,8 @@ const main = async () => {
 
     const getPrefixUniquenessScore = prefix => {
         return prefix.length / Math.max(
-            Math.min(2, googlePrefixCounts.get(prefix)),
-            Math.min(2, garePrefixCounts.get(prefix))
+            googlePrefixCounts.get(prefix),
+            garePrefixCounts.get(prefix)
         );
     };
 
@@ -128,7 +128,7 @@ const main = async () => {
     };
 
     const rawResults = [];
-    for (let i = 0; i < gareBlocks.length; ++i) {
+    for (let i = 0; i < Math.min(gareBlocks.length, 999999); ++i) {
         const gareBlock = gareBlocks[i];
         if (!['innerThought', 'quote'].includes(gareBlock.type)) {
             continue;
@@ -139,7 +139,7 @@ const main = async () => {
         );
         const isQuote = gareBlock.type === 'quote';
         const gareProgress = i / gareBlocks.length;
-        console.log(' ' + ('#' + i).padStart(6) + '    ' + String(Math.round(100 * gareProgress)).padStart(3) + '% - ' + gareBlock.text + ' --> ' + gareUniqueness.score.toFixed(2));
+        console.log(' ' + ('#' + i).padStart(6) + '    ' + String(Math.round(100 * gareProgress)).padStart(3) + '% - ' + gareBlock.text + ' --> ' + gareUniqueness.score.toFixed(2) + ' - ' + gareUniqueness.noSubs.map(prefix => prefix + ' ' + getPrefixUniquenessScore(prefix).toFixed(3)).join(', '));
         const googleScored = googleSentences
             .filter(sen => !!sen.match(/(^"|"$)/) === isQuote)
             .map(googleSentence => {
@@ -147,15 +147,14 @@ const main = async () => {
                 const googleIndex = googleSentenceToIndex.get(googleSentence);
                 const googleProgress = googleIndex / googleSentences.length;
                 const progressDistance = Math.abs(gareProgress - googleProgress);
-                // Garejei usually joins multiple sentences together, and very rarely splits them, so if google sentence is longer, it is probably wrong
-                const extraChars = Math.max(0, googleSentence.length - gareBlock.text.length);
-                return {
-                    score: Math.max(0, score - score * progressDistance * 2) * (1 - extraChars / gareBlock.text.length),
+                const option = {
+                    score: Math.max(0, score - score * progressDistance * 2),
                     sentence: googleSentence,
                     prefixes: prefixes,
                     progress: googleProgress,
                     googleIndex: googleBaseIndex + googleIndex,
                 };
+                return option;
             });
         const alikes = googleScored.sort((a,b) => b.score - a.score);
         for (const {sentence, score, prefixes, progress} of alikes.slice(0, 10)) {
@@ -171,31 +170,6 @@ const main = async () => {
     }
 
     await fs.writeFile(recordingDir + '/rawKeyframes.json', JSON.stringify(rawResults, null, 4));
-
-    // const score = (prefix) => {
-    //     return Math.max(
-    //         garePrefixCounts.get(prefix),
-    //         googlePrefixCounts.get(prefix)
-    //     );
-    // };
-    //
-    // const intersection = [...garePrefixCounts.keys()]
-    //     .filter(k => googlePrefixCounts.has(k));
-    //
-    // const noSubs = removeSubs(intersection)
-    //     .sort((a,b) => score(a) - score(b));
-    //
-    // for (const prefix of noSubs.reverse()) {
-    //     console.log(
-    //         prefix,
-    //         garePrefixCounts.get(prefix),
-    //         googlePrefixCounts.get(prefix)
-    //     );
-    //     for (const sentences of [googleSentences, gareSentences]) {
-    //         const index = sentences.findIndex(s => s.includes(prefix));
-    //         console.log(String(index).padStart(5) + ' - ' + (index / sentences.length).toFixed(2) + ' - ' + sentences[index]);
-    //     }
-    // }
 };
 
 main().catch(exc => {

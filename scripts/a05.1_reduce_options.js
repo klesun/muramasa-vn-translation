@@ -11,8 +11,8 @@ const getSortValue = (googleScored) => {
     if (googleScored.length < 2) {
         return 0;
     }
-    const uniqueness = googleScored[0].score / googleScored[1].score - 1;
-    return googleScored[0].score * (googleScored[0].score > 5 ? (uniqueness ** 2) : 1);
+    const uniqueness = googleScored[0].score - googleScored[1].score;
+    return googleScored[0].score + uniqueness;
 };
 
 const main = async () => {
@@ -20,10 +20,20 @@ const main = async () => {
     const rawKeyframes = JSON.parse(rawKeyframesStr)
         .sort((a,b) => getSortValue(b.googleScored) - getSortValue(a.googleScored));
 
+    const adminKeyframesStr = await fs.readFile(recordingDir + '/adminKeyframes.json', 'utf8');
+    const adminKeyframes = JSON.parse(adminKeyframesStr + 'null]').slice(0, -1);
+
     const autoKeyframes = [];
     const gareToFrame = {};
+    for (const adminKeyframe of adminKeyframes) {
+        gareToFrame[adminKeyframe.garejeiIndex] = adminKeyframe;
+    }
     for (const rawKeyframe of rawKeyframes) {
         console.log('___________________________________');
+        if (gareToFrame[rawKeyframe.garejeiIndex]) {
+            console.log('Skipping manually placed frame: ' + rawKeyframe.garejeiIndex + ' - ' + rawKeyframe.garejei);
+            continue;
+        }
 
         const mustBeAfter = Object.values(gareToFrame).reverse().find(f => f.garejeiIndex < rawKeyframe.garejeiIndex);
         const mustBeBefore = Object.values(gareToFrame).find(f => f.garejeiIndex > rawKeyframe.garejeiIndex);
@@ -47,11 +57,12 @@ const main = async () => {
         }
         console.log(getSortValue(boundedScored), boundedScored[0].score, 'vs', boundedScored.length > 1 ? boundedScored[1].score : '(no alternatives)', (allGoogleScored.length - boundedScored.length) + ' outbounded');
         console.log(rawKeyframe.garejei);
-        if (boundedScored.length === 1 && boundedScored[0].score < 8) {
+        if (boundedScored.length === 1 && boundedScored[0].score < 3) {
             console.log('### skipping, as only option score is too low: ' + boundedScored[0].sentence);
             continue;
         }
-        if (boundedScored.length > 1 && boundedScored[0].score / boundedScored[1].score < 1.66) {
+        const ambiguities = boundedScored.filter(b => boundedScored[0].score / b.score < 1.66);
+        if (ambiguities.length > 1 && ambiguities.some(a => Math.abs(a.googleIndex - boundedScored[0].googleIndex) > 4)) {
             console.log('### skipping, as ambiguous:');
             console.log('- ' + boundedScored[0].sentence);
             console.log('- ' + boundedScored[1].sentence);

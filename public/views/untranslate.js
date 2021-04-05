@@ -12,54 +12,6 @@ const gui = {
     status_panel: document.getElementById('status_panel'),
 };
 
-const shiftChunk = (headTr, keyframe) => {
-    const targetGoogleIndex = keyframe.googleIndex;
-    const rowSpan = Math.max(1, keyframe.rowSpan || 0);
-    const headGoogleIndex = +headTr.getAttribute('data-google-index');
-    const chunkGarejeiDoms = [];
-    for (let i = headGoogleIndex - 1; i < gui.sentences_list.children.length; ++i) {
-        const tr = gui.sentences_list.children[i];
-        const garejeiDom = tr.querySelector('.gareji-holder > *');
-        if (garejeiDom) {
-            chunkGarejeiDoms.push(garejeiDom);
-        } else {
-            break;
-        }
-    }
-    const targetTrs = [];
-    for (let i = 0; i < chunkGarejeiDoms.length; ++i) {
-        const trIndex = i > 0
-            ? targetGoogleIndex - 1 + i  + rowSpan - 1
-            : targetGoogleIndex - 1 + i;
-        const tr = gui.sentences_list.children[trIndex];
-        if (!tr) {
-            const msg = `Chunk of ${chunkGarejeiDoms.length} would go outside last ${gui.sentences_list.children.length} if put at ${targetGoogleIndex}`;
-            alert(msg);
-            return;
-        } else if (tr.querySelector('.gareji-holder > *')) {
-            if (targetTrs.length > 0) {
-                // TODO: support
-                // // sometimes it's two blocks in Garejei blog, but in the game it's actually single block
-                // const cutoutText = chunkGarejeiDoms[i]
-                //     .querySelector('.garejei-sentence-text').textContent;
-                // targetTrs.slice(-1)[0]
-                //     .querySelector('.gareji-holder > *')
-                //     .appendChild(Dom('div', {}, cutoutText));
-                // continue;
-            }
-            const msg = `Row #${targetGoogleIndex + i} has existing garejei sentence, tried to move ${headTr.innerHTML}`;
-            alert(msg);
-            return;
-        } else {
-            targetTrs.push(tr);
-        }
-    }
-    chunkGarejeiDoms.forEach(d => d.remove());
-    for (let i = 0; i < chunkGarejeiDoms.length; ++i) {
-        targetTrs[i].querySelector('.gareji-holder').appendChild(chunkGarejeiDoms[i]);
-    }
-};
-
 const makeTr = (googleSrtRecord) => {
     return Dom('tr', {'data-google-index': googleSrtRecord.index}, [
         Dom('td', {}, googleSrtRecord.index),
@@ -76,7 +28,7 @@ const makeGarejeiDom = (linkedBlock) => {
         'data-garejei-index': linkedBlock.garejeiIndex,
     }, [
         Dom('input', {type: 'radio', name: 'linkedGarejeiSentence'}),
-        Dom('span', {class: 'garejei-sentence-text'}, linkedBlock.sentence),
+        Dom('span', {class: 'garejei-sentence-text'}, linkedBlock.sentence.replace(/\n🤖 \S.*/, '')),
     ]);
 };
 
