@@ -55,6 +55,7 @@ const collectKanjiToRomaji = async (dirPath) => {
     kanjiToRomaji.set('鉄炮', 'Tetsuhao');
     kanjiToRomaji.set('古河公方', 'Kogakubo'); // a way to refer to the government perhaps?
     kanjiToRomaji.set('改とやら', 'Arata Toyara'); // fake name Kageaki used in Ayane route
+    kanjiToRomaji.set('一媛', 'Ichihime'); // Ayane's fake name Kageaki used in her route
     // Some historical dude, google translates it as
     // Minamoto, but Kageaki says specifically Genzanmi
     kanjiToRomaji.set('源三位', 'Genzanmi (3rd)');
