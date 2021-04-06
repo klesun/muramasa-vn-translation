@@ -34,6 +34,10 @@ const main = async () => {
             //console.log('Skipping manually placed frame: ' + rawKeyframe.garejeiIndex + ' - ' + rawKeyframe.garejei);
             continue;
         }
+        if (rawKeyframe.garejei.match(/^[\s….]*$/)) {
+            continue; // useless, as Gare naturally does not add consistent "..." matching those in the game, as
+                      // that would be meaningless, considering he does not translate every sentence anyway
+        }
         console.log('___________________________________');
 
         const mustBeAfter = Object.values(gareToFrame).reverse().find(f => f.garejeiIndex < rawKeyframe.garejeiIndex);
