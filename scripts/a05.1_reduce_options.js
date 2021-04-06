@@ -28,12 +28,13 @@ const main = async () => {
     for (const adminKeyframe of adminKeyframes) {
         gareToFrame[adminKeyframe.garejeiIndex] = adminKeyframe;
     }
+    const unplaced = [];
     for (const rawKeyframe of rawKeyframes) {
-        console.log('___________________________________');
         if (gareToFrame[rawKeyframe.garejeiIndex]) {
-            console.log('Skipping manually placed frame: ' + rawKeyframe.garejeiIndex + ' - ' + rawKeyframe.garejei);
+            //console.log('Skipping manually placed frame: ' + rawKeyframe.garejeiIndex + ' - ' + rawKeyframe.garejei);
             continue;
         }
+        console.log('___________________________________');
 
         const mustBeAfter = Object.values(gareToFrame).reverse().find(f => f.garejeiIndex < rawKeyframe.garejeiIndex);
         const mustBeBefore = Object.values(gareToFrame).find(f => f.garejeiIndex > rawKeyframe.garejeiIndex);
@@ -52,17 +53,20 @@ const main = async () => {
         }
         console.log('<> window: ' + (mustBeAfter ? mustBeAfter.garejeiIndex : '...') + ' <-> ' + (mustBeBefore ? mustBeBefore.garejeiIndex : '...'));
         if (boundedScored.length < 1 || !boundedScored[0].score) {
+            unplaced.push(rawKeyframe);
             console.log('### skipping, as no options: ' + rawKeyframe.garejei);
             continue;
         }
         console.log(getSortValue(boundedScored), boundedScored[0].score, 'vs', boundedScored.length > 1 ? boundedScored[1].score : '(no alternatives)', (allGoogleScored.length - boundedScored.length) + ' outbounded');
         console.log(rawKeyframe.garejei);
         if (boundedScored.length === 1 && boundedScored[0].score < 3) {
+            unplaced.push(rawKeyframe);
             console.log('### skipping, as only option score is too low: ' + boundedScored[0].sentence);
             continue;
         }
         const ambiguities = boundedScored.filter(b => boundedScored[0].score / b.score < 1.66);
         if (ambiguities.length > 1 && ambiguities.some(a => Math.abs(a.googleIndex - boundedScored[0].googleIndex) > 4)) {
+            unplaced.push(rawKeyframe);
             console.log('### skipping, as ambiguous:');
             console.log('- ' + boundedScored[0].sentence);
             console.log('- ' + boundedScored[1].sentence);
@@ -86,6 +90,9 @@ const main = async () => {
     }
 
     await fs.writeFile(recordingDir + '/autoKeyframes.json', JSON.stringify(autoKeyframes.sort((a,b) => a.garejeiIndex - b.garejeiIndex), null, 4));
+
+    unplaced.sort((a,b) => a.garejei.length - b.garejei.length);
+    console.log(unplaced.map(kf => kf.garejeiIndex + ' - ' + kf.garejei));
 };
 
 main().catch(exc => {

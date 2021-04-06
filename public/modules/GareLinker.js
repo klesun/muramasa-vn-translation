@@ -30,6 +30,11 @@ export const allocateBetweenKeyframes = ({garejeiBlocks, keyframes, srcSrtBlocks
             const googleIndex = keyframe ? keyframe.googleIndex : lastEndGoogleIndex;
             outSrtBlocks.push(...srcSrtBlocks.slice(lastEndGoogleIndex -1, googleIndex - 1));
             const rowSpan = keyframe ? keyframe.rowSpan ?? 0 : 0;
+            if (googleIndex === outSrtBlocks.slice(-1)[0]?.googleIndex) {
+                // more than one Gare block matched same game block
+                outSrtBlocks.slice(-1)[0].sentence += '\n' + displayText;
+                continue;
+            }
             const googleSrt = srcSrtBlocks[googleIndex - 1];
             if (commentsBuffer.length > 0 && googleIndex > 1) {
                 srcSrtBlocks[googleIndex - 2].sentence =
