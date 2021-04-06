@@ -17,7 +17,8 @@ const addGarejeiAt = async (dirPath, gareDir) => {
     const autoKeyframes = JSON.parse(garejeiKeyframes_fixedStr);
     const garejeiBlocks = JSON.parse(gareBlocksStr);
     const adminKeyframes = JSON.parse(adminKeyframesStr + 'null]').slice(0, -1);
-    const keyframes = [...autoKeyframes, ...adminKeyframes];
+    const adminIndexes = new Set(adminKeyframes.map(kf => kf.garejeiIndex));
+    const keyframes = [...autoKeyframes.filter(kf => !adminIndexes.has(kf.garejeiIndex)), ...adminKeyframes];
     const srcSrtBlocks = srcSrtStr
         .trim().split(/\n\n/)
         .map(parseSrtSentence);
