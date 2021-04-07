@@ -62,6 +62,7 @@ const collectKanjiToRomaji = async (dirPath) => {
     kanjiToRomaji.set('源三位', 'Genzanmi (3rd)');
     kanjiToRomaji.set('騎', 'craft'); // that's how Maa-chan translated it, I believe it's a common word to refer to both tsurugis and dragoons
     kanjiToRomaji.set('入道', 'Nyudo'); // that's how servant boy (girl?) refers to the bald monk from Rokuhara
+    kanjiToRomaji.set('宮殿下', 'Imperial Highness'); // better than palace at least
     return kanjiToRomaji;
 };
 
