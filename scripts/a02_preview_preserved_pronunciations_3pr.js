@@ -54,6 +54,7 @@ const collectKanjiToRomaji = async (dirPath) => {
     kanjiToRomaji.set('吉野御流合', 'Yoshino Goryu');
     kanjiToRomaji.set('鉄炮', 'Tetsuhao');
     kanjiToRomaji.set('古河公方', 'Kogakubo'); // a way to refer to the government perhaps?
+    kanjiToRomaji.set('普陀楽', 'Fudaraku'); // the name of the castle where Ichijou and Kag infiltrate
     kanjiToRomaji.set('改とやら', 'Arata Toyara'); // fake name Kageaki used in Ayane route
     kanjiToRomaji.set('一媛', 'Ichihime'); // Ayane's fake name Kageaki used in her route
     // Some historical dude, google translates it as
@@ -126,7 +127,7 @@ const main = async () => {
                         kan += honorific[0];
                         rom += '-' + honorific[1];
                     }
-                    jpn = jpn.replace(kan, rom);
+                    jpn = jpn.replace(kan, ' ' + rom);
                     // console.log('  '.repeat(index) + '^^'.repeat(kan.length) + ' - ' + rom + (honorific ? '---' + honorific[1] : ''));
                     // console.log(eng + '\n');
                 }
