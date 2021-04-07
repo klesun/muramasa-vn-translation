@@ -1,6 +1,11 @@
 
 import { promises as fs } from 'fs';
-import {CHAPTER5_REC1_DIR, HERO_ROUTE_REC1_DIR, RECORDING_LOCATIONS} from "../backend/assets_index.js";
+import {
+    CHAPTER5_REC1_DIR,
+    HERO_ROUTE_REC1_DIR,
+    HERO_ROUTE_REC2_DIR,
+    RECORDING_LOCATIONS
+} from "../backend/assets_index.js";
 
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
@@ -12,7 +17,8 @@ const addGarejeiAt = async (dirPath, gareDir) => {
     const adminKeyframesStr = await fs.readFile(gareDir + '/adminKeyframes.json');
     const garejeiKeyframes_fixedStr = await fs.readFile(gareDir + '/autoKeyframes.json');
     const gareBlocksStr = await fs.readFile(gareDir + '/../garejeiBlocks.json');
-    const srcSrtStr = await fs.readFile(dirPath + '/game_recording.eng.srt', 'utf8');
+    // const srcSrtStr = await fs.readFile(dirPath + '/game_recording.eng.srt', 'utf8');
+    const srcSrtStr = await fs.readFile(dirPath + '/game_recording_before_h2.eng.srt', 'utf8');
 
     const autoKeyframes = JSON.parse(garejeiKeyframes_fixedStr);
     const garejeiBlocks = JSON.parse(gareBlocksStr);
@@ -28,14 +34,16 @@ const addGarejeiAt = async (dirPath, gareDir) => {
         .map(joinSrtBlockParts)
         .join('\n\n');
 
-    await fs.writeFile(dirPath + '/game_recording_gare.eng.srt', outSrt);
+    // await fs.writeFile(dirPath + '/game_recording_gare.eng.srt', outSrt);
+    await fs.writeFile(dirPath + '/game_recording_before_h2_gare.eng.srt', outSrt);
 };
 
 const dirPaths = new Set(RECORDING_LOCATIONS.map(l => l[0]));
 
 const dirPathToGareDir = {
     // [CHAPTER5_REC1_DIR]: CHAPTER5_REC1_DIR
-    [HERO_ROUTE_REC1_DIR]: HERO_ROUTE_REC1_DIR,
+    // [HERO_ROUTE_REC1_DIR]: HERO_ROUTE_REC1_DIR,
+    [HERO_ROUTE_REC2_DIR]: HERO_ROUTE_REC2_DIR,
 };
 
 const main = async () => {
