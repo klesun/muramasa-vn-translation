@@ -13,12 +13,13 @@ const gui = {
 };
 
 const makeTr = (googleSrtRecord) => {
+    const youtubeBaseUrl = 'https://www.youtube.com/watch?v=MtvQbEnefgM'
     const timestampMs = parseSrtTimestamp(googleSrtRecord.startRelTs);
     return Dom('tr', {'data-google-index': googleSrtRecord.index}, [
         Dom('td', {}, googleSrtRecord.index),
         Dom('td', {}, [
             Dom('a', {
-                href: 'https://www.youtube.com/watch?v=HHU4Nppwp3g&t=' + Math.round(timestampMs / 1000) + 's',
+                href: youtubeBaseUrl + '&t=' + Math.round(timestampMs / 1000) + 's',
             }, googleSrtRecord.startRelTs),
         ]),
         Dom('td', {class: 'google-holder'}, googleSrtRecord.sentence),
@@ -60,9 +61,10 @@ const putGarejeiBlocks = (allocated) => {
 };
 
 const main = async () => {
-    const recordingDir = 'mb_hero_route/rec1';
+    const recordingDir = 'mb_hero_route/rec2';
+    const fileNameRoot = 'game_recording_before_h2';
     const [googleSrtText, autoKeyframes, garejeiBlocks, adminKeyframesText] = await Promise.all([
-        fetch('./../assets/' + recordingDir + '/game_recording.eng.srt').then(rs => rs.text()),
+        fetch('./../assets/' + recordingDir + '/' + fileNameRoot + '.eng.srt').then(rs => rs.text()),
         fetch('./../assets/' + recordingDir + '/autoKeyframes.json').then(rs => rs.json()),
         fetch('./../assets/mb_hero_route/garejeiBlocks.json').then(rs => rs.json()),
         fetch('./../assets/' + recordingDir + '/adminKeyframes.json').then(rs => rs.status === 404 ? '[' : rs.text()),

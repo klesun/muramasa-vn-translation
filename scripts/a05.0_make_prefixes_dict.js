@@ -13,7 +13,8 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
  */
 
 const routeDir = __dirname + '/../public/assets/mb_hero_route';
-const recordingDir = routeDir + '/rec1';
+const recordingDir = routeDir + '/rec2';
+const fileNameRoot = 'game_recording_before_h2';
 
 const memoizedPrefixes = new Map();
 
@@ -68,28 +69,52 @@ const removeSubs = (prefixes) => {
     return noSubs;
 };
 
+const gareRanges = [
+    {
+        start: null,
+        end: 'Doushin tells him he should stop him with his own two hands if he wants it so badly. Kuniuji nearly faints.',
+    },
+    {
+        start: 'Doushin tells him he should stop him with his own two hands if he wants it so badly. Kuniuji nearly faints.',
+        end: 'What was my mother saying…?',
+    },
+];
+
+const googleRanges = [
+    {
+        start: 'Conquer. To fight the evil of this world.',
+        end: null,
+    },
+];
+
 const main = async () => {
     const gareBlocksStr = await fs.readFile(routeDir + '/garejeiBlocks.json', 'utf8');
 
     const gareBlocksUncut = JSON.parse(gareBlocksStr);
+    const gareBaseIndex = gareBlocksUncut
+        .findIndex(b => b.text === 'Doushin tells him he should stop him with his own two hands if he wants it so badly. Kuniuji nearly faints.');
+    if (gareBaseIndex < 0) {
+        throw new Error('Zhopa bad gare start index');
+    }
     const gareEndIndex = gareBlocksUncut
-        .findIndex(b => b.text === '(Yup, this is all I can safely show you.)');
-    const gareBlocks = gareBlocksUncut.slice(0, gareEndIndex);
+        .findIndex(b => b.text === '“What was my mother saying…?”');
+    if (gareEndIndex < 0) {
+        throw new Error('Zhopa bad gare end index');
+    }
+    console.log('garehuj', {gareBaseIndex, gareEndIndex});
+    const gareBlocks = gareBlocksUncut.slice(gareBaseIndex, gareEndIndex);
 
-    const translatedSrtBlocksUncut = await getTranslatedSrt(recordingDir);
-    const googleBaseIndex = translatedSrtBlocksUncut
-        .findIndex(b => b.sentence === 'Conquer. To fight the evil of this world.');
+    const translatedSrtBlocksUncut = await getTranslatedSrt(recordingDir, fileNameRoot);
+    const googleBaseIndex = 0;
+    // const googleBaseIndex = translatedSrtBlocksUncut
+    //     .findIndex(b => b.sentence === 'Conquer. To fight the evil of this world.');
     const translatedSrtBlocks = translatedSrtBlocksUncut.slice(googleBaseIndex);
 
     const googleSentences = translatedSrtBlocks
-        .map(b => b.sentence.toLowerCase())
-        //.filter(s => s.length > 24)
-        ;
+        .map(b => b.sentence.toLowerCase());
     const gareSentences = gareBlocks
         .filter(b => ['innerThought', 'quote'].includes(b.type))
-        .map(b => b.text.toLowerCase())
-        //.filter(s => s.length > 24)
-        ;
+        .map(b => b.text.toLowerCase());
 
     const googleSentenceToIndex = new Map();
     for (let i = 0; i < googleSentences.length; ++i) {
@@ -162,7 +187,7 @@ const main = async () => {
         }
         console.log('___________________');
         rawResults.push({
-            garejeiIndex: i + 1,
+            garejeiIndex: gareBaseIndex + i + 1,
             garejei: gareBlock.text,
             garejeiProgress: gareProgress,
             googleScored: alikes.slice(0, 160),

@@ -9,6 +9,9 @@ export const allocateBetweenKeyframes = ({garejeiBlocks, keyframes, srcSrtBlocks
     let lastEndGoogleIndex = 1;
     let commentsBuffer = [];
     for (let i = 0; i < garejeiBlocks.length; ++i) {
+        if (i < 533 || i >= 1110) {
+            continue; // TODO: move each recording bounds to a reusable mapping file
+        }
         const garejeiBlock = garejeiBlocks[i];
         const garejeiIndex = i + 1;
         if ('text' in garejeiBlock && garejeiBlock.text.match(/^[\s….]*$/)) {

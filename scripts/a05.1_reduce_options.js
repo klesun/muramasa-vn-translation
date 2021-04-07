@@ -5,7 +5,7 @@ import {fileURLToPath} from "url";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const routeDir = __dirname + '/../public/assets/mb_hero_route';
-const recordingDir = routeDir + '/rec1';
+const recordingDir = routeDir + '/rec2';
 
 const getSortValue = (googleScored) => {
     if (googleScored.length < 2) {
@@ -64,13 +64,13 @@ const main = async () => {
         console.log(getSortValue(boundedScored), boundedScored[0].score, 'vs', boundedScored.length > 1 ? boundedScored[1].score : '(no alternatives)', (allGoogleScored.length - boundedScored.length) + ' outbounded');
         console.log(rawKeyframe.garejei);
         if (boundedScored.length === 1 && boundedScored[0].score < 3) {
-            unplaced.push(rawKeyframe);
+            //unplaced.push(rawKeyframe);
             console.log('### skipping, as only option score is too low: ' + boundedScored[0].sentence);
             continue;
         }
         const ambiguities = boundedScored.filter(b => boundedScored[0].score / b.score < 1.66);
         if (ambiguities.length > 1 && ambiguities.some(a => Math.abs(a.googleIndex - boundedScored[0].googleIndex) > 4)) {
-            unplaced.push(rawKeyframe);
+            //unplaced.push(rawKeyframe);
             console.log('### skipping, as ambiguous:');
             console.log('- ' + boundedScored[0].sentence);
             console.log('- ' + boundedScored[1].sentence);
@@ -96,7 +96,7 @@ const main = async () => {
     await fs.writeFile(recordingDir + '/autoKeyframes.json', JSON.stringify(autoKeyframes.sort((a,b) => a.garejeiIndex - b.garejeiIndex), null, 4));
 
     unplaced.sort((a,b) => a.garejei.length - b.garejei.length);
-    console.log(unplaced.map(kf => kf.garejeiIndex + ' - ' + kf.garejei));
+    console.log(unplaced.map(kf => kf.garejeiIndex + ' - ' + kf.garejei).join('\n') + '\n');
 };
 
 main().catch(exc => {
