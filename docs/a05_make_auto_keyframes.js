@@ -9,6 +9,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const {distance, closest} = FastestLevenshtein;
 
 /**
+ * @deprecated - a05.0_make_prefixes_dict.js + a05.1_reduce_options.js are 100 times cooler
  * @module - matches human-translated text from /docs/garejei_mirror
  * to the untranslated japanese text to replace subs in the video to
  * the human translation instead of machine one
