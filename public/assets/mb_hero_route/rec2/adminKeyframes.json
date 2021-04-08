@@ -165,14 +165,14 @@
     "garejei": "🕸 \"Ah, what splendid warriors they were. So fierce, so relentless, fighting and killing each other till the very end. It really was a pleasure to behold.\" - Hikaru",
     "googleIndex": 2561,
     "google": "\"They were good warriors. They were fierce, they didn't know to retreat, and no matter how many times they were beaten, they rushed over the corpse of their compatriots.\"",
-    "rowSpan": 0
+    "rowSpan": 1
 },
 {
     "garejeiIndex": 968,
     "garejei": "🕸 \"And even you’re here, Kageaki! This truly turned out to be quite an exciting night. Ah, if only every day could be like this, I would be set free from that demon we call boredom.\" - Hikaru",
     "googleIndex": 2566,
     "google": "\"Kageaki, I hope you'll come there. The light of today is totally abandoned by the boring possession! I hope this is always the case.\"",
-    "rowSpan": 0
+    "rowSpan": 1
 },
 {
     "garejeiIndex": 969,
@@ -492,7 +492,7 @@
 {
     "garejeiIndex": 1057,
     "garejei": "🕸 \"There exist sins that cannot be forgiven! People who deserve nothing but death! People who are too powerful to be judged by conventional means. People like you or the Rokuhara. I will not believe for a second that there is anything wrong with such a way of thinking.\" - Kageaki",
-    "googleIndex": 2795,
+    "googleIndex": 2794,
     "google": "\"Some of them are not judged by the judiciary because of their mighty power ... like Rokuhara, Silver Star, you. Ichijou has his mission to deal with such great evil. did\"",
     "rowSpan": 2
 },
@@ -637,13 +637,6 @@
     "rowSpan": 2
 },
 {
-    "garejeiIndex": 1081,
-    "garejei": "🕸 \"You’ve learned nothing. It seems like I’ve spoiled you too much… and my plans backfired. And now… behold! I will spread violence all across this land! Let the world bear witness to the truth I embody!\" - Hikaru",
-    "googleIndex": 2849,
-    "google": "\"Failure! Teaching to you has failed!\"",
-    "rowSpan": 5
-},
-{
     "garejeiIndex": 1083,
     "garejei": "🕸 Not a single drop of energy remained in my broken soul.\n🕸 And then… the world itself came to an end.",
     "googleIndex": 2856,
@@ -725,7 +718,7 @@
     "garejei": "🕸 No reply would escape my lips. For I knew she was right.",
     "googleIndex": 2809,
     "google": "There is no room for a beak in the mellow narrative. Can't prevent. Because I knew-Silver Star's words pierced the truth.",
-    "rowSpan": 0
+    "rowSpan": 1
 },
 {
     "garejeiIndex": 1063,
@@ -1521,9 +1514,9 @@
 {
     "garejeiIndex": 895,
     "garejei": "🕸 \"So you help out with the chores in the kitchen… And yet, your skin is so smooth and beautiful – not rough at all. The way you act and carry yourself… is suspiciously calm. You are… vigilant, always ready to for an attack. It is the behaviour of a person who knows the way of the sword. And finally… your gaze was not tainted by suspicion the moment two strangers, who clearly aren’t locals, entered your shop.\" - Kageaki",
-    "googleIndex": 2150,
+    "googleIndex": 2155,
     "google": "\"But this hand isn't rough at all. It's white, clean, and smooth. Instead, it has a thin octopus at the base of the finger.\"",
-    "rowSpan": 0
+    "rowSpan": 3
 },
 {
     "garejeiIndex": 787,
@@ -2312,7 +2305,7 @@
     "garejei": "🕸 \"People act in accordance to their own laws*, each and every one of them competing against one another. Through that rivalry, they aspire to reach the highest of positions, one befitting a king. Such is their ultimate desire.\" - Hikaru",
     "googleIndex": 2622,
     "google": "\"I hope that all people will compete for each martial arts according to the law of martial arts and reach the position of supreme by the conflict of training.\"",
-    "rowSpan": 0
+    "rowSpan": 1
 },
 {
     "garejeiIndex": 992,
@@ -2394,9 +2387,9 @@
 {
     "garejeiIndex": 1007,
     "garejei": "🕸 \"And who might you be? Interrupting without properly introducing yourself is quite rude, you know.\" - Hikaru",
-    "googleIndex": 2682,
+    "googleIndex": 2681,
     "google": "\"... Is it possible to introduce myself? I don't need it. That's right.\"",
-    "rowSpan": 1
+    "rowSpan": 0
 },
 {
     "garejeiIndex": 933,
@@ -2459,7 +2452,7 @@
     "garejei": "🕸 I hanged my head in shame, unable to say anything.",
     "googleIndex": 1756,
     "google": "Look down. It was a feeling of being pressed against my head with a heavy feeling of helplessness.",
-    "rowSpan": 0
+    "rowSpan": 1
 },
 {
     "garejeiIndex": 670,
@@ -2614,4 +2607,11 @@
     "googleIndex": 2629,
     "google": "\"To make your wish come true, you have to dye the whole world with the will of light ... Of course, that's right, and I'm going to do that. Will you be in trouble if you don't proceed little by little?\"",
     "rowSpan": 2
+},
+{
+    "garejeiIndex": 1081,
+    "garejei": "🕸 \"You’ve learned nothing. It seems like I’ve spoiled you too much… and my plans backfired. And now… behold! I will spread violence all across this land! Let the world bear witness to the truth I embody!\" - Hikaru",
+    "googleIndex": 2851,
+    "google": "\"It seems that he was too spoiled. It backfired that he didn't hurry to think of you.\"",
+    "rowSpan": 1
 },
