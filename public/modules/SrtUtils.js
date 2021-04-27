@@ -65,7 +65,7 @@ export const parseSrtSentence = (blockStr) => {
 export const parseSentenceTranslationsFile = (translatedSentencesStr) => {
     return translatedSentencesStr
         .trim().split(/(?:\r\n|\n){2}/)
-        .map(lineTranslationText => {
+        .map((lineTranslationText, i) => {
             let [jpn, eng] = lineTranslationText
                 .split(/(?:\r\n|\n)/);
             eng = eng.trim()
