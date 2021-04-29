@@ -70,6 +70,7 @@ const hasDeeplArtifacts = (eng) => {
         || eng.toLowerCase().includes("it's a good idea")
         || eng.toLowerCase().includes("web site")
         || eng.toLowerCase().includes("on the web")
+        || eng.toLowerCase().includes("uou can find it at")
         || hasRepeatingSentences(eng);
 };
 
