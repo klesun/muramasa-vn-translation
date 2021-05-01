@@ -1,8 +1,8 @@
 養母――　養母は、何を言おうと――
-Hello DeepL
+My foster mother-- my foster mother, no matter what she said--
 
 殺しちゃいけないよ。　　　　　　一人も、殺しちゃあ駄目だ。
-My foster mother-- my foster mother, no matter what she said--　　　　　　[...]
+Don't kill them.　　　　　　Don't kill any of them.
 
 「――っ」
 "What--
@@ -22,7 +22,7 @@ Can you save your adoptive mother without killing her, without fail?
 ……斬り殺すしかない！　養母を救うにはそれしかない。
 We have to ...... slay it!　It's the only way to save my adoptive mother.
 
-生半可な攻撃は甲鉄で護られた竜 craft兵に対して痛痒すら与えられないだろう。　説得する？　論外だ。養母が斬られるまで一時間もあるというなら別だが。
+生半可な攻撃は甲鉄で護られた竜騎兵に対して痛痒すら与えられないだろう。　説得する？　論外だ。養母が斬られるまで一時間もあるというなら別だが。
 A half-hearted attack would not even scratch the surface of the armor-bound dragon craft soldiers.　Persuade them?　Out of the question. Unless, of course, you have an hour before your foster mother is cut down.
 
 一撃で殺傷する以外に、阻止する方法は無い。
@@ -41,7 +41,7 @@ My adoptive mother taught me--
 "If you die, I'll kill everyone who caused your death.　I won't forgive a single one of them. Never.
 
 『…………おまえが誰かを殺したらさ。　その人の身内が、同じように誓うかもしれないんだよ』
-'............ If you kill someone.　If you kill someone, their relatives may swear to do the same.
+............ If you kill someone.　If you kill someone, their relatives may swear to do the same.
 
 養母は正しい。　その言葉は完全な真実だ。
 My adoptive mother is right.　Her words are the complete truth.
@@ -88,10 +88,10 @@ I'm gonna kill one of them.
 斬った。　殺した。
 I cut him.　Killed.
 
-名も知らぬ山賊の mushaを――　　……いや。違った。
+名も知らぬ山賊の武者を――　　……いや。違った。
 A bandit with no name musha-- ...... No. It's not.
 
-殺してみれば、山賊ではなかった。　 mushaでもなかった。
+殺してみれば、山賊ではなかった。　武者でもなかった。
 When I killed him, he was not a bandit.　 It wasn't a musha either.
 
 ……誰だったろう。　ここでは、俺はその名を思い出せない。
@@ -157,10 +157,10 @@ That's right.　Yes, that's right.
 それは決して許されざる、悪鬼の所業なのだ。
 It is the work of an evil demon that can never be forgiven.
 
-天頂から一 craftが来襲する。　俺のことを、嫌々ながらに殺人する下らぬ男、英雄にも悪鬼にもなれない半端者だと詰っている。
+天頂から一騎が来襲する。　俺のことを、嫌々ながらに殺人する下らぬ男、英雄にも悪鬼にもなれない半端者だと詰っている。
 A craft is coming from the zenith.　He thinks I'm a lowlife who kills reluctantly, a halfwit who can't be a hero or a demon.
 
-英雄は胸を張って殺す。　悪鬼は笑って殺す。　どちらもできない Minato Kageakiは普通の人間でいられた、いるべきだったのだと言っている。
+英雄は胸を張って殺す。　悪鬼は笑って殺す。　どちらもできない湊斗景明は普通の人間でいられた、いるべきだったのだと言っている。
 A hero kills with his chest out.　Evil demons kill with a smile.　Minato Kageaki, who can do neither, says he could and should have been a normal human being.
 
 ――それは違う。
@@ -187,7 +187,7 @@ The morbidly poor man sneered at me.　　...... Yes.　I'm sure I came to this 
 どうして――――　それを忘れていたのか。
 How could ---- have forgotten that?
 
-殺人の意味を誤解してしまったのか。　 Silver Star曰くの、正しい殺人と誤った殺人があるかのように考えていたのか。
+殺人の意味を誤解してしまったのか。　銀星号曰くの、正しい殺人と誤った殺人があるかのように考えていたのか。
 Have I misunderstood the meaning of murder?　 Have you been thinking as if there is a right kind of murder and a wrong kind of murder, as Silver Star says?
 
 つまりは、普遍的な正義と邪悪の存在を無意識下に信じてしまったのか。
@@ -202,7 +202,7 @@ I know why it came to me so firmly.
 ―――――――。　　そう。これだ。
 -------.　　Yes. This is it.
 
-この大罪。　 Minato Kageakiの、永劫の罪。
+この大罪。　湊斗景明の、永劫の罪。
 This great sin.　 The eternal sin of Minato Kageaki.
 
 母殺し。
@@ -214,7 +214,7 @@ And then, like a copy of that, he killed again and again.　He thought he was go
 この悪罪は明晰で、揺るがしようもない。　　だから――正義も、この正対として現れたのだ。
 This evil sin is lucid and unassailable.　　So - justice also appeared as this positive counterpart.
 
-『 Minato Kageaki。　あたしはあんたを許さない』
+『湊斗景明。　あたしはあんたを許さない』
 Minato Kageaki. I'll never forgive you.
 
 『殺してやる』
@@ -229,7 +229,7 @@ Accusations of immobility.　And the sentence of execution.
 無慈悲にして正当な裁判。
 A ruthless and just trial.
 
-あの時――――　　俺の中で Ayane Ichijouは完璧な正義となったのだと、今にしてわかる。
+あの時――――　　俺の中で綾弥一条は完璧な正義となったのだと、今にしてわかる。
 At that time, ---- I can see now that Ayane Ichijou became the perfect justice in my mind.
 
 何故なら弁明の余地もない。　情状酌量を希う隙も皆無だ。
@@ -244,8 +244,8 @@ The perfect justice that condemns my evil.
 ……今、思い直してみても。　俺の抱いた認識は、そのままに残る。
 ...... Now that I think back on it.　The perception I had remains intact.
 
- Minato Kageakiの養母殺しは完全に悪業だ。　その悪業を許さぬという意思は完全に正義だ。
- Minato Kageaki's murder of his adoptive mother was a completely evil act.　The will not to allow that evil deed is completely just.
+湊斗景明の養母殺しは完全に悪業だ。　その悪業を許さぬという意思は完全に正義だ。
+Minato Kageaki's murder of his adoptive mother was a completely evil act.　The will not to allow that evil deed is completely just.
 
 だが、俺は一つ心得違いをした。　悪も正義もそれだけだと思い込んだ。
 But I was wrong about one thing.　I thought that evil and justice were the only two things.
@@ -268,7 +268,7 @@ Reality.　That's right. This is reality, and this has been a dream.
 真逆、だった。　夢に示された道は、仏道から遠くかけ離れている。
 It was the exact opposite.　The path shown in the dream was far from the Buddhist path.
 
-《…… midou？　起きたの？》
+《……御堂？　起きたの？》
 《...... midou? Are you awake?
 
 「ああ。　どれくらい眠っていた？」
@@ -289,7 +289,7 @@ In fact, my limbs are getting heavier.　That's the weight of my sin that the cu
 その重さを、しかし――厭わない。　これは俺の背負うべきものなのだと自覚する。
 The weight of it, however, I am willing to bear.　I realize that this is what I have to carry.
 
-この重さが、俺に教える。　これは Minato Kageakiが意思を貫徹する為に、重ねてきた罪なのだと。
+この重さが、俺に教える。　これは湊斗景明が意思を貫徹する為に、重ねてきた罪なのだと。
 This weight teaches me.　This is the crime that Minato Kageaki has committed in order to carry out his will.
 
 意思。
@@ -313,25 +313,25 @@ What?　...... is still sleeping, but that girl...
 「いい」
 Good.
 
-《 midou……？》
+《御堂……？》
 "midou......?
 
-「 Ichijouは置いてゆく」
+「一条は置いてゆく」
 I'm leaving Ichijou behind.
 
 道は既に、分かたれた。　　そう理解する。
 The road has already been divided.　　That's what I understand.
 
-俺に俺の引き返せぬ道があるように。　 Ichijouにも Ichijouの、引き返せぬ道がある。
+俺に俺の引き返せぬ道があるように。　一条にも一条の、引き返せぬ道がある。
 Just as I have my own path that I can't turn back.　 Ichijou has its own path that cannot be turned back.
 
-これからの村正を、 Ichijouは決して受け入れられないだろう。　俺が最早、正宗を受け入れられないのと同じように。
+これからの村正を、一条は決して受け入れられないだろう。　俺が最早、正宗を受け入れられないのと同じように。
 Ichijou will never be able to accept the future Muramasa.　Just like I can't accept Masamune any longer.
 
 俺の迷妄が一時、両者の道を縒り合わせた。　しかしそれも、今は無い。
 For a time, my delusion twisted the paths of both of us together.　But that's no longer the case.
 
-道は分かたれている。　俺と Ichijouは、異なる道を行く。
+道は分かたれている。　俺と一条は、異なる道を行く。
 The road is divided.　Ichijou and I are going down different paths.
 
 《……それでいいの？》
@@ -340,13 +340,13 @@ The road is divided.　Ichijou and I are going down different paths.
 「…………」
 "............
 
-《村正が Silver Starを殺せば……　 midou、貴方はその後で》
+《村正が銀星号を殺せば……　御堂、貴方はその後で》
 If Muramasa kills the Silver Star, ...... midou, you will then...
 
 「俺が善いと思う者。　尊いと、思う者」
 "Who I think is good.　"Who I think is good, who I think is noble.
 
-「 Ayane Ichijouをも殺すことになる」
+「綾弥一条をも殺すことになる」
 "It will also kill Ayane Ichijou.
 
 《……ええ》
@@ -385,7 +385,7 @@ The ----
 だから、きっと。　　――この世のあらゆる武器が呪われし村正なのだ。
 So, surely.　　--Every weapon in this world is a cursed Muramasa.
 
-《 midou》
+《御堂》
 《Midou》
 
 「憎む敵と共に、傍らの友をも殺す……。　それを厭うのなら、そもそも敵を殺してはならない。そうするに足る覚悟が無いという事だから」
@@ -409,7 +409,7 @@ Both good and evil.　The truth of the struggle.
 武というものの本質。　分け隔てなく、ただ、殺すばかりのちから。
 The essence of martial arts.　The power to simply kill, without distinction.
 
-そう見極めた。　　だから―――― Ichijou。
+そう見極めた。　　だから――――一条。
 That's what I found out.　　So ---- Ichijou.
 
 俺は二度と、戦い殺す者の正義を信じない。　お前と一緒には、行けないのだ。
@@ -418,7 +418,7 @@ I will never again believe in the justice of those who fight and kill.　I can't
 俺はお前を、　裏切ることにする。
 I'm going to betray you.
 
-「行くぞ、村正。　 Silver Starを討つ」
+「行くぞ、村正。　銀星号を討つ」
 "Let's go, Muramasa.　 We will avenge the Silver Star.
 
 《……》
@@ -439,7 +439,7 @@ The ......
 「お前の全ての力を俺にくれ」
 "Give me all your power.
 
-《捧げます。全ての力を。　私の、 midou》
+《捧げます。全ての力を。　私の、御堂》
 I offer you this. All my strength.　My, midou.
 
 「鬼に逢うては鬼を斬る。　仏に逢うては仏を斬る」
@@ -469,13 +469,13 @@ Muramasa's sword cut the leaves that drifted by.　Masamune's sword missed the l
 「………………」
 "..................
 
-《―――― midou》
+《――――御堂》
 《---- midou》
 
 「ん……」
 You can find it at .......
 
-「…… Kageaki……」
+「……景明……」
 ...... Kageaki......
 
 「……」
@@ -490,7 +490,7 @@ Not so fast.
 「……」
 "......
 
-「大和は Silver Starという悪夢にもう飽いた。　今宵で……幕を引かせてもらう」
+「大和は銀星号という悪夢にもう飽いた。　今宵で……幕を引かせてもらう」
 "Yamato has had enough of the nightmare that is Silver Star.　Tonight, I will draw the ...... curtain.
 
 「……ほぅ……」
@@ -517,7 +517,7 @@ I left it.
 「……」
 "......
 
-「お前が言った通りだ、 Silver Star。　善悪相殺は武の宿命」
+「お前が言った通りだ、銀星号。　善悪相殺は武の宿命」
 "As you said, Silver Star, good and evil cancel each other out.
 
 「如何にしても――逃れようは無い」
@@ -532,13 +532,13 @@ Hmmm ...... hahahahaha!
 「……」
 "......
 
-「そう……それでいい。　妄念から醒めたようだな、 Kageaki！」
+「そう……それでいい。　妄念から醒めたようだな、景明！」
 "So ...... that's it.　You've awakened from your delusion, Kageaki!
 
 「ああ」
 Oh.
 
-「では戯れ合おう。　可愛い Kageaki、この指で慈しみながら誘ってやるぞ……」
+「では戯れ合おう。　可愛い景明、この指で慈しみながら誘ってやるぞ……」
 "Then let's play together.　Pretty Kageaki, I'm going to lure you in with my loving fingers. ......
 
 「武の極みへ！　高き果てへ！　天下万民を鏖し、世界への完全勝利を以て、至高の座へ登らん!」
@@ -547,16 +547,16 @@ Oh.
 「そんなところへは行かぬ。　行かせもせぬ」
 "I'm not going to that place.　I won't let you go.
 
-「俺の妄念はお前が断った。お前の妄念は俺が断つ。血の色に腐った夢はここで終わりだ。　 Silver Star――」
+「俺の妄念はお前が断った。お前の妄念は俺が断つ。血の色に腐った夢はここで終わりだ。　銀星号――」
 "My delusion you rejected. Your delusion is mine to break. Your blood-rotten dream ends here.　 Silver Star--
 
 「お前はもう天へ昇らない。　今日ここで、俺がお前を地へ墜とす!」
 "You will not ascend to heaven.　Today, here, I will bring you down to earth!
 
-「吼えたな、 Kageaki！　我が道を断つと誓うか！」
+「吼えたな、景明！　我が道を断つと誓うか！」
 "Howl, Kageaki! Do you swear to break my path?
 
-「ならば手心は加えまい。　白銀の星と呼ばれし Hikaruの能力、その精粋を見せてくれる――」
+「ならば手心は加えまい。　白銀の星と呼ばれし光の能力、その精粋を見せてくれる――」
 "Then I won't do anything to you.　I will show you the best of Hikaru's abilities, the one they call the Silver Star.
 
 「冥府へ転げ落ちぬよう、命をしかと掴んでおけ!」
@@ -574,7 +574,7 @@ Oh.
 「やべっ。寝過ごした?　日が暮れてるし！」
 Oh, shit. Did I oversleep?　It's getting dark!
 
-「起こしてよ Minato-sanっ！」
+「起こしてよ湊斗さんっ！」
 "Wake me up, Minato-san!
 
 「…………」
@@ -583,7 +583,7 @@ Oh, shit. Did I oversleep?　It's getting dark!
 「あれ？」
 "What?
 
-「 Minato-san……？」
+「湊斗さん……？」
 "Minato-san ......?
 
 「……いない？」
@@ -604,31 +604,31 @@ No way.
 「……そんな。　…………嘘…………」
 "...... Oh no.　............ lies. ............
 
- Silver Starという mushaを考察する。
- Consider the musha called Silver Star.
+銀星号という武者を考察する。
+Consider the musha called Silver Star.
 
-その一個人を大災害たらしめるのは精神汚染能力である。……これは、今は関わりない。　その一個人を最強者たらしめるのは重力 craft航能力がまず第一である。……こちらが重要だ。
+その一個人を大災害たらしめるのは精神汚染能力である。……これは、今は関わりない。　その一個人を最強者たらしめるのは重力騎航能力がまず第一である。……こちらが重要だ。
 It is the ability to pollute the mind that makes an individual a catastrophe. ...... This is not relevant right now.　The first thing that makes an individual the strongest is the ability to gravity craft navigation. ...... This is more important.
 
-通常、 mushaは合当理（翼筒）によって推力を、母衣（翼甲）によって揚力を獲得することで、翔飛―――即ち craft航を実現する。　その速度は人類が有する移動手段の中で最高を極む。
+通常、武者は合当理（翼筒）によって推力を、母衣（翼甲）によって揚力を獲得することで、翔飛―――即ち騎航を実現する。　その速度は人類が有する移動手段の中で最高を極む。
 Normally, the musha achieves flight --- that is, craft navigation --- by obtaining thrust from its wing tubes and lift from its wing armor.　Its speed is the highest of any human means of transportation.
 
-どの車輌どの艦艇どの飛行艦をも圧倒する速度の主たる mushaはつまり絶対的な交戦選択権の保持者であり、また肉弾攻撃を主体とするため高速を破壊力に転化しあらゆる兵器に致命的損壊を及ぼすことが可能である。
+どの車輌どの艦艇どの飛行艦をも圧倒する速度の主たる武者はつまり絶対的な交戦選択権の保持者であり、また肉弾攻撃を主体とするため高速を破壊力に転化しあらゆる兵器に致命的損壊を及ぼすことが可能である。
 The main musha with the speed to overwhelm any vehicle, any ship, or any airship is the holder of the absolute right to choose the battle, and since it mainly attacks with bullets, it can turn its high speed into destructive power and cause fatal damage to any weapon.
 
-故もって mushaは他の全兵科に優越し、戦場の王たる。　 Silver Starが mushaの中の王者たるのも、同質の理由からだ。
+故もって武者は他の全兵科に優越し、戦場の王たる。　銀星号が武者の中の王者たるのも、同質の理由からだ。
 For this reason, the musha is superior to all other branches of the military and is the king of the battlefield.　 It is for the same reason that the Silver Star is the king among musha.
 
-合当理と母衣を使い空気を操って飛ぶ通常の mushaと違い、 Silver Starは空気に対してあくまで補助的な役割をしか要求しない。　例え空気が無くとも、 Silver Starは翔べる。
+合当理と母衣を使い空気を操って飛ぶ通常の武者と違い、銀星号は空気に対してあくまで補助的な役割をしか要求しない。　例え空気が無くとも、銀星号は翔べる。
 Unlike the usual musha, which fly by manipulating the air with the use of the Gaitori and the Matriarch, the Silver Star only requires the air to play an auxiliary role.　Even without air, the Silver Star can fly.
 
- Silver Starがその薄く輝く儚げな翼に託すものは、空気に非ず、辰気――重力、万有引力である。　自然界における最も根本的な力の一つ。
- What the Silver Star entrusts to its thin, shining, fragile wings is not air, but Tatsuki - gravity, universal gravitation.　One of the most fundamental forces in nature.
+銀星号がその薄く輝く儚げな翼に託すものは、空気に非ず、辰気――重力、万有引力である。　自然界における最も根本的な力の一つ。
+What the Silver Star entrusts to its thin, shining, fragile wings is not air, but Tatsuki - gravity, universal gravitation.　One of the most fundamental forces in nature.
 
- Silver Star。二世右衛門尉村正はこの力を認識し、把握し、操作する。周囲の物体や自己の craft体から発生するそれを、仕手の熱量出力が許す範囲において増幅し、減殺し、あるいは力の働く方向を変えるのだ。
- The Silver Star is the power that Muramasa recognizes, grasps, and manipulates. He can amplify, diminish, or change the direction of the force generated by surrounding objects or his own craft, to the extent that the heat output of the tailor allows.
+銀星号。二世右衛門尉村正はこの力を認識し、把握し、操作する。周囲の物体や自己の騎体から発生するそれを、仕手の熱量出力が許す範囲において増幅し、減殺し、あるいは力の働く方向を変えるのだ。
+The Silver Star is the power that Muramasa recognizes, grasps, and manipulates. He can amplify, diminish, or change the direction of the force generated by surrounding objects or his own craft, to the extent that the heat output of the tailor allows.
 
-この原理によって為される重力 craft航は通常の craft航と全く異なる次元へ達する。　例えば――
+この原理によって為される重力騎航は通常の騎航と全く異なる次元へ達する。　例えば――
 Gravitational crafting based on this principle reaches a completely different level than normal crafting.　For example...
 
 《高度一三〇〇。　……速力を切り崩す覚悟ならもう一飛躍もできるけど》
@@ -637,7 +637,7 @@ Altitude 130.　I can make another leap if you're ready to cut down ...... speed
 「啖呵を切って挑戦した挙句に失速して墜死では、冗談として出来過ぎだな。　ここで無理は要らん」
 "It would be too much of a joke if you stalled and crashed to death after daring me to challenge you.　We don't need any pressure here.
 
-「敵 craftの到達高度は？」
+「敵騎の到達高度は？」
 What's the altitude of the enemy craft?
 
 《推定、約――
@@ -655,28 +655,28 @@ It's about 150 yen. Probably.
 「やけに低い」
 "It's awfully low.
 
-《……小弓で会った時からだけれど……　 Silver Starの翅に、欠けがある》
+《……小弓で会った時からだけれど……　銀星号の翅に、欠けがある》
 《...... since we met at the bow, but ...... Silver Star's wing has a chip on it.
 
 「欠け？」
 Chipped?
 
-《ほんのわずか。何処かの戦いで手負ったのかもしれない。　それが、 Silver Starの引辰制御を弱めているとしたら――》
+《ほんのわずか。何処かの戦いで手負ったのかもしれない。　それが、銀星号の引辰制御を弱めているとしたら――》
 Just a little. I may have been injured in a battle somewhere.　If that's what's weakening the Silver Star's dragnet control...
 
-今の Silver Starは完全な craft航能力を有していないという事か。　そう考えれば、納得ができる。
+今の銀星号は完全な騎航能力を有していないという事か。　そう考えれば、納得ができる。
 So the current Silver Star is not fully capable of crafting.　It makes sense if you think about it that way.
 
-高度一二〇〇〇。所要時間は一分未満。　こちらの約十倍の上昇力。 Silver Starにしては鈍い。
+高度一二〇〇〇。所要時間は一分未満。　こちらの約十倍の上昇力。銀星号にしては鈍い。
 Altitude 12,000. The journey takes less than a minute.　About ten times the climbing power of this one. It's slow for a Silver Star.
 
 「しかしそんな小さな傷なら、すぐに修復ができそうなものだが……」
 But I'm sure such a small scratch could be repaired in no time. ......
 
-《精巧な器官だから難しいのかも。　それに、どんな tsurugiにだって得手不得手がある》
+《精巧な器官だから難しいのかも。　それに、どんな劒冑にだって得手不得手がある》
 Maybe it's difficult because it's an elaborate organ.　Besides, every tsurugi has its strengths and weaknesses.
 
-《二世は機動力にしても攻撃力にしても無敵に近いけれど、甲鉄強度と再生能力はその分犠牲にされている……決して高くない。　完璧ではないのよ、 midou》
+《二世は機動力にしても攻撃力にしても無敵に近いけれど、甲鉄強度と再生能力はその分犠牲にされている……決して高くない。　完璧ではないのよ、御堂》
 It's not that I don't like it, but it's not that I don't like it.　It's not perfect, midou.
 
 「……ああ。　そうか。そうだな」
@@ -685,7 +685,7 @@ It's not that I don't like it, but it's not that I don't like it.　It's not per
 それが九回裏十点差を追うチームに送られる声援と同程度の意味しか持たないのは承知の上で、頷く。　だから無意味だと、どうして言えよう。諦めという自滅を誘う猛毒に抗うには、そんなものでも有用だ。
 I nodded, knowing that it would mean about as much as cheering for a team trailing by ten runs in the bottom of the ninth inning.　So how can I say that it is meaningless? Even such a thing is useful to resist the self-destructive poison of resignation.
 
-十倍の高度差。　 mushaと mushaの一 craft打において、その事実がもたらすものは何か――
+十倍の高度差。　武者と武者の一騎打において、その事実がもたらすものは何か――
 A tenfold difference in altitude.　 What does this fact mean in the context of musha and musha's craft?
 
 高度の優越者は地球上の重力作用を味方として勢力の強い突撃を行う。劣後者はその逆、重力を敵に回し勢力を削がれながら迎撃する。　勢力の強弱の程度は角度による。
@@ -697,31 +697,31 @@ Since the angle of descent of the highly superior and the angle of ascent of the
 そして現在、その角度はほぼ九〇度。　八九度ほどであろうか。水平距離と高度差によって導かれる結果がこれ、だ。
 And now, the angle is almost 90 degrees.　It's about 89 degrees. This is the result of the horizontal distance and altitude difference.
 
-悪くない。　 Silver Starが完調ならきっと八九・九度だったろう。　　焼け石に水、という言葉は忘却する。
+悪くない。　銀星号が完調ならきっと八九・九度だったろう。　　焼け石に水、という言葉は忘却する。
 Not bad.　 If Silver Star was in perfect condition, it would have been 89.9 degrees.　　I'll forget about the word "scorched earth".
 
-……いずれにしろほぼ九〇度。　敵 craftはほぼ垂直に駆け下り、自 craftはほぼ垂直を駆け上がる、この形勢は現時点で確定した。
+……いずれにしろほぼ九〇度。　敵騎はほぼ垂直に駆け下り、自騎はほぼ垂直を駆け上がる、この形勢は現時点で確定した。
 ...... In any case, it is almost 90 degrees.　It's a good idea to have a good idea of what you're doing and how you're doing it.
 
- Silver Starは重力の支援を最大限度享受し、しかもこれを固有能力によって拡大しつつ、成層圏から来襲する。　運動量＝質量×速度。それはどれ程の値となるか。
- The Silver Star strikes from the stratosphere, enjoying the maximum support of gravity and expanding it with its inherent abilities.　Momentum = mass x velocity. How much will it be?
+銀星号は重力の支援を最大限度享受し、しかもこれを固有能力によって拡大しつつ、成層圏から来襲する。　運動量＝質量×速度。それはどれ程の値となるか。
+The Silver Star strikes from the stratosphere, enjoying the maximum support of gravity and expanding it with its inherent abilities.　Momentum = mass x velocity. How much will it be?
 
-……その計算を途中で放棄したのは、最低でも村正を二〇 craftまとめて瓦割りにできるエネルギーは有ると判明した時点で嫌気が差したから――ではない。　解を求める意味がそも無いからだった。
+……その計算を途中で放棄したのは、最低でも村正を二〇騎まとめて瓦割りにできるエネルギーは有ると判明した時点で嫌気が差したから――ではない。　解を求める意味がそも無いからだった。
 It's not just that I'm sick of the idea of having to go through the process of calculating ......, it's that I'm sick of the idea of having to go through the process of figuring out that I have the energy to break up at least 20 craft of Muramasa.　It was because there was no point in seeking a solution in the first place.
 
-エネルギーは、敵 craftの甲鉄を打ち割れるだけあれば良く、それ以上は無駄と言い切っても差し支えない。　原形を留めぬまで craft体を粉砕するのも、首筋を数寸裂いて頚動脈を破綻させるのも、価値は同等なのだ。
+エネルギーは、敵騎の甲鉄を打ち割れるだけあれば良く、それ以上は無駄と言い切っても差し支えない。　原形を留めぬまで騎体を粉砕するのも、首筋を数寸裂いて頚動脈を破綻させるのも、価値は同等なのだ。
 You only need enough energy to break the armor of the enemy craft, and more than that is useless.　It is of equal value to crush the craft's body until it is pristine, or to rip a few inches in the neck and collapse the carotid artery.
 
 その点において、重力に逆行するこちらは、必要なエネルギーを独力では獲得し難い。　が、衝突の威力は当然ながら相対的に決する。
 In this respect, it is difficult for us, who are going against gravity, to acquire the necessary energy on our own.　However, the power of the collision is of course determined relatively.
 
- Silver Starの急降下攻撃に必要充分な衝突力が宿るなら、こちらの逆撃も同等の衝突力を得られる理屈だ。　敵がこちらを撃破できるように、こちらも敵を撃破し得る。
- If the Silver Star's dive attack has enough impact power, then it stands to reason that our counterattack will have the same impact power.　Just as the enemy can destroy us, we can destroy them.
+銀星号の急降下攻撃に必要充分な衝突力が宿るなら、こちらの逆撃も同等の衝突力を得られる理屈だ。　敵がこちらを撃破できるように、こちらも敵を撃破し得る。
+If the Silver Star's dive attack has enough impact power, then it stands to reason that our counterattack will have the same impact power.　Just as the enemy can destroy us, we can destroy them.
 
-……だからといって対等ということにはならないが。　高度差によって有利不利が分かれるのは musha戦闘の常識であり、常識であるからには疑う余地もなかった。
+……だからといって対等ということにはならないが。　高度差によって有利不利が分かれるのは武者戦闘の常識であり、常識であるからには疑う余地もなかった。
 Just because it's ...... doesn't mean it's equal, though.　It is common knowledge in musha combat that the difference in altitude gives an advantage or disadvantage, and since it is common knowledge, there was no room for doubt.
 
-単に鉄の塊がぶつかり合うだけならばどちらが上であろうと同じ事だったろう。　だが実際には、 mushaは手足を使い、武器を繰り出して、攻撃を行う。
+単に鉄の塊がぶつかり合うだけならばどちらが上であろうと同じ事だったろう。　だが実際には、武者は手足を使い、武器を繰り出して、攻撃を行う。
 If it were simply a matter of two pieces of steel colliding, it would be the same thing regardless of who was on top.　But in reality, musha uses his arms and legs, unleashes his weapons, and attacks.
 
 重力の加勢あるいは負荷は、その動作の全てに影響する。必然的に、高度優位者の攻撃は鋭敏に、劣位者の攻撃は鈍重になる。　攻撃の精度において大きな差が顕れるのだ。
@@ -739,40 +739,40 @@ Both sides are equal in the sense that they can destroy the other, but they diff
 また、互いの攻撃が真っ向からぶつかり合う事態ともなれば、話はより単純かつ明快になる。　運動力量に優る側が劣る側を吹き飛ばし、一方的な結果を現出させずにはおかない。
 And when the two sides go head-to-head in their attacks, the story becomes even simpler and clearer.　The more athletic side can't help but blow away the less athletic side and produce a one-sided result.
 
-それら優劣の格差が最大まで開く形勢に、今、この現況は在る。　自 craft上昇角九〇度。敵 craft降下角九〇度。
+それら優劣の格差が最大まで開く形勢に、今、この現況は在る。　自騎上昇角九〇度。敵騎降下角九〇度。
 We are now in a situation where the disparity between our superiority and inferiority is at its maximum.　Own craft ascent angle 90 degrees. Enemy craft descent angle 90 degrees.
 
 正面相撃して近接、互いに攻撃を繰り出す瞬間――　俺は重力に阻害され動作が鈍くなる分、早い段階で見切りをつけて攻撃せねばならない。
 As soon as they attack each other in close proximity in front of each other - I have to give up and attack as soon as possible because my movements are slowed down by gravity.
 
-そしてその分、 Silver Starは余裕をもって攻撃を行える。　より精確に。より強力に。
+そしてその分、銀星号は余裕をもって攻撃を行える。　より精確に。より強力に。
 And that gives Silver Star more room to attack.　More precise. More powerful.
 
-……俺と Silver Starの勝負は、相互の術技を比較し合う以前の段階で既にそれだけのペナルティが約束されている。
+……俺と銀星号の勝負は、相互の術技を比較し合う以前の段階で既にそれだけのペナルティが約束されている。
 The game between ...... me and Silver Star has already promised that much penalty before we compare each other's techniques.
 
 術技――――
 Technology: ----
 
-この状形、 Silver Starが用いてくるそれは知れている。　自らの通称にあやかってだろう、小彗星と名付けたあの術技に間違いない。
+この状形、銀星号が用いてくるそれは知れている。　自らの通称にあやかってだろう、小彗星と名付けたあの術技に間違いない。
 This form, the Silver Star, is known to use.　It is no doubt the technique that Silver Star has named "Little Comet" after his own nickname.
 
- Yoshino Goryu戦礼法〝月片〟、その崩し。　過去数度に渡る立合の全てにおいて Silver Starはこれを用い、文字通り俺を一蹴している。
- Yoshino Goryu's fighting technique, "Gekikata," is a technique of breaking down.　Silver Star has used this technique in all of his tachi-ai encounters over the past few years, literally kicking me to the curb.
+吉野御流合戦礼法〝月片〟、その崩し。　過去数度に渡る立合の全てにおいて銀星号はこれを用い、文字通り俺を一蹴している。
+Yoshino Goryu's fighting technique, "Gekikata," is a technique of breaking down.　Silver Star has used this technique in all of his tachi-ai encounters over the past few years, literally kicking me to the curb.
 
-〝月片〟は敵に対して高位を奪った形勢から相撃するに際し、直前で前転の動作を加える事で、打ち下ろしの太刀に威力を乗せると共に相手を幻惑する技である。　 Silver Starはこれに tsurugiの特性を加味し――
+〝月片〟は敵に対して高位を奪った形勢から相撃するに際し、直前で前転の動作を加える事で、打ち下ろしの太刀に威力を乗せると共に相手を幻惑する技である。　銀星号はこれに劒冑の特性を加味し――
 The "Tsuki Kata" is a technique to add power to a downward strike by adding a forward motion just before striking an enemy from a high position, and to deceive the opponent.　 Silver Star has added tsurugi's characteristics to this technique to make it more effective.
 
-超高空から降下突撃、重力制御で加速しエネルギーを高めつつ接敵、その刹那に半前転して、最大限度の威力が乗った踵落としを対手に叩き込む術技とした。　 Silver Star以外の何者にも為し得ぬ我流魔剣。
+超高空から降下突撃、重力制御で加速しエネルギーを高めつつ接敵、その刹那に半前転して、最大限度の威力が乗った踵落としを対手に叩き込む術技とした。　銀星号以外の何者にも為し得ぬ我流魔剣。
 It is a technique of descending and charging from a very high altitude, accelerating with gravity control to increase energy while contacting the enemy, and then half-turning forward a moment later to strike the opponent with a heel drop with maximum power.　 This is my own style of magic sword, which cannot be performed by anything other than Silver Star.
 
 太刀は用いないが、その威力たるや壊滅的である。　身に染みて知っている事だ。
 It does not use a sword, but its power is devastating.　I know it all too well.
 
-ただ、それほどの勢力を掛ければ、 Silver Starの脚とて無事には済まぬ筈なのだが――
+ただ、それほどの勢力を掛ければ、銀星号の脚とて無事には済まぬ筈なのだが――
 However, with that much force, Silver Star's legs would not be safe...
 
-《常理に沿えばその通りね。　おそらく Silver Starは、甲鉄を一時的に右脚へ集積させているんだと思う》
+《常理に沿えばその通りね。　おそらく銀星号は、甲鉄を一時的に右脚へ集積させているんだと思う》
 According to the usual logic, you're right.　Perhaps the Silver Star is temporarily accumulating armor in its right leg.
 
 「…………。　そんな真似が可能なのか？」
@@ -784,7 +784,7 @@ It's an application of the dragnet control.
 ……通常なら、物体の変形に従って質量バランスが変移する。その逆に、質量を動かすことで甲鉄を変形させているとでもいうのだろうか。　正直な所、理解を超えている。
 ...... Normally, the mass balance shifts as the object deforms. On the contrary, are you saying that by moving the mass, you are deforming the armor?　To be honest, this is beyond my comprehension.
 
-だが俺の理解が及ぼうと及ぶまいと事実は事実。　 Silver Starが一撃必墜の武技を苦なく扱いこなすという事実は動かしようもない。
+だが俺の理解が及ぼうと及ぶまいと事実は事実。　銀星号が一撃必墜の武技を苦なく扱いこなすという事実は動かしようもない。
 But whether I understand it or not, the fact is the fact.　 The fact that Silver Star is able to handle the martial arts of a single blow without difficulty is unavoidable.
 
 村正の甲鉄をして用を為させぬ恐るべき魔芸。　そこに隙は、
@@ -796,13 +796,13 @@ There are no exceptions to this rule, but the necessity of a technique is based 
 例えば〝月片〟は幻惑と打撃強化を共に叶える吉野御流の精髄とも称すべき技法だが、これを全て弁えている者に繰り出したところで只の曲芸である。　目前でのどかに前転を始める敵を見過ごす法はない。
 For example, "Tsuki Kata" is a quintessential technique of the Yoshino Goryu that can both disorient and strengthen the blow, but it is just a juggling move when performed on someone who knows everything about it.　I'm sure you'll be able to figure out how to get the best out of it.
 
-基礎理念を同じくする Silver Starの技とてもそう。　回っている間に動きを見切り、下へ抜け、抜けざまに斬り捨ててしまえば良い。
+基礎理念を同じくする銀星号の技とてもそう。　回っている間に動きを見切り、下へ抜け、抜けざまに斬り捨ててしまえば良い。
 The same basic principle applies to the Silver Star technique.　You can see through the movement while it's turning, get underneath it, and cut it down as it exits.
 
-確実に勝てる策だ。　そして手の内を曝け出している Silver Starが、この策を裏切ることは無い。
+確実に勝てる策だ。　そして手の内を曝け出している銀星号が、この策を裏切ることは無い。
 It's a sure-fire way to win.　And Silver Star will not betray this strategy as she has exposed her hand.
 
-大きな有利。　術技比較の面においては、 Silver Starの手札が最初から露出しているという一点によって、俺の完璧な優勢が確定している。
+大きな有利。　術技比較の面においては、銀星号の手札が最初から露出しているという一点によって、俺の完璧な優勢が確定している。
 A huge advantage.　In terms of technique comparison, my perfect advantage is confirmed by the fact that Silver Star's hand is exposed from the start.
 
 …………然して。　　過去の対戦は俺の全敗。
@@ -826,13 +826,13 @@ In the second match, I strained my eyes, trying to see through the moment of att
 三度目の勝負では、視界内に現れた瞬間に動こうと眼を凝らした。　そうしてやはり、何もできずに撃ち墜とされた。
 For the third time, I strained my eyes to move the moment it appeared in my field of vision.　Then, too, he was shot down without being able to do anything.
 
-気付けば叩き落されている。　それが Silver Starの戦闘速度。
+気付けば叩き落されている。　それが銀星号の戦闘速度。
 The next thing you know, you're being knocked down.　That's Silver Star's fighting speed.
 
 底の割れた相手の技の裏をかき、勝利する――　そんな単純な勝利方程式が成立しない。敵の技法が見え透いていても、それがいつ実行されるか全くわからないのでは対処の仕様も無い。
 If you can't see through the enemy's techniques, there is no way to win. Even if the enemy's technique is obvious, there is no way to deal with it if you have no idea when it will be executed.
 
-戦理において、勝利は俺のものであるべきだろう。　しかし Silver Starは身も蓋もない暴力によって戦理ごと俺を粉砕できるのだ。
+戦理において、勝利は俺のものであるべきだろう。　しかし銀星号は身も蓋もない暴力によって戦理ごと俺を粉砕できるのだ。
 In a war theory, victory should be mine.　But Silver Star is capable of crushing me through sheer violence.
 
 それは、術技の限界と云うべきか。　技とはとどのつまり、人間を相手にするもの。
@@ -841,20 +841,20 @@ This is the limit of the art and technique.　After all, techniques are meant to
 天災を想定するものではない。　隕石に対抗する役には立たない。
 It's not designed for natural disasters.　It does not help against meteorites.
 
-一剣の対応限界を超えたところに敵 craftは存在する。　　それでも尚、術技をもって破らんと志すならば――
+一剣の対応限界を超えたところに敵騎は存在する。　　それでも尚、術技をもって破らんと志すならば――
 The enemy craft exists beyond the capabilities of a single sword.　　Even so, if you still wish to defeat it with your skills...
 
-自 craftも限界を超えるに如かず。
+自騎も限界を超えるに如かず。
 It is not necessary to exceed the limits of your own craft.
 
-「村正……　敵 craftが降下を開始したら即座に知らせろ」
+「村正……　敵騎が降下を開始したら即座に知らせろ」
 "Muramasa, ......, notify me immediately if enemy craft begin to descend.
 
 《――諒解》
 I understand.
 
- tsurugiの信号探査は最も正確で最も迅速な探知手段だ。　村正はごくごく微小なタイムラグ――発信した信号が戻ってくるまでに必要な――しか要さず、 Silver Starの攻撃開始を察知するだろう。
- Tsurugi's signal detection is the most accurate and quickest means of detection.　Muramasa would be able to detect the start of Silver Star's attack with only a very small time lag - the time required for the signal to be sent out and returned.
+劒冑の信号探査は最も正確で最も迅速な探知手段だ。　村正はごくごく微小なタイムラグ――発信した信号が戻ってくるまでに必要な――しか要さず、銀星号の攻撃開始を察知するだろう。
+Tsurugi's signal detection is the most accurate and quickest means of detection.　Muramasa would be able to detect the start of Silver Star's attack with only a very small time lag - the time required for the signal to be sent out and returned.
 
 過去の対戦では視覚を恃んで敗れた。　信号探査は有効範囲の広さという点で確実に優れる。確実に視覚より早く情報を掴むだろう。
 In the past, we lost to them because we relied on our vision.　Signal detection is definitely superior in terms of the range of its effectiveness. It will certainly capture information faster than sight.
@@ -865,8 +865,8 @@ It's ......, but I realize I still won't make it.　Perhaps even Muramasa.
 ほんの僅かな、砂粒のようなタイムラグ、それだけの遅れさえも致命的なのだとわかっている。　勝つには――もっと早く知らねばならない。
 He knows that even a small delay, a grain of sand, is fatal.　If we are to win - we must know sooner rather than later.
 
- Silver Starが、攻撃を始めるその瞬間に……　　否。違う。それでも間に合わない。
- At the moment Silver Star begins to attack, ...... no. No. It still won't be in time.
+銀星号が、攻撃を始めるその瞬間に……　　否。違う。それでも間に合わない。
+At the moment Silver Star begins to attack, ...... no. No. It still won't be in time.
 
 攻撃を始めるよりも前に。　攻撃が実現するより先に、その開始の機を知らねばならない。そうして初めて対応が可能になる。
 Before the attack is launched.　We have to know when the attack is going to happen before it does. Only then will we be able to respond.
@@ -886,7 +886,7 @@ Don't look at the actions of the attack.　Read the signs of an attack.
 微妙な視線の移動。あるいは筋肉の緊張。　そういった情報から、敵の攻撃動作が実際に始まるよりも先にそれを悟る。
 A subtle shift in gaze. Or the tension in your muscles.　From that kind of information, you realize the enemy's attack before it actually starts.
 
-その機に押して攻め、敵の出端を打ち伏せるのが先の機を取るという事であり吉野御流は無明の理であるが、 Silver Starに対してそれは成し得ない。　あの攻撃を発動前に制するのは物理的に不可能だ。
+その機に押して攻め、敵の出端を打ち伏せるのが先の機を取るという事であり吉野御流は無明の理であるが、銀星号に対してそれは成し得ない。　あの攻撃を発動前に制するのは物理的に不可能だ。
 This is the reason that the Yoshino Goryu is a no-brainer, but it cannot be done against Silver Star.　It is physically impossible to control that attack before it is launched.
 
 が――発動後の対応はできる。できる筈だ。　先の機を突いて後の先を取る格好になろうか。降下突撃の到来を十億分の一秒でも先に知ることがもしもできたなら、迎撃の剣を合わせられる。
@@ -898,7 +898,7 @@ Or a fight.　But it can be killed.
 「――――」
 ----
 
-敵 craftは上空遙か彼方。　 mushaの視覚を研ぎ澄まそうが、芥子粒ほどにもその姿を見ては取れない。
+敵騎は上空遙か彼方。　武者の視覚を研ぎ澄まそうが、芥子粒ほどにもその姿を見ては取れない。
 The enemy craft was far away in the sky.　 No matter how hard I tried to sharpen my musha's vision, I couldn't catch a glimpse of it, not even a grain of poppy.
 
 目配りなどわからない。筋肉の動きも。　だが、情報はそれだけではない筈だった。
@@ -979,8 +979,8 @@ The will is in the breath.
 その極意を、嘗て実践できたためしはない。　だが、今。この対手ならば。
 I've never been able to put that into practice.　But now. If it's this move.
 
- Silver Starならば。
- Silver Star would do.
+銀星号ならば。
+Silver Star would do.
 
 ――――呼吸――――
 ---- breathing----
@@ -1003,10 +1003,10 @@ It means they are still gathering their strength.　It's not time for the attack
 わかる。　皮膚感覚で、確かにわかる。
 I know.　I can feel it in my skin, for sure.
 
-永い距離を越え、俺と Silver Starを繋いでいる一筋の糸を確かに掴んだ。　これが知るべき全てを教えてくれる。
+永い距離を越え、俺と銀星号を繋いでいる一筋の糸を確かに掴んだ。　これが知るべき全てを教えてくれる。
 Across the long distance, I'm sure I've grasped a thread that connects me to Silver Star.　This tells me everything I need to know.
 
-これが Silver Starの呼吸。　これが Silver Starの意。
+これが銀星号の呼吸。　これが銀星号の意。
 This is the breath of the Silver Star.　This is the meaning of Silver Star.
 
 間違いない。　　俺がこれを、取り違える筈はない。
@@ -1090,16 +1090,16 @@ There was a bond worth believing in.　"Let me forget that so long you have rov'
 遠い遠い昔。　　　　　　“Long long ago, long ago”
 A long, long time ago.　　　　　　"Long long ago, long ago."
 
-《足りないな……。　それでは足りないぞ、 Kageaki》
+《足りないな……。　それでは足りないぞ、景明》
 You're missing .......　That's not enough, Kageaki.
 
-《この Hikaruに届かぬ。　……充たされぬ》
+《この光に届かぬ。　……充たされぬ》
 I can't reach this Hikaru.　...... can't be fulfilled.
 
 《贅剣を捨てよ。　武を研ぎ上げよ》
 Put away your extravagant swords.　Sharpen your weapons.
 
-《余計なものはいらぬ。　一心に Hikaruを求めるがいい》
+《余計なものはいらぬ。　一心に光を求めるがいい》
 I don't need anything else.　Seek Hikaru with all your heart.
 
 《でなくば、届かぬぞ……。　おまえの指はいつまでも、おれに触れてはくれぬ！》
@@ -1108,19 +1108,19 @@ Otherwise, you'll never reach me. ......　Your fingers won't be able to touch m
 《ここにあるおれの命を認めてはくれぬ！》
 You will not allow me to live here!
 
-あの Hikaru景を覚えている。　　“Do you remember the path where we met?”
+あの光景を覚えている。　　“Do you remember the path where we met?”
 I remember that Hikaru scene.　　"Do you remember the path where we met?"
 
 遠い遠い昔。　　　　　“Long long ago, long long ago”
 A long, long time ago.　　　　　"Long long ago, long long ago."
 
-何でもない、けれど決して忘れない Hikaru景。　“Ah, yes, you told me you ne'er would forget”
+何でもない、けれど決して忘れない光景。　“Ah, yes, you told me you ne'er would forget”
 It's nothing, but I'll never forget Hikaru Kage.　"Ah, yes, you told me you ne'er would forget."
 
 遠い遠い昔。　　　　　　“Long long ago, long ago”
 A long, long time ago.　　　　　　"Long long ago, long ago."
 
-ただ家族がいたというだけの、あの Hikaru景。　“Then to all others my smile you preferr'd”
+ただ家族がいたというだけの、あの光景。　“Then to all others my smile you preferr'd”
 It's just that I had a family, that Hikaru scene.　"Then to all others my smile you preferr'd".
 
 ……何故なのか。　どうして、俺は打ち倒されたのか。
@@ -1129,23 +1129,23 @@ It's just that I had a family, that Hikaru scene.　"Then to all others my smile
 わからない。
 I don't know.
 
-俺は Silver Starの呼吸を掴んでいた。　意を……把握していた、と思う。
+俺は銀星号の呼吸を掴んでいた。　意を……把握していた、と思う。
 I was catching Silver Star's breath.　I think I knew what I was going to do,.......
 
-しかし、何の兆候も感じ取れなかった。　 Silver Starの攻撃は全く唐突に訪れ、俺を吹き飛ばした。
+しかし、何の兆候も感じ取れなかった。　銀星号の攻撃は全く唐突に訪れ、俺を吹き飛ばした。
 However, I couldn't sense any sign of it.　 Silver Star's attack came completely out of nowhere and blew me away.
 
 何故だ。
 Why?
 
-全てが誤解だったからか。　果てしない距離を隔てて敵 craftの呼吸を察知するなど、やはり妄想でしかなかったのか。
+全てが誤解だったからか。　果てしない距離を隔てて敵騎の呼吸を察知するなど、やはり妄想でしかなかったのか。
 Was it because everything was a misunderstanding?　Was it just a delusion that I could sense the enemy craft's breathing from an endless distance away?
 
 それとも……　　そうでないとするなら。
 Or ...... if it's not.
 
- Silver Starの意を掴むという事に、意味が無かったからなのか。　　あの敵は。あの妹は。あの魔王は。
- Was it because there was no point in grasping Silver Star's will?　　That enemy. That sister. That demon king.
+銀星号の意を掴むという事に、意味が無かったからなのか。　　あの敵は。あの妹は。あの魔王は。
+Was it because there was no point in grasping Silver Star's will?　　That enemy. That sister. That demon king.
 
 既にその境地へ至っているのか。　意を用いず剣を執る、武人の果てなる心境へ。
 Have you already reached that point?　To the state of mind that is the end of a warrior, who does not use his will but uses his sword.
@@ -1231,10 +1231,10 @@ A long, long time ago.　　　　　　"Long long ago, long ago."
 《まやかし、だ》
 It's a trick.
 
-《何故なら欠けている……　 Hikaruの求めるものが無い》
+《何故なら欠けている……　光の求めるものが無い》
 《Because there's nothing that Hikaru is looking for at ...... that's missing.
 
-《そんなものは捨ててしまえ。 Kageaki。　いや……もう、捨てたはずだろう？》
+《そんなものは捨ててしまえ。景明。　いや……もう、捨てたはずだろう？》
 Get rid of that thing. Kageaki. No, ......, I thought you threw that away already.
 
 《その手で。　この手で》
@@ -1282,7 +1282,7 @@ I'm the one who got him killed.　You made me kill her. You made me kill her.
 《二年前……　村正を解き放つ前から、おれは既に知っていた》
 Two years ago ......, even before I unleashed Muramasa, I already knew.
 
-《この tsurugiが何を求めるのか。　この刃で殺せばどうなるのか》
+《この劒冑が何を求めるのか。　この刃で殺せばどうなるのか》
 What does this tsurugi seek?　What will happen if I kill it with this blade?
 
 《敵の命に味方の命で贖いを。　一つの悪に一つの善で贖いを》
@@ -1297,7 +1297,7 @@ The ----
 《だから、おれは山賊の大将をあえて殺さなかった》
 That's why I didn't dare kill the bandit leader.
 
-《生かして、 Minatoの屋敷へ追い立てた》
+《生かして、湊斗の屋敷へ追い立てた》
 I kept him alive and drove him to Minato's compound.
 
 《おまえに村正の力を使わせ、殺させる為に。　そして――》
@@ -1315,22 +1315,22 @@ We killed it together. You and I killed it together. That bitter enemy.　That e
 《あれはもう何処にも無い。虚構に相応しく消えて失せた。遠い過去の幻だ。　そんなものを振り返るな……》
 That thing is nowhere to be found. It has vanished, as befits a fiction. It's an illusion from the distant past.　Don't look back on such things. ......
 
-《忘れてしまえ。　おまえはこの Hikaruだけを真っ直ぐに見据えていれば良い》
+《忘れてしまえ。　おまえはこの光だけを真っ直ぐに見据えていれば良い》
 Forget about it.　All you have to do is look straight at this Hikaru.
 
 お前が、
 You.
 
-《おまえが愛した母はいない。もう何処にも。　……それでも諦められぬというなら、 Hikaruがおまえの母になってやる……》
+《おまえが愛した母はいない。もう何処にも。　……それでも諦められぬというなら、光がおまえの母になってやる……》
 The mother you loved is gone. She's nowhere to be found.　...... If you still can't give up, Hikaru will become your mother. ......》
 
 《だからおまえはここへ来い。　おまえがゆくべきはここしかない》
 That's why you should come here.　It's the only place you should go.
 
-《この Hikaruの許だけだ》
+《この光の許だけだ》
 Only with Hikaru's permission.
 
-《おまえを受け入れられる者は Hikaruだけなのだ！　 Kageaki!》
+《おまえを受け入れられる者は光だけなのだ！　景明!》
 The only one who can accept you is Hikaru!　 Kageaki!
 
 お前が――――
@@ -1345,7 +1345,7 @@ A long, long time ago.　　　　　　"Long long ago, long ago."
 もう手の届かない、遠い遠い昔。　　　　　“Long long ago, long long ago”
 Long ago, long ago, long ago, no longer reachable.　　　　　"Long long ago, long long ago."
 
-《 Hikaruゥゥゥゥ!》
+《光ゥゥゥゥ!》
 《Hikaru...》
 
 世界は二元化した。　有意味と無意味。その二極へ。
@@ -1354,7 +1354,7 @@ The world has become dualistic.　Meaningful and meaningless. To those two poles
 意味有るものは天頂の敵影。　意味無きものは他のすべて。
 What is meaningful is the shadow of the enemy at the zenith.　What is meaningless is everything else.
 
-情報が取捨され思考が削摩される。　 Minato Kageakiなるものの人間要素がぼろぼろと崩れゆく音を聴く。
+情報が取捨され思考が削摩される。　湊斗景明なるものの人間要素がぼろぼろと崩れゆく音を聴く。
 Information is discarded and thoughts are scraped away.　 I listen to the sound of the human element of Minato Kageaki falling apart.
 
 知性は逆走する。　理性は迷走する。　感性は奔走する。
@@ -1363,7 +1363,7 @@ The intellect runs backwards.　Reason goes astray.　The senses run wild.
 《雄呼――――》
 Xiong Hoo ----
 
-《来るか―― Kageaki!》
+《来るか――景明!》
 Kageaki!
 
 そうして――　　思念は惑乱の対極へと向かう。
@@ -1384,16 +1384,16 @@ Purpose setting.
 手段の追究。
 The pursuit of means.
 
-……手段。　敵 craftを撃墜し得る方法の最善なるは如何に。
+……手段。　敵騎を撃墜し得る方法の最善なるは如何に。
 ...... means.　What is the best way to shoot down an enemy craft?
 
-敵は最速の中の最速を極める Silver Star。　超々高空より閃 Hikaruと成って降り来たる。
+敵は最速の中の最速を極める銀星号。　超々高空より閃光と成って降り来たる。
 The enemy is the Silver Star, the fastest of the fastest. It descends as a flashing "Hikaru" from the very high sky.
 
 入神の域にあるその一撃を上回るには……　　術技か。
 In order to surpass that blow, which is in the realm of the gods, it is ...... a technique.
 
-呼吸を読み間合を測り推定される敵 craftの攻撃内容に対して最も有効な対応術策を用意、敵情を入念に把握し変化に応じて修正を加えつつ待機のすえ戦機に至らば最高の勝利可能性を最大の努力で実現する……
+呼吸を読み間合を測り推定される敵騎の攻撃内容に対して最も有効な対応術策を用意、敵情を入念に把握し変化に応じて修正を加えつつ待機のすえ戦機に至らば最高の勝利可能性を最大の努力で実現する……
 Read the enemy's breathing, measure the time between attacks, and prepare the most effective countermeasure against the enemy craft's estimated attack.
 
 ――違う。
@@ -1438,7 +1438,7 @@ To rob ............ of that advantage, go to ----
 《――――》
 The ----
 
-金打声を返すだけの余力が、 tsurugiには既に無い。　だが声は届いている。俺の言葉を聴き、続く命令を待っている。それがわかる。
+金打声を返すだけの余力が、劒冑には既に無い。　だが声は届いている。俺の言葉を聴き、続く命令を待っている。それがわかる。
 I've already lost the strength to reply to his voice.　But the voice has reached him. It's listening to my words, waiting for the next command. I can see that.
 
 残された力の全てを以て、仕手の望みに応えるべく、村正は待っている。
@@ -1453,8 +1453,8 @@ Muramasa waits with all his remaining strength to respond to the wishes of his s
 甲鉄が磁化を遂げる。　その極性は村正の統御の下で常に流動するものだ。同極のそして対極の磁力特性が動作目的に沿って利用される。
 The armor becomes magnetized.　Its polarity is in a constant state of flux under Muramasa's control. The magnetic properties of the same and opposite poles are used in accordance with the purpose of operation.
 
- craft航においてもそれは有効である。　複雑な運動工程の全てに渡って最適化が施され――かくして速度は跳ね上がる。
- It is also effective in craft navigation.　Every step of the complex kinematic process is optimized - and thus speed is increased.
+騎航においてもそれは有効である。　複雑な運動工程の全てに渡って最適化が施され――かくして速度は跳ね上がる。
+It is also effective in craft navigation.　Every step of the complex kinematic process is optimized - and thus speed is increased.
 
 垂直上昇という最も不利な条件下にあって、屈さず、速力を増す。　　しかし、足りない。
 Under the most unfavorable conditions of vertical ascent, it does not give in and increases its speed.　　But it's not enough.
@@ -1474,13 +1474,13 @@ Power!
 力が渦巻く。　それは荒れ狂う激流だ。
 It is a swirling force.　It is a raging torrent.
 
-辰気――重力。　 Silver Starの操る能力。
+辰気――重力。　銀星号の操る能力。
 Tatsuki - gravity.　 Silver Star's ability to manipulate.
 
 嘗てもこの能力は使ったことがある。　だがあの時よりも、いま呼び出している力は遥かに強い。
 I've used this ability before.　But the power I'm invoking now is far stronger than it was then.
 
-〝卵〟を介して Silver Starから奪ったもの……　元来が村正の能力ではなく、身に過ぎている。
+〝卵〟を介して銀星号から奪ったもの……　元来が村正の能力ではなく、身に過ぎている。
 It's not originally Muramasa's ability, but it's too much for him.
 
 手綱も無しに悍馬を乗りこなそうとするが如きだ。　チカラは俺を振り落とそうと躍起になる。悶え暴れ、あくまで抗う。
@@ -1519,13 +1519,13 @@ One more.　In this void, separated from the world by the transcendence of speed
 《来い》
 Come on.
 
-《来い…… Kageaki》
+《来い……景明》
 《Come to ...... Kageaki》
 
 《あと一歩だ。　あと一歩で……》
 It's just one more step.　One more step. ......
 
-《おまえは…… Hikaruに届くぞ――！》
+《おまえは……光に届くぞ――！》
 You'll reach Hikaru at ......--!
 
 ……あと一歩。
@@ -1543,7 +1543,7 @@ What should I do?　How do you make up the difference of one more card?
 ……………………。
 .........................
 
-《既に手は尽くしたか。　そこまでなのか。 Kageaki》
+《既に手は尽くしたか。　そこまでなのか。景明》
 Have you already done everything you can?　Is that it? Kageaki.
 
 《ならば――》
@@ -1576,28 +1576,28 @@ Whatever it was, I did it then.
 「やはり――そう来るか」
 I knew it, I knew it.
 
-「裂 Hikaruの太刀筋……　磁力反発を利して為す神速の抜刀」
+「裂光の太刀筋……　磁力反発を利して為す神速の抜刀」
 Saki Hikaru's swordsmanship: ...... "God's speed with a sword using magnetic repulsion.
 
-「そればかりは Hikaruの眼をもってしても視えぬ。　躱すも防ぐも成るまいな」
+「そればかりは光の眼をもってしても視えぬ。　躱すも防ぐも成るまいな」
 "That's the only thing Hikaru can't see with his eyes.　There's no way to dodge or prevent it.
 
 「だが！」
 But...
 
-「太刀を繰り出すおまえ自身は視えている！　惜しいぞ、 Kageaki……至高の剣も鞘から放たれるだけの間が無くば、鈍刀同等の価値しか持たん！」
+「太刀を繰り出すおまえ自身は視えている！　惜しいぞ、景明……至高の剣も鞘から放たれるだけの間が無くば、鈍刀同等の価値しか持たん！」
 "I can see you as you draw your sword!　It's a shame, Kageaki...... supreme sword has no more value than a dull sword without the time to be released from its scabbard!
 
-……そうだ。　 Silver Starの眸が語った事は、当を得ている。
+……そうだ。　銀星号の眸が語った事は、当を得ている。
 ...... That's right.　 The Silver Star's eye is right on the money.
 
 神速の攻撃手段を持っていようと――　使う前に本体が潰されては何の意味もない。
 It doesn't matter if you have a godlike speed of attack, if your body is destroyed before you can use it, it means nothing.
 
- craft体自身が完全に Silver Starから捕捉されている以上、 Silver Starは俺が電磁抜刀を繰り出す機を読み取り、それに先んじて勝を制する事ができる。　並みの武人には無理でも、 Silver Starなら必ずできる。
- As long as the craft itself is completely captured by Silver Star, Silver Star will be able to see when I'm about to unleash the electromagnetic sword, and will be able to preempt the victory.　It's impossible for an ordinary warrior to do this, but Silver Star can certainly do it.
+騎体自身が完全に銀星号から捕捉されている以上、銀星号は俺が電磁抜刀を繰り出す機を読み取り、それに先んじて勝を制する事ができる。　並みの武人には無理でも、銀星号なら必ずできる。
+As long as the craft itself is completely captured by Silver Star, Silver Star will be able to see when I'm about to unleash the electromagnetic sword, and will be able to preempt the victory.　It's impossible for an ordinary warrior to do this, but Silver Star can certainly do it.
 
-対してこちらは敵の影も捉えられない。　例え抜刀の余暇を与えられようとも、刃先が敵 craftに届く事は無いだろう。
+対してこちらは敵の影も捉えられない。　例え抜刀の余暇を与えられようとも、刃先が敵騎に届く事は無いだろう。
 On the other hand, we can't even catch a shadow of the enemy.　Even if you are given time to draw your sword, the tip of the blade will never reach the enemy craft.
 
 つまりは宝の持ち腐れだ。　何の役にも立たない。
@@ -1606,14 +1606,14 @@ In other words, it's a treasure trove.　It is of no use to us.
 ――――そう。その通りだ。　抜刀では意味が無いのだ。
 ---- Yes. That's right.　It doesn't make sense to pull out a sword.
 
-既に理解している。　技では Silver Starを倒せない。
+既に理解している。　技では銀星号を倒せない。
 I already understand.　You can't defeat the Silver Star with your skills.
 
 力だ。　速度だ。
 Power.　Speed.
 
- Silver Starに勝るには、速度を積み重ねるのみ。　あと一歩。あと一段の速さを。
- The only way to beat Silver Star is to build up speed.　One more step. One more step of speed.
+銀星号に勝るには、速度を積み重ねるのみ。　あと一歩。あと一段の速さを。
+The only way to beat Silver Star is to build up speed.　One more step. One more step of speed.
 
 ほんの一瞬――その百分の一の時間で構わない。　魔王の眼をも振り切り、こちらを見失わせるだけの速度を。
 It doesn't matter if it's only for a moment - or a hundredth of a second.　I'm not sure what to do, but I'm going to do it.
@@ -1627,8 +1627,8 @@ That's why I did what I did.
 「――――――――」
 --------
 
- Silver Starはその刹那、気付いたのかもしれない。　何が来るのか。
- Silver Star may have realized it a moment later.　What was coming?
+銀星号はその刹那、気付いたのかもしれない。　何が来るのか。
+Silver Star may have realized it a moment later.　What was coming?
 
 その正確な洞察を、人間の域から逸脱した戦闘感覚によって為したのかもしれない。　　いや。
 He may have achieved this accurate insight through his out-of-human combat sense.　　No.
@@ -1651,20 +1651,20 @@ I fill the sheath with all my power.　A magnetic storm that undulates, rages, a
 嵐の最大の、極みの果てをもって――　刃を撃ち出す。
 With the greatest, most extreme end of the storm - the blade shoots out.
 
-「 Kageakiィィィィィィィ!」
+「景明ィィィィィィィ!」
 "Kageaki!
 
-有り得ない事であったのかもしれないが。　裂空の世界にあって、俺は Hikaruの叫を耳で聴いたように思った。
+有り得ない事であったのかもしれないが。　裂空の世界にあって、俺は光の叫を耳で聴いたように思った。
 It may have been impossible, but...　In the world of the void, I thought I heard Hikaru's cry with my ears.
 
-対象に tsurugiを指定して送られる装甲通信ではない。　肉声。
+対象に劒冑を指定して送られる装甲通信ではない。　肉声。
 This is not an armored transmission sent with tsurugi as the target.　Physical voice.
 
-それは、 Hikaruが遂に俺の姿を視覚から喪失した証。
+それは、光が遂に俺の姿を視覚から喪失した証。
 It was a sign that Hikaru had finally lost sight of me.
 
- Hikaruは今も見ているだろう。　深紅い tsurugiの所在を見失ってはいないだろう。
- Hikaru is probably still watching.　He may not have lost sight of the whereabouts of the deep red tsurugi.
+光は今も見ているだろう。　深紅い劒冑の所在を見失ってはいないだろう。
+Hikaru is probably still watching.　He may not have lost sight of the whereabouts of the deep red tsurugi.
 
 だが、俺の姿はもう視えていない。
 But he couldn't see me anymore.
@@ -1672,17 +1672,17 @@ But he couldn't see me anymore.
 最後の電磁抜刀。
 The last electromagnetic sword.
 
- tsurugi全てを鞘とし、　俺の肉体を刃として放った、　最後の一撃。
- Sheathing all of my tsurugi and using my body as a blade, I delivered the final blow.
+劒冑全てを鞘とし、　俺の肉体を刃として放った、　最後の一撃。
+Sheathing all of my tsurugi and using my body as a blade, I delivered the final blow.
 
-俺は閃 Hikaruとなっていた。
+俺は閃光となっていた。
 I had become Sen Hikaru.
 
 何も見えない。　白い輝きに満ちているようで。黒い闇に閉ざされているようで。
 I can't see anything.　It seems to be filled with a white glow. It seems to be closed in by black darkness.
 
- Silver Starの姿も見えない。　 Silver Starが今、俺を見失っているのと同じに。
- I can't even see Silver Star.　 Just as Silver Star has lost sight of me now.
+銀星号の姿も見えない。　銀星号が今、俺を見失っているのと同じに。
+I can't even see Silver Star.　 Just as Silver Star has lost sight of me now.
 
 しかしそれは、俺の不利ではない。
 But that's not to my detriment.
@@ -1696,10 +1696,10 @@ So I just need to keep going straight.
 唯一甲鉄を残した、右の拳を固く握って。　天頂へ。
 I clenched my right fist, the only one left of my armor, tightly.　To the zenith.
 
-俺の拳は必ず敵 craftを捉える。
+俺の拳は必ず敵騎を捉える。
 My fist will surely catch the enemy craft.
 
-だが――　俺を見失った Silver Starは――例え見失う事態を超常的な感覚で予知し得たとしても――――
+だが――　俺を見失った銀星号は――例え見失う事態を超常的な感覚で予知し得たとしても――――
 But... the Silver Star that lost me... even if it could foresee that loss with its paranormal senses... ----
 
 「……!」
@@ -1708,7 +1708,7 @@ But... the Silver Star that lost me... even if it could foresee that loss with i
 「――――」
 ----
 
-そして――――　 Silver Starの甲鉄はこの交錯の瞬間、打撃点となる脚に集約されており。
+そして――――　銀星号の甲鉄はこの交錯の瞬間、打撃点となる脚に集約されており。
 And ---- Silver Star's armor is concentrated in the legs, which are the point of impact at the moment of this intersection.
 
 その他の箇所は決して頑強ではなく。　村正の甲鉄との激突に耐えるだけの強度を――――
@@ -1744,13 +1744,13 @@ It was fun. ......
 《……どこかで……　……会おう》
 《...... somewhere ...... ...... I'll see you.
 
-《………… Kageaki…………》
+《…………景明…………》
 The ............ Kageaki............
 
 「…………」
 "............
 
-村正を再び装甲し、着陸する。　…… Silver Starは、海中に没したようだった。
+村正を再び装甲し、着陸する。　……銀星号は、海中に没したようだった。
 The Muramasa is armored again and lands.　The ...... Silver Star seemed to be submerged under the sea.
 
 《……最期を……確認する？》
@@ -1765,14 +1765,14 @@ I didn't see the need for it.　Besides, I had an epiphany.
 今は麻痺したようになっている自分の心が……　その事実の最終確認を済ませた時には、崩れ去るのだろうと。
 He thought that his mind, which was now numb, would crumble when he had completed the final check of the ...... fact.
 
-《 midou！》
+《御堂！》
 The midou!
 
 「……大事無い」
 "...... is not important.
 
- Silver Starの一打を浴びた衝撃は、字義通り骨の髄まで染み渡っている。　熱量も、枯渇寸前だ。
- The impact of Silver Star's blow has literally seeped into the marrow of my bones.　The heat, too, is on the verge of exhaustion.
+銀星号の一打を浴びた衝撃は、字義通り骨の髄まで染み渡っている。　熱量も、枯渇寸前だ。
+The impact of Silver Star's blow has literally seeped into the marrow of my bones.　The heat, too, is on the verge of exhaustion.
 
 それでも今、頽れて眠る事は許されなかった。
 Still, he couldn't allow himself to fall asleep now.
@@ -1801,7 +1801,7 @@ If she asks me if I am right or wrong, I must give her an answer with my own lif
 それが……　俺の最後の責務。
 That's my last duty at .......
 
-背後に現れた気配は、振り返って顔を確かめるまでもなく、激情で総身を灼いていた。　余程に無理な craft航を重ねてきたのか。息遣いは荒く、心の動悸も聴こえてくるようだった。
+背後に現れた気配は、振り返って顔を確かめるまでもなく、激情で総身を灼いていた。　余程に無理な騎航を重ねてきたのか。息遣いは荒く、心の動悸も聴こえてくるようだった。
 I didn't have to look back to see the presence that appeared behind me, but it was burning with passion.　It was as if he'd been on an impossible journey. His breathing was ragged and I could hear his heart palpitating.
 
 彼女はそれを無理に抑え込んだらしい。　息を呑み下し。そうして――しかし、言葉は無い。
@@ -1813,7 +1813,7 @@ A silence, more eloquent than a million words, roasted my back.　　She knows.�
 ……ならば応えよう。　寝物語の、あの問い掛けに。
 If it's ......, I'll answer it.　I'm not sure if I'll be able to do it.
 
-「 Ichijou」
+「一条」
 Ichijou.
 
 「邪しきものへの、お前の怒りは正しい。　悪しきものへの、お前の憎悪は正しい」
@@ -1828,7 +1828,7 @@ But ...... your fight will never be right.
 「なんですか……それ……」
 What is that ...... thing ......?
 
-振り返っても Ichijouの姿は濃藍の甲鉄に覆われ、その表情は窺いようとてない。だが察するのは容易かった。　内面の波立ちを映して戦慄く声音を聴けば充分だ。
+振り返っても一条の姿は濃藍の甲鉄に覆われ、その表情は窺いようとてない。だが察するのは容易かった。　内面の波立ちを映して戦慄く声音を聴けば充分だ。
 When I looked back, Ichijou's figure was covered in a dark blue armor, and I couldn't see his expression. But it was easy to guess.　It was enough to hear the sound of his voice shivering, reflecting the surge inside.
 
 「わかんないですよ……」
@@ -1837,7 +1837,7 @@ I don't know, .......
 「……」
 "......
 
-「どういうつもりなんですか……？　 Silver Starを……なんで……」
+「どういうつもりなんですか……？　銀星号を……なんで……」
 What do you mean, "What do you mean, ......?　 You can get Silver Star at ....... Why ......?
 
 「俺が倒さねばならなかった」
@@ -1846,7 +1846,7 @@ I had to take him down.
 断定する。　迷いは、無い。
 I'll make a determination.　There is no hesitation.
 
-「他の誰でもなく俺が。　 Silver Starをただの怪物……ただの悪魔としてしか知らない者が倒せば、その戦いは正義となる。正義が邪悪を討った事になる」
+「他の誰でもなく俺が。　銀星号をただの怪物……ただの悪魔としてしか知らない者が倒せば、その戦いは正義となる。正義が邪悪を討った事になる」
 "No one else, but me.　 If Silver Star is defeated by someone who knows him only as a monster ......, a mere demon, then the battle will be just. Justice will have defeated evil.
 
 「戦いの正義が信じられる。　戦いの真実が忘れられる」
@@ -1855,7 +1855,7 @@ I'll make a determination.　There is no hesitation.
 真実。
 Truth.
 
-「……だから、真実を知る者。　あの Silver Starも人間だったことを、」
+「……だから、真実を知る者。　あの銀星号も人間だったことを、」
 "It's ......, the one who knows the truth.　That Silver Star was human, too.
 
 ――誰かに愛されていたのだという事を。
@@ -1870,10 +1870,10 @@ It was the only thing I could do.
 「わからないですよ！　何を言ってるのか……全然……」
 "I don't understand!　What are you talking about ...... at all ......
 
- Ichijouは声を荒らげた。　その勢いに自分自身が煽られたのか、たたらを踏む。
- Ichijou raised his voice.　He stepped on a tatara, perhaps agitated by his own momentum.
+一条は声を荒らげた。　その勢いに自分自身が煽られたのか、たたらを踏む。
+Ichijou raised his voice.　He stepped on a tatara, perhaps agitated by his own momentum.
 
-「なんで……どうして！　 Minato-sanが……村正が、敵を殺せば、」
+「なんで……どうして！　湊斗さんが……村正が、敵を殺せば、」
 "Why ...... why!　 If Minato-san ...... Muramasa kills the enemy...
 
 「味方をも殺す。　正しいと思う者を殺す」
@@ -1909,7 +1909,7 @@ The battle is always a fistfight between justice and righteousness.　At best, t
 そう。　だから。
 Yes.　So.
 
-俺は太刀を抜き、切先で Ichijouを指した。
+俺は太刀を抜き、切先で一条を指した。
 I pulled out my sword and pointed at Ichijou with the tip.
 
 「――――」
@@ -1924,22 +1924,22 @@ I pulled out my sword and pointed at Ichijou with the tip.
 「況んや……　正義を潰しておきながら正義を称するなど、論外の極みだ」
 It's outrageous to call it justice while destroying justice.
 
-「…… Minato-san……」
+「……湊斗さん……」
 ...... Minato-san......
 
-「……俺はそう承知した上で……　 Silver Starを斃した」
+「……俺はそう承知した上で……　銀星号を斃した」
 "...... I knew that, and I killed ...... Silver Star.
 
 何を言いたいのかは、伝わった筈だった。
 I was sure he could understand what I was trying to say.
 
- Ichijouは何も応えてこない。　氷のようではない沈黙の中に沈んでいる。
- Ichijou doesn't respond to anything.　He sinks into a not-so-icy silence.
+一条は何も応えてこない。　氷のようではない沈黙の中に沈んでいる。
+Ichijou doesn't respond to anything.　He sinks into a not-so-icy silence.
 
-その tsurugiの方が、先に応じた。
+その劒冑の方が、先に応じた。
 The tsurugi was the first to respond.
 
-《 midou……　わかっていような》
+《御堂……　わかっていような》
 midou......, you know what I mean.
 
 「……」
@@ -1963,7 +1963,7 @@ The dull blow from the messy rush was easily bounced off Muramasa's armor.
 「……刃筋を立てて確と狙え」
 "...... Make sure you aim with a straight edge.
 
-「 Minatoっ……！」
+「湊斗っ……！」
 Minatoっ ......!
 
 「お前が俺を斬るなら、それでもいい」
@@ -1988,7 +1988,7 @@ If you cut me, so be it.
 "Am I being harsh?　Perhaps it is.
 
 「だがお前は既に手を血で汚している。　闘争の真実を知る義務からは逃れ得ない！」
-'But you already have blood on your hands.　You cannot escape your duty to know the truth of the struggle!
+But you already have blood on your hands.　You cannot escape your duty to know the truth of the struggle!
 
 「違う！　あなたは間違ってるっ！」
 No!　You're wrong!
@@ -2044,7 +2044,7 @@ If you fight and win with the two words "justice," ...... people will believe in
 「わかるか？　お前は混沌たる争乱をもたらす者に――」
 "You see?　You're the one who's going to bring chaos and strife.
 
-「 Silver Starの後釜になる!」
+「銀星号の後釜になる!」
 I'll take Silver Star's place.
 
 「――――」
@@ -2056,7 +2056,7 @@ So ......, promise me.
 「正義は胸に秘め、二度と口にしないと約束してくれ。　お前がそれを誓うなら、俺は斬られる」
 "Keep justice close to your heart and promise me you will never speak of it again.　If you swear to it, I will be cut down.
 
-「 Ichijou――」
+「一条――」
 "Ichijou--
 
 「いやだ……っ」
@@ -2074,7 +2074,7 @@ So ......, promise me.
 「父様の願いが果たせない！　あたしは――あたしは」
 I can't do what my father wants!　I can't-- I can't--
 
-「 Ayane Ichijouだ！　それ以外の誰にもならない!」
+「綾弥一条だ！　それ以外の誰にもならない!」
 "It's Ayane Ichijou!　I'll never be anyone else!
 
 「………………」
@@ -2104,20 +2104,20 @@ You betrayed me!
 「……行くぞ」
 Let's go to .......
 
-裏切り。否定。　――それが Minato Kageakiの、 Ayane Ichijouへの回答なら。
+裏切り。否定。　――それが湊斗景明の、綾弥一条への回答なら。
 Betrayal. Denial.　--If that is Minato Kageaki's answer to Ayane Ichijou.
 
 俺はこの答えを、残り全ての力でお前に返す。
 I will return this answer to you with all the strength I have left.
 
-《 midou。注意して。　長くは保たない》
+《御堂。注意して。　長くは保たない》
 Be careful.　It won't hold for long.
 
 「承知している！」
 I know!
 
- tsurugiが言っているのは熱量のことだ。　既に Silver Starと一戦を交えた後。合当理を稼動させるエネルギーは小匙数杯分ほどの残量もない。
- What tsurugi is talking about is the heat.　After having already fought with Silver Star. We don't have more than a few spoonfuls of energy left to run the Goudouri.
+劒冑が言っているのは熱量のことだ。　既に銀星号と一戦を交えた後。合当理を稼動させるエネルギーは小匙数杯分ほどの残量もない。
+What tsurugi is talking about is the heat.　After having already fought with Silver Star. We don't have more than a few spoonfuls of energy left to run the Goudouri.
 
 短期決戦の必要があった。
 We needed a short term solution.
@@ -2125,7 +2125,7 @@ We needed a short term solution.
 「……ち！」
 "......!
 
-《真っ向からの剛力勝負は向こうに有利よ、 midou！》
+《真っ向からの剛力勝負は向こうに有利よ、御堂！》
 A head-to-head match of brute force is to their advantage, midou!
 
 「そのようだ」
@@ -2137,7 +2137,7 @@ The fight was now a quarter to six, and we were losing.　It was a close call, b
 本来なら村正も力では劣らない。　が、今は条件が悪過ぎる。
 Normally, Muramasa is no less powerful.　However, the conditions are too bad right now.
 
-《 Minato……さん……っ！》
+《湊斗……さん……っ！》
 Minato. ......-san. ......!
 
 《……》
@@ -2149,7 +2149,7 @@ What are you doing at ---- ............?
 《認めてくれてるんだと、思っていたのに！》
 I thought you approved of me!
 
-《認めている。 Ayane Ichijou。　幾度でも繰り返す》
+《認めている。綾弥一条。　幾度でも繰り返す》
 I admit it. Ayane Ichijou. Repeat as many times as you like.
 
 《悪を憎み、無くそうと願うお前は正しい。　決して間違っていない》
@@ -2185,7 +2185,7 @@ Violent people won't feel remorse unless they're beaten down with the same viole
 《その通りだ……》
 You're right. ......
 
-全く正しい。　 Ichijouの言う事は全くの真実だ。
+全く正しい。　一条の言う事は全くの真実だ。
 You are absolutely right.　 What Ichijou says is absolutely true.
 
 「くっ……」
@@ -2233,10 +2233,10 @@ I have to become Muramasa!
 《ち――違う……！》
 No, it's not. ......!
 
-《違わぬ！　違うと言うのなら…… Ichijou、お前は何故、》
+《違わぬ！　違うと言うのなら……一条、お前は何故、》
 It's not different!　If you say it's not, then ...... Ichijou, why are you...
 
-《 Yusa Doushinを殺した後で――　己の行為に怯えたのだ?》
+《遊佐童心を殺した後で――　己の行為に怯えたのだ?》
 After you killed Yusa Doushin, were you frightened of what you'd done?
 
 《……！》
@@ -2254,7 +2254,7 @@ That's not it!　That's .......
 《ただ、初めて人を斬ったから……　耐えられなかっただけ、で――》
 It's just that I couldn't stand it because it was the first time I cut someone.
 
-《耐えられなかったのは何故だ。　 Yusa Nyudoを単なる悪と信じ、殺す事が正義と信じていたなら、どうしてそれほど衝撃を受けた》
+《耐えられなかったのは何故だ。　遊佐入道を単なる悪と信じ、殺す事が正義と信じていたなら、どうしてそれほど衝撃を受けた》
 Why couldn't I bear it?　 If I believed that Yusa Nyudo was merely evil, and that killing her was justice, why was I so shocked?
 
 《お前は風邪薬で病原菌を殺すのにも苦痛を覚えるのか？〝社会の悪〟を殺す事はそれとどう違う？》
@@ -2275,7 +2275,7 @@ That's why I shuddered!
 《違う――――!》
 《Different ----!
 
-《 Ichijouッ!》
+《一条ッ!》
 Ichijou!
 
 《らぁぁぁぁぁァァァッ!》
@@ -2284,7 +2284,7 @@ Aaah!
 「うぬ!」
 "Uh-oh!
 
-《 midou！　これ以上はっ――》
+《御堂！　これ以上はっ――》
 Don't go any further!
 
 「限度か」
@@ -2299,10 +2299,10 @@ If it is .......　There's only one way to go about it.
 「一手を以て覆す」
 "Overturned by one move.
 
-《 midou。　……いい、のね？》
+《御堂。　……いい、のね？》
 《Midou. ...... is good, right?
 
-「ああ。　俺はここで、 Ayane Ichijouを殺す」
+「ああ。　俺はここで、綾弥一条を殺す」
 "Oh.　I'm here to kill Ayane Ichijou.
 
 殺す。
@@ -2314,7 +2314,7 @@ Kill.
 「だがこれが戦いだ。　戦いには常に道理などない。　正義という厚化粧が施されているかいないかの違いしかない」
 "But this is war.　There is always no reason to fight.　The only difference is whether or not it has a thick veneer of justice on it.
 
-「 Yusa Doushinを、 Silver Starを、殺すという事。　 Ayane Ichijouを殺すという事」
+「遊佐童心を、銀星号を、殺すという事。　綾弥一条を殺すという事」
 "Killing Yusa Doushin, Silver Star.　 It means killing Ayane Ichijou.
 
 「どちらも同じ、許されざる行為。　前者のみ許し、後者のみ許さぬというならそれは独善でしか在り得ない」
@@ -2359,7 +2359,7 @@ Yeah.
 《――ええ》
 Yeah.
 
-「故に……　 Silver Starを殺した上は Ichijouをも殺す」
+「故に……　銀星号を殺した上は一条をも殺す」
 "Therefore, after killing ...... Silver Star, I will also kill Ichijou.
 
 「ともすれば正義などと奉られる戦いを只の殺戮に貶める！」
@@ -2368,13 +2368,13 @@ Yeah.
 《ええ》
 Yeah.
 
- Ichijou。これが俺の答えなのだ。　お前が求めた、 Minato Kageakiという男の答えだ。
- Ichijou, this is my answer.　This is the answer you've been looking for, Minato Kageaki.
+一条。これが俺の答えなのだ。　お前が求めた、湊斗景明という男の答えだ。
+Ichijou, this is my answer.　This is the answer you've been looking for, Minato Kageaki.
 
 お前の命題、正義の追求に対する回答なのだ。　　だから。
 It's the answer to your proposition, your quest for justice.　　So.
 
-「無益無法の殺戮を行う。　―― Ayane Ichijouを斬り殺す」
+「無益無法の殺戮を行う。　――綾弥一条を斬り殺す」
 "A futile and lawless slaughter.　-- I will slay Ayane Ichijou.
 
 お前を殺す。
@@ -2386,7 +2386,7 @@ No holds barred.　I'm going to take your life with maximum force.　　I'm goin
 （――だが）
 But...
 
-もしも、 Ichijou。　お前の正義が俺の体現する醜い真実さえも超克するものであるのなら。
+もしも、一条。　お前の正義が俺の体現する醜い真実さえも超克するものであるのなら。
 If only, Ichijou, your justice could transcend even the ugly truths I embody.
 
 突き破ってみせろ。　俺を打ち砕き、先へ進んでみせろ。
@@ -2398,7 +2398,7 @@ If your justice is the real truth, then you can do it!
 「――あれは……」
 "--that's .......
 
-《円往寺で見たな。奴の shinogiか。　……あの折のような幸運は期待できまい》
+《円往寺で見たな。奴の陰義か。　……あの折のような幸運は期待できまい》
 I saw him at Ennoji. It's his shinogi.　You can't expect to have the same luck as you did that time.
 
 「……」
@@ -2425,7 +2425,7 @@ If you think about it, you will fail.　The beliefs I inherited from your father
 思う事は一つだけでいい。
 You only need to think about one thing.
 
-《然らば方途は一つ！　良いな、 midou？》
+《然らば方途は一つ！　良いな、御堂？》
 Then there is only one way!　You like that, midou?
 
 「……わかった」
@@ -2440,7 +2440,7 @@ We will fight for justice!
 《……！》
 The ......!
 
-《 midou》
+《御堂》
 《Midou》
 
 「ぬ――」
@@ -2449,22 +2449,22 @@ The ......!
 「……応じ技か」
 "......
 
-《 shinogiね》
+《陰義ね》
 It's shinogi.
 
-「例の Tetsuhaoか？　それとも、太刀に炎熱を通すあの術か」
+「例の鉄炮か？　それとも、太刀に炎熱を通すあの術か」
 "Is that Tetsuhao?　Or is it that technique where you pass fire and heat through the sword?
 
-《いえ。あれはどちらも shinogiじゃない。　ただの機巧よ》
+《いえ。あれはどちらも陰義じゃない。　ただの機巧よ》
 No, no. That's not shinogi either.　It's just a trick.
 
 「なに……？」
 What's ......?
 
-確かに、 tsurugiの最深奥たる shinogiにしては奇妙奇天烈の度が過ぎたが……。
+確かに、劒冑の最深奥たる陰義にしては奇妙奇天烈の度が過ぎたが……。
 Sure, it's a bit too bizarre for shinogi, the deepest part of tsurugi, but ......
 
-《私達はまだ、正宗の shinogiは見ていない》
+《私達はまだ、正宗の陰義は見ていない》
 We haven't seen Masamune's shinogi yet.
 
 「…………。　いや」
@@ -2482,7 +2482,7 @@ It is a reasonable decision, I must say.　A preemptive strike is always the mos
 増して、思い出すだに身震いが起こるあの焼却力。　傷ついた村正を一撃で殲滅し、それで終わりにしてしまう程度、容易い事に違いない。
 In addition, that incinerating power makes me shudder every time I remember it.　It must be so easy to annihilate a wounded Muramasa with a single blow and be done with it.
 
-《なら、 midou》
+《なら、御堂》
 If that's the case, midou.
 
 「無論だ。　――――やらせぬ」
@@ -2509,7 +2509,7 @@ But ...... is too late!　I'm already in time to draw my sword!
 「磁波鍍装――蒐窮」
 "Magnetic wave plating--collecting.
 
-「 Yoshino Goryu戦礼法〝迅雷〟が崩し……」
+「吉野御流合戦礼法〝迅雷〟が崩し……」
 "Yoshino Goryu War Etiquette: "Quick Thunder" Crumbles ......
 
 「電磁抜刀――――〝禍〟」
@@ -2536,7 +2536,7 @@ I can't do it!
 駄目だ――出力が足りない！　斬り切れない。
 It's not working-- it's not powerful enough!　I can't cut through it.
 
-並みの tsurugiなら、これでも充分に両断できる筈なのだが……。　天下一名物たる甲鉄はやはり堅牢！
+並みの劒冑なら、これでも充分に両断できる筈なのだが……。　天下一名物たる甲鉄はやはり堅牢！
 If you are an ordinary tsurugi, you should be able to cut through it with this .......　I'm sure you'll be able to figure out what you need to do.
 
 （しかし勝負は決した……）
@@ -2545,13 +2545,13 @@ If you are an ordinary tsurugi, you should be able to cut through it with this .
 この手応え――　翼甲をほぼ完全に斬り割った！
 This response-- it almost completely sliced through the wing armor!
 
-これではもはや craft航も叶わない。　後は墜落してゆくのみ。
+これではもはや騎航も叶わない。　後は墜落してゆくのみ。
 We can't craft any more.　The only thing left to do is to crash.
 
 致命打には至らなかったが、勝負はここで――
 It wasn't a fatal blow, but here's the thing.
 
-《 midou、避けてっ！》
+《御堂、避けてっ！》
 Midou, avoid it!
 
 「?」
@@ -2581,7 +2581,7 @@ It stretches and hardens the ribs and turns them into fangs.　　I had never im
 する道理が無いが。
 I don't see any reason to do that.
 
-己を巻き込んで爆裂する Tetsuhaoと云い、自分の手をも焼く炎熱の剣と云い……あれは本当に敵を倒す事しか考えていない。　恐ろしい tsurugiだ。
+己を巻き込んで爆裂する鉄炮と云い、自分の手をも焼く炎熱の剣と云い……あれは本当に敵を倒す事しか考えていない。　恐ろしい劒冑だ。
 You can find a lot of people who are looking for the best way to get the most out of their life.　It's a horrible tsurugi.
 
 ともあれ最後の一手も外し。　正宗は――落ちてゆく。
@@ -2617,7 +2617,7 @@ Of course - and I don't know what to take for granted at this point - it's not j
 それはいま強固な力をもって、俺を拘束している！
 It's now binding me with a strong force!
 
-《 midou！　振り解いて！》
+《御堂！　振り解いて！》
 Unshake me!
 
 「わかっている！　だが……」
@@ -2638,13 +2638,13 @@ Don't rush me.
 おそらく敵はこの腸を引き込み、俺を手近へ招いて斬りつけてくるのだろうが――この状態で充分な一撃を繰り出せるとは考え難い。いや無理だろう。　ならば慌てふためく必要もない。
 Perhaps the enemy will draw in this intestine and invite me to come close and slash at it, but it's hard to imagine that I'll be able to deliver a sufficient blow in this state. No, it would be impossible.　Then there was no need to panic.
 
-留意すべきは shinogiだが、それも発動する直前に電磁抜刀で斬り散らした。　術を再び立て直すには時間が掛かる。
+留意すべきは陰義だが、それも発動する直前に電磁抜刀で斬り散らした。　術を再び立て直すには時間が掛かる。
 It is important to note that shinogi, too, was cut down by an electromagnetic sword just before it was activated.　It will take some time to get the technique back up again.
 
 火急の危険はない。　まずは落ち着いて、この拘束を――
 There is no danger of fire.　First, we need to calm down and get these restraints--
 
-《違うっ！　敵の shinogiはもう、発動した!》
+《違うっ！　敵の陰義はもう、発動した!》
 No!　The enemy's shinogi has already been activated!
 
 「――何?」
@@ -2656,7 +2656,7 @@ What's that all about? ......
 《早く！　このままだとっ――》
 Come on!　I can't go on like this.
 
-《 midouッ！》
+《御堂ッ！》
 Midou!
 
 「ぐっ……ぎぃ……」
@@ -2674,7 +2674,7 @@ Let's go!
 「あ……あああッ!」
 "Oh, ......!
 
-敵 craft、正宗が……　太刀を、鞘に？
+敵騎、正宗が……　太刀を、鞘に？
 Enemy craft, Masamune is ...... sheathing the sword?
 
 何のため――
@@ -2698,7 +2698,7 @@ Don't!
 村正の、ちから――――――?
 Muramasa's, power: ------?
 
-《 Yoshino Goryu戦礼法〝迅雷〟が崩し》
+《吉野御流合戦礼法〝迅雷〟が崩し》
 "Yoshino Goryu's battle ritual "Xunrai" is broken.
 
 《電磁抜刀――――〝禍〟ッ!》
@@ -2710,7 +2710,7 @@ Muramasa's, power: ------?
 ……………………
 ........................
 
-《 midou》
+《御堂》
 《Midou》
 
 …………
@@ -2734,10 +2734,10 @@ Good.　You know what you're doing, don't you?
 「ああ……」
 Oh, .......
 
-村正の shinogiを受け――　耐えて。その後、正宗の shinogiでそれを打ち返した。
+村正の陰義を受け――　耐えて。その後、正宗の陰義でそれを打ち返した。
 He was hit by Muramasa's shinogi - and held his ground. He then countered it with Masamune's shinogi.
 
-因果覿面の shinogi。　自らに加えられた攻撃を再現して相手へ叩き込む、相州正宗の真骨頂。
+因果覿面の陰義。　自らに加えられた攻撃を再現して相手へ叩き込む、相州正宗の真骨頂。
 This is the quintessence of Soshu Masamune's ability to recreate his own attacks and strike his opponent with them.
 
 つまりあの稲妻そのものの抜刀術を、村正は自分の身に浴びたはずだ……。
@@ -2749,7 +2749,7 @@ In other words, Muramasa must have exposed himself to that lightning bolt itself
 《いや。　奴めの一刀は本来の威勢を欠いていたようだからな。こちらの返しも力が足らなんだわ》
 No, no.　It seems that his sword lacked its true power. I guess my return wasn't strong enough either.
 
-《まったく、腹立たしい！　奴の一撃が腑抜けておらねば、吾の shinogiは必殺であったものを！》
+《まったく、腹立たしい！　奴の一撃が腑抜けておらねば、吾の陰義は必殺であったものを！》
 It's so annoying!　If his blow hadn't been so stupid, my shinogi would've been a must-kill!
 
 「……」
@@ -2761,7 +2761,7 @@ In that case, didn't they crash this one before returning it?　　...... I thou
 そんなことはない。　正宗は絶対に倒れない。
 That's not true.　Masamune will never fall.
 
-倒れないから、つまり必ず敵の切り札を奪い取れる。　この shinogiは間違いなく最強の一手だ。
+倒れないから、つまり必ず敵の切り札を奪い取れる。　この陰義は間違いなく最強の一手だ。
 Because it doesn't fall, in other words, it can always take away the enemy's trump card.　This shinogi is definitely one of the strongest moves.
 
 問題は無い。　正宗は倒れないのだから問題など無い。
@@ -2818,7 +2818,7 @@ He can be found at .......
 ぬぅ。やはり地上で信号探査は利かんか》
 Hmm. I guess signal detection on the ground won't work after all.
 
-《だが北西とみて良かろう。そちらへ墜ちていったからな。　さぁ、ゆこうか midou》
+《だが北西とみて良かろう。そちらへ墜ちていったからな。　さぁ、ゆこうか御堂》
 I'd say it's northwest. It went down that way.　Now, let's go, midou.
 
 「正宗……」
@@ -2839,7 +2839,7 @@ Look at that.
 《さて……　…………いや！》
 Now, ...... ............ No!
 
-《 midou、鋼の音がするぞ》
+《御堂、鋼の音がするぞ》
 Midou, there's the sound of steel.
 
 「鋼？」
@@ -2914,7 +2914,7 @@ They're taking things, they're setting fires, they're killing people!
 《この正宗の目前でよくも暴れた。　心鉄が煮え滾るわ！》
 How dare you act out in front of this Masamune.　My heart is boiling!
 
-《これを見過ごし、奴らに明日の暁を拝ませてやろうなどとはよもや言うまいな?　 midou!》
+《これを見過ごし、奴らに明日の暁を拝ませてやろうなどとはよもや言うまいな?　御堂!》
 Don't tell me you're going to overlook this and let them see the dawn tomorrow?　 midou!
 
 「訊くんじゃねえ!」
@@ -2947,7 +2947,7 @@ A small, popping hole of flesh.
 ――――撃たれた？
 ---- Were you shot?
 
-「邪魔しないで欲しいな。　 Ootori中将の命が下ったんだ。……関東中央はひとまずＧＨＱと Silver Starの好きにさせる」
+「邪魔しないで欲しいな。　大鳥中将の命が下ったんだ。……関東中央はひとまずＧＨＱと銀星号の好きにさせる」
 I hope I'm not interrupting anything.　 Lieutenant General Ootori's orders have come down. ...... Kanto Chuo will be left to the mercy of GHQ and Silver Star for now.
 
 「全部隊は可能な限り物資を確保して会津へ撤収。　神州奪回の大戦に備える……とね」
@@ -2992,13 +2992,13 @@ She smiled, making a giggling sound.　The smile was well suited to her girlish 
 「でも私は貴方を知ってる。　会ったのは一度だけ。けど目付きが何だか印象的だったもの。男の方は男の方でむやみやたらに雰囲気が暗かったし」
 But I know you.　I've only met you once. I've only met you once, but I was struck by the way you looked at me. And the guy was unnecessarily dark.
 
-「それでも Nyudo-samaが何も言わなかったらすぐに忘れたろうね、きっと。　そうだよ？　あの御方は気付いてた。今更言うことでもないんだろうけど」
+「それでも入道様が何も言わなかったらすぐに忘れたろうね、きっと。　そうだよ？　あの御方は気付いてた。今更言うことでもないんだろうけど」
 But if Nyudo-sama hadn't said anything, I'm sure I would have forgotten about it right away.　Isn't that right?　That person was aware of it. I guess it's nothing to say now.
 
 「貴方たちが敵だって最初から知ってたんだ。　ああ……なのに。あの御方は何事も楽しまないと気が済まないから。手早く始末なされば良かったのに。手管を妙に凝るものだから」
 I knew you were the enemy all along.　Oh, it's ....... He's a man who has to enjoy everything. You should have made short work of him. He's so elaborate with his tricks.
 
-「返り討ちに遭ってしまわれた。　あの日。あの晩……もうひと遊びじゃ、とお出掛けになった Nyudo-samaはそれきり戻られなかった。どうしてお止めしなかったんだろう」
+「返り討ちに遭ってしまわれた。　あの日。あの晩……もうひと遊びじゃ、とお出掛けになった入道様はそれきり戻られなかった。どうしてお止めしなかったんだろう」
 He was struck down in return.　That day. That night, Nyudo-sama went out to have some more fun at ...... and never came back. I don't know why I didn't stop him.
 
 「違う……それよりも前だ。　どうして私は、貴方と会ったその時に斬り捨ててしまわなかったんだ？」
@@ -3007,16 +3007,16 @@ He was struck down in return.　That day. That night, Nyudo-sama went out to hav
 「貴方。そう貴方だ。貴方だろう？　男の方じゃない」
 You. Yes, you. It's you, isn't it?　Not the man.
 
-「 Nyudo-samaはどうとも仰せにならなかったけど。でも私にはわかった。 Nyudo-samaのお気に召したのは、戯れ心を起こされたのは、貴方のほうだって……ふふっ！」
+「入道様はどうとも仰せにならなかったけど。でも私にはわかった。入道様のお気に召したのは、戯れ心を起こされたのは、貴方のほうだって……ふふっ！」
 "Nyudo-sama didn't say anything about it. But I understood. I'm sure you're the one that Nyudo-sama liked, the one that made her playful. ...... Phew!
 
-「だから、貴方だ。あの月の翳る夜、 Nyudo-samaのお相手を務めたのは貴方に違いない。　 Nyudo-samaは貴方と遊び、戯れが過ぎて冥途へ落ちてしまわれたに違いない」
+「だから、貴方だ。あの月の翳る夜、入道様のお相手を務めたのは貴方に違いない。　入道様は貴方と遊び、戯れが過ぎて冥途へ落ちてしまわれたに違いない」
 "So it's you. You must have been the one who played with Nyudo-sama on that night when the moon was fading.　 Nyudo-sama must have played with you so much that she fell into the underworld.
 
 「そうでしょう……？　そう。そうだ。やっぱりそうだ」
 Isn't that right, ......?　Yes. That's right. I knew it.
 
-「貴方なんだ。貴方が Nyudo-samaを殺した。　私は、知ってる……」
+「貴方なんだ。貴方が入道様を殺した。　私は、知ってる……」
 "It was you. You killed Nyudo-sama.　I know. ......
 
 《……何だ、此奴。　狂い人か？》
@@ -3037,7 +3037,7 @@ I remembered who he was.
 《ぬ？》
 No?
 
-「 Yusa Doushinの……小姓か」
+「遊佐童心の……小姓か」
 "Yusa Doushin's ...... surname?
 
 「そうだよ！」
@@ -3049,7 +3049,7 @@ I remembered, but didn't know his name, the boy's face broke.　He looked happy.
 「良かった。すぐにわかってもらえて。　せっかくこうして会いに来たのに、誰だか思い出してもくれないんじゃ、あまりに悲しくて仕方がないもの」
 I'm glad. I'm glad you recognized me right away.　It would be too sad if I came to see you and you didn't even remember who I was.
 
-「そう、 Doushin-samaのお側に控えていた私だよ。　改 Ichihime-san。……本名ではないのだろうけれど」
+「そう、童心様のお側に控えていた私だよ。　改一媛さん。……本名ではないのだろうけれど」
 "Yes, it's me who's been waiting by Doushin-sama's side.　Ichihime-san. ...... I'm sure that's not your real name.
 
 「……っ……」
@@ -3061,8 +3061,8 @@ I tried to say my name, but all that escaped my throat was a raspy cough.　Some
 だが差し当たって、返答にかまけるより優先すべき事がありそうだった。　……情報がこれだけ揃えば状況も限りなく明白で、むしろ誤解する方が難しい。
 But for the time being, there seemed to be something more important than bothering to answer.　The situation is so obvious that it is difficult to misunderstand.
 
- Yusa Doushinの遺臣が訪れて、あたしに銃をぶっ放した。　つまり、その目的は、
- Yusa Doushin's vassal came to visit me and opened fire on me.　In other words, their purpose was to...
+遊佐童心の遺臣が訪れて、あたしに銃をぶっ放した。　つまり、その目的は、
+Yusa Doushin's vassal came to visit me and opened fire on me.　In other words, their purpose was to...
 
 《仇討ちにでも来よったか》
 Have you come here to avenge your father's death?
@@ -3094,7 +3094,7 @@ He's done so much for us!　I'd give anything to see you!　I want to see her fa
 「――ッ……」
 "--......
 
-あたしの眉間を正確に貫くはずだった弾道は、 tsurugiの妨害で中途に断たれていた。
+あたしの眉間を正確に貫くはずだった弾道は、劒冑の妨害で中途に断たれていた。
 The trajectory that was supposed to pierce my eyebrows precisely was cut off midway by tsurugi's interference.
 
 「……」
@@ -3214,7 +3214,7 @@ That's the thing. ......
 「私の甥」
 "My nephew.
 
-「 Nyudo-samaの御子」
+「入道様の御子」
 "Son of Nyudo-sama.
 
 「この姉さんの」
@@ -3232,10 +3232,10 @@ Hahahahahahahaha!
 「これが貴方の言う、悪党の無惨な最期だ。　相応の末路とやらだ」
 "This is the cruel end of the scoundrel as you call it.　It's a fitting end.
 
-「 Nyudo-samaは粉々に斬り刻まれてしまわれた。　側女だった姉さんは、それを見るや狂してしまった」
+「入道様は粉々に斬り刻まれてしまわれた。　側女だった姉さんは、それを見るや狂してしまった」
 "Nyudo-sama was cut to pieces.　My sister, who was his side woman, went mad as soon as she saw it.
 
-「とても耐えられなかったに違いない。　大恩ある Nyudo-sama――子供のような Nyudo-sama！困らされてばかりだった Nyudo-sama、けど心からお慕いしていた Nyudo-samaが……あんなお姿に!」
+「とても耐えられなかったに違いない。　大恩ある入道様――子供のような入道様！困らされてばかりだった入道様、けど心からお慕いしていた入道様が……あんなお姿に!」
 It must have been unbearable.　Nyudo-sama, to whom I owe so much -- Nyudo-sama like a child! Nyudo-sama, to whom I was always troubled, but whom I adored with all my heart, became ...... I'm so sorry.
 
 「気が触れた姉さんは、臨月も近かった身で、階段から転げ落ちてしまった。　それで、そうして……これだ！」
@@ -3250,7 +3250,7 @@ The ----
 「――――」
 ----
 
-「 Nyudo-samaを殺し、私の甥と姉も死なせた。　どうして？　ああ、天罰。そう言っていたね…… Nyudo-samaが悪いことをしたからだと」
+「入道様を殺し、私の甥と姉も死なせた。　どうして？　ああ、天罰。そう言っていたね……入道様が悪いことをしたからだと」
 "You killed Nyudo-sama and let my nephew and sister die, too.　Why?　Oh, damnation. That's what you said. ...... It's because Nyudo-sama did something wrong.
 
 「でもおかしいな。わからない。　なら姉さんは一体、何をしたんだろう」
@@ -3262,7 +3262,7 @@ It's funny, though. I don't know.　Then what the hell did my sister do?
 「生まれる前に殺されなくてはならない理由というのは何だろう……。　わからない。わからないな」
 What is the reason why people have to be killed before they are born?" ......　I don't know. I don't know.
 
-「でも仕方ない。もう終わってしまったんだ。　 Nyudo-sama、姉、甥。私のすべては貴方に奪われてしまった」
+「でも仕方ない。もう終わってしまったんだ。　入道様、姉、甥。私のすべては貴方に奪われてしまった」
 But it can't be helped. It's all over now.　 Nyudo-sama, my sister, my nephew. You've taken everything from me.
 
 「貴方のものだ。　すべて貴方のものなんだ」
@@ -3313,8 +3313,8 @@ The burning copper scorches Yama's throat and guts, causing more suffering than 
 何故なら亡者を処罰し苦しめる事は、閻魔大王の罪に他ならないからである。
 This is because punishing and tormenting the deceased is nothing but the sin of Yama.
 
- Ayane Ichidouという人は、相模國庁の役人だった。
- A man named Ayane Ichidou was an official of the Sagami provincial government.
+綾弥一導という人は、相模國庁の役人だった。
+A man named Ayane Ichidou was an official of the Sagami provincial government.
 
 國庁は税金を運用し、一國を運営する機関である。　当然、そこに勤務する者は公正でなくてはならない。
 The national government is an organization that manages taxes and operates a country.　Naturally, the people who work there must be fair.
@@ -3448,22 +3448,22 @@ He accused his friend based on his own sense of justice, saved the village at hi
 彼は正義を貫き通した。　　それは紛れもない狂行だった。
 He had done the right thing.　　It was an unmistakable act of madness.
 
- Ayane Ichijouは思い出す。　終わりの日を思い出す。
- Ayane Ichijou remembers.　I remember the day of the end.
+綾弥一条は思い出す。　終わりの日を思い出す。
+Ayane Ichijou remembers.　I remember the day of the end.
 
-遠い記憶。封印した Hikaru景。　重く固く閉ざされた箱の蓋を今こそ開こう。
+遠い記憶。封印した光景。　重く固く閉ざされた箱の蓋を今こそ開こう。
 A distant memory. Sealed Hikaru scenery.　Now is the time to open the lid of the box that has been closed tightly and heavily.
 
 ――あの日。　父様は既に、何もかも失っていた。
 --That day.　Your father had already lost everything.
 
-父様は Ayaneの家の財産を投じて村を救ったけれど、自分の名前を一切出さずにそれを行ったから、村の人たちはあくまで父様の友人に救われたのだと信じた。　そして父様を人間として可能な限り憎悪した。
+父様は綾弥の家の財産を投じて村を救ったけれど、自分の名前を一切出さずにそれを行ったから、村の人たちはあくまで父様の友人に救われたのだと信じた。　そして父様を人間として可能な限り憎悪した。
 Father had saved the village by investing Ayane's family fortune, but he had done so without mentioning his own name, so the villagers believed that they had been saved by his friend.　And they hated my father as much as humanly possible.
 
 國庁の内外にわずかながらいた父様の味方も、雲散霧消した。もちろん以前から父様を疎んでいた連中は別に代わって手を差し延べたりしなかった。　父様はすぐ役所を逐われた。
 The few allies of your father that existed both inside and outside of the government have disappeared into thin air. Of course, the people who had always been against you did not take your place.　Father was immediately removed from the government office.
 
-一方、 Ayaneの親族は、いずれ自分らにも分配されるはずだった財産を費消してしまった父様を責め立てた。　父様が無言なのを良いことに残った全てを奪い取り、唾だけ吐き返して去っていった。
+一方、綾弥の親族は、いずれ自分らにも分配されるはずだった財産を費消してしまった父様を責め立てた。　父様が無言なのを良いことに残った全てを奪い取り、唾だけ吐き返して去っていった。
 On the other hand, Ayane's relatives blamed her father for spending the money that was supposed to be distributed to them.　Taking advantage of his silence, they took everything that was left, spat back at him, and left.
 
 父様の一番の友人も、もういなかった。　その人は腐った眼窩に怨念を込めて、父様を見下ろしていた。
@@ -3505,7 +3505,7 @@ It sounded like a hundred feet being crushed by a stone.
 端まで切るだけ切って、父様は刀を捨てた。　そうして、震える手で、ゆっくり――きっと精一杯急いでいたに違いないけれど――傷口から何かを取り出した。
 After cutting as much as he could to the edge, my father threw away his sword.　Then, with trembling hands, he slowly - though he must have been rushing as hard as he could - pulled something out of the wound.
 
-「 Ichijou」
+「一条」
 Ichijou.
 
 「見るのだ」
@@ -3562,7 +3562,7 @@ He smiled, radiantly.
 「たとえ私自身が邪悪であっても、　それを私が許さないなら正義は充つる」
 "Even if I myself am wicked, if I do not allow it, justice will be served.
 
-「 Ichijou」
+「一条」
 Ichijou.
 
 父様の声があたしの背を鞭打つ。　　その時、あたしには何もわからなかった。　けれど、父様の血肉を受け継ぐこの肉体は別だった。
@@ -3625,7 +3625,7 @@ Complete the manners of the intercession.
 「これを許さぬが、正義」
 I will not tolerate this. It is justice.
 
-「 Ichijou」
+「一条」
 Ichijou.
 
 「正義を行え」
@@ -3712,25 +3712,25 @@ The voices of hatred were echoing.　The voice of resentment was roaring.
 それは父様が聞いたものと同じ。
 It is the same as the one Father heard.
 
-「私が、貴方たちの知らない Nyudo-samaを知っているだろうって……？　ああ、知っている！　知っているよ！」
+「私が、貴方たちの知らない入道様を知っているだろうって……？　ああ、知っている！　知っているよ！」
 "You think I know about Nyudo-sama that you don't know about ......?　Yes, I know!　I know!
 
-「優しい御方だった！　両親を失くして、後を追うばかりだった私と姉さんを助けて下さったのは Nyudo-samaだ！」
+「優しい御方だった！　両親を失くして、後を追うばかりだった私と姉さんを助けて下さったのは入道様だ！」
 He was so kind!　It was Nyudo-sama who helped me and my sister when we lost our parents and were just chasing after her!
 
-「両親が昔、些細な事件で、 Nyudo-samaを助けたことがあったのを覚えていて下されたから！　たったそれだけのことで、 Nyudo-samaは危険も顧みずに私たちの身柄を引き取ってくれた」
+「両親が昔、些細な事件で、入道様を助けたことがあったのを覚えていて下されたから！　たったそれだけのことで、入道様は危険も顧みずに私たちの身柄を引き取ってくれた」
 "Because my parents remembered that they had once helped Nyudo-sama in a trivial incident!　That's all it took, and Nyudo-sama took us into custody without regard for the danger.
 
 「育ててくれた。　士分に取り立ててさえ下さった」
 "He raised me.　He even made me a warrior.
 
-「いくら感謝したってし足りない。　だのに Nyudo-samaは、いつも笑って仰るだけだった……わしは婆娑羅者、おのれのやりたいことをやっただけよ、と」
+「いくら感謝したってし足りない。　だのに入道様は、いつも笑って仰るだけだった……わしは婆娑羅者、おのれのやりたいことをやっただけよ、と」
 "No matter how much I thank you, it's not enough.　But Nyudo-sama always smiled and said: ...... I am a basara, I did what I wanted to do.
 
 「――優しい御方だった!　さあ、どうだ?　満足か？　聞きたかったんだろう？」
 "He was kind!　So, what do you think?　Are you satisfied?　Isn't that what you wanted to hear?
 
-「 Nyudo-samaがどんなお人か、知りたかったんだろう!」
+「入道様がどんなお人か、知りたかったんだろう!」
 "You wanted to know what kind of person Nyudo-sama is!
 
 《…………》
@@ -3739,10 +3739,10 @@ The ............
 《……だ……だが……。　あの男は……》
 It's ....... ......, but it's .......　That guy is .......
 
-「ああ、そうだね。　 Nyudo-samaは悪いことも色々なされた。ご自分の欲にのみ忠実な御方だったから」
+「ああ、そうだね。　入道様は悪いことも色々なされた。ご自分の欲にのみ忠実な御方だったから」
 "Oh, yes.　 Nyudo-sama did a lot of bad things. Nyudo-sama did a lot of bad things, but he was only faithful to his own desires.
 
-「けれどだからって、私にとっての Nyudo-samaが変わるわけじゃない」
+「けれどだからって、私にとっての入道様が変わるわけじゃない」
 But that doesn't mean that Nyudo-sama will change for me.
 
 《…………》
@@ -3751,7 +3751,7 @@ The ............
 「ふふ……あはははは！　仕方ない！　今更、こんなこと言ったって仕方ないよ！」
 "Huh. ...... Ha-ha-ha!　It can't be helped!　It's no use saying this now!
 
-「もう死んでしまったんだ。　 Nyudo-samaは……」
+「もう死んでしまったんだ。　入道様は……」
 He's dead.　 Nyudo-sama is ......
 
 「姉さんも」
@@ -3781,7 +3781,7 @@ It's the same.　Why are you in denial, ......?
 「さっきまであんなに、堂々としていたじゃないか。　ちゃんと胸を張ってよ」
 "You were looking so regal just now.　You should be proud of yourself.
 
-「 Nyudo-samaが悪人だったから！　妊婦の姉さんと胎児ごと、まとめて殺してしまったんだって、言えばいいだろう！」
+「入道様が悪人だったから！　妊婦の姉さんと胎児ごと、まとめて殺してしまったんだって、言えばいいだろう！」
 "Because Nyudo-sama was a bad guy!　Just tell her that you killed her pregnant sister and her unborn child all at once!
 
 「それで私も殺してくれれば言う事はない！」
@@ -3799,7 +3799,7 @@ That's the ...... work of the Mongols. ......!　I ...... to prevent such a trag
 《アガッ……》
 《Agggg ......》
 
-「どうしたの、 tsurugi？　立派な甲鉄にひびが入っているよ……？」
+「どうしたの、劒冑？　立派な甲鉄にひびが入っているよ……？」
 "What's wrong, tsurugi? You've got a crack in your fine armor. ......?
 
 「今にも砕けてしまいそうだ」
@@ -3832,7 +3832,7 @@ Don't freak out, Masamune!
 《……ミ……》
 ......ミ......
 
-《…… midou……?》
+《……御堂……?》
 "...... midou......?
 
 正宗の頭を右手で掴む。　同時に、歯と歯を食い締めた。
@@ -3850,7 +3850,7 @@ I should have known.　That's how it is.
 「正義は心地良くなんかなくて。　腐敗と汚濁に満ちている」
 "Justice is not a pleasant thing.　It's full of corruption and filth.
 
-「この道に Hikaruは差さなくて。　ただ暗く澱んだ沼が広がっている」
+「この道に光は差さなくて。　ただ暗く澱んだ沼が広がっている」
 "There is no Hikaru on this road.　It's just a dark, stagnant swamp.
 
 「……そうなんだ。　それを知らなきゃ、いけなかった」
@@ -3871,7 +3871,7 @@ You are a fine and honorable man of justice.　Do not fall down in front of the 
 「さあ、どうぞ。　私のことも、殺すといい」
 "There you go.　You can kill me, too.
 
-「その tsurugiで！　惨めな死骸に変えてくれ！」
+「その劒冑で！　惨めな死骸に変えてくれ！」
 "With that tsurugi!　Turn me into a miserable corpse!
 
 「…………」
@@ -3880,7 +3880,7 @@ You are a fine and honorable man of justice.　Do not fall down in front of the 
 「……？」
 "......?
 
-《 midou……》
+《御堂……》
 The midou......
 
 「行こう、正宗」
@@ -3898,7 +3898,7 @@ We have to hurry--
 「ぐっ……」
 Goo......
 
-《 midou！》
+《御堂！》
 The midou!
 
 「酷いな。　せっかく会いに来たのに、相手もしてくれないって？」
@@ -3916,10 +3916,10 @@ The midou!
 「だったら！　何故！」
 If only!　Why?
 
-「 Nyudo-samaを殺したあッ!」
+「入道様を殺したあッ!」
 "You killed Nyudo-sama!
 
-「姉さんを！　 Nyudo-samaと姉さんの子を！」
+「姉さんを！　入道様と姉さんの子を！」
 Get your sister!　 Nyudo-sama and your sister's child!
 
 「殺したんだぁぁぁぁぁああああああッッ!」
@@ -3979,10 +3979,10 @@ The ............
 あたしは――　自分一人の理想を追っているに過ぎないのだから。
 I'm just chasing my own ideal, you know.
 
-《……では…… midou…………》
+《……では……御堂…………》
 《For ......, please visit ...... midou............》
 
-《我が midouよ！》
+《我が御堂よ！》
 My midou!
 
 《どうか教えてくれ。　正宗の理念は虚構であったのか……？》
@@ -4027,7 +4027,7 @@ Are you sure you want to go to ......?　It might be a problem later. ......
 「問題？　ああ、問題さ。　民間人に発砲するんだ、問題にならない筈があるか！」
 "Problem?　Yes, a problem.　You're firing on civilians, how can that not be a problem?
 
-「だがこいつは選択だ。　我々は祖国の栄 Hikaruのために戦うのか、それともこの国の平穏のために戦うのか？」
+「だがこいつは選択だ。　我々は祖国の栄光のために戦うのか、それともこの国の平穏のために戦うのか？」
 "But this one is a choice.　Will we fight for the prosperity of our country or for the peace of this country?
 
 「どっちだ？」
@@ -4063,7 +4063,7 @@ I understand.
 「……〝神よ女王を守りたまえ〟……」
 "...... "God protect the Queen"......
 
-「……〝陛下に勝利と幸福と栄 Hikaruを〟……」
+「……〝陛下に勝利と幸福と栄光を〟……」
 "...... "Give His Majesty Victory, Happiness and Glory Hikaru"......
 
 「……〝治世に長久を〟……」
@@ -4204,7 +4204,7 @@ The fact that there are people who were not saved by its shadow will never go aw
 「…………」
 "............
 
-《 midou……》
+《御堂……》
 The midou......
 
 「この辺りは、もう無人のようだ」
@@ -4252,8 +4252,8 @@ What spills out is remorse.　And one more thing.
 《…………》
 The ............
 
- tsurugiは応えてこない。　そちらへ向けた問いではなかった。
- Tsurugi did not respond.　It was not a question directed at me.
+劒冑は応えてこない。　そちらへ向けた問いではなかった。
+Tsurugi did not respond.　It was not a question directed at me.
 
 問うた相手も、しかし応えない。　応える力が既になかった。
 The person I asked did not respond.　He was already powerless to respond.
@@ -4321,7 +4321,7 @@ That's why, isn't it?
 《……》
 The ......
 
-「 Ichijou。　お前の正義は、輝き過ぎている」
+「一条。　お前の正義は、輝き過ぎている」
 Ichijou, your justice is too bright.
 
 それは、魂からの輝きだから。　何の嘘偽りもないから。
@@ -4345,10 +4345,10 @@ But your body's already...
 「わかっている」
 I know.
 
-片手を挙げて、俺は tsurugiの金打声を遮った。　……それだけの動作で、胸筋に入った裂傷から血が洩れた。
+片手を挙げて、俺は劒冑の金打声を遮った。　……それだけの動作で、胸筋に入った裂傷から血が洩れた。
 With one hand, I interrupted tsurugi's blasting voice.　...... With that simple motion, blood leaked from the laceration in my pectoral muscle.
 
-この肉体の損傷は既に深刻という域を超えている。　正宗が見せたあの法外なる shinogi―― shinogi返し――の直撃、そしてそれに先立つ戦傷の蓄積は俺の耐え得る限度以上のものをもたらしたのだ。
+この肉体の損傷は既に深刻という域を超えている。　正宗が見せたあの法外なる陰義――陰義返し――の直撃、そしてそれに先立つ戦傷の蓄積は俺の耐え得る限度以上のものをもたらしたのだ。
 The damage to my body is already beyond serious.　The outrageous shinogi (shinogi-return) that Masamune showed me, and the accumulation of battle scars that preceded it, brought about more than I could bear.
 
 それでも俺はまだ立っている。　限度を過ぎて、なお立ち続けている。
@@ -4369,19 +4369,19 @@ The ............
 「その前に済ませることがある。　あとひとつ」
 There's one more thing I need to finish first.　One more thing.
 
-《 midou――》
+《御堂――》
 ♪ midou-- ♪
 
 「俺は」
 I am.
 
-「 Ayane Ichijouを倒す」
+「綾弥一条を倒す」
 "Defeat Ayane Ichijou.
 
 「…………」
 "............
 
-《…… midou。　東の方で、この者どもの仲間が別の軍勢と争っておるようだ……》
+《……御堂。　東の方で、この者どもの仲間が別の軍勢と争っておるようだ……》
 ...... midou. To the east, it seems that these men's companions are fighting with another army. ......
 
 《如何する？》
@@ -4405,7 +4405,7 @@ I saw the town on fire and thought, "What if ...... I'm glad I came to check it 
 「姫さま……」
 "Princess ......
 
-…… Okabeの Sakurako姫。その義弟。　背後には更に数人の武人が続いている。
+……岡部の桜子姫。その義弟。　背後には更に数人の武人が続いている。
 Princess Sakurako of ...... Okabe. His brother-in-law.　A few more warriors follow behind.
 
 「よくぞご無事で――」
@@ -4418,12 +4418,12 @@ Princess Sakurako of ...... Okabe. His brother-in-law.　A few more warriors fol
 I'm not sure what to make of it.　There are not only Rokuhara but also the Occupation forces nearby.
 
 「……そうですね。　正宗様、現在の政情はご存知ですか？」
-'...... Yes, I do.　Master Masamune, do you know what the current political situation is?
+...... Yes, I do.　Master Masamune, do you know what the current political situation is?
 
-「……いや。たぶん何も知らない。　ずっと Silver Starを追っていたから……」
+「……いや。たぶん何も知らない。　ずっと銀星号を追っていたから……」
 "...... No. Maybe I don't know anything.　I've been following Silver Star for a long time. ......
 
-「では手短にご説明します。　わたくしどもは計画通り、鎌倉から Maidononomiya-dono下をお救いするべく準備を整えたのですが――」
+「では手短にご説明します。　わたくしどもは計画通り、鎌倉から舞殿宮殿下をお救いするべく準備を整えたのですが――」
 I will explain briefly.　We have made preparations to rescue Maidononomiya-dono from Kamakura as planned, but...
 
 「実行に移す直前、建朝寺炎上の報を受けました」
@@ -4432,16 +4432,16 @@ I will explain briefly.　We have made preparations to rescue Maidononomiya-dono
 「――――」
 ----
 
-「 Maidononomiya-dono下のご生死は定かならず。　そして奇怪なことに、建朝寺へ襲撃を仕掛けた当の堀越公方 Ashikaga Chachamaruもその日を境に行方を晦ました様子……」
+「舞殿宮殿下のご生死は定かならず。　そして奇怪なことに、建朝寺へ襲撃を仕掛けた当の堀越公方足利茶々丸もその日を境に行方を晦ました様子……」
 "The life and death of Maidononomiya-dono are unknown.　Strangely enough, Ashikaga Chachamaru, the Horikoshi lord who had launched the attack on Kenchoji Temple, also disappeared after that day. ......
 
-「ともかくもそんな情況ではどう動くもままならず、潜伏して情報収集に努めていたのですが……そうこうするうちに今度は房総半島で Silver Star事件がかつてない連続発生を始めて」
+「ともかくもそんな情況ではどう動くもままならず、潜伏して情報収集に努めていたのですが……そうこうするうちに今度は房総半島で銀星号事件がかつてない連続発生を始めて」
 In any case, it was impossible to move in such circumstances, so I went into hiding to gather information. ...... In the meantime, the Silver Star incident began to occur in unprecedented succession in the Boso Peninsula.
 
 「その異変に乗ずる格好で進駐軍が動き出し、六波羅はこれを看過せず、両者は各地で衝突。　……現今、関東一円は斯様な混沌たる情勢の只中にござる」
 It's a good idea to have a good idea of what you're doing.　...... At present, the entire Kanto region is in the midst of such a chaotic situation, that it is.
 
-「わたくしどもはせめてできる事だけはしておこうと、 Imperial Highnessのご無事を信じて探す一方、正宗様たちの行方も追っていたのです。　……ここでお会いできて良かった」
+「わたくしどもはせめてできる事だけはしておこうと、宮殿下のご無事を信じて探す一方、正宗様たちの行方も追っていたのです。　……ここでお会いできて良かった」
 We did what we could to find Imperial Highness, but we were also looking for Masamune and the others.　It is good to see you here at .......
 
 「まことに。ろくろくあてもない探索でしたからな。　それはさておいて、今は今後の事でござる」
@@ -4450,7 +4450,7 @@ We did what we could to find Imperial Highness, but we were also looking for Mas
 「正宗殿。我らは既に御身を頭領として仰いでおり申す。故にご意思を承りたい。　我らは――香取に集結せし同志一千名は、これより何処を目指すべきでござろう」
 "Lord Masamune. We have already placed our trust in you as our chieftain. Therefore, I would like to hear your will.　Where should we, the 1,000 comrades gathered in Katori, go from here?
 
-「……今はまさしく五里霧中です。　 Imperial Highnessの捜索を続けながら、機を窺うべきでしょうか……？」
+「……今はまさしく五里霧中です。　宮殿下の捜索を続けながら、機を窺うべきでしょうか……？」
 ...... We are in a fog right now.　 Should we wait for the right moment while we continue to search for Imperial Highness? ......?
 
 「……」
@@ -4471,7 +4471,7 @@ And the fact is that it was my will that brought it about.
 《……だが。　悔いはせず、立ち止まりもせぬ》
 《...... but.　No regrets, no stopping.
 
-《そうなのだな？　 midou……》
+《そうなのだな？　御堂……》
 You're right, aren't you?　 midou......》
 
 ああ。　……そうだ。
@@ -4480,7 +4480,7 @@ Yeah.　...... That's right.
 あたしは全ての罪を抱えて、この道を進み続ける。
 I carry all my sins with me as I continue on this path.
 
-「何も変わらない。　 Shinnou-samaがいなくなっても、あたしの――あたし達のやることは同じだ」
+「何も変わらない。　親王さまがいなくなっても、あたしの――あたし達のやることは同じだ」
 "Nothing will change.　 Even if Shinnou-sama is gone, what I do - what we do - will be the same.
 
 「……正宗殿」
@@ -4507,10 +4507,10 @@ Oh ......
 「あたし達の……正義だ」
 It's our ...... justice.
 
-「そのお言葉を頂きとうござった！　家も名も失いし我ら Okabeの一党……かかる大義の為に命を擲てるのであればこそ、生き永らえた甲斐もありまする！」
+「そのお言葉を頂きとうござった！　家も名も失いし我ら岡部の一党……かかる大義の為に命を擲てるのであればこそ、生き永らえた甲斐もありまする！」
 "Thank you for your words!　We, the party of Okabe, have lost our home and our name. ...... If we can give our lives for such a cause, it will be worth living for!
 
-黒瀬童子が吼える。　その隣で、 Sakurako姫も頷いた。
+黒瀬童子が吼える。　その隣で、桜子姫も頷いた。
 Kurose Doji barked.　Next to him, Princess Sakurako nodded.
 
 彼らはあたしを信頼している。　……あたしのゆく道についてくる。
@@ -4540,7 +4540,7 @@ If we can continue to defeat evil with justice.　One day - it will be born.
 この世には正義があるのだと、　悪を許さぬ正義があるのだと、　　――誰もがそう信じた時。
 When everyone believes that there is justice in this world, a justice that does not tolerate evil.
 
-人々は自らの意思で、悪を捨て去るのではないか。　 Ayane Ichijouのような者に害されるまでもなく、邪悪と離別できるのではないか。
+人々は自らの意思で、悪を捨て去るのではないか。　綾弥一条のような者に害されるまでもなく、邪悪と離別できるのではないか。
 Wouldn't people, of their own volition, leave evil behind?　 They do not need to be harmed by the likes of Ayane Ichijou to separate themselves from evil.
 
 そうなるなら……　　それは、　争わずして人を正しく導く心の法の完成だ。
@@ -4594,8 +4594,8 @@ Lacquered jade hairpin.
 あの人から贈られたもの。
 It was given to me by that person.
 
- Minato Kageaki。
- Minato Kageaki.
+湊斗景明。
+Minato Kageaki.
 
 「……っ……」
 "....... ......
@@ -4606,7 +4606,7 @@ All of my memories are there.　My thoughts overflowing endlessly are there.
 それは決して、辛くはなかった。　痛みはあっても、苦くはなかった。
 It was not painful.　It was painful, but not bitter.
 
-今ならわかる。　あの人も迷っていたのだと。 Ayane Ichijouと同じように。きっとそれ以上に。
+今ならわかる。　あの人も迷っていたのだと。綾弥一条と同じように。きっとそれ以上に。
 I can see that now.　I know now that he was lost, too. Just like Ayane Ichijou. Perhaps even more so.
 
 なのに、あの人はいつも全力で応えてくれた。　あたしが詰っても。頼っても。問い掛けても。
@@ -4648,7 +4648,7 @@ I can't get rid of it. I can't forget it.　But I can't keep it.
 ――だから、こうするしかなかった。
 -- so I had to do this.
 
-《 midou……》
+《御堂……》
 The midou......
 
 「行こう。正宗」
@@ -4681,7 +4681,7 @@ He challenged the occupying forces that had taken the lives of his parents with 
 「……………………」
 "........................
 
-「 Ichijou。あと一度だけ言う。　これで最後だ」
+「一条。あと一度だけ言う。　これで最後だ」
 Ichijou, I'm only going to say this once more.　This is the last time.
 
 「正義を信じて戦う事は止めない。　だが、戦いに正義の二字を飾るのは止めろ」
@@ -4702,37 +4702,37 @@ But to claim to be righteous and to continue to fight with others is surely the 
 「…………」
 "............
 
-「 Ayane Ichijouは正義を掲げて戦う！　その二文字のもとに悪を討つ！」
+「綾弥一条は正義を掲げて戦う！　その二文字のもとに悪を討つ！」
 "Ayane Ichijou will fight for justice!　With those two words, we will defeat evil!
 
 「そうして、行き着く処に――戦いのない、正しい世界があるって信じる」
 And I believe that where we end up, there will be a just world without war.
 
-――村正という tsurugiがあった。
+――村正という劒冑があった。
 --There was a tsurugi named Muramasa.
 
 「鬼に逢うては鬼を斬る。　仏に逢うては仏を斬る」
 "When you meet a demon, slay the demon.　When I meet Buddha, I kill Buddha.
 
-深紅の tsurugiは、人々を無為に死せしめる戦を憎んだ。　憎んだ故に、その醜さを暴き立て人々に知らしめることを誓った。
+深紅の劒冑は、人々を無為に死せしめる戦を憎んだ。　憎んだ故に、その醜さを暴き立て人々に知らしめることを誓った。
 The crimson tsurugi hated the warfare that caused people to die needlessly.　Because he hated it, he vowed to expose its ugliness and make it known to the people.
 
-――正宗という tsurugiがあった。
+――正宗という劒冑があった。
 --There was a tsurugi called Masamune.
 
 「世に鬼あれば鬼を断つ。　世に悪あれば悪を断つ」
 "If there is a demon in the world, destroy the demon.　"If there is evil in the world, let evil be destroyed.
 
-濃藍の tsurugiは、無辜の人を生餌にする邪悪を憎んだ。　憎んだ故に、あらゆる悪の天敵たる正義をこの世に生み落とさんと誓った。
+濃藍の劒冑は、無辜の人を生餌にする邪悪を憎んだ。　憎んだ故に、あらゆる悪の天敵たる正義をこの世に生み落とさんと誓った。
 Tsurugi hated the evil that fed on the innocent.　Because he hated it, he vowed to bring forth justice, the natural enemy of all evil, into the world.
 
-村正という tsurugiがあった。
+村正という劒冑があった。
 There was a tsurugi called Muramasa.
 
 共に同じもの――
 They're both the same thing--
 
-平和の世を求める tsurugiであった。
+平和の世を求める劒冑であった。
 It was tsurugi seeking a world of peace.
 
 「……深紅と……濃藍…………」
@@ -4777,7 +4777,7 @@ I understand.
 「磁気加速！」
 "Magnetic acceleration!
 
-対敵は偏に自分を止めたいと願っている。　 Silver Starの後継者たりかねない自分を。
+対敵は偏に自分を止めたいと願っている。　銀星号の後継者たりかねない自分を。
 The antagonist wants to stop himself.　 He wants to stop himself from becoming the heir to the Silver Star.
 
 その危惧は的外れか？　否。そんなことはない。
@@ -4795,11 +4795,11 @@ I understand.
 「朧――焦屍剣！」
 "Oboro - Scorched Corpse Ken!
 
- Ayane Ichijouの悲願に共鳴する。　どうしようとてなく、その尊さを認める。
- I resonate with Ayane Ichijou's longing.　No matter what I do, I recognize the preciousness of it.
+綾弥一条の悲願に共鳴する。　どうしようとてなく、その尊さを認める。
+I resonate with Ayane Ichijou's longing.　No matter what I do, I recognize the preciousness of it.
 
- Minato Kageakiの諫止に共鳴する。　どうしようとてなく、その重さを認める。
- I resonate with Minato Kageaki's remonstrance.　No matter what I do, I acknowledge the weight of it.
+湊斗景明の諫止に共鳴する。　どうしようとてなく、その重さを認める。
+I resonate with Minato Kageaki's remonstrance.　No matter what I do, I acknowledge the weight of it.
 
 「――――ッ」
 "----.
@@ -4813,7 +4813,7 @@ I understand.
 ならば、どうして戦うのか。
 Then why do we fight?
 
-《体温低下……危険域！　 midou、これ以上の熱量消耗は――》
+《体温低下……危険域！　御堂、これ以上の熱量消耗は――》
 Body temperature dropping. ...... Danger zone!　 midou, any more heat exhaustion--
 
 激闘に次ぐ激闘で、既にこの体は残骸も同然だ。　まともな感覚などとうに失い、石を引き摺るような果てしない疲労ばかりが神経に詰まっている。
@@ -4837,7 +4837,7 @@ A little more.
 《…………》
 The ............
 
-「もう少し、付き合ってくれ。　村正。俺の tsurugi」
+「もう少し、付き合ってくれ。　村正。俺の劒冑」
 "Please stay with me a little longer.　Muramasa. My tsurugi.
 
 《……ええ。　わかってる……》
@@ -4849,7 +4849,7 @@ Let's go together.　As long as your will is to fight.
 「ぐっ……」
 Goo......
 
-《先刻の、鉛玉の傷が開いておる……　 midou、一旦離脱せよ！　傷を塞がねば命に障るぞ！》
+《先刻の、鉛玉の傷が開いておる……　御堂、一旦離脱せよ！　傷を塞がねば命に障るぞ！》
 The lead ball's wound is open. ...... midou, take off at once!　Close the wound or your life will be in danger!
 
 応急処置をしたのみの銃創は、既に元通りに――否、元々以上に広がりつつあるようだった。　一秒毎に血液が失われ、生命力が減退しているのを察知する。
@@ -4870,10 +4870,10 @@ Where is the reason why we have to keep fighting?
 「腑抜けたこと言ってんじゃねえぞ……　正宗！」
 "Don't be a pussy, ...... Masamune!
 
-《 midou……》
+《御堂……》
 The midou......
 
-「そこは血が抜けたくらいで人間死なねぇ、代わりが要るなら小便でも詰めとけって言うところだろうが?　それがあたしの tsurugiだろ……」
+「そこは血が抜けたくらいで人間死なねぇ、代わりが要るなら小便でも詰めとけって言うところだろうが?　それがあたしの劒冑だろ……」
 I'm sure you're aware of that.　That's my tsurugi. ......
 
 「こんな傷くらい気合で耐える！　正宗、いいから戦う力を寄越せ！」
@@ -4915,11 +4915,11 @@ We fight.　Aiming for the same extreme point.
 戦う――――
 Fight ----
 
-《 midou……！》
+《御堂……！》
 The midou ......!
 
- tsurugiの伝えたいことは、最後まで言葉を聞かずとも知れた。　既に感じ取っていた事だった。
- I knew what tsurugi wanted to say without having to listen to his words until the end.　It was something I had already sensed.
+劒冑の伝えたいことは、最後まで言葉を聞かずとも知れた。　既に感じ取っていた事だった。
+I knew what tsurugi wanted to say without having to listen to his words until the end.　It was something I had already sensed.
 
 ……徐々に押し込まれている。　次第次第に、力の均衡がこちらの頽勢へ移ろいつつある。
 ...... is slowly being pushed back.　The balance of power is gradually shifting to our side.
@@ -4930,7 +4930,7 @@ Muramasa's power has not diminished.　Grinding flesh and bone into flesh and bo
 だが正宗は違う。　最高の維持に留まらない。最強の一撃の次には更に一段上の最強打を。その次には更に上の一打を。
 But Masamune is different.　He does not stop at maintaining the best. After the strongest blow, the strongest blow is one step higher. And after that, the next one is even better.
 
-一合毎により強く。剛く。靭く。　　 Ayane Ichijouは遂に英雄たるの本領を顕したのかもしれない。
+一合毎により強く。剛く。靭く。　　綾弥一条は遂に英雄たるの本領を顕したのかもしれない。
 Stronger with each match. Harder. Tougher.　　 Ayane Ichijou may have finally shown her true colors as a hero.
 
 英雄は敗退せず、最後には必ず勝つ。　対敵を打ち倒す為の力を、一歩一歩階段を登るにも似た刻苦の積み重ねの末、必ず手に入れるのだ。
@@ -4957,11 +4957,11 @@ You can stand up with a special technique.　　It's a full-body, electromagneti
 ……駄目だ。　それでは、勝てない。
 ...... No.　You can't win then.
 
-正宗には秘技を封ずる秘技、　対手の投じた shinogiのエネルギーを喰らい込め、方向だけ転じて再び放つ異能がある。
+正宗には秘技を封ずる秘技、　対手の投じた陰義のエネルギーを喰らい込め、方向だけ転じて再び放つ異能がある。
 I'm not sure if this is a good idea or not, but it's a good idea.
 
- shinogi・天罰覿面。
- Shinogi: Heaven's justice.
+陰義・天罰覿面。
+Shinogi: Heaven's justice.
 
 自身に対して必殺が為された時、即決の裁判を行い、応分の必殺を宣告し、処する。　抗弁は許されず、逃れる術もない、拝して承るのみの天罰。
 When a suicide is committed against you, an immediate trial will be held, and you will be sentenced and punished accordingly.　No defense is allowed, and there is no way to escape.
@@ -4993,16 +4993,16 @@ So I think.　A second is divided into a hundred parts, and then a hundredth of 
 攫うのは記憶の一片一片。　争い戦った敵の一人一人。
 It is each and every piece of memory that is taken.　Each of the enemies we fought against.
 
- Suzukawa Ryoubu――井上真改。　 Nagasaka Ukyo――八八式竜 craft兵。　 Fuuma Kotarou――月山従三位。
- Suzukawa Ryoubu - Inoue Makai.　 Nagasaka Ukyo--Ryu Hachihachi craft soldier.　 Fuuma Kotarou - Tsukiyama Kotarou three.
+鈴川令法――井上真改。　長坂右京――八八式竜騎兵。　風魔小太郎――月山従三位。
+Suzukawa Ryoubu - Inoue Makai.　 Nagasaka Ukyo--Ryu Hachihachi craft soldier.　 Fuuma Kotarou - Tsukiyama Kotarou three.
 
- Bandit-Leader……　一ヶ尾瑞陽。
- Bandit-Leader ...... Ichigao Ruiyo.
+山賊の首領……　一ヶ尾瑞陽。
+Bandit-Leader ...... Ichigao Ruiyo.
 
-鎌倉の筋者……　 Sorimachi Ichizou。
+鎌倉の筋者……　雪車町一蔵。
 Kamakura's muscleman. ...... Sorimachi Ichizou.
 
-…………妹、　 Minato Hikaru。
+…………妹、　湊斗光。
 ............ girls, Minato Hikaru.
 
 彼らと戦ったその一合。　彼らに加えたその一刀。　彼らが放ったその一撃。
@@ -5032,7 +5032,7 @@ It is, after all, the only way!
 《叩き返してくれるわァ!》
 He'll beat me back!
 
-《 midou――いいのね?》
+《御堂――いいのね?》
 It's okay, isn't it?
 
 「良いも悪いもない……　この方途しか無いのなら、その上をゆく、ただそれだけだ！」
@@ -5044,8 +5044,8 @@ The most inept plan.　The most foolish.　　In this last moment, I chose it.
 どんな術を仕掛けても無駄なのだ。　どんな罠を仕組んでも無力なのだ。
 No matter what tricks you try, they are useless.　No matter what traps you set, you are powerless.
 
- Ichijouの正義は、そんなものには屈しない。
- Ichijou's justice will not bow to such things.
+一条の正義は、そんなものには屈しない。
+Ichijou's justice will not bow to such things.
 
 あれは言うなれば燃え盛る太陽。　小賢しい手出しは、触れられもせず焼き尽くされる自滅の結末だけを保証する。
 It is, as they say, a blazing sun.　The only guaranteed outcome of a clever move is self-destruction, being burned out without even being touched.
@@ -5053,8 +5053,8 @@ It is, as they say, a blazing sun.　The only guaranteed outcome of a clever mov
 日輪を滅却せしめる手があるとするならそれは一つ。　同等以上の質量を叩きつける以外に無い。
 If there is a way to destroy the sun, there is only one way.　The only way to destroy it is to hit it with equal or greater mass.
 
- Ichijouに不屈の正義が有り、　正宗に不破の shinogiが有るなら、　　その双方をまとめて粉砕するに如かず。
- If Ichijou has unyielding righteousness and Masamune has unbreakable shinogi, it is only natural to crush both of them together.
+一条に不屈の正義が有り、　正宗に不破の陰義が有るなら、　　その双方をまとめて粉砕するに如かず。
+If Ichijou has unyielding righteousness and Masamune has unbreakable shinogi, it is only natural to crush both of them together.
 
 それだけが唯一手！
 That's the only move!
@@ -5062,13 +5062,13 @@ That's the only move!
 《……諒解!　蒐窮開闢。終焉執行。虚無発現――――》
 ...... understanding!　The collection of poor openings. The final execution. Nothingness emerges ----
 
-この一刀にて斬り断てば――　敵 craftに如何なる異能があろうと意味はない。
+この一刀にて斬り断てば――　敵騎に如何なる異能があろうと意味はない。
 If I slay it with this one sword, it will be meaningless no matter what kind of unique abilities the enemy craft has.
 
 全ては零に戻り全ては無に帰す。　　そして、村正の至極精粋の太刀こそは、ほかの何物よりも完璧にその呪わしき一芸を成し遂げる!
 Everything will return to zero, everything will return to nothing.　　And it is Muramasa's supremely refined sword that accomplishes that cursed feat more perfectly than anything else!
 
-「 Yoshino Goryu戦礼法〝迅雷〟が崩し」
+「吉野御流合戦礼法〝迅雷〟が崩し」
 "Yoshino Goryu's battle ritual "Xunrai" is broken.
 
 「電磁抜刀――――〝禍〟」
@@ -5083,10 +5083,10 @@ It's not a good idea.
 その一刀に――――　　正宗が耐える!
 Masamune can withstand that one sword ----!
 
-頭上、あと一寸まで迫る閃 Hikaruを、　盾に構えた太刀で食い止めていた。
+頭上、あと一寸まで迫る閃光を、　盾に構えた太刀で食い止めていた。
 He was holding off the flashing Hikaru, which was almost upon him, with the sword he held as a shield.
 
-……その姿はこの世の理を超越している。　 Hikaruそのものに等しい一閃をどうして受け止め、どうして支え続けていられるのか。
+……その姿はこの世の理を超越している。　光そのものに等しい一閃をどうして受け止め、どうして支え続けていられるのか。
 ...... Its appearance transcends the reason of this world.　 I'm not sure how you can accept and continue to support a flash of light that is equal to Hikaru itself.
 
 正義とはこれほどのものなのか。　　　だが。だとしても、
@@ -5140,10 +5140,10 @@ This is ---- ..................... Masamune?
 ――――それは。　　もう、　最早、
 It's ----.　　The sooner the better.
 
-「…… Ichijou……」
+「……一条……」
 ...... Ichijou......
 
-《……あれはもう……人間じゃない。　 tsurugiでもない。 mushaでもない……》
+《……あれはもう……人間じゃない。　劒冑でもない。武者でもない……》
 ...... That's not ...... human anymore.　 It's not tsurugi. It's not musha either. ......
 
 《あれは、ただの》
@@ -5179,7 +5179,7 @@ Ah-- ----
 ――――そうか。
 ---- I see.
 
-わかったよ、 Ichijou。
+わかったよ、一条。
 All right, Ichijou.
 
 俺とお前の戦いは……　最早、力の比較ですらないのだな。
@@ -5197,7 +5197,7 @@ After eating soul for soul, which one of us has a piece left at the end--
 そんな競合、　そんな交合に至るしかないのだな。
 It's the only way to get to that kind of competition, that kind of interplay.
 
-そうか。　そうなのか、 Ichijou。
+そうか。　そうなのか、一条。
 I see.　Is that so, Ichijou?
 
 ――ならば。　俺も最後まで、お前に応えよう。
@@ -5227,10 +5227,10 @@ Justice.　Evil.　I questioned the meaning, the significance, and the truth.
 ――問い続けよう。
 --Let's keep asking.
 
-最後まで。　 Minato Kageakiと Ayane Ichijouが尽き果てるまで。
+最後まで。　湊斗景明と綾弥一条が尽き果てるまで。
 Until the end.　 Until the end of Minato Kageaki and Ayane Ichijou.
 
-その命題、　過去にもきっと数多の人間が――王侯が、僧侶が、 craft士が、寡婦が、学者が、詩人が、商人が、農夫が、乞食が――身命を賭したのであろう問いの、
+その命題、　過去にもきっと数多の人間が――王侯が、僧侶が、騎士が、寡婦が、学者が、詩人が、商人が、農夫が、乞食が――身命を賭したのであろう問いの、
 That proposition, a question that I'm sure many people have risked their lives to answer in the past--princes, monks, craftsmen, widows, scholars, poets, merchants, farmers, beggars--is a question that I'm sure many people have risked their lives to answer in the past.
 
 答えを追い求めよう。　ただ真っ直ぐに、選んだこの道を駆け抜けて。
@@ -5239,8 +5239,8 @@ Let's pursue the answer.　Just run straight down the path you've chosen.
 興隆四四年、大和……　それは戦乱血禍が吹き荒れ悪鬼羅刹が跳梁跋扈す、暗黒の世界だ。
 In the 44th year of the reign of King Yamato, ...... is a dark world of war and bloodshed, where demons and evil spirits roam free.
 
- Ashikaga Shirou Kuniujiを奉戴して六波羅幕府を掌握した Ootori Shishikuと国連進駐軍との間に開かれた戦争は、双方が共に決戦の機を掴みかねるうち、完全な泥沼に陥った。　それはどちらにとっても失望すべき事態だった。
- The war between the Ootori Shishiku and the United Nations Occupation Forces, which had seized control of the Rokuhara Shogunate under the leadership of Ashikaga Shirou Kuniuji, had descended into a complete quagmire as both sides failed to seize the opportunity to fight each other.　It was a disappointing situation for both sides.
+足利四郎邦氏を奉戴して六波羅幕府を掌握した大鳥獅子吼と国連進駐軍との間に開かれた戦争は、双方が共に決戦の機を掴みかねるうち、完全な泥沼に陥った。　それはどちらにとっても失望すべき事態だった。
+The war between the Ootori Shishiku and the United Nations Occupation Forces, which had seized control of the Rokuhara Shogunate under the leadership of Ashikaga Shirou Kuniuji, had descended into a complete quagmire as both sides failed to seize the opportunity to fight each other.　It was a disappointing situation for both sides.
 
 彼らは共に短期決着を最善としていた。　そう望むべき理由があった。
 They both believed that a short term settlement was best.　They had every reason to hope so.
@@ -5251,7 +5251,7 @@ The first change in the war situation came from Kyushu.　The Rokuhara Chinzai a
 このような事態に備えて設けられた幕府機関である室町探題はしかし、至近に迫った敵と進駐軍の相手に手一杯で動けない遠くの味方とを秤にかけ、あっさり前者を選択した。
 Muromachi Tantai, an agency of the Tokugawa Shogunate set up to prepare for such a situation, however, weighed up the situation between the enemy close at hand and the allies far away who were too occupied with the advancing troops to move, and easily chose the former.
 
-かくて Ootori Shishikuの六波羅は二方向に敵を抱える。　状況の劇的な好転に、ＧＨＱは祝杯を挙げた。
+かくて大鳥獅子吼の六波羅は二方向に敵を抱える。　状況の劇的な好転に、ＧＨＱは祝杯を挙げた。
 Thus, Ootori Shishiku's Rokuhara had enemies in two directions.　GHQ celebrated the dramatic turnaround in the situation.
 
 彼らが杯を床に投げ捨てたのは二週間後である。　　鎮西軍の本州進攻は、海を挟んだ大陸の軍事均衡を大きく変化させる要因となった。
@@ -5284,16 +5284,16 @@ To top it all off, there were even those who added unwanted flowers to this era 
 その目的も実態も不明。犯罪結社なのか宗教団体なのか。ただその名称だけが疫病のように広まっている。　彼らは時にどこかの軍に加担し。時にどこかの村を焼き――恰も混乱を煽るだけが目的のように振舞った。
 Its purpose and reality are unknown. Is it a criminal organization or a religious group? Only their name is spreading like a plague.　Sometimes they are part of some army. Sometimes they joined some army, sometimes they burned some village, and sometimes they acted as if their only purpose was to incite chaos.
 
-かの恐るべき八魔女の存在も緑竜会の策謀と密接にに関わっているのだ、……そう噂する人間は多い。　 Silver Starの再来を自ら称す〝星片八剣姫〟――確かにその無軌道な悪意には共通項を見出せるだろう。
+かの恐るべき八魔女の存在も緑竜会の策謀と密接にに関わっているのだ、……そう噂する人間は多い。　銀星号の再来を自ら称す〝星片八剣姫〟――確かにその無軌道な悪意には共通項を見出せるだろう。
 There are many people who say that the existence of the fearsome eight witches is closely related to the schemes of the Green Dragon Society. ......　 In the event that you have any questions regarding where and the best way to get in touch with us, you can call us at our own web site.
 
-実際に Silver Starのそれと酷似した大災厄を引き起こす彼女らの出現は、白銀の魔王の失踪をわずかな慰めとしていた人々にとって絶望の底への一押しであった。　多くの者が抗う気力もなく、その穴へ落ちた。
+実際に銀星号のそれと酷似した大災厄を引き起こす彼女らの出現は、白銀の魔王の失踪をわずかな慰めとしていた人々にとって絶望の底への一押しであった。　多くの者が抗う気力もなく、その穴へ落ちた。
 In fact, their appearance, causing a catastrophe very similar to that of Silver Star, was a push to the depths of despair for those who had taken little comfort in the disappearance of the Silver Demon King.　Many of them fell into the pit without the strength to resist.
 
 自殺。暴力。略奪……　自暴自棄になった人々の末路は、おおむねそのうちいずれかである。
 Suicide. Violence. Looting. ...... The end result of desperate people is usually one of those things.
 
-そんな荒れ果てる一途の人心を救うものが、しかし全く皆無だったということはない。　六波羅に滅ぼされた Okabe党の残存勢力を中核とする、無名の軍勢はその一つだ。
+そんな荒れ果てる一途の人心を救うものが、しかし全く皆無だったということはない。　六波羅に滅ぼされた岡部党の残存勢力を中核とする、無名の軍勢はその一つだ。
 However, there was nothing that could save the people from such a destructive situation.　One of them was an unknown army consisting mainly of the remnants of the Okabe party that had been destroyed by the Rokuhara.
 
 彼らは救国護民の正義を掲げて戦う。　それは大和に存在するどの軍も同じだったが。彼らは事実、戦禍に苛まれる人々の求めに応じて行動した。
@@ -5305,13 +5305,13 @@ Some people saw a ray of hope in their appearance.　However, they were only a s
 彼らは〝正宗〟なる者が自分達の主であると語るが、その人物に出会ったという人間はいない。　既に理想に殉じた指導者を象徴的に崇めているのであろう――外部からはそう見られている。
 They say that "Masamune" is their master, but no one has ever met him.　It is likely that they are symbolically worshipping a leader who has already died for their ideals - that is how the outside world sees them.
 
-……また、もう一つ。　赤い mushaという存在がある。
+……また、もう一つ。　赤い武者という存在がある。
 ...... Also, one more thing.　There is a red musha.
 
-その噂の発生は古く、数年以上も遡ろう。　六波羅の暴虐な将兵を、あるいは凶悪な犯罪人を、退治してくれる英雄的 musha――噂は当初、そのように語っていた。
+その噂の発生は古く、数年以上も遡ろう。　六波羅の暴虐な将兵を、あるいは凶悪な犯罪人を、退治してくれる英雄的武者――噂は当初、そのように語っていた。
 The genesis of the rumor is old, going back more than a few years.　At first, the rumors spoke of a heroic musha who would exterminate the tyrannical generals of Rokubara, or vicious criminals.
 
-だがいつしか、その非現実的なほど輝かしい風評に嘔吐感を催す尾鰭がつくようになった。　赤い mushaは生贄を求める、と。
+だがいつしか、その非現実的なほど輝かしい風評に嘔吐感を催す尾鰭がつくようになった。　赤い武者は生贄を求める、と。
 At some point, however, the unrealistically glorious rumors began to have a nauseating tail fin.　The red musha demands a sacrifice.
 
 彼は確かに悪しき者を討つ。　しかしその代償に、善良なる者の生命も求めるのだ――と。
@@ -5323,19 +5323,19 @@ The 44th year of the reign of King Hirohito, the present.　In Yamato, which has
 その噂は既に疑いもなき事実として、多くの人々に知られている……。
 The rumor is already known to many people as an undoubted fact. ......
 
-強剛の mushaであった男は死んだ。　今は朱色の水溜りに伏せるただの肉に過ぎない。
+強剛の武者であった男は死んだ。　今は朱色の水溜りに伏せるただの肉に過ぎない。
 The man who was the musha of strength is dead.　Now he is just a piece of meat lying in a puddle of vermilion.
 
-深紅の mushaは手傷も負わず、その前に佇んでいる。
+深紅の武者は手傷も負わず、その前に佇んでいる。
 The crimson musha stood before it, unharmed.
 
-周囲にはもう mushaの仲間しかいない。〝無名軍〟の人々。彼らは少数であり、故に精強でもあった。
+周囲にはもう武者の仲間しかいない。〝無名軍〟の人々。彼らは少数であり、故に精強でもあった。
 The only people around are musha's friends. The people of the Unknown Army. They were few in number, but they were also mighty.
 
-一方、果てた musha――この砦の強欲な王でもあった男が略奪した財貨を投じて集めた部下は数こそ揃っていたものの、主に士気の面で精鋭とは言いかねた。　劣勢と悟るや逃げに掛かり、既に影も見えない。
+一方、果てた武者――この砦の強欲な王でもあった男が略奪した財貨を投じて集めた部下は数こそ揃っていたものの、主に士気の面で精鋭とは言いかねた。　劣勢と悟るや逃げに掛かり、既に影も見えない。
 On the other hand, the men that the greedy king of this fort, Musha, had gathered with his plundered wealth were in good numbers, but they were not elite, mainly because of their morale.　As soon as they realized that they were outnumbered, they began to flee, and there was already no shadow of them in sight.
 
-決着はついた。　深紅の mushaと〝無名軍〟は勝利し、砦に生血を搾られる心地であった周辺の人々は、一息つくことができるだろう。
+決着はついた。　深紅の武者と〝無名軍〟は勝利し、砦に生血を搾られる心地であった周辺の人々は、一息つくことができるだろう。
 It was settled.　The crimson musha and the "unknown army" were victorious, and the people around the fort, who had felt their blood being squeezed out of them, could breathe a sigh of relief.
 
 凱歌を揚げて良いところである。　しかし、彼らは勝鬨一つ上げなかった。
@@ -5350,43 +5350,43 @@ Many are not elated, but rather their faces are cold and tense.　As if to say, 
 兵士らの列を掻き分けて、一人の老爺が進み出る。　彼は砦の主の骸を見ると、その場で膝を突き、号泣した。
 An old man stepped forward, cutting through the line of soldiers.　When he saw the remains of the Lord of the Fort, he fell to his knees and wept.
 
-涸れ果てるまで涙を流した後、老爺は跪いたまま、深紅の mushaを見上げて手を合わせた。　そして――――有難うございます、この命をお取り下さい、と言った。
+涸れ果てるまで涙を流した後、老爺は跪いたまま、深紅の武者を見上げて手を合わせた。　そして――――有難うございます、この命をお取り下さい、と言った。
 After shedding tears until they ran dry, the old man knelt down, looked up at the crimson musha, and clasped his hands together.　Then he said, ---- thank you, please take this life.
 
- mushaは頷き。　太刀を一薙ぎした。
- Musha nodded.　He took a swipe with his sword.
+武者は頷き。　太刀を一薙ぎした。
+Musha nodded.　He took a swipe with his sword.
 
 ……老爺の首が胴体に別れを告げる。
 ...... The old man's head bade farewell to his torso.
 
-居並んだ人々は、悪徳の mushaと同様に転がる皺首を凝然と見据えた。　あるいは見かねて、面を背けた。
+居並んだ人々は、悪徳の武者と同様に転がる皺首を凝然と見据えた。　あるいは見かねて、面を背けた。
 The people in line stared at the wrinkled neck rolling like a musha of vice.　Or, unable to see, they turned away.
 
 彼らは皆、知っている。　老爺は砦の兵に息子を殺され、息子の嫁を奪われ、孫は闇商人を経て大陸に売られたのだと。
 They all know.　The old man's son was killed by the soldiers of the fort, his son's wife was stolen from him, and his grandson was sold to the continent through black market dealers.
 
-復讐心に狂った末、深紅の mushaに出会い、自らの命と引き換えに砦の主の死を欲したのだと。　ここへ至る経緯を誰もが知っている。
+復讐心に狂った末、深紅の武者に出会い、自らの命と引き換えに砦の主の死を欲したのだと。　ここへ至る経緯を誰もが知っている。
 In a fit of vengeance, he came across the crimson musha and wanted the death of the Lord of the Fort in exchange for his life.　Everyone knows how we got here.
 
-しかし、この Hikaru景に納得する者は皆無であった。　彼らは、老爺がその人生において穏やかな暮らしの他に何も望まなかったことをも知っているのだ。
+しかし、この光景に納得する者は皆無であった。　彼らは、老爺がその人生において穏やかな暮らしの他に何も望まなかったことをも知っているのだ。
 However, none of them were convinced by this Hikaru view.　They know that the old man wanted nothing more in life than to live a peaceful life.
 
 それがどうして、罪科を列挙しようと思えば海辺で砂を拾うにも等しい始末になるであろう下劣漢などと並んで骸を晒さねばならないのか。　彼らにはどうしても、腑に落ちる話ではなかった。
 It's not like they're going to be able to list all the crimes they've committed, but they're going to have to show their skeletons alongside the vile men who will be picking up sand on the beach.　For some reason, it didn't make sense to them.
 
-一人また一人と、〝無名軍〟は mushaの傍から離れてゆく。　彼らも mushaに作戦を助けられた格好なのだが、その礼を述べてゆく者は一人もいなかった。
+一人また一人と、〝無名軍〟は武者の傍から離れてゆく。　彼らも武者に作戦を助けられた格好なのだが、その礼を述べてゆく者は一人もいなかった。
 One by one, the "unknown army" left musha's side.　They too were helped in their mission by musha, but none of them expressed their gratitude.
 
 唾を吐き捨ててゆく者が数人いた。　殺し屋め、と聞こえよがしに呟く者が一人いた。　　そこに留まり、手を差し伸べる者は皆無だった。
 A few of them spat on the ground.　One of them muttered inaudibly, "You're a killer.　　None of them stayed there and offered a hand.
 
-生者の遠い足音と、死者の無関心な視線だけが残る。　虚ろな風に吹かれつつ、 mushaは鋼鉄の肉膚を己から分けた。
+生者の遠い足音と、死者の無関心な視線だけが残る。　虚ろな風に吹かれつつ、武者は鋼鉄の肉膚を己から分けた。
 Only the distant footsteps of the living and the indifferent gaze of the dead remained.　Blowing in the empty wind, musha parted her steel flesh from herself.
 
 人気の失せた砦に、もう少女ではない彼女は立つ。
 In a deserted fort, she stands, no longer a girl.
 
-孤独であった。　彼女から離れて控える tsurugiは、その甲鉄以上に冷え冷えとした気配を纏いつけ、主を温めることはない。
+孤独であった。　彼女から離れて控える劒冑は、その甲鉄以上に冷え冷えとした気配を纏いつけ、主を温めることはない。
 It was lonely.　The tsurugi that stood apart from her wore an air that was even colder than its armor, and did not warm the Lord.
 
 これが彼女の選んだ道だった。
@@ -5395,7 +5395,7 @@ This was the path she had chosen.
 ――あの戦いの末。　最後に生き残ったのは、一人と一領。
 --After that battle.　At the end, only one person and one territory survived.
 
-男と濃藍の tsurugiは遠く去り。　少女と深紅の tsurugiが地上に留まった。
+男と濃藍の劒冑は遠く去り。　少女と深紅の劒冑が地上に留まった。
 The man and the tsurugi of dark indigo are far away.　The girl and the crimson tsurugi stayed on the ground.
 
 それは誰の勝利も意味しなかった。　勝者も敗者もいなかった。結論はそこに無かった。
@@ -5404,16 +5404,16 @@ It meant no victory for anyone.　There was no winner and no loser. There was no
 だから、残った者はそれで終わりにはできなかった。
 So those of us who stayed couldn't let that be the end of it.
 
-少女は戦う力を失い、 tsurugiは戦う体を失っていた。　そしてどちらにも、果たすべき使命があった。
+少女は戦う力を失い、劒冑は戦う体を失っていた。　そしてどちらにも、果たすべき使命があった。
 The girl had lost her strength to fight, and tsurugi had lost his body to fight.　Both of them had a mission to fulfill.
 
-両者は必然として、敵であった者の手を取ることになった。　しかし、深紅い tsurugiは呪戒ある刃。
+両者は必然として、敵であった者の手を取ることになった。　しかし、深紅い劒冑は呪戒ある刃。
 Both sides inevitably took the hand of the one who had been their enemy.　But the crimson tsurugi is a blade with a curse.
 
-少女には本来、受け入れ難い。　それでも選ぶ余地はなく、彼女は懊悩の末に、自ら別の戒 Ritsuを加えることで tsurugiを許容した。
+少女には本来、受け入れ難い。　それでも選ぶ余地はなく、彼女は懊悩の末に、自ら別の戒律を加えることで劒冑を許容した。
 It is inherently difficult for a girl to accept.　Still, there was no choice, and after much anguish, she allowed herself to add another precept, Ritsu, to tsurugi.
 
-可能な限り殺さない。　殺すほかない者――つまり musha――と戦う時はあらかじめ後に呪戒によって斬る者を定め、その人の承諾を得る。得られねば戦いを断念する。
+可能な限り殺さない。　殺すほかない者――つまり武者――と戦う時はあらかじめ後に呪戒によって斬る者を定め、その人の承諾を得る。得られねば戦いを断念する。
 Whenever possible, do not kill.　When fighting someone who has no other choice but to kill, i.e., musha, specify the person to be killed by a curse precept and obtain that person's consent beforehand. If this is not obtained, the fight is abandoned.
 
 それはまさに苦肉の策だった。　彼女はしばしば、手加減の度を誤って深手を受けた。また自己犠牲者を得られず、凶賊の横行を目の当たりにしながら放置した。
@@ -5458,13 +5458,13 @@ Are you quitting?
 冷たい金打声が、彼女の脳を打った。　そこには彼女への一歩の歩み寄りもない。
 A cold, bludgeoning voice struck her brain.　There was not a single step towards her there.
 
-絶対の距離を置いて、突き放している。　この tsurugiにとり、彼女は正当な仕手では決してなく、代役に過ぎなかった。彼女にとって tsurugiがそうであるのと同様に。
+絶対の距離を置いて、突き放している。　この劒冑にとり、彼女は正当な仕手では決してなく、代役に過ぎなかった。彼女にとって劒冑がそうであるのと同様に。
 He keeps an absolute distance and shuns her.　For this tsurugi, she was never a legitimate supplier, but only a substitute. Just as tsurugi is to her.
 
 無音の声はただ冷たい。　　しかし、彼女はその冷たさが指し示すものを正確に理解していた。
 The soundless voice was just cold.　　But she knew exactly what that coldness was referring to.
 
-冷たさの半分は tsurugi自身へ向けられている。　本来の仕手を失った痛手に折れかけている己の心鉄を指しているのだと、知っていた。
+冷たさの半分は劒冑自身へ向けられている。　本来の仕手を失った痛手に折れかけている己の心鉄を指しているのだと、知っていた。
 Half of the coldness was directed at tsurugi himself.　He knew that it was referring to his own iron heart, which was on the verge of breaking due to the pain of losing his original supplier.
 
 それは自問なのだ。　　だが、自答も既にそこにあった。
@@ -5494,7 +5494,7 @@ You can't stop. ......
 《……そうね》
 《......》Yes.
 
-女と tsurugiには、同じ意思がある。　同じ理由がある。
+女と劒冑には、同じ意思がある。　同じ理由がある。
 The woman and tsurugi have the same intention.　They have the same reason.
 
 進み続けるべき誓いがある。
