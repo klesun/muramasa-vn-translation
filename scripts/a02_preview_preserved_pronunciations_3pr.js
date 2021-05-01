@@ -43,7 +43,9 @@ const collectKanjiToRomaji = async (dirPath) => {
     );
     // they refer bandits boss lady this way. I also
     // think I saw Prince be referred same way
-    kanjiToRomaji.set('御館', 'Boss-Lady');
+    if (dirPath.includes('ma05_star_craft')) {
+        kanjiToRomaji.set('御館', 'Boss-Lady');
+    }
     kanjiToRomaji.set('銀星号', 'Silver Star');
     kanjiToRomaji.set('武者', 'musha');
     kanjiToRomaji.set('劔冑', 'tsurugi*');
