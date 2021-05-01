@@ -71,7 +71,7 @@ const parseTabCsv = (csvText) => {
     });
 };
 
-export const tryAddDeeplTranslations = async (recordingDir) => {
+export const tryGetDeeplTranslations = async (recordingDir) => {
     const csvPath = recordingDir + '/translated_sentences.csv';
     const deeplWebPath = recordingDir + '/translated_sentences_deepl_web.txt';
     const csvExists = await fs.access(csvPath)

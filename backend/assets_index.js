@@ -2,7 +2,7 @@ import {dirname} from 'path';
 import {fileURLToPath} from 'url';
 import {promises as fs} from "fs";
 import {parseSentenceTranslationsFile, parseSrtSentence} from "../public/modules/SrtUtils.js";
-import {tryAddDeeplTranslations} from "./DeeplCleaner.js";
+import {tryGetDeeplTranslations} from "./DeeplCleaner.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
@@ -43,6 +43,24 @@ export const RECORDING_LOCATIONS = [
     [__dirname + '/../public/assets/md_devil_route/rec8', 'game_recording_after_h'],
 ];
 
+const tryGetHumanTranslations = async (recordingDir) => {
+    const path = recordingDir + '/human_translation.txt';
+    const exists = await fs.access(path)
+        .then(() => true).catch(() => false);
+    const resultJpnToEng = new Map();
+    if (exists) {
+        const text = await fs.readFile(path, 'utf8');
+        for (const block of text.trim().split(/(?:\r\n|\n){2,}/)) {
+            const lines = block.split(/(?:\r\n|\n)/);
+            if (lines.length === 2) {
+                const [jpn, eng] = lines;
+                resultJpnToEng.set(jpn.trim(), eng);
+            }
+        }
+    }
+    return resultJpnToEng;
+};
+
 /**
  * @return {Promise<SrtBlock[]>}
  */
@@ -56,13 +74,17 @@ export const getTranslatedSrt = async (recordingDir, fileNameRoot = 'game_record
     const japToEng = new Map(
         parseSentenceTranslationsFile(translatedSentencesStr)
     );
-    const deeplJpnToEng = await tryAddDeeplTranslations(recordingDir);
-    if (deeplJpnToEng.size > 0) {
+    const deeplJpnToEng = await tryGetDeeplTranslations(recordingDir);
+    const humanJpnToEng = await tryGetHumanTranslations(recordingDir);
+    if (deeplJpnToEng.size > 0 || humanJpnToEng.size > 0) {
         for (const [jpn, googleEng] of japToEng) {
+            const humanEng = humanJpnToEng.get(jpn);
             const deeplEng = deeplJpnToEng.get(jpn);
-            const effectiveEng = deeplEng
-                ? '🔗 ' + deeplEng
-                : '🤖' + googleEng;
+            const effectiveEng = [
+                ...humanEng ? ['☕ ' + humanEng] : [],
+                ...deeplEng ? ['🔗 ' + deeplEng] : [],
+                '🤖' + googleEng,
+            ][0];
             japToEng.set(jpn, effectiveEng);
         }
     }
