@@ -28,7 +28,7 @@ You can't escape!　You can't escape!
 放たれる辰気の奔流。　先端が目前に迫った。
 A torrent of Tatsuki was released.　The tip was right in front of me.
 
-渦の中心付近に比べればずっと弱い。　それでも捕まれば craft体運動を大きく阻害されるのは避けられず、そうなれば続く流れを防ぐ事も叶わず、再び虜囚に逆戻りするだろう。
+渦の中心付近に比べればずっと弱い。　それでも捕まれば騎体運動を大きく阻害されるのは避けられず、そうなれば続く流れを防ぐ事も叶わず、再び虜囚に逆戻りするだろう。
 It is much weaker than the area around the center of the vortex.　Even so, if you are caught, your craft's movement will inevitably be greatly impeded, and if that happens, you will not be able to prevent the flow from continuing, and you will return to captivity.
 
 そんな始末は受け入れかねる。
@@ -55,8 +55,8 @@ There's only one thing I have to do.
 逃げ込んだこの要塞とて長くは保たない。　与えられた時間はわずか。無駄な行為をしていればすぐに尽きよう。
 This fortress we have escaped into will not hold us for long.　We have very little time. It will soon run out if we waste it.
 
- craft体の全機能を解放する。　肉体の全能力を動員する。
- Release all functions of the craft body.　Mobilize the full capacity of the physical body.
+騎体の全機能を解放する。　肉体の全能力を動員する。
+Release all functions of the craft body.　Mobilize the full capacity of the physical body.
 
 《おお……?》
 《Oh ......?
@@ -67,7 +67,7 @@ The second and third waves of cinnabar rush in.　But it still doesn't reach us.
 黒き渦の牽引力を、白き月の重力が打ち払い、私を支えてくれている。
 The gravity of the white moon counteracts the pull of the black vortex, supporting me.
 
-この短い時間。　ごく微量の craft体運用機会。
+この短い時間。　ごく微量の騎体運用機会。
 This short time.　A very small amount of opportunity to operate the craft.
 
 これを全て、勝利の為の一手に使い尽くす。
@@ -85,7 +85,7 @@ Output limit reached.　Explores the lunar surface and selects a small hill to l
 確かに、斬った。　　飢餓虚空――虚無の術式に光迅の刃を入れ、両断し、構成を崩壊へ導いた。
 Indeed, I cut it.　　Hunger emptiness - I put the blade of lightning into the technique of emptiness, cut both sides, and led the composition to collapse.
 
-辰気現象は霧散しただろう。　あるいは、 Silver Starの craft体もろとも。
+辰気現象は霧散しただろう。　あるいは、銀星号の騎体もろとも。
 The cinnabar phenomenon would have dissipated.　Or the Silver Star's craft body as well.
 
 中核のみが刃先から逃れたとは考えられない。　少なくとも、相当の打撃は受けた筈だ。
@@ -109,16 +109,16 @@ What the hell?
 《邪魔だ、月ッッ!》
 Get out of the way, moon!
 
-鬼気を感じて飛翔すると同時、白い大地が砕けた。　仮にも一個の星たるものが割れ、崩れてゆく向こう―― craft影が一つ、こちらに突き進んでくる。
+鬼気を感じて飛翔すると同時、白い大地が砕けた。　仮にも一個の星たるものが割れ、崩れてゆく向こう――騎影が一つ、こちらに突き進んでくる。
 As soon as I felt the demon energy and took flight, the white earth shattered.　The other side of the star cracked and crumbled, a shadow of a craft was advancing towards us.
 
 月を――――
 See the moon at ----
 
-不味い。　まだ craft体は戦える状態にない。
+不味い。　まだ騎体は戦える状態にない。
 It's not good.　The craft is not ready to fight.
 
-敵 craftがその状態にあるというのも信じ難いが……　今は兎も角も離脱し、時間を稼がねば。
+敵騎がその状態にあるというのも信じ難いが……　今は兎も角も離脱し、時間を稼がねば。
 It's also hard to believe that enemy craft is in that state. ...... We have to disengage and buy some time, even if it's just for now.
 
 《逃がすものかよ》
@@ -145,7 +145,7 @@ And I've got it!
 これで――――電磁抜刀の直撃を防いだのか?
 Did this prevent a direct hit from the ---- electromagnetic sword?
 
-無論、無傷では済んでいない。　眼前に現れた Silver Starの姿は、満身創痍どころか瓦解寸前と呼ぶのが相応しいものだ。
+無論、無傷では済んでいない。　眼前に現れた銀星号の姿は、満身創痍どころか瓦解寸前と呼ぶのが相応しいものだ。
 Of course, it was not unscathed.　The Silver Star that appeared in front of me was not only fully wounded, but on the verge of collapse.
 
 この状態でどうしてあれ程の機動を成し遂げられたのか。　しかも――
@@ -160,7 +160,7 @@ I don't understand.　　--What is it that makes this enemy fight so hard?
 《おれは唯、一つの夢》
 I only have one dream.
 
-《 Minato光の、願いのかたまり》
+《湊斗光の、願いのかたまり》
 "Minato, the light, the wishing mass.
 
 《夢は破れぬ……》
@@ -217,7 +217,7 @@ I'm not missing anything.
 …………。
 .............
 
-《 Kageaki……おまえの求めるものは、全てここにあるはずだ。　違うか……？》
+《景明……おまえの求めるものは、全てここにあるはずだ。　違うか……？》
 Kageaki......, I'm sure you'll find everything you're looking for here.　Isn't it ......?
 
 …………。
@@ -235,7 +235,7 @@ Are you done with ......?
 しかし、俺は……
 But I'm ......
 
-《 Kageaki、何を不満に思う？》
+《景明、何を不満に思う？》
 Kageaki, what are you complaining about?
 
 ……足りない。
@@ -316,10 +316,10 @@ Is that why you refuse me?
 《とは、云うまい。　そうとも。おまえは既に知っている……》
 I'm not saying that.　No, you're not. You already know that. ......
 
-《Bushidoの本質を学んでいる。　それはただ命を殺めるものであり、そこに正道邪道の別もない》
+《武の本質を学んでいる。　それはただ命を殺めるものであり、そこに正道邪道の別もない》
 I'm learning the essence of Bushido.　It's just about killing life, there's no right or wrong in it.
 
-《あまねくBushidoは善悪相殺の呪いを負う。　ならば武人が同じ武人を正義と見做し邪悪と見做し、己を認めて他を拒むは、至極おかしな仕儀と云わねばなるまい》
+《あまねく武は善悪相殺の呪いを負う。　ならば武人が同じ武人を正義と見做し邪悪と見做し、己を認めて他を拒むは、至極おかしな仕儀と云わねばなるまい》
 Bushido bears the curse of offsetting good and evil.　If that is the case, it would be extremely strange for a warrior to regard the same warrior as righteous or wicked, to recognize himself and reject the other.
 
 《武人はいずれも同じ、その刃先に善と悪を分け隔てなく散らす者なのだから》
@@ -328,7 +328,7 @@ Because all warriors are the same, those who scatter good and evil indiscriminat
 …………。
 .............
 
-《Bushidoを非難できるのは、身に寸鉄帯びず道を説く聖人か、単に恥を知らぬ偽善者のみだ。　おまえはどちらでもなかろう？》
+《武を非難できるのは、身に寸鉄帯びず道を説く聖人か、単に恥を知らぬ偽善者のみだ。　おまえはどちらでもなかろう？》
 The only people who can blame Bushido are saints who preach the path without a shred of iron on their bodies, or simply hypocrites who have no shame.　You're neither, aren't you?
 
 …………。
@@ -388,7 +388,7 @@ Seek this light at ...... that will protect you and give you rest.
 《…………》
 The ............
 
-《良い。　 Kageaki、おまえの迷いを払ってやろう》
+《良い。　景明、おまえの迷いを払ってやろう》
 Good.　 Kageaki, let me dispel your doubts.
 
 《光が問う》
@@ -463,7 +463,7 @@ So, one last thing.　What is it you want?
 《なぜ、光を求めない？　なぜ……その蜘蛛を求める？》
 Why not seek the light?　Why seek ...... that spider?
 
-《なぜだ、 Kageaki?》
+《なぜだ、景明?》
 Why, Kageaki?
 
 …………。
@@ -523,7 +523,7 @@ I don't think it's right.
 お前とは違う。
 I'm not like you.
 
-《 Kageaki――》
+《景明――》
 《Kageaki--》
 
 お前は夢。俺は現実。　夢と現実が混じり合う事はない。
@@ -553,7 +553,7 @@ Build yourself-- on top of that, an iron skin as it should be.
 「村正!」
 "Muramasa!
 
-《 Kageakiぃっっ!》
+《景明ぃっっ!》
 《Kageaki!
 
 私は世界へ帰還した。
@@ -610,8 +610,8 @@ His wings are torn, his armor is cracked, and his right arm is missing.
 全能総力を傾注した極技が破られる――その意味を、克明に物語る姿だった。　　敵に向けるべき威力が、己に降り掛かるのだ。
 It was an image that clearly showed the meaning of the defeat of the ultimate technique that he had put all his strength into.　　The power that should have been directed at the enemy was now directed at himself.
 
- tsurugiがほぼ機能を止めるのは当然。　むしろ完全停止させまいと支え、自らをも立ち上がらせる仕手の死力こそ信じ難い。
- It is natural for tsurugi to almost stop functioning.　In fact, it is hard to believe in the deadly power of the marketers, who are supporting tsurugi to keep it from stopping completely and making it stand up on its own.
+劒冑がほぼ機能を止めるのは当然。　むしろ完全停止させまいと支え、自らをも立ち上がらせる仕手の死力こそ信じ難い。
+It is natural for tsurugi to almost stop functioning.　In fact, it is hard to believe in the deadly power of the marketers, who are supporting tsurugi to keep it from stopping completely and making it stand up on its own.
 
 《蜘蛛の村正ッッ!》
 Muramasa the Spider!
@@ -628,11 +628,11 @@ You're taking it away from me!
 《かつては母が、父を奪った》
 Once my mother took my father from me.
 
-《今度は――おまえが Kageakiを！》
+《今度は――おまえが景明を！》
 This time... you're the one who took Kageaki!
 
- mushaではない。もう mushaではないのだ。　壊れかけの体で立つ白銀のもの、あれは――
- It's not musha. It's not musha anymore.　The silvery white thing standing there with the broken body, that is--
+武者ではない。もう武者ではないのだ。　壊れかけの体で立つ白銀のもの、あれは――
+It's not musha. It's not musha anymore.　The silvery white thing standing there with the broken body, that is--
 
 憤怒。　怨念。　狂執。
 Anger.　Resentment.　Rage.
@@ -670,10 +670,10 @@ You're trying to break my union by force.
 だが無謀。　どう考察しても、こちらの抵抗が破られるより敵の限界の方が早い。
 But it was reckless.　No matter how you look at it, the enemy's limit is faster than our resistance can be broken.
 
-《 Kageakiはおまえを望んだ……。　おまえもなのか、蜘蛛！》
+《景明はおまえを望んだ……。　おまえもなのか、蜘蛛！》
 Kageaki wanted you at .......　You too, spider!
 
-《 Kageakiを喰らい、己の内側に溶かし込むのがおまえの望みか！》
+《景明を喰らい、己の内側に溶かし込むのがおまえの望みか！》
 Is that what you want, to eat Kageaki and melt it inside you!
 
 《――――》
@@ -685,7 +685,7 @@ Use the wild sword as a shield to block the invasion of the interference wave.�
 おそらくは、あと数秒。　それだけ持ち堪えれば、敵は力尽きるはず。
 Perhaps a few more seconds.　If you can hold out that long, the enemy will run out of steam.
 
-《 Kageakiを消すのか！》
+《景明を消すのか！》
 You're erasing Kageaki!
 
 《――――》
@@ -703,7 +703,7 @@ The - ............
 私は――――
 I'm at ----
 
-《おまえの中に溶け切ってしまえば、 Kageakiは二度と戻らない……》
+《おまえの中に溶け切ってしまえば、景明は二度と戻らない……》
 Once it's dissolved into you, Kageaki will never return. ......
 
 《未来永劫、光のもとに来ない！》
@@ -715,8 +715,8 @@ I can't let you do that!
 消える。
 Disappearing.
 
- Minato Kageakiが消失する。
- Minato Kageaki disappears.
+湊斗景明が消失する。
+Minato Kageaki disappears.
 
 ――だから、何か？
 --so, what is it?
@@ -751,14 +751,14 @@ Be supportive in any way you can.
 ――最後には、　幸せになって欲しい、と、
 --I just want you to be happy, that's all.
 
-《 Kageakiを返せぇぇぇッッ!》
+《景明を返せぇぇぇッッ!》
 Give me back my Kageaki!
 
 だから、　私は、
 So, I...
 
- Kageakiに、
- To Kageaki.
+景明に、
+To Kageaki.
 
 消えて欲しくなんて、
 I don't want you to disappear.
@@ -772,8 +772,8 @@ I am aware of this as I am swallowed by the torrent of gravity.
 俺、だ。
 Me.
 
- Minato Kageakiが戻っている。
- Minato Kageaki is back.
+湊斗景明が戻っている。
+Minato Kageaki is back.
 
 ……いけない。
 Don't go to .......
@@ -799,7 +799,7 @@ Dull-colored drops spread across my vision.　　It was--it was telling me somet
 「いい？　これはあてからお兄さんへの、最後の忠告」
 "Okay?　This is the last advice from me to your brother.
 
-「お兄さんは Minato Kageakiである限り、御姫には決して勝てない。　御姫は、 Minato光なんだから」
+「お兄さんは湊斗景明である限り、御姫には決して勝てない。　御姫は、湊斗光なんだから」
 "As long as you are Minato Kageaki, you will never be able to defeat the princess.　Mihime is Minato Kageaki.
 
 「お兄さんは無名の英雄になって。　世界を守ることだけが目的の……個の無い。公の大義に従う武力行使者に」
@@ -811,10 +811,10 @@ You'll be a real hero.
 「御姫を倒して、世界を救える方法は、それだけ」
 It's the only way to defeat the princess and save the world.
 
-「……いい？　お兄さん、間違えYesで」
+「……いい？　お兄さん、間違えないで」
 "Can I go to ......?　Yes, brother, by mistake.
 
-「これは Ashikaga Chachamaruの」
+「これは足利茶々丸の」
 "This is Ashikaga Chachamaru's.
 
 「お兄さんへの。　この世界への」
@@ -835,7 +835,7 @@ Every part of his body is broken.　There is not a single part of the body that 
 血は止め処なく流れて海水を汚す。
 The blood flowed endlessly, staining the seawater.
 
-《……ご……　ごめんなさい…… midou……》
+《……ご……　ごめんなさい……御堂……》
 《...... ...... sorry ...... midou......》
 
 《私が……貴方を……　……望んだばかりに……》
@@ -856,7 +856,7 @@ The ............
 「後は……任せろ……」
 I'll take care of the rest at ....... ......
 
-返答はなかった。　俺の tsurugiは、もうそうするだけの力を失っていた。
+返答はなかった。　俺の劒冑は、もうそうするだけの力を失っていた。
 There was no reply.　My tsurugi had already lost the power to do so.
 
 心甲一致を破られ。　俺の肉体は砕かれ。　村正も、既に瀕死。
@@ -880,7 +880,7 @@ This is a curse," he said.　I shouldn't have said that.
 世界を壊したかったのなら。
 If you wanted to destroy the world.
 
-（ Chachamaruめ）
+（茶々丸め）
 (Chachamaru)
 
 あれは忠告だった。　あの一言が無ければ、俺はきっと、最後まで気付かなかった。
@@ -931,7 +931,7 @@ I'm just saying.
 そう。
 Yes.
 
-《…… Kageaki……》
+《……景明……》
 The ...... Kageaki......
 
 《どうして、村正を望んだ……？》
@@ -991,14 +991,14 @@ You can't kill it.
 俺は決して光を殺せない。
 I can never kill the light.
 
- Minato光を守る事が、 Minato Kageakiの命。
- Protecting the light of Minato is the life of Minato Kageaki.
+湊斗光を守る事が、湊斗景明の命。
+Protecting the light of Minato is the life of Minato Kageaki.
 
 ――であり。
 -- and is.
 
- Minato光を殺す事が、 Minato Kageakiの責。
- Minato Kageaki's responsibility is to kill Hikari Minato.
+湊斗光を殺す事が、湊斗景明の責。
+Minato Kageaki's responsibility is to kill Hikari Minato.
 
 ――である。
 --.
@@ -1132,16 +1132,16 @@ A fate that began then and will end here and now.　-- Whose sin was this?
 皆斗本家か。
 The main family of Minatou.
 
- Minato明堯か。
- Minato Akira.
+湊斗明堯か。
+Minato Akira.
 
- Minato統か。
- Minato.
+湊斗統か。
+Minato.
 
 いや、　違う。
 No, it's not.
 
-《来るか、 Kageaki》
+《来るか、景明》
 Come on, Kageaki.
 
 《この光を敵と憎み、殺すか》
@@ -1249,10 +1249,10 @@ Stab through its heart.
 完璧な致死傷を及ぼす。
 Perfectly lethal.
 
- Minato Kageakiは Minato Kageakiを殺害する。
- Minato Kageaki kills Minato Kageaki.
+湊斗景明は湊斗景明を殺害する。
+Minato Kageaki kills Minato Kageaki.
 
-――――故に。　　絶対の戒 Ritsuが、発動した。
+――――故に。　　絶対の戒律が、発動した。
 ---- Therefore.　　The absolute commandment Ritsu was invoked.
 
 「――――――――――――?」
@@ -1487,7 +1487,7 @@ In short, it's just a threat, so don't worry about it.
 "The Russians will conquer Beizong and then come to Honshu-- I don't need you to tell me that!　I was planning to do the same!　But not anymore!
 
 「奴らは考えを変えた……！　なかばゲリラ化した北曾の大和軍に構っていても仕方ない――東北を奪えば北曾の兵も孤立して立ち枯れになると見切ったんだよ！」
-'They've changed their minds: ......!　There's no point in bothering with the Yamato army in Beizong, which has turned into guerrillas - they've seen that if they take the northeast, the Beizong soldiers will be isolated and wither away!
+They've changed their minds: ......!　There's no point in bothering with the Yamato army in Beizong, which has turned into guerrillas - they've seen that if they take the northeast, the Beizong soldiers will be isolated and wither away!
 
 「ええ……」
 Yeah, .......
@@ -1514,7 +1514,7 @@ Come on. ......
 It's very likely.
 
 「…………。　もう一度鎮守府に繋いでくれ」
-'.............　Connect me to the township again.
+.............　Connect me to the township again.
 
 「私が直接、将軍と話す」
 I will speak directly with the general.
@@ -1550,7 +1550,7 @@ There's no point in talking about it.　We'll send troops if we have to, and rep
 Reinforcements are needed now. ......
 
 「鎮守府はわかっていない。　……いや……わかっている、本当は！」
-'The township doesn't understand.　...... No, ...... I do understand, really!
+The township doesn't understand.　...... No, ...... I do understand, really!
 
 「しかしあいつらには中央の覇権争いの方が重要なんだ。　関八州を分捕るために、北方六州を捨てる気でいる……」
 But for them, the struggle for supremacy in the center is more important.　They are willing to abandon the six northern provinces in order to seize Guan Yaozhou. ......
@@ -1714,7 +1714,7 @@ I'm going to the Emperor.　Take care of the rest.
 「……はい……」
 "...... yes ......
 
-傭兵帝国。聖堂 craft士団。軍隊派遣会社……　通称〝武帝〟。
+傭兵帝国。聖堂騎士団。軍隊派遣会社……　通称〝武帝〟。
 Mercenary Empire. Sanctuary crafters group. Military dispatch club ...... Commonly known as "Wudi".
 
 その集団は北曾西南、渡島半島から西へ海を隔てて五〇キロ程の、松前大島を根城とする。　海産物の豊富な環境であるが、彼らは漁業に関心を示すことがなかった。
@@ -1732,31 +1732,31 @@ They do not question reason or principle. They don't care about nations, ethnici
 条件はやや、特殊なものであったが。　金銭面から見る限り、彼らが雇用者へ提供する戦力は値に対して全く破格と云えたろう。
 The conditions were somewhat unique.　As far as money is concerned, the strength they provide to their employers is absolutely unparalleled in relation to the value.
 
-〝武帝〟の戦闘力の中心は、真打 tsurugiを有する mushaが担う。
+〝武帝〟の戦闘力の中心は、真打劒冑を有する武者が担う。
 The core of the fighting force of the "Warrior Emperor" is musha, who possesses the "true strike" tsurugi.
 
-高速徹甲弾、発振砲等、対竜 craft兵用狙撃兵器の発達に伴って数打 tsurugiと真打 tsurugiの力関係は劇的な逆転を遂げた。　最新の兵器は、真打の古い統御機能では扱えない。
+高速徹甲弾、発振砲等、対竜騎兵用狙撃兵器の発達に伴って数打劒冑と真打劒冑の力関係は劇的な逆転を遂げた。　最新の兵器は、真打の古い統御機能では扱えない。
 With the development of high speed armor-piercing bombs, oscillating cannons, and other sniper weapons for use against dragon craft soldiers, the power relationship between several tsurugi and shinpachi has been dramatically reversed.　The latest weapons could not be handled by the old control functions of the true strike.
 
-白兵戦を表芸とする真打 mushaにとって、栄光は過去のものとなった。　数打 tsurugiを雑器、安物、紛い物と、嗤っていられた時代は永遠に過ぎ去ったのだ。
+白兵戦を表芸とする真打武者にとって、栄光は過去のものとなった。　数打劒冑を雑器、安物、紛い物と、嗤っていられた時代は永遠に過ぎ去ったのだ。
 The glory of Shin'uchi musha, whose main art is white-knuckle fighting, has become a thing of the past.　The days when we could laugh at tsurugi as a miscellaneous weapon, a cheap product, or an imitation are gone forever.
 
-それでも彼らの多くは craft士階級、つまり前線で戦うよりも指揮統率を任務とする者であったから、軍隊に居場所を全く失ったわけではない。　最強の実戦力とは見做されなくなっただけである。
+それでも彼らの多くは騎士階級、つまり前線で戦うよりも指揮統率を任務とする者であったから、軍隊に居場所を全く失ったわけではない。　最強の実戦力とは見做されなくなっただけである。
 Still, many of them were of the craft class, those who were tasked with command and control rather than fighting on the front lines, so they did not lose their place in the army at all.　It's just that they are no longer regarded as the strongest actual fighting force.
 
-しかし、最強戦力たる自負こそは彼らの軍指揮権に、延いては階級意識に正当性を与える根拠であったため、数打 mushaの台頭に耐えられず、逃げるように軍籍から離れた者は少なくなかった。
+しかし、最強戦力たる自負こそは彼らの軍指揮権に、延いては階級意識に正当性を与える根拠であったため、数打武者の台頭に耐えられず、逃げるように軍籍から離れた者は少なくなかった。
 However, since the pride of being the strongest force was the basis for giving legitimacy to their military command and eventually to their class consciousness, many of them could not withstand the rise of the Musha and left the military as if to escape.
 
-そんな逸れ mushaを〝武帝〟は受け入れ……　そして、彼らに自己認識を取り戻させた。
+そんな逸れ武者を〝武帝〟は受け入れ……　そして、彼らに自己認識を取り戻させた。
 The "warrior emperor" accepted such deviant musha ...... and made them regain their self-awareness.
 
-正面戦闘の優位を数打に譲ろうと、真打 mushaは未だ強猛な存在には違いない。　彼らの多くは高い性能、熟練の技術、豊富な経験を兼ね備える。
+正面戦闘の優位を数打に譲ろうと、真打武者は未だ強猛な存在には違いない。　彼らの多くは高い性能、熟練の技術、豊富な経験を兼ね備える。
 Even if they give up their head-to-head combat advantage to a few hits, the true musha are still a formidable force to be reckoned with.　Many of them combine high performance, skill, and a wealth of experience.
 
-一 craftで重戦車の隊列を相手取り、砲兵陣地を砕くも困難としない。　いや最新の竜 craft兵さえ、状況と戦術を選んで格闘戦に持ち込めば互角以上に戦える――むしろ圧倒できる。
+一騎で重戦車の隊列を相手取り、砲兵陣地を砕くも困難としない。　いや最新の竜騎兵さえ、状況と戦術を選んで格闘戦に持ち込めば互角以上に戦える――むしろ圧倒できる。
 A single craft can take on a column of heavy tanks and shatter artillery positions with no difficulty.　No, even the latest dragon craft soldiers are more than capable of fighting on even terms if they choose the right situation and tactics to engage in combat - in fact, they can overwhelm you.
 
-運用の仕方を誤らねば、多大な戦果を挙げ得るのだ。　　つまり〝武帝〟はそうして、両者の要望に応えた。誇りを求める mushaと、力を求める依頼者の。
+運用の仕方を誤らねば、多大な戦果を挙げ得るのだ。　　つまり〝武帝〟はそうして、両者の要望に応えた。誇りを求める武者と、力を求める依頼者の。
 If it is not used in the wrong way, it can be very effective.　　In other words, this is how the Warrior Emperor responded to the needs of both parties. The musha for pride, and the client for power.
 
 俄かに出現した孤島の傭兵団が短時日で名を成した所以はここにある。
@@ -1787,7 +1787,7 @@ Please don't be so formal.
 Thanks for the .......
 
 「本当ならまずはテラスの方にご案内して、お茶を差し上げるべきなんでしょうけど。　お察しするに、話を急いだ方があなたには親切のようだ」
-'If that's true, I suppose I should show you to the terrace first and offer you some tea.　As you can imagine, it would be kinder to you if we hurried our conversation.
+If that's true, I suppose I should show you to the terrace first and offer you some tea.　As you can imagine, it would be kinder to you if we hurried our conversation.
 
 「確かに……。　今は玉露とアールグレイの区別もつきそうにない」
 "Sure, .......　I can't even seem to tell the difference between gyokuro and Earl Grey right now.
@@ -1798,7 +1798,7 @@ Thanks for the .......
 「……」
 "......
 
-「申し遅れましたが、私は Olga。〝武帝〟の渉外担当です」
+「申し遅れましたが、私はオーリガ。〝武帝〟の渉外担当です」
 I'm sorry, but I'm Olga, and I'm the liaison for the Martial Emperor.
 
 「代表して話をさせて頂くことになりますが、構いませんか」
@@ -2197,7 +2197,7 @@ I'll answer that.
 「あなたが求めた武力とは、　……そういうものだから」
 "Because that's the kind of force you asked for, .......
 
-「…… midou……」
+「……御堂……」
 ...... midou......
 
 「…………」
@@ -2236,7 +2236,7 @@ Maybe the light healed me with its last power, Muramasa said.　I had no proof. 
 だとすれば、光はなぜ俺を生かしたのだろう。　　そう考えるようになったのは最近のことで、最後の戦いの後しばらくは、疑問など思い浮かばなかった。
 If so, why did the light let me live?　　It was only recently that I began to think that way, and for a while after the last battle, the question didn't even come to mind.
 
-これはこれで悪くなかろうとだけ思っていた。　俺には約束があったのだ。 Maidononomiyaそして養父との間に――全てが終わった時、 Minato Kageakiの罪状を告発して処刑するという。
+これはこれで悪くなかろうとだけ思っていた。　俺には約束があったのだ。舞殿宮そして養父との間に――全てが終わった時、湊斗景明の罪状を告発して処刑するという。
 All I could think was that this was not so bad.　I had a promise to keep. Between Maidononomiya and my adoptive father, when all was said and done, I would prosecute Minato Kageaki for his crimes and execute him.
 
 俺の重ねてきた悪行に、法と正義の裁きを下し。　命を散らされた人々の怒りと嘆きに報いる。
@@ -2326,7 +2326,7 @@ Do we examine both sides of the conflict, side with the better side, and attack 
 俺の善悪判断に、何程の意味がある。　価値基準は様々で、善悪の判断も諸人それぞれだというのに。
 What's the point of my judgment of right and wrong?　There are many different standards of value, and each person's judgment of right and wrong is different.
 
-Bushidoは所詮、善悪相殺。　誰もが己の善を信じて他者の善を滅ぼしているのだ。
+武は所詮、善悪相殺。　誰もが己の善を信じて他者の善を滅ぼしているのだ。
 Bushido is just good and evil offsetting each other.　Everyone believes in their own good and destroys the good of others.
 
 そうと知って、なお偽善の戦いを為す――　　できる事ではない。
@@ -2413,8 +2413,8 @@ For what purpose do I live?
 ……何の為に!
 ...... What for!
 
- Kageakiは今日も朝から家を空けていた。　きっと夜が更けるまで戻らないだろう。
- Kageaki was away from home again this morning.　He probably won't be back until late at night.
+景明は今日も朝から家を空けていた。　きっと夜が更けるまで戻らないだろう。
+Kageaki was away from home again this morning.　He probably won't be back until late at night.
 
 今頃はまた、目的もない町の巡り歩きで時間と体力を磨り減らしているに違いない。　己の命の無意味さを噛み締めるような、あの作業で。
 By now, I'm sure he's wasting his time and energy on aimless walks around the city again.　It's that kind of work that makes you realize the meaninglessness of your life.
@@ -2425,23 +2425,23 @@ By now, I'm sure he's wasting his time and energy on aimless walks around the ci
 畳の上へ落とすように、一つ息をつく。　思いのほか、大きく深くなった。
 I took a breath as I let it fall onto the tatami.　It was bigger and deeper than I had expected.
 
-誰にも咎められはしなかったけれども。　それは大声で喚き散らしたとしても同じだったろう。 Kageakiがいない時、家に残るのは私一人だ。
+誰にも咎められはしなかったけれども。　それは大声で喚き散らしたとしても同じだったろう。景明がいない時、家に残るのは私一人だ。
 No one would have blamed me, though.　It would have been the same even if I had screamed out loud. When Kageaki is not around, I am the only one left in the house.
 
-この家は Kageakiの父のものだというが、ここで彼の姿を見たことは一度もない。　牧村という使用人がいたが――彼女もここしばらくは他出している。
+この家は景明の父のものだというが、ここで彼の姿を見たことは一度もない。　牧村という使用人がいたが――彼女もここしばらくは他出している。
 The house is said to belong to Kageaki's father, but I have never seen him here.　There was a servant named Makimura, but she too has been out for some time now.
 
 あの存在感の薄い人をいつから見なくなったのか。　……思い出そうとして、できなかった。簡単なことのはずなのに。
 When did I stop seeing that person with such a thin presence?　I tried to remember ...... and couldn't. It should have been so easy.
 
- Silver Star-tono戦いが終わって以来、心鉄はどこか鈍い。　おそらく――そこに刻まれた使命、存在理由が失われたからだ。
- Silver Star-tono Ever since the end of the battle, the iron mind has been somewhat dull.　Perhaps it is because the mission, the reason for its existence, that was engraved on it has been lost.
+銀星号との戦いが終わって以来、心鉄はどこか鈍い。　おそらく――そこに刻まれた使命、存在理由が失われたからだ。
+Silver Star-tono Ever since the end of the battle, the iron mind has been somewhat dull.　Perhaps it is because the mission, the reason for its existence, that was engraved on it has been lost.
 
 過去五百年。そしてこの二年間。　出会いと訣別と戦いと死と。　　今は何もかも、遠い出来事のようだった。
 For the past five hundred years. And these two years.　Encounters and partings, battles and deaths.　　Everything seemed like a distant event now.
 
- tsurugiとしての死が近付き、あらゆる働きが衰えつつあるのか。
- Is my death as a tsurugi approaching and all my functions are waning?
+劒冑としての死が近付き、あらゆる働きが衰えつつあるのか。
+Is my death as a tsurugi approaching and all my functions are waning?
 
 （……けれど）
 (......)
@@ -2449,16 +2449,16 @@ For the past five hundred years. And these two years.　Encounters and partings,
 それは心鉄の一部分を除いてのこと。
 That is, except for one part of the heart iron.
 
-ちっとも遠くならないものがある。　 tsurugiとして鈍磨するのに反比例して、肉体を持っていた頃の感性がどこかで目覚めて、その部分が一つのものを近く強く想っている。
+ちっとも遠くならないものがある。　劒冑として鈍磨するのに反比例して、肉体を持っていた頃の感性がどこかで目覚めて、その部分が一つのものを近く強く想っている。
 There are things that are never far away.　 In inverse proportion to the dulling of the tsurugi, the sensibility of the time when I had a body awakened somewhere, and that part of me thinks of a single thing closely and strongly.
 
- Kageaki。
- Kageaki.
+景明。
+Kageaki.
 
 ……私の仕手。
 ...... my stocking stuffer.
 
-彼は存在理由を失えば死に向かう tsurugiとは違う。　例え生きる理由を失っても、心臓は動き血液は巡り、何も変わらず生き続けなくてはならない。
+彼は存在理由を失えば死に向かう劒冑とは違う。　例え生きる理由を失っても、心臓は動き血液は巡り、何も変わらず生き続けなくてはならない。
 He is not like tsurugi, who will die if he loses his reason for being.　Even if he loses his reason for living, his heart still beats, his blood still circulates, and he must continue to live without any change.
 
 慙愧と悔恨に身中を灼かれながら。
@@ -2566,8 +2566,8 @@ Then what are you going to do with your life?　What will you do to reward the d
 一体、何なのだ。
 What the hell was that?
 
- Minato Kageakiとは何なのだ。
- What is Minato Kageaki?
+湊斗景明とは何なのだ。
+What is Minato Kageaki?
 
 こんな人間がいて良いのか。
 How can there be such a person?
@@ -2656,13 +2656,13 @@ You take over.
 「……きゃっ！」
 ...... Yikes!
 
-「み、 midou……？」
+「み、御堂……？」
 "Mi, midou......?
 
 「……」
 "......
 
-組み敷いた体は、 tsurugiの癖にやけに熱い。　酒で体温が下がっているせいで、そう感じるのかもしれなかったが。
+組み敷いた体は、劒冑の癖にやけに熱い。　酒で体温が下がっているせいで、そう感じるのかもしれなかったが。
 The body that I had laid out on the floor was unusually hot, despite my tsurugi habit.　It might have been because the alcohol had lowered his body temperature, but he felt that way.
 
 そして柔らかい。　何か、野兎を思わせるものがある。
@@ -2797,13 +2797,13 @@ As long as I keep my eyes open, no one else will.
 「く、おぁァァァ!」
 "Ahh!
 
-「…… midou?」
+「……御堂?」
 "...... midou?
 
 「待って――」
 Wait, wait, wait.
 
-「 midouっ!」
+「御堂っ!」
 "Midou!
 
 駄目だ。
@@ -2830,7 +2830,7 @@ It can be a dog or a cat.　Or a frog or an ant.
 どんなものでもいいから変わりたい。
 I want to change, no matter what.
 
-どんなものでも Minato Kageakiよりは上等だ。
+どんなものでも湊斗景明よりは上等だ。
 Anything is better than Minato Kageaki.
 
 願わくば、石がいい。
@@ -2879,7 +2879,7 @@ There are those who say that it is wrong to punish a sinner with death and that 
 But that's a theory that can only work if the sinner has a way to make amends.
 
 「うわぁ、素晴らしい手相ですねっ！　あなたのような人には初めて会いました」
-'Wow, you have a great palmistry!　I've never met anyone like you before.
+Wow, you have a great palmistry!　I've never met anyone like you before.
 
 「むっ、でもこれは……　近い未来に波乱が見えます。あなたは人生の分岐点に差し掛かっているようです」
 "Mmm, but this one ...... shows disturbances in the near future. You seem to be approaching a crossroads in your life.
@@ -3032,7 +3032,7 @@ God ......
 God.
 
 「さあ、他の者も何をしている！　彼に続き、我が手を取るのだ！」
-'Come on, what are the others doing!　Follow him and take my hand!
+Come on, what are the others doing!　Follow him and take my hand!
 
 「偽りの帝を崇め続ける者は救われんぞ！」
 "Those who continue to worship the false emperor will not be saved!
@@ -3140,7 +3140,7 @@ I thought I'd catch the guy who destroyed the bridge when he came out. ......
 "Huh. There's no way they can catch him.　The killer is looking for the killer!
 
 「だから、本当に違うんだ！　俺達はやってない！」
-'So it's really not!　We didn't do it!
+So it's really not!　We didn't do it!
 
 「白々しい。　お前らでなけりゃ誰がやるんだよ！」
 "It's white.　If it's not you guys, who will it be!
@@ -3205,7 +3205,7 @@ What is a bridge?
 「いや……ほら。そこの川に落ちてるだろ。　壊されて、渡れないんだよ」
 "No, ......, look. It's in the river there.　It's broken, you can't get across.
 
-「成程。これはいけません。　しかし自分が思うに――端を渡れYesならフォークかスプーンを渡れば良いのではないかと」
+「成程。これはいけません。　しかし自分が思うに――端を渡れないならフォークかスプーンを渡れば良いのではないかと」
 I see. This is not good.　But I think - if you can cross the edge Yes, you can cross the fork or spoon.
 
 「……」
@@ -3748,7 +3748,7 @@ The change that would have been unfortunate for most people was a blessing in di
 おそらくは先刻の芋がその配給品だったのだろう。　返す返すも、俺が食べて良い物ではなかった。
 Perhaps the potatoes I had just eaten were the ration.　In return, it was not something I was allowed to eat.
 
-「申し遅れましたが、自分は Minato Kageakiという者です。　貴方には大変、お世話になりました」
+「申し遅れましたが、自分は湊斗景明という者です。　貴方には大変、お世話になりました」
 I'm sorry for the delay, but my name is Minato Kageaki.　I would like to thank you for all your help.
 
 「なまえ？」
@@ -4075,7 +4075,7 @@ I'm sorry.
 「謝って済む事でもないが……」
 Not that an apology is going to help. ......
 
-「……いいのよ、別に。　気にしYesで」
+「……いいのよ、別に。　気にしないで」
 "It's okay, .......　I don't care.
 
 「そうもいくまい」
@@ -4150,7 +4150,7 @@ He has a wonderful smile, as if only the mouth area of the Niou statue had been 
 「なら……良いのだが……」
 Then ...... is good, but ......
 
-「ふっ、ふふふ。　 midouったら、変なこと言って」
+「ふっ、ふふふ。　御堂ったら、変なこと言って」
 "Hmm, hmm.　 Midou, you're so weird.
 
 「あ、ああ……済まん」
@@ -4168,7 +4168,7 @@ Where in the world is this cold air coming from?　Is this another abnormal weat
 「……はぁ。もぉ」
 "......, huh. Oh.
 
-「いいから帰りましょ、 midou。　別に用事はないんでしょう？」
+「いいから帰りましょ、御堂。　別に用事はないんでしょう？」
 Let's just go home, midou. You don't have anything to do, do you?
 
 「あぁ……いや」
@@ -4240,7 +4240,7 @@ I still can't remember what I did, though.
 「あんた誰だよ？」
 Who the hell are you?
 
-「失礼しました。　自分は鎌倉警察署長の下で働く、 Minato Kageakiという者です」
+「失礼しました。　自分は鎌倉警察署長の下で働く、湊斗景明という者です」
 "Excuse me.　My name is Minato Kageaki, and I work for the Kamakura Police Chief.
 
 久しく口にしていなかった自己紹介をする。
@@ -4519,7 +4519,7 @@ But most of them are from the Tokai region.　There are some from further afield
 「……成程」
 "...... into the process
 
-つまりこの難民キャンプは、近畿東海で展開される Imagawa Raichouと Ashikaga幸行の抗争に逐われた人々の集まりか。　六波羅の主権を競う激闘で住処を奪われ、鎌倉まで逃げ延びてきたというわけだ。
+つまりこの難民キャンプは、近畿東海で展開される今川雷蝶と足利幸行の抗争に逐われた人々の集まりか。　六波羅の主権を競う激闘で住処を奪われ、鎌倉まで逃げ延びてきたというわけだ。
 In other words, this refugee camp is a gathering of people who were displaced by the war between Imagawa Raichou and Ashikaga Kougyou that is unfolding in the Kinki and Tokai regions.　They were deprived of their homes in the fierce battle for the sovereignty of Rokuhara, and fled to Kamakura.
 
 彼らにはもはや帰る所も行く所も無いだろう。
@@ -4625,7 +4625,7 @@ It wasn't much, but as in the morning, the landlord seemed to be honestly please
 "...... In short.　You want to make peace and reconcile the old residents with the newcomers?
 
 「まぁ、そうだ。　このまま互いに不満と不信の念を募らせていけば、やがて破滅的な結果になりかねない」
-'Well, yes.　If we continue to grow frustrated and distrustful of each other, the consequences could eventually be catastrophic.
+Well, yes.　If we continue to grow frustrated and distrustful of each other, the consequences could eventually be catastrophic.
 
 「それを防ぐ」
 "Prevent it.
@@ -4823,7 +4823,7 @@ Can you do that for me?
 "Yeah. I'm in.　I'll talk to some of the younger guys.
 
 「ただ、そんなには集まらないと思う……。　あまり期待しないでくれ」
-'I just don't think we'll get that many .......　Just don't expect too much.
+I just don't think we'll get that many .......　Just don't expect too much.
 
 「結構です。　宜しくお願いします」
 "No, thank you.　I look forward to working with you.
@@ -4849,10 +4849,10 @@ Am I allowed to help?
 「やっぱり」
 "I knew it.
 
-村正は大工ではないが、 tsurugiの異能を行使できる。　橋の再建に役立つ事は間違いないだろう。　　しかし、作業仲間にどう説明したものか。
+村正は大工ではないが、劒冑の異能を行使できる。　橋の再建に役立つ事は間違いないだろう。　　しかし、作業仲間にどう説明したものか。
 Muramasa is not a carpenter, but he can use his tsurugi abilities.　He would certainly be useful in rebuilding the bridge.　　But how would he explain this to his workmates?
 
-一介の警官が tsurugiを持つ筈はない。　強引に言い繕えば不審を買い、折角まとまった話も水泡に帰す恐れがある。
+一介の警官が劒冑を持つ筈はない。　強引に言い繕えば不審を買い、折角まとまった話も水泡に帰す恐れがある。
 There was no way that a simple policeman would have tsurugi.　If he tried to force his way out of it, it would arouse suspicion, and the conversation that had just taken place might be ruined.
 
 「お前には別件を頼みたい」
@@ -5536,7 +5536,7 @@ It's certainly convenient.　But we may be short on materials.
 「まさか……なぁ？」
 No way. ......?
 
-《―――― midou》
+《――――御堂》
 《---- midou》
 
 「村正？」
@@ -5570,7 +5570,7 @@ Do you know how many?
 The Four of Us
 
 「そのくらいなら抑えられるな……。　良し、そこにある半鐘を鳴らせ」
-'That's about as restrained as you can get, .......　Good, ring that half-bell over there.
+That's about as restrained as you can get, .......　Good, ring that half-bell over there.
 
 《いいの？》
 Are you sure?
@@ -5680,7 +5680,7 @@ There were screams all around and the circle of people stepped back.　　I want
 《諒解！》
 Understanding!
 
-場慣れした筋者四人を相手に丸腰では少々分が悪い。　といって tsurugiは大袈裟、太刀一本が適当なところだ。
+場慣れした筋者四人を相手に丸腰では少々分が悪い。　といって劒冑は大袈裟、太刀一本が適当なところだ。
 It would be a bit unfair to be unarmed against four seasoned musclemen.　However, tsurugi is an exaggeration, and a single sword would be adequate.
 
 流石と言うべきか、四人は俺の手の中に突如太刀が現れるのを見て、仰天したとしてもそれで隙を作りはしなかった。　二人が前に出て、残り二人は左右に回る。
@@ -5806,7 +5806,7 @@ But.　One of the determined ones opened his mouth faster than I could come up w
 「あんた」
 "You.
 
-「今までに何人も殺してきた、殺人鬼の mushaだって聞いたんだけど……　ほ――ほっ、本当なのか?」
+「今までに何人も殺してきた、殺人鬼の武者だって聞いたんだけど……　ほ――ほっ、本当なのか?」
 I heard it's a murderous musha who's killed many people in her life. ...... Ho-ho-ho, is it true?
 
 「……え？」
@@ -5839,13 +5839,13 @@ Its ---- the truth.
 「今の見たろ！　ヤクザをあっさり片付けるし、刀は出たり消えたりするし！」
 "Did you see that?　We're taking out the Yakuza so easily, and the swords keep coming and going!
 
-「あんな真似、 mushaにしかできねえよ！」
+「あんな真似、武者にしかできねえよ！」
 Only musha could do something like that!
 
 「それは……そうだが……」
 It's ...... yes, but it's ......
 
-「まっ、待てって！　このお巡りさんがもし、 mushaだとしてもだ……まさか殺人鬼ってことはないだろう！」
+「まっ、待てって！　このお巡りさんがもし、武者だとしてもだ……まさか殺人鬼ってことはないだろう！」
 "Wait a minute!　Even if this policeman is musha, he can't be ...... a murderer!
 
 「なぁっ?」
@@ -5998,7 +5998,7 @@ The man who had failed to become a drunken saint left the stage as a clown.
 嗤える。
 I can laugh.
 
-「 midou……」
+「御堂……」
 "midou......
 
 「…………」
@@ -6013,7 +6013,7 @@ I can laugh.
 何をどうして、恥じずにいられるだろう。　この俺が。
 How could I not be ashamed?　I am.
 
-幾つもの――幾つもの――貴い命を奪った。　その中には Subaru-samaと光、守るべきだった家族すらいる。　　人としての恥だ。
+幾つもの――幾つもの――貴い命を奪った。　その中には統様と光、守るべきだった家族すらいる。　　人としての恥だ。
 It took many--many--precious lives.　Among them are Subaru-sama and Hikaru, and even the families they were supposed to protect.　　It's a disgrace to humanity.
 
 全世界に災厄を撒き散らした。　阻止する機会はあったのに――果たせなかった。　　人としての恥だ。
@@ -6277,7 +6277,7 @@ If you think you can't live a lowly life, I'll make you a lowly person.　If you
 「…………」
 "............
 
-「ふっ。無様ね、 midou！」
+「ふっ。無様ね、御堂！」
 "Huh. You're pathetic, midou!
 
 「どう見てもお前の方が余りにも必死だ」
@@ -6430,7 +6430,7 @@ The spire of flesh sinks into the secret cave, catches on--and breaks through.
 呟く。　結合部から滴る、朱色の液体が見えた。
 I whimpered.　I could see the vermilion liquid dripping from the joint.
 
-村正の肉体変成は、 tsurugiになる以前の姿を再現するものだと云っていた。　往時の村正に性交渉の経験が無かったなら――当然、こういう事になるだろう。
+村正の肉体変成は、劒冑になる以前の姿を再現するものだと云っていた。　往時の村正に性交渉の経験が無かったなら――当然、こういう事になるだろう。
 He said that Muramasa's physical metamorphosis was to recreate his appearance before he became tsurugi.　If the Muramasa of the past had never had sexual intercourse, this would naturally be the case.
 
 「馬鹿じゃないっ。　馬鹿は、貴方っ」
@@ -6598,7 +6598,7 @@ Fun.　Happy.　Comfortable.
 ああ。　貫く。
 Oh.　Penetrate.
 
-「 midou――――っ」
+「御堂――――っ」
 "midou----
 
 絶頂に達する。　肉体と精神のそれを同時に極めて。
@@ -6763,8 +6763,8 @@ I see.　No, I didn't mean to rush you.
 そう言えば、何処かで何かの折に聞いた事がある。
 I've heard that somewhere at some point in my life.
 
- tsurugi鍛冶の家門に生まれ、銘の継承者と見做された者は、ごく幼少の頃からその後の生涯ほぼ全てを鍛冶技術の修行に費やすため――　他の諸事を学ぶゆとりは皆無に等しく。
- Those who are born into a family of tsurugi blacksmiths and are considered to be the heirs to the name, spend almost their entire lives from a very young age training in the art of blacksmithing, so they have no time to learn other things.
+劒冑鍛冶の家門に生まれ、銘の継承者と見做された者は、ごく幼少の頃からその後の生涯ほぼ全てを鍛冶技術の修行に費やすため――　他の諸事を学ぶゆとりは皆無に等しく。
+Those who are born into a family of tsurugi blacksmiths and are considered to be the heirs to the name, spend almost their entire lives from a very young age training in the art of blacksmithing, so they have no time to learn other things.
 
 日常生活の雑事は門弟、下人らに任せ切りになる。　　…………と。
 The chores of daily life are left to the pupils and servants.　　.............
@@ -6862,7 +6862,7 @@ I'm the kind of guy who doesn't mind skipping breakfast.
 「それ、健康に良くないのよ」
 It's not good for your health.
 
-「……出刃包丁で電磁抜刀しようとする tsurugiを止めるのも余り健康的な体験ではなかったんだが」
+「……出刃包丁で電磁抜刀しようとする劒冑を止めるのも余り健康的な体験ではなかったんだが」
 It wasn't a very healthy experience to stop tsurugi from trying to use a de-bladed knife to draw an electromagnetic sword.
 
 「むぅ……」
@@ -6889,10 +6889,10 @@ Don't you like the cold?
 「まあそうだな。人並みに」
 "Well, yes. As much as anyone.
 
-「寒 Sayoりは、暑さの方が苦手だが……」
+「寒さよりは、暑さの方が苦手だが……」
 "Cold Sayori is not as good in the heat. ......
 
-「私は寒い方が嫌いだったかしら。　今は tsurugiだから、どちらも平気だけど」
+「私は寒い方が嫌いだったかしら。　今は劒冑だから、どちらも平気だけど」
 I don't know if I liked the cold better.　Now that I'm tsurugi, I'm fine with both.
 
 「冬の寒さは着込んで暖房を利かせれば耐えられるが、夏の暑さは裸になっても耐え難い……などと云うがな。　お前の時代には、そんな言葉は無かったか」
@@ -7003,7 +7003,7 @@ Time without significance.　But I didn't think it was worthless.
 こうしていたいと思った。
 I wanted to stay this way.
 
-「ね、 midou」
+「ね、御堂」
 Hey, midou.
 
 「ん……？」
@@ -7060,7 +7060,7 @@ They are not antiques, but things that would be rude not to call them antiques.�
 「ふむ……」
 "Hmm. ......
 
-「…… midou、こういうの好きでしょう」
+「……御堂、こういうの好きでしょう」
 "...... midou, you'll like this.
 
 「わかるか」
@@ -7306,7 +7306,7 @@ I can't listen to you running off like that!
 「ど、どっ、どういうことかなっ?　こいつは間違いなく江戸の昔の――」
 "What, what, what does this mean?　This is definitely from the old days of Edo.
 
-「 midou、江戸っていつ？」
+「御堂、江戸っていつ？」
 "Midou, when is Edo?
 
 「百年ほど前に終わった時代だ」
@@ -7346,7 +7346,7 @@ I never thought I'd have an eye for antiques.
 That's true.　But if it's made of earth or minerals, you can tell its age at a glance.
 
 「……あぁーくそう……これだから蝦夷って連中は……。　商売がやり辛くってしょうがない……」
-　It's hard to do business with them. ......
+It's hard to do business with them. ......
 
 「もういいよぅ……その値段で持ってけ……」
 "Forget it. ...... Take it at that price. ......
@@ -7504,7 +7504,7 @@ Didn't you ever have any?　Didn't you have dreams as a child?
 「…………。　私は、生まれが生まれだったから」
 .............　I was born to be one.
 
-「蝦夷の鍛冶師の家に生まれついた者は tsurugiに成る以外の将来なんて考えないものよ」
+「蝦夷の鍛冶師の家に生まれついた者は劒冑に成る以外の将来なんて考えないものよ」
 "A man born into a family of blacksmiths in the Yezo region can think of no other future than becoming a tsurugi.
 
 「そうか……」
@@ -7552,13 +7552,13 @@ His eyes fluttered for a moment, and then Muramasa blew it out.
 「いいのよ。馬鹿ね。　何も知らない小さな頃に、ちょっと憧れただけなんだから」
 It's okay. I'm an idiot.　It's just a little admiration I had when I was a little kid who didn't know anything.
 
-「たとえ女官になれる伝があったとしたって、私は tsurugiになる事を選んでた」
+「たとえ女官になれる伝があったとしたって、私は劒冑になる事を選んでた」
 "Even if I had the chance to become a lady, I would have chosen to become a tsurugi.
 
 「……」
 "......
 
-「 tsurugiになったから、貴方に会えた」
+「劒冑になったから、貴方に会えた」
 "I met you because I became tsurugi.
 
 「それは偶然の巡り合わせだったのかもしれないけれど……。　二月前のあの時、貴方は」
@@ -7576,7 +7576,7 @@ Like picking up something precious.　Muramasa said, and gave a small laugh.
 「だから、いいの」
 It's okay.
 
-「色々なことがあってここまで来た……その過去全部を肯定するなんてできない。間違いは数え切れないくらいある。　でも、 tsurugiになったことだけは」
+「色々なことがあってここまで来た……その過去全部を肯定するなんてできない。間違いは数え切れないくらいある。　でも、劒冑になったことだけは」
 I've been through a lot to get here. ...... I can't affirm all of that past. I've made too many mistakes to count.　But the fact that I became tsurugi...
 
 「今は……そうして良かったって、思える」
@@ -8086,7 +8086,7 @@ We'll see.
 「すぐにわかる」
 We'll know soon enough.
 
-「あの、 midou……。　もう目付きが恐いのを通り越して赤裸々に危険なんだけど」
+「あの、御堂……。　もう目付きが恐いのを通り越して赤裸々に危険なんだけど」
 "Um, midou.......　The look in your eyes is beyond scary, it's nakedly dangerous.
 
 「病気だと言ったろう」
@@ -8206,14 +8206,14 @@ No, no, no.　Here.
 「そうそう、その辺りだってさ」
 Yeah, yeah, he said it was around there.
 
-八幡宮の再建はまだ着手もされていない状態だ。　 Maidononomiyaは相変わらず建朝寺に寄寓する身である。
+八幡宮の再建はまだ着手もされていない状態だ。　舞殿宮は相変わらず建朝寺に寄寓する身である。
 The reconstruction of the Hachimangu Shrine has not even begun.　 Maidononomiya continues to be a resident of Kenchoji Temple.
 
-その付近で紛争？　ならば当然、朝廷に敵意を持つ勢力――進駐軍内の強硬派、六波羅の一部過激派、等々――による Maidononomiya襲撃である確率が高い。
+その付近で紛争？　ならば当然、朝廷に敵意を持つ勢力――進駐軍内の強硬派、六波羅の一部過激派、等々――による舞殿宮襲撃である確率が高い。
 Conflict in the area?　If so, there is a high probability that it was a raid on Maidononomiya by forces hostile to the Imperial Court - hardliners in the Occupation forces, some extremists in Rokuhara, and so on.
 
- Shinnouの身が危険だ。　いやそれに留まらない――あの近辺には住民も多いのだ。現にこうして避難者がいる。
- Shinnou's life is in danger.　No, it doesn't stop there - there are many residents in that neighborhood. In fact, there are evacuees like this.
+親王の身が危険だ。　いやそれに留まらない――あの近辺には住民も多いのだ。現にこうして避難者がいる。
+Shinnou's life is in danger.　No, it doesn't stop there - there are many residents in that neighborhood. In fact, there are evacuees like this.
 
 甚大な被害が出るだろう。　　　――止めねば。
 There will be tremendous damage.　　　--We have to stop it.
@@ -8221,7 +8221,7 @@ There will be tremendous damage.　　　--We have to stop it.
 「村正！」
 "Muramasa!
 
-何処か近くで身を隠せる場所を探し、装甲しよう。　 mushaの足なら建朝寺は目先の距離。
+何処か近くで身を隠せる場所を探し、装甲しよう。　武者の足なら建朝寺は目先の距離。
 Let's find a place nearby where we can hide and armor up.　 If Musha's legs are any indication, Jianchouji is within striking distance.
 
 間に合う。　駆けつけて、惨劇を未然に、
@@ -8254,7 +8254,7 @@ And you're going to kill more to make up for your hypocrisy.　And your allies.
 ……できない。　できる筈がない。
 I can't .......　It's not possible.
 
-「 midou」
+「御堂」
 "midou.
 
 「…………」
@@ -8284,7 +8284,7 @@ In a single bed, I lie down with something warm.
 「…………」
 "............
 
-「……ね、 midou」
+「……ね、御堂」
 "......, midou.
 
 「ん……」
@@ -8335,10 +8335,10 @@ We should forget about fighting and live.
 その確信。　その確信は、一つの苦悶を呼ぶ。
 That certainty.　That certainty calls for one agony.
 
- Minato Kageakiという人に、戦いを忘れさせない決定的な要因があるとすれば、それは何か。
- If there is one decisive factor that keeps Minato Kageaki from forgetting the battle, what is it?
+湊斗景明という人に、戦いを忘れさせない決定的な要因があるとすれば、それは何か。
+If there is one decisive factor that keeps Minato Kageaki from forgetting the battle, what is it?
 
-武器だ。　 tsurugiだ。
+武器だ。　劒冑だ。
 It's a weapon.　 It's tsurugi.
 
 ここにいる村正だ。
@@ -8347,7 +8347,7 @@ It's Muramasa here.
 私と一緒にいる限り、彼は戦いを、過去の記憶を、決して忘れ去れないだろう。
 As long as he is with me, he will never be able to forget the battles, the memories of the past.
 
-――昼間の会話。　 tsurugiになる以外の道を望まなかったし、後悔もしていないと言った。
+――昼間の会話。　劒冑になる以外の道を望まなかったし、後悔もしていないと言った。
 --daytime conversation.　 He said he didn't want anything other than to become a tsurugi, and that he had no regrets.
 
 それは本当のこと。　けれど、今は……
@@ -8356,7 +8356,7 @@ That's true.　But now it's ......
 （変われるものなら）
 If I could change...
 
-別の何かになりたい。　 tsurugiではない、別の。
+別の何かになりたい。　劒冑ではない、別の。
 I want to be something else.　 Not tsurugi, but something else.
 
 鉄でもなく刃でもないものに。
@@ -8470,7 +8470,7 @@ If I had to say anything, it would be this time.　This is a time of slow escape
 これが全てだった。
 This was all I had.
 
-しかし、他の何が相応しいだろうか。　 Minato Kageakiの二年間の結果として、何が。
+しかし、他の何が相応しいだろうか。　湊斗景明の二年間の結果として、何が。
 But what else would be appropriate?　 As a result of Minato Kageaki's two years, what.
 
 これで良い。　これ以上の何かでは、俺は持て余す。
@@ -8563,38 +8563,38 @@ Oh, my God.
 「ここ最近の腐りっぷりは……　前にも増して、見るに耐えなかったぜェ！」
 "The rottenness of late has been even more unbearable to watch than before ......!
 
-「 Minato-sanよぉ!」
+「湊斗さんよぉ!」
 "It's Minato-san!
 
-顧みて……　 Minato Kageakiの敵とは、誰であったろう。
+顧みて……　湊斗景明の敵とは、誰であったろう。
 In retrospect, who were the enemies of ...... Minato Kageaki?
 
- Suzukawa Ryoubuか。　 Nagasaka Ukyoか。　 Fuuma Kotarouか。　 Ouji卓か。 Ouji操か。
- Suzukawa Ryoubu?　 Nagasaka Ukyo?　 Fuuma Kotarou?　 Taku Ouji? Ouji Misao?
+鈴川令法か。　長坂右京か。　風魔小太郎か。　皇路卓か。皇路操か。
+Suzukawa Ryoubu?　 Nagasaka Ukyo?　 Fuuma Kotarou?　 Taku Ouji? Ouji Misao?
 
- George・ Gargettか。　一ヶ尾一磨か。　 Ashikaga Moriujiか。
- George Gargett?　Is it Kazuma Ichigao?　 Ashikaga Moriuji?
+ジョージ・ガーゲットか。　一ヶ尾一磨か。　足利護氏か。
+George Gargett?　Is it Kazuma Ichigao?　 Ashikaga Moriuji?
 
- Ashikaga Chachamaruか。〝神〟か。　 Minato光か。
- Ashikaga Chachamaru. "Kami".　 Minato Hikari.
+足利茶々丸か。〝神〟か。　湊斗光か。
+Ashikaga Chachamaru. "Kami".　 Minato Hikari.
 
-彼らは Minato Kageakiと敵対した。　生命を、あるいは他の何かをも賭して争った。
+彼らは湊斗景明と敵対した。　生命を、あるいは他の何かをも賭して争った。
 They were hostile to Minato Kageaki.　They fought for their lives, or for something else.
 
-しかし、彼らの Minato Kageakiに対する敵意は純一のものであったろうか？
+しかし、彼らの湊斗景明に対する敵意は純一のものであったろうか？
 However, was their hostility towards Minato Kageaki pure and simple?
 
- Minato Kageakiを邪魔に思い、排斥しようとした者がいる。　 Minato Kageakiを、戯れ程度に相手した者がいる。　 Minato Kageakiなど、徹頭徹尾眼中に無かった者がいる。　 Minato Kageakiを、愛した者がいる。
- There are those who thought Minato Kageaki was a hindrance and tried to ostracize him.　 There are those who treated Minato Kageaki like a joke.　 There are those who did not care about Minato Kageaki at all.　 There are those who loved Minato Kageaki.
+湊斗景明を邪魔に思い、排斥しようとした者がいる。　湊斗景明を、戯れ程度に相手した者がいる。　湊斗景明など、徹頭徹尾眼中に無かった者がいる。　湊斗景明を、愛した者がいる。
+There are those who thought Minato Kageaki was a hindrance and tried to ostracize him.　 There are those who treated Minato Kageaki like a joke.　 There are those who did not care about Minato Kageaki at all.　 There are those who loved Minato Kageaki.
 
-彼らにとって、真に挑むべき敵とは別に在った。　 Minato Kageakiは対敵であっても怨敵ではなかった。
+彼らにとって、真に挑むべき敵とは別に在った。　湊斗景明は対敵であっても怨敵ではなかった。
 For them, there was another enemy to truly challenge.　 Minato Kageaki was their enemy, but not their bitter enemy.
 
 では？　では、誰が。
 Then?　Then who?
 
- Minato Kageakiを憎悪し得たのは誰か？　 Minato Kageakiが憎悪し得るのは誰か？
- Who could hate Minato Kageaki?　 Who could hate Minato Kageaki?
+湊斗景明を憎悪し得たのは誰か？　湊斗景明が憎悪し得るのは誰か？
+Who could hate Minato Kageaki?　 Who could hate Minato Kageaki?
 
 《何度でも言ってやるぜ……　てめェはくだらねえ半端野郎だ》
 I'll say it again and again: ...... You're a stupid, half-assed bastard.
@@ -8626,7 +8626,7 @@ I said, "Shut up!
 嘗て金翅鳥王剣と共に訪れた天啓。　あの時に約束された未来はいま現実となる。
 The revelation that once came with the King of Goldfinch Sword.　The future that was promised then is now a reality.
 
-突き詰めて――　　 Minato Kageakiの敵とは、 Sorimachi Ichizouがいるに過ぎない。
+突き詰めて――　　湊斗景明の敵とは、雪車町一蔵がいるに過ぎない。
 When you get right down to it - Minato Kageaki's only enemy is Sorimachi Ichizou.
 
 「……お前は――――」
@@ -8635,8 +8635,8 @@ When you get right down to it - Minato Kageaki's only enemy is Sorimachi Ichizou
 「ケ、ケッ……ケェーーーーッ!」
 "Que, que, ...... que!
 
- Sorimachi Ichizouが村正を抱えて跳ぶ。　向かう先は……既に動き出している列車。
- Sorimachi Ichizou leaps with Muramasa in his arms.　We're headed to ...... a train that's already in motion.
+雪車町一蔵が村正を抱えて跳ぶ。　向かう先は……既に動き出している列車。
+Sorimachi Ichizou leaps with Muramasa in his arms.　We're headed to ...... a train that's already in motion.
 
 窓枠を手掛かりにして張り付く。
 Use the window frame as a clue and stick to it.
@@ -8701,8 +8701,8 @@ I'm going after it.
 列車は既に遥か先だ。
 The train was already far ahead.
 
- Sorimachiと村正を乗せて、遠く。速く。
- Carrying Sorimachi and Muramasa, far away. Fast.
+雪車町と村正を乗せて、遠く。速く。
+Carrying Sorimachi and Muramasa, far away. Fast.
 
 行かせてはならない。　追う。
 Don't let him go.　Let's go.
@@ -8779,13 +8779,13 @@ We've wasted ...... hours!　The train was no longer a shadow of its former self
 する。　どうすれば追い付ける？
 I will.　How do I catch up?
 
-あの列車は次の駅で止まり、 Sorimachiはそこで降りるだろう。　しかしこのまま走っていては、次の駅までどれだけ掛かるか……その間に村正がどうなるか。
+あの列車は次の駅で止まり、雪車町はそこで降りるだろう。　しかしこのまま走っていては、次の駅までどれだけ掛かるか……その間に村正がどうなるか。
 That train would stop at the next station and Sorimachi would get off there.　But if we keep running, how long will it take to get to the next station? ...... What will happen to Muramasa in the meantime?
 
-いや、落ち着け。　このような時こそ mushaの能力が生かせる。
+いや、落ち着け。　このような時こそ武者の能力が生かせる。
 No, calm down.　It's times like this that musha's abilities come into play.
 
-汽車の一区間程度、翼の一打ち。　すぐに tsurugiを……
+汽車の一区間程度、翼の一打ち。　すぐに劒冑を……
 About a section of the train, a stroke of the wing.　Soon tsurugi to ......
 
 「村正！」
@@ -8800,13 +8800,13 @@ About a section of the train, a stroke of the wing.　Soon tsurugi to ......
 「……くッ!」
 "......!
 
-馬鹿が。　何を血迷っている――だから今はその tsurugi、村正が奪われているのだ！
+馬鹿が。　何を血迷っている――だから今はその劒冑、村正が奪われているのだ！
 You idiot.　So now that tsurugi, Muramasa, has been taken away!
 
 村正を助けるのに村正の力を頼れる筈がない。　馬鹿。何を錯乱して。愚劣な。
 There's no way we can rely on Muramasa's power to save him.　Fool. What are you confused about? Foolish.
 
-しかし……応答が無いというのは、如何なる事だ。　仕手と tsurugiの縁は不断のもの。どれほど距離が遠かろうと、繋がりを失う事などない。
+しかし……応答が無いというのは、如何なる事だ。　仕手と劒冑の縁は不断のもの。どれほど距離が遠かろうと、繋がりを失う事などない。
 But how can it be that there is no response to ......?　The relationship between the supplier and tsurugi is unbreakable. No matter how far away we are, we will never lose our connection.
 
 考えられるとすれば……　応答もしかねる程、深刻な損傷を受けているか。
@@ -8821,7 +8821,7 @@ Or.
 胸中に湧いた、不吉の影を払い捨てる。　有り得ない。あってはならない事だ。
 I brush away the shadow of foreboding that has sprung up in my heart.　It can't happen. It can't happen.
 
-とにかく追おう。　自前の足では駄目だ。 tsurugiも使えない。何か別の。
+とにかく追おう。　自前の足では駄目だ。劒冑も使えない。何か別の。
 Let's go after it anyway.　We can't use our own legs. We can't even use tsurugi. Something else.
 
 別の――何か……
@@ -8950,7 +8950,7 @@ Please do so.　I don't know how difficult it is, but ...... it's no good for so
 「えーっ、そんなのやだ！　もっといてほしい……」
 "Eww, no way!　I want you to stay more. ......
 
-「そうよねっ。　ほら、お武家様。 Funaもこう言ってます」
+「そうよねっ。　ほら、お武家様。ふなもこう言ってます」
 That's right.　See, samurai-sama. That's what Funa says.
 
 「う……ごめんなさい。　でも二人とも、昨日からここに詰めっきりでしょ？　朝御飯、食べてないんじゃないかと思って」
@@ -8971,7 +8971,7 @@ After spending an unnecessarily long time, you finally come to the next station.
 考える時間も惜しく、考えたくもなく。　脇目を振らず、駅の中へ飛び込む。
 I didn't have time to think about it, nor did I want to.　Without a second thought, I jumped into the station.
 
-当然だったが、列車はとうにいない。　人は幾人もいる――だが Sorimachiの姿は無い。村正も。
+当然だったが、列車はとうにいない。　人は幾人もいる――だが雪車町の姿は無い。村正も。
 Of course, the train was long gone.　There were a few people, but no sign of Sorimachi. Nor Muramasa.
 
 何処だ。　ここから、何処に行った?
@@ -9097,7 +9097,7 @@ How could ...... let this happen?
 「やっと……勝利を手にしたのに。　やっと、世界に挑戦できるのに」
 "I finally got my ...... victory.　Finally, we can take on the world.
 
-「みっ、 Minato-san……あなたは僕を応援してくれていたんでしょう！　僕の無念を知っているでしょう！」
+「みっ、湊斗さん……あなたは僕を応援してくれていたんでしょう！　僕の無念を知っているでしょう！」
 "Mi, Minato-san......, you were rooting for me, weren't you!　You know how disappointed I am!
 
 「僕は……僕は、ようやくあの挫折からここまで還ってきたんだ！　どれほどの苦労だったか！　あなたなら、わかってくれるはずです！」
@@ -9130,14 +9130,14 @@ I was about to run out.　Suddenly, it caught my eye.
 駅内の伝言板。　　その片隅。
 A message board in the station.　　A corner of it.
 
- Sorimachi、の署名と――　短い文章。
- Sorimachi, with the signature of -- a short sentence.
+雪車町、の署名と――　短い文章。
+Sorimachi, with the signature of -- a short sentence.
 
 ……俺宛の、連絡だった。
 It was ......, addressed to me.
 
- Sorimachi Ichizou。そういう名だった。　青白い風貌のその男を、奇妙な箱に押し込められた格好から見上げる。
- Sorimachi Ichizou.　I looked up at the pale man from the strange box he was squeezed into.
+雪車町一蔵。そういう名だった。　青白い風貌のその男を、奇妙な箱に押し込められた格好から見上げる。
+Sorimachi Ichizou.　I looked up at the pale man from the strange box he was squeezed into.
 
 岩の上に腰掛けて、男は表情なく物思う様子だった。　こちらには視線も、言葉も投げない。
 Sitting on a rock, the man looked pensive and expressionless.　He didn't look at us or say a word.
@@ -9166,7 +9166,7 @@ Hey, you.
 「申し訳ありゃァせんが、そいつは我慢してくんなさい」
 I'm sorry, but you're going to have to put up with that.
 
-《……違います。　そんなのするわけないでしょう、 tsurugiが》
+《……違います。　そんなのするわけないでしょう、劒冑が》
 It's not .......　There's no way tsurugi would do that.
 
 「へ、へ、ヘェ……！　そうでしたかね。失礼しました」
@@ -9181,7 +9181,7 @@ The ----
 ……そういえば、この男。　私が蝦夷から蜘蛛の形に戻った時、全く動じる様子がなかった。
 ...... Speaking of which, this guy.　When I returned to my spider form from Ezo, he didn't seem fazed at all.
 
-つまり最初から私を tsurugiの村正と知って襲ってきた……？
+つまり最初から私を劒冑の村正と知って襲ってきた……？
 I mean, he knew I was tsurugi's Muramasa all along and attacked me. ......?
 
 《貴方の前に蝦夷の姿で出たことはなかったと思うけれど……》
@@ -9202,7 +9202,7 @@ I lost track of you and the bastard for a long time because of the mess from the
 《……》
 The ......
 
-「驚きましたねェ。野郎のそばに蝦夷のいい女がついてると思えば、そいつが村正、村正って呼ばれてる。　まさかこんな芸達者な tsurugiがあるたァ……」
+「驚きましたねェ。野郎のそばに蝦夷のいい女がついてると思えば、そいつが村正、村正って呼ばれてる。　まさかこんな芸達者な劒冑があるたァ……」
 I was surprised, wasn't I? "I was surprised to find a nice Ezo woman by the side of the bastard, and she was called Muramasa, Muramasa.　I didn't think there was such a talented tsurugi. ......
 
 《何を考えているの？》
@@ -9217,7 +9217,7 @@ Even though you lost at Enoshima, you're still looking for us, stalking us, atta
 「…………」
 "............
 
-《……復讐？　 Fukiと、 Funaの》
+《……復讐？　ふきと、ふなの》
 《...... revenge?　 Fuki and Funa's
 
 「……？　誰ですか、そりゃあ」
@@ -9262,7 +9262,7 @@ Are you kidding me?
 「いぃえぇ……」
 Yeeeeah. ......
 
-《…………。　理由らしい理由が無いのなら、 midouを―― Kageakiを苦しめるのはやめて》
+《…………。　理由らしい理由が無いのなら、御堂を――景明を苦しめるのはやめて》
 《.............　If you don't have a good reason, stop tormenting midou-- Kageaki.
 
 《何をする気か知らないけれど、貴方があの人に悪意を抱いているのはわかる》
@@ -9274,7 +9274,7 @@ I don't know what you're trying to do, but I know you harbor ill will towards th
 《貴方は何も知らない。　あの人はもう充分に苦しんだ……今も苦しんでいる》
 You don't know anything.　He's already suffered enough. ...... He's still suffering.
 
-《村正の銘が背負う罪を貴方が問いたいなら、私になさい。　 midouには手出ししないで……》
+《村正の銘が背負う罪を貴方が問いたいなら、私になさい。　御堂には手出ししないで……》
 If you want to question the sins that Muramasa's name bears, ask me.　 Don't mess with midou. ......
 
 《私はもう……あの人を解放したい……》
@@ -9358,7 +9358,7 @@ Time has passed - too much time has passed.　I wonder how many hours have passe
 陽は傾き、空は赤らみ始めている。
 The sun was setting and the sky was beginning to blush.
 
-無事だ。まだ無事、その筈だ。　 Sorimachiの目的が何であろうと、村正を殺す必要など無い筈だ。
+無事だ。まだ無事、その筈だ。　雪車町の目的が何であろうと、村正を殺す必要など無い筈だ。
 It's safe. He's still safe. He has to be.　 Whatever Sorimachi's purpose was, there was no need to kill Muramasa.
 
 だから無事でいる。　そう信じる。
@@ -9379,7 +9379,7 @@ Running: ----
 そこはただの荒地だった。　草が苞々に生え、大小の石塊も無数に転がっている。
 The place was nothing but a wasteland.　Grass grew in bracts, and there were countless rocks of all sizes lying around.
 
-そんな中で枯れ木のように、 Sorimachi Ichizouはいた。　岩に預けていた腰を持ち上げ、俺の方へ数歩、歩み寄る。
+そんな中で枯れ木のように、雪車町一蔵はいた。　岩に預けていた腰を持ち上げ、俺の方へ数歩、歩み寄る。
 In the midst of all this, like a dead tree, there was Sorimachi Ichizou.　He lifted his back from the rock and took a few steps toward me.
 
 そこで止まった。
@@ -9424,7 +9424,7 @@ A voice that sounds very much like a corpse-fishing raven laughing.　　Calm do
 切札は向こうの手にある。　焦ってはならない。
 The trump card is in their hands.　Don't be in a hurry.
 
-「ご執心じゃねェか。　たかが tsurugiに……何をそんな、入れ込んでやがるんだァ？」
+「ご執心じゃねェか。　たかが劒冑に……何をそんな、入れ込んでやがるんだァ？」
 "You're obsessed, aren't you?　What are you so obsessed with?
 
 「お前に説明する必要はない。　村正を返せ」
@@ -9490,8 +9490,8 @@ No.
 「もう、何処にも、いねぇ」
 She's nowhere to be found.
 
- Sorimachiが繰り返す単純な言葉。　その意味が理解できない。
- A simple word repeated by Sorimachi.　I don't understand its meaning.
+雪車町が繰り返す単純な言葉。　その意味が理解できない。
+A simple word repeated by Sorimachi.　I don't understand its meaning.
 
 いない？　もういない……？
 He's gone?　He's gone. ......?
@@ -9544,8 +9544,8 @@ You lie. You lie.
 「嘘を、」
 "Lies.
 
- Sorimachiが上着の裏から何かを取り出し、投げた。　人の手より一回り大きい程度のもの。
- Sorimachi took something out of the back of his jacket and threw it.　It was about the size of a human hand.
+雪車町が上着の裏から何かを取り出し、投げた。　人の手より一回り大きい程度のもの。
+Sorimachi took something out of the back of his jacket and threw it.　It was about the size of a human hand.
 
 赤い。　鮮血を思わせる真紅。
 Red.　Crimson, reminiscent of fresh blood.
@@ -9574,8 +9574,8 @@ That, ---- fragments.
 その銘を呼ぶ。
 Call the name.
 
- tsurugiと仕手は不離一体。　遠く隔てられていても呼び声は必ず届く。
- tsurugi and tatemae are inseparable.　Even if they are separated by a long distance, their calls always reach us.
+劒冑と仕手は不離一体。　遠く隔てられていても呼び声は必ず届く。
+tsurugi and tatemae are inseparable.　Even if they are separated by a long distance, their calls always reach us.
 
 届けば、応えてくれる。　応えが来る――
 If you deliver, they will respond.　A response will come--
@@ -9610,8 +9610,8 @@ The blood, the blood, exploded.
 草の上を飛ぶ。飛んで駆ける。　その男を狙って疾走する。
 Fly over the grass. Flying and running.　Sprinting for the man.
 
- Sorimachiの手が仕込み杖に伸びた。　遅い――俺の方が早い。
- Sorimachi's hand reached for his staff.　It's too late - I'm faster than you.
+雪車町の手が仕込み杖に伸びた。　遅い――俺の方が早い。
+Sorimachi's hand reached for his staff.　It's too late - I'm faster than you.
 
 指呼の間へ飛び込む。　右拳を振りかぶり。
 I jump into the space between the fingers.　He swung his right fist.
@@ -9631,13 +9631,13 @@ Take a big step.　Again.
 「けェッ!」
 Fuck!
 
-その出鼻に、叩き込まれた。　 Sorimachiの拳が俺の頬を抉り、視界が火花の渦と化す。
+その出鼻に、叩き込まれた。　雪車町の拳が俺の頬を抉り、視界が火花の渦と化す。
 Sorimachi's fist gouged my cheek.　 Sorimachi's fist gouged my cheek, and my vision became a whirlpool of sparks.
 
 構わない。　膝にまで響く打撃を無視して、返しの一撃。
 No matter.　I ignored the blow that echoed down to my knees, and struck back.
 
-数歩、たたらを踏み。　それでも Sorimachiは倒れなかった。
+数歩、たたらを踏み。　それでも雪車町は倒れなかった。
 A few steps, a tatara.　Still, Sorimachi did not fall.
 
 俺の両肩を掴んで、信じ難い剛力で引き込み、腹に膝頭を突き入れてくる。
@@ -9646,7 +9646,7 @@ He grabs me by both shoulders, pulls me in with unbelievable rigidity, and drive
 大量の苦汁が喉を越え、口腔に湧き出す。　吐く。
 A large amount of bitterness gushes down my throat and into my mouth.　I vomit.
 
-更に Sorimachiは、俺の背へ肘を打った。　連続して。鋭い衝撃に背骨が歪む。
+更に雪車町は、俺の背へ肘を打った。　連続して。鋭い衝撃に背骨が歪む。
 Sorimachi then elbowed me in the back.　In rapid succession. The sharp impact distorted my spine.
 
 「ぐァァァァ!」
@@ -9655,7 +9655,7 @@ Sorimachi then elbowed me in the back.　In rapid succession. The sharp impact d
 吼えた。　前屈した体勢のまま、死力を尽くす。
 He barked.　He bent forward and gave it his all.
 
-強引な投げ。　無理矢理に、 Sorimachiの体を地面へ倒す。
+強引な投げ。　無理矢理に、雪車町の体を地面へ倒す。
 A forceful throw.　Forcing Sorimachi's body to the ground.
 
 俺も諸共に引き倒された。　組み合ったまま、殴り合う。
@@ -9664,8 +9664,8 @@ I was pulled down along with the others.　I was pulled down, and we hit each ot
 殴る。　殴られる。
 Hit.　Get beaten up.
 
- Sorimachi Ichizouは俺を憎悪していた。　俺は Sorimachi Ichizouを憎悪していた。
- Sorimachi Ichizou hated me.　I hated Sorimachi Ichizou.
+雪車町一蔵は俺を憎悪していた。　俺は雪車町一蔵を憎悪していた。
+Sorimachi Ichizou hated me.　I hated Sorimachi Ichizou.
 
 殴る。
 I'll hit you.
@@ -9694,8 +9694,8 @@ I'll hit you.
 いつしか、殴っているのは俺だけだった。
 At some point, I was the only one hitting him.
 
- Sorimachiは動かない。　俺に殴られ、殴られながら笑っている。
- Sorimachi doesn't move.　He's laughing as I hit and beat him.
+雪車町は動かない。　俺に殴られ、殴られながら笑っている。
+Sorimachi doesn't move.　He's laughing as I hit and beat him.
 
 「へっ……へへ」
 "Heh, ...... heh.
@@ -9778,7 +9778,7 @@ I don't want to hear your voice.
 殴る。　黙らせたくて、殴る。
 I hit him.　I want to shut him up, so I hit him.
 
-止まらない。　 Sorimachiは笑い続ける。
+止まらない。　雪車町は笑い続ける。
 It never stops.　 Sorimachi kept laughing.
 
 「殺せ」
@@ -9820,8 +9820,8 @@ Blood, and something else, spurts out.
 「ひけっ……ケケ……！」
 "Hiccup ...... keke ......!
 
- Sorimachiは尚、笑っている。　だが――明らか。
- Sorimachi is still smiling.　But it's obvious.
+雪車町は尚、笑っている。　だが――明らか。
+Sorimachi is still smiling.　But it's obvious.
 
 その頭蓋は割れ、生命の器は壊れた。
 Its skull was cracked and the vessel of life was broken.
@@ -9832,7 +9832,7 @@ I murdered this man.
 「ヒ……ヒヒ」
 "baboon...... baboon.
 
-致命傷を負いながら。　 Sorimachi Ichizouは俺の下から這い出し、進む。
+致命傷を負いながら。　雪車町一蔵は俺の下から這い出し、進む。
 With a mortal wound.　 Sorimachi Ichizou crawls out from under me and proceeds.
 
 自分が腰掛けていた岩へ。
@@ -9853,7 +9853,7 @@ Box.
 大きな箱だ。
 It's a big box.
 
-例えば、　 tsurugiが収まる程度の。
+例えば、　劒冑が収まる程度の。
 For example, the degree to which tsurugi will fit.
 
 「…………」
@@ -9865,8 +9865,8 @@ The dying man's fingers unclasped the clasp and opened the lid.　That seemed to
 最後に俺を見て。　祝福するように、嘲笑を寄越して。
 One last look at me.　He gave me a mocking smile, as if to congratulate me.
 
- Sorimachi Ichizouは息絶えた。
- Sorimachi Ichizou died.
+雪車町一蔵は息絶えた。
+Sorimachi Ichizou died.
 
 「…………」
 "............
@@ -9895,7 +9895,7 @@ That iron. The spider.　As I stared at it, it changed its form.
 安堵する余り、俺はへたり込んだ。
 I was so relieved that I slumped down.
 
-嘘だったのだ。　 Sorimachiは村正を殺していなかった。
+嘘だったのだ。　雪車町は村正を殺していなかった。
 It was a lie.　 Sorimachi had not killed Muramasa.
 
 通信が途絶していたのは遮断装置のため。
@@ -9937,8 +9937,8 @@ The end of killing by hatred.　The price of killing by love.
 善悪相殺の掟。
 The law of offsetting good and evil.
 
- Sorimachi Ichizouを殺した俺は、　村正をも殺す。
- I killed Sorimachi Ichizou, I'll kill Muramasa too.
+雪車町一蔵を殺した俺は、　村正をも殺す。
+I killed Sorimachi Ichizou, I'll kill Muramasa too.
 
 「なッ……あァァ?」
 "What the hell is ......?
@@ -9967,7 +9967,7 @@ Step by step, sword in hand.
 ――嫌だ。　――やめろ。
 --I don't like it.　--Stop it.
 
-俺の肉体は俺の拒絶を黙殺する。　一つの戒 Ritsuに服従する。
+俺の肉体は俺の拒絶を黙殺する。　一つの戒律に服従する。
 My body silences my rejection.　Obey the One Commandment Ritsu.
 
 近寄る。
@@ -9997,7 +9997,7 @@ Why?
 「何故だァ!」
 Why?
 
-「…… midou……」
+「……御堂……」
 ...... midou......
 
 「最後に、お願い……」
@@ -10060,7 +10060,7 @@ There was nothing to tie me down.
 使命も。
 And the mission.
 
-2021-03-06 18:05:44016:47:45 『打つ』『待つ』『逃れる』 ――――　復讐編　―――― 2021-03-08 18:06:44044:33:54 『待つ』『逃げる』 ――――　魔王編　――――  　データ無し 2021-03-08 10:40:35042:48:54 『大きな屋敷』『町外れ』『裏山』 ――――　魔王編　―――― 2021-03-01 10:57:42020:19:16 『このまま斬る』『……待て』 ――――　英雄編　―――― 2021-02-28 21:58:39007:20:13 『この場に留まる』『 Ichijouの様子を見に行く』『 Kanaeの様子を見に行く』 ――――　第三編 逆襲 craft　―――― 2021-03-08 17:35:54044:03:04 『可能な限り遠くへ離脱』『遮蔽物を探す』 ――――　魔王編　――――  　データ無し 2021-03-08 19:40:13046:07:23　数字にカーソルを合わせてクリックした後、マスにカーソルを合わせてクリックすると ――――　魔王編　―――― 2021-02-27 20:34:12007:27:35　これが Suzukawaの最後の授業。 ――――　第一編 鮮紅 craft　―――― 2021-02-28 21:54:07007:15:40 『率直だ、と思う』『未熟だ、と思う』 ――――　第二編 双老 craft　―――― 2021-03-07 22:57:37031:26:52 『捨てられる』『捨てられない』 ――――　魔王編　―――― 2021-03-08 23:52:44050:16:06 『殺す』『……殺せない』 ――――　悪鬼編　―――― 2021-03-08 19:51:15046:17:12　数字にカーソルを合わせてクリックした後、マスにカーソルを合わせてクリックすると ――――　魔王編　―――― 2021-03-01 18:17:02010:11:06 『斬り合う』『ひとまず防御に徹する』 ――――　復讐編　:15:47007:13:15 『信用できる』『わからない』 ――――　第二編 双老 craft　―――― 2021-02-23 19:03:31027:59:49 『 Ichijou』『 Kanae』『ライガー』 ――――　第三編 逆襲 craft　―――― 2021-03-08 18:11:57044:39:07 『ここに留まる』『船上に降りる』 ――――　魔王編　――――  　データ無し 2021-03-06 18:05:20016:47:21 『打つ』『待つ』『逃れる』 ――――　復讐編　――――
+2021-03-06 18:05:44016:47:45 『打つ』『待つ』『逃れる』 ――――　復讐編　―――― 2021-03-08 18:06:44044:33:54 『待つ』『逃げる』 ――――　魔王編　――――  　データ無し 2021-03-08 10:40:35042:48:54 『大きな屋敷』『町外れ』『裏山』 ――――　魔王編　―――― 2021-03-01 10:57:42020:19:16 『このまま斬る』『……待て』 ――――　英雄編　―――― 2021-02-28 21:58:39007:20:13 『この場に留まる』『一条の様子を見に行く』『香奈枝の様子を見に行く』 ――――　第三編 逆襲騎　―――― 2021-03-08 17:35:54044:03:04 『可能な限り遠くへ離脱』『遮蔽物を探す』 ――――　魔王編　――――  　データ無し 2021-03-08 19:40:13046:07:23　数字にカーソルを合わせてクリックした後、マスにカーソルを合わせてクリックすると ――――　魔王編　―――― 2021-02-27 20:34:12007:27:35　これが鈴川の最後の授業。 ――――　第一編 鮮紅騎　―――― 2021-02-28 21:54:07007:15:40 『率直だ、と思う』『未熟だ、と思う』 ――――　第二編 双老騎　―――― 2021-03-07 22:57:37031:26:52 『捨てられる』『捨てられない』 ――――　魔王編　―――― 2021-03-08 23:52:44050:16:06 『殺す』『……殺せない』 ――――　悪鬼編　―――― 2021-03-08 19:51:15046:17:12　数字にカーソルを合わせてクリックした後、マスにカーソルを合わせてクリックすると ――――　魔王編　―――― 2021-03-01 18:17:02010:11:06 『斬り合う』『ひとまず防御に徹する』 ――――　復讐編　:15:47007:13:15 『信用できる』『わからない』 ――――　第二編 双老騎　―――― 2021-02-23 19:03:31027:59:49 『一条』『香奈枝』『ライガー』 ――――　第三編 逆襲騎　―――― 2021-03-08 18:11:57044:39:07 『ここに留まる』『船上に降りる』 ――――　魔王編　――――  　データ無し 2021-03-06 18:05:20016:47:21 『打つ』『待つ』『逃れる』 ――――　復讐編　――――
 2021-03-06 18:05:44016:47:45 "Hitting," "Waiting," "Escaping" ---- Revenge --. -- 2021-03-08 18:06:44044:33:54 "Wait", "Escape" ---- Demon King Arc　---- No data 2021-03-08 10:40:35042:48:54 "Big house", "Outskirts of town", "Back mountain -- Demon King Chapter ---- 2021-03-01 10:57:42020:19:16 "I'm going to slay this thing", "... ...Wait." ---- Heroic Edition ---- 2021-02 -28 21:58:39007:20:13 "I'll stay here," "I'll go check on Ichijou," "I'll go check on Kanae." ---- Part 3: Counterattack craft　---- 2021-03-08 17:35:54044:03:04 "Get as far away from here as possible" "Find a shield -- Demon Lord version ---- No data 2021-03-08 19:40:13046:07:23 Move the cursor over the number and click. After that, move the cursor over the square and click on it. ---- The Demon King: ---- 2021-02-27 20:34:12007:27:35 This is Suzukawa's last class. ---- Part 1: Fresh Red craft ---- 2021-02-28 21:54: 07007:15:40 "I'm frank, I think" "I'm immature, I think" ---- Part 2: Souro craft --. -- 2021-03-07 22:57:37031:26:52 "Abandoned," "Cannot be abandoned" ---- Demon King　---- 2021-03-08 23:52:44050:16:06 "Kill", "...... can't kill ---- Demon Edition ---- 2021-03-08 19:51:15046: 17:12 Move the cursor over the number and click on it, then move the cursor over the square and click on it. ---- Demon King Edition --. -- 2021-03-01 18:17:02010:11:06 "Cutting each other down" and "On the defensive for a moment" ---- Vengeance Edition :15: 47007:13:15 "I can trust you" "I don't know" ---- Part 2: Shuaro craft-- -- 2021-02-23 19:03:31027:59:49 "Ichijou", "Kanae", "Liger" ---- Part 3 Counterattack craft ---- 2021-03-08 18:11:57044:39:07 "Stay Here", "Down on Board" -- -- Demon King Arc ---- No data 2021-03-06 18:05:20016:47:21 "Strike", "Wait", "Escape ---- Revenge Edition ----
 
 憎い。
@@ -10111,8 +10111,8 @@ I think deeply.　I hate the man who took Muramasa away from me too much.
 だが――村正を殺したのは、この男だけなのか。
 But - is this the only man who killed Muramasa?
 
- Sorimachiのした事はある意味、復讐だ。　俺の殺人を憎み、俺への報復を望んだ。
- In a way, what Sorimachi did was revenge.　He hated me for my murder, and he wanted revenge on me.
+雪車町のした事はある意味、復讐だ。　俺の殺人を憎み、俺への報復を望んだ。
+In a way, what Sorimachi did was revenge.　He hated me for my murder, and he wanted revenge on me.
 
 俺が契機だ。
 I'm the opportunity.
@@ -10156,8 +10156,8 @@ I believed that by killing one person in front of me, I could prevent the death 
 ――だから殺した。
 --so I killed it.
 
- Nitta Yuuhiも、
- Nitta Yuuhi, too.
+新田雄飛も、
+Nitta Yuuhi, too.
 
 光も。
 And light.
@@ -10210,7 +10210,7 @@ Can you take it?
 「…………」
 "............
 
-石を手放して、立ち上がる。　俺が離れても、 Sorimachiは倒れたまま、こちらを見ていた。
+石を手放して、立ち上がる。　俺が離れても、雪車町は倒れたまま、こちらを見ていた。
 I let go of the stone and stood up.　Even as I pulled away, Sorimachi remained on the ground, looking at me.
 
 踵を返す。
@@ -10261,7 +10261,7 @@ Then what do we do now?
 これから。　俺は、どうするのか。
 From now on.　What am I going to do?
 
-復讐を拒絶して、　 Minato Kageakiは何をするのか。
+復讐を拒絶して、　湊斗景明は何をするのか。
 Refusing to take revenge, what will Minato Kageaki do?
 
 「逃げるつもりだったろう。　駅で、俺が邪魔しなけりゃア」
@@ -10378,7 +10378,7 @@ I'm not crazy.
 「てめぇはそれを、また……　嫌々、泣きながら、やるのか？」
 "You're going to do it all over again ......, hating it, crying about it?
 
-肩越しに視線を投げる。　 Sorimachiは冷たく、俺を眺めていた。
+肩越しに視線を投げる。　雪車町は冷たく、俺を眺めていた。
 I throw a glance over my shoulder.　 Sorimachi was looking at me coldly.
 
 ……嫌々？　　やりたくもないのに、やるという事か。
@@ -10387,7 +10387,7 @@ I throw a glance over my shoulder.　 Sorimachi was looking at me coldly.
 何を言うかと思えば。
 What do you think I'm going to say?
 
-「 Sorimachi。　勘違いは、迷惑だ」
+「雪車町。　勘違いは、迷惑だ」
 Misunderstandings are annoying.
 
 「……あァ？」
@@ -10400,7 +10400,7 @@ I didn't want to be the first.
 "If I didn't want to do it, I wouldn't have done it.　I wanted to do it, so I did it.
 
 「……当たり前の事だろうが？　本当にやりたくない事をやる人間が何処にいる？」
-'...... Isn't that obvious?　Where are the people who do things they really don't want to do?
+...... Isn't that obvious?　Where are the people who do things they really don't want to do?
 
 「……」
 "......
@@ -10429,8 +10429,8 @@ I'm not crying.　But if it looked like I was crying, ......
 「きっと、笑っていたのだろうよ。　涙が零れるほど、愉しくて」
 "I'm sure he was laughing.　I'm sure they were laughing so hard they were crying.
 
- Sorimachiは暫時、沈黙したようだった。
- Sorimachi seemed to be silent for a moment.
+雪車町は暫時、沈黙したようだった。
+Sorimachi seemed to be silent for a moment.
 
 やがて――少しずつ。　陰々と。
 Eventually - little by little.　Shadily.
@@ -10483,8 +10483,8 @@ Is that him?
 「返してやらァ」
 I'll give it back.
 
- Sorimachiは億劫げに起き上がると、最初に座っていた岩へ近寄った。　その陰から、何かを取り出す。
- Sorimachi got up in a huff and walked over to the first rock he had been sitting on.　He pulled something out from behind it.
+雪車町は億劫げに起き上がると、最初に座っていた岩へ近寄った。　その陰から、何かを取り出す。
+Sorimachi got up in a huff and walked over to the first rock he had been sitting on.　He pulled something out from behind it.
 
 箱だった。　　これは……通信遮断装置か？
 It was a box.　　Is this a ...... communication blocker?
@@ -10507,7 +10507,7 @@ My red partner was there.　I could tell at a glance that he was alive and well.
 そして、あの筋者がこんな仕掛けを使って殺したと偽った意図は、おそらく――
 And that the plotter's intentions in faking the kill with such a device were probably--
 
-「 Sorimachi」
+「雪車町」
 Sorimachi.
 
 「何でぇ？」
@@ -10516,7 +10516,7 @@ Why?
 「行くのか」
 You're going?
 
-ふらつく足取りで離れてゆく、その背に声を掛ける。　一度だけ振り返り。 Sorimachi Ichizouは唾を吐いた。
+ふらつく足取りで離れてゆく、その背に声を掛ける。　一度だけ振り返り。雪車町一蔵は唾を吐いた。
 I call out to him as he staggers away.　He looked back only once. Sorimachi Ichizou spat at it.
 
 憎々しげに笑って、言う。
@@ -10534,7 +10534,7 @@ Muramasa took the form of an Emishi and stood.　He looked up at me with puzzled
 全て聞いていたのだろう。
 He must have heard everything.
 
-「…… midou。　あの男は貴方に自分を殺させて、それから私も殺させようとした」
+「……御堂。　あの男は貴方に自分を殺させて、それから私も殺させようとした」
 "...... midou. That man made you kill him, and then he tried to make me kill him.
 
 「善悪相殺の誓約を利用して」
@@ -10597,7 +10597,7 @@ Until everyone knows and admits ...... that it is the truth of the struggle, and
 「地上から戦いが絶えるまで」
 "Until there is no more war on earth.
 
-「…… midou……」
+「……御堂……」
 ...... midou......
 
 「村正。　お前はどうする」
@@ -10612,22 +10612,22 @@ Will you go with me?
 「私は……」
 I'm .......
 
-「 Yuuhiが死んだことの意味です」
+「雄飛が死んだことの意味です」
 "It means Yuuhi is dead.
 
 「その意味がどんなものかは聞きません。　今は……聞きたくないです」
 I won't ask what that means.　I don't want to hear ...... right now.
 
-「 Yuuhiの命と引き換えにされたなにかのことなんて、僕は知りたくない」
+「雄飛の命と引き換えにされたなにかのことなんて、僕は知りたくない」
 "I don't want to know about something that was traded for Yuuhi's life.
 
 「でもお姉さんは……その意味を大事にして、守ってください。　せめて」
 But sister, please take care of ...... its meaning and protect it.　At least.
 
-「あなたはそのために、 Yuuhiを犠牲にしたんですから」
+「あなたはそのために、雄飛を犠牲にしたんですから」
 You sacrificed Yuuhi for it.
 
-「私は、善悪相殺の誓いを心鉄に刻む村正。　何よりも、貴方を仕手とする tsurugiだから」
+「私は、善悪相殺の誓いを心鉄に刻む村正。　何よりも、貴方を仕手とする劒冑だから」
 "I am Muramasa, whose vow to offset good and evil is engraved on my heart.　Above all, I am the tsurugi who will make you my master.
 
 「貴方が力を求めるなら、応えるまで」
@@ -10678,7 +10678,7 @@ Yeah.
 「左様でございますなァ」
 That's right.
 
-「 Ayaneの嬢さんは？」
+「綾弥の嬢さんは？」
 "Where is Ayane's daughter?
 
 「…………」
@@ -10705,14 +10705,14 @@ I don't have time for this. ......　I'm going to go back to my group and do my 
 三者は別れた。
 The three of them split up.
 
- Sorimachi Ichizouは去り、
- Sorimachi Ichizou left.
+雪車町一蔵は去り、
+Sorimachi Ichizou left.
 
- Ootori Kanaeは待ち、
- Ootori Kanae is waiting.
+大鳥香奈枝は待ち、
+Ootori Kanae is waiting.
 
- Ayane Ichijouは、行く。
- Ayane Ichijou, go.
+綾弥一条は、行く。
+Ayane Ichijou, go.
 
 風が一陣、流れた。
 A gust of wind blew through the air.
@@ -10720,7 +10720,7 @@ A gust of wind blew through the air.
 そこに紛れる猛気が、肌を炙る。　俺は振り返った。
 The fierce air that blended in there seared my skin.　I turned around.
 
-良く知る少女が立っている。　濃藍の tsurugiを従えて、夕闇の下。
+良く知る少女が立っている。　濃藍の劒冑を従えて、夕闇の下。
 A girl I know well is standing there.　Under the evening darkness, accompanied by a dark indigo tsurugi.
 
 今、俺へ向ける顔にあるものは――
