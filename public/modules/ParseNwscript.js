@@ -126,16 +126,22 @@ export const ParseNwscript = (nssText) => {
         let error;
         [error, statement.rawCondition] = skipTillClosed('(', ')');
         if (error) {
-            return [error, statement];
+            return Err(error, statement);
         }
         if (!unprefix(/\s*{/)) {
-            return [SrcError('IF statement misses opening brace'), statement];
+            return Err(SrcError('IF statement misses opening brace'), statement);
         }
         [error, statement.thenStatements] = parseStatements();
-        if (!error && unprefix(/\s*else\s*{/)) {
-            [error, statement.elseStatements] = parseStatements();
+        if (error) {
+            return Err(error, statement);
         }
-        return [error, statement];
+        if (unprefix(/\s*else\s*{/)) {
+            [error, statement.elseStatements] = parseStatements();
+            if (error) {
+                return Err(error, statement);
+            }
+        }
+        return Ok(statement);
     };
 
     const parseAsFunctionCall = () => {
@@ -151,12 +157,12 @@ export const ParseNwscript = (nssText) => {
         let error;
         [error, statement.rawArguments] = skipTillClosed('(', ')');
         if (error) {
-            return [error, statement];
+            return Err(error, statement);
         }
         if (!unprefix(/\s*;/)) {
-            error = SrcError('Missing semicolon after side-effects function call');
+            return Err(SrcError('Missing semicolon after side-effects function call'), statement);
         }
-        return [error, statement];
+        return Ok(statement);
     };
 
     const parseStatement = () => {
