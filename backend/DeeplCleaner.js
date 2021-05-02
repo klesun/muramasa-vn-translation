@@ -1,11 +1,6 @@
 import {promises as fs} from "fs";
 import {parseSentenceTranslationsFile} from "../public/modules/SrtUtils.js";
-// import ed from 'edit-distance';
 import FastestLevenshtein from 'fastest-levenshtein';
-
-const insert = function(node) { return 0; };
-const remove = function(node) { return 1; };
-const update = function(stringA, stringB) { return stringA !== stringB ? 1 : 0; };
 
 const cutters = [
     (sentence, minLength) => sentence,
@@ -18,7 +13,7 @@ const cutters = [
 ];
 
 export const hasRepeatingSentences = (eng) => {
-    const sentences = eng.split(/[.!?]+/).filter(s => s.trim());
+    const sentences = eng.split(/[.!?:]+/).filter(s => s.trim());
     for (let i = 1; i < sentences.length; ++i) {
         for (let j = Math.max(i - 2, 0); j < i; ++j) {
             const prev = sentences[j].trim();

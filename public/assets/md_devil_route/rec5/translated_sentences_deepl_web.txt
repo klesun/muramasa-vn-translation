@@ -1,4 +1,4 @@
-2021-03-06 18:05:44016:47:45 『打つ』『待つ』『逃れる』 ――――　復讐編　―――― 2021-02-28 14:27:21043:06:48「……やらねばならないのだ……」 ――――　第四編 震天 craft　――――  　データ無し 2021-03-07 14:58:17023:27:32 『そうしよう』『たまにはいいか』『仕方ないな』 ――――　魔王編　―――― 2021-03-01 10:57:42020:19:16 『このまま斬る』『……待て』 ――――　英雄編　―――― 2021-02-28 21:58:39007:20:13 『この場に留まる』『 Ichijouの様子を見に行く』『 Kanaeの様子を見に行く』 ――――　第三編 逆襲 craft　―――― 2021-02-28 06:52:59035:32:27 『娘だ』『違う』 ――――　第四編 震天 craft　――――7 20:34:12007:27:35　これが Suzukawaの最後の授業。 ――――　第一編 鮮紅 craft　―――― 2021-02-28 21:54:07007:15:40 『率直だ、と思う』『未熟だ、と思う』 ――――　第二編 双老 craft　―――― 2021-03-07 22:57:37031:26:52 『捨てられる』『捨てられない』 ――――　魔王編2021-03-01 18:17:02010:11:06 『斬り合う』『ひとまず防御に徹する』 ――――　復讐編　:15:47007:13:15 『信用できる』『わからない』 ――――　第二編 双老 craft　―――― 2021-02-23 19:03:31027:59:49 『 Ichijou』『 Kanae』『ライガー』 ――――　第三編 逆襲 craft2021-03-06 18:05:20016:47:21 『打つ』『待つ』『逃れる』 ――――　復讐編　――――
+2021-03-06 18:05:44016:47:45 『打つ』『待つ』『逃れる』 ――――　復讐編　―――― 2021-02-28 14:27:21043:06:48「……やらねばならないのだ……」 ――――　第四編 震天騎　――――  　データ無し 2021-03-07 14:58:17023:27:32 『そうしよう』『たまにはいいか』『仕方ないな』 ――――　魔王編　―――― 2021-03-01 10:57:42020:19:16 『このまま斬る』『……待て』 ――――　英雄編　―――― 2021-02-28 21:58:39007:20:13 『この場に留まる』『一条の様子を見に行く』『香奈枝の様子を見に行く』 ――――　第三編 逆襲騎　―――― 2021-02-28 06:52:59035:32:27 『娘だ』『違う』 ――――　第四編 震天騎　――――7 20:34:12007:27:35　これが鈴川の最後の授業。 ――――　第一編 鮮紅騎　―――― 2021-02-28 21:54:07007:15:40 『率直だ、と思う』『未熟だ、と思う』 ――――　第二編 双老騎　―――― 2021-03-07 22:57:37031:26:52 『捨てられる』『捨てられない』 ――――　魔王編2021-03-01 18:17:02010:11:06 『斬り合う』『ひとまず防御に徹する』 ――――　復讐編　:15:47007:13:15 『信用できる』『わからない』 ――――　第二編 双老騎　―――― 2021-02-23 19:03:31027:59:49 『一条』『香奈枝』『ライガー』 ――――　第三編 逆襲騎2021-03-06 18:05:20016:47:21 『打つ』『待つ』『逃れる』 ――――　復讐編　――――
 2021-03-06 18:05:44016:47:45 "Hitting," "Waiting," "Escaping" ---- Revenge --. -- 2021-02-28 14:27:21043:06:48 "We have to do ...... it ...... ---- Part 4: Shaking Heaven craft ---- No data 2021-03-07 14:58:17023:27:32 "Let's do that," "Sometimes it's good," "I don't have a choice." ---- The Demon King --. -- 2021-03-01 10:57:42020:19:16 "I'm going to slay this" "...... wait" -- -- Hero version ---- 2021-02-28 21:58:39007:20:13 "Stay here", "Go check on Ichijou", "Go check on Kanae I'm going to see how Ichijou is doing." "I'm going to see how Kanae is doing." ---- Part 3: Counterattack craft-- -- 2021-02-28 06:52:59035:32:27 "It's my daughter" "No" ---- Part 4: Shinten craft　----7 20:34:12007:27:35 This is Suzukawa's last class. ---- Part 1: Fresh Red craft ---- 2021-02-28 21:54: 07007:15:40 "I'm frank, I think" "I'm immature, I think" ---- Part 2: Souro craft --. -- 2021-03-07 22:57:37031:26:52 "Abandoned," "Cannot be abandoned" ---- Demon King Part 2021-03 -01 18:17:02010:11:06 "Cutting each other down" "Defending for now" ---- Vengeance :15:47007:13:15 "Trustworthy" "I don't know ---- Part 2: Shuang Lao craft ---- 2021-02-23 19:03: 31027:59:49 "Ichijou", "Kanae", "Liger" ---- Part 3: Counterattack craft2021-03-06 18:05:20016:47:21 "Strike", "Wait", "Escape" ---- Escape. ---- Revenge. ----
 
 捨てられる。　　　…………と。
@@ -49,10 +49,10 @@ The reason for the killings only makes sense to me.
 ……俺は。　　より多くの人を死なせないため、彼らを殺した。
 ...... me.　　I killed them to keep more people from dying.
 
- Silver Starの災厄を増殖させまい、と。〝卵〟を享けた mushaと、村正の特質が必然として求むもう一人の人間を、犠牲に選んで首を刎ねた。
- He wanted to prevent the Silver Star's evil from multiplying. He chose to sacrifice Musha, who had been given the egg, and another person, whom Muramasa's traits inevitably demanded, and cut off their heads.
+銀星号の災厄を増殖させまい、と。〝卵〟を享けた武者と、村正の特質が必然として求むもう一人の人間を、犠牲に選んで首を刎ねた。
+He wanted to prevent the Silver Star's evil from multiplying. He chose to sacrifice Musha, who had been given the egg, and another person, whom Muramasa's traits inevitably demanded, and cut off their heads.
 
-俺がもし、今になって Silver Starの存在を許容するなら――彼らは一体何のために命を奪われたのか。
+俺がもし、今になって銀星号の存在を許容するなら――彼らは一体何のために命を奪われたのか。
 If I were to allow Silver Star to exist now--what the hell did they take their lives for?
 
 彼らはおそらくその主観において、全く無価値な死を遂げねばならなかった。　それを強いた俺すらも、彼らの死の価値を否定するのなら。
@@ -91,13 +91,13 @@ Don't forget-- don't throw it away!
 意識を外界へ復帰させて、最初に味わったのは酷い失調感だった。　時間と空間が断線したとでも言えばいいのか。現実空間を現実空間として認識できない。
 The first thing I experienced after returning my consciousness to the outside world was a terrible sense of disorientation.　Time and space were disconnected, if you will. I couldn't recognize real space as real space.
 
- Silver Starの精神汚染が解かれたからだろう。　脳髄の中身が急速に整理整頓され、元の形に復してゆく過程は、言うなれば錯乱を強要されているようなものだった。
- Perhaps it was because Silver Star's mental contamination had been lifted.　The process of the contents of his brain being rapidly rearranged and restored to their original form was like being forced into a delirium, if you will.
+銀星号の精神汚染が解かれたからだろう。　脳髄の中身が急速に整理整頓され、元の形に復してゆく過程は、言うなれば錯乱を強要されているようなものだった。
+Perhaps it was because Silver Star's mental contamination had been lifted.　The process of the contents of his brain being rapidly rearranged and restored to their original form was like being forced into a delirium, if you will.
 
 「ぐっ……あ……ッッ！」
 "Guh ...... ah ......!
 
-「 midou、大丈夫?」
+「御堂、大丈夫?」
 "Midou, big man?
 
 「…ッ…」
@@ -142,10 +142,10 @@ What?
 「……ええ」
 "...... Yeah.
 
-「貴方は戻ってきてくれた。　 midou……」
+「貴方は戻ってきてくれた。　御堂……」
 You came back to me.　 midou......
 
-両足で地を踏みしめる。　確かな Minato Kageakiとして、立脚する。
+両足で地を踏みしめる。　確かな湊斗景明として、立脚する。
 Stepping on the ground with both feet.　We will stand as Minato Kageaki.
 
 それが力強いとも、爽快だとも思わない。　ただ、正しく在るという事実を実感した。
@@ -178,7 +178,7 @@ I'm sure you're right. Indeed, ...... I was feeling awfully comfortable just now
 「今はまた、重い」
 Now it's heavy again.
 
-「……そうなるのはわかってた。　でも、私は tsurugiだから」
+「……そうなるのはわかってた。　でも、私は劒冑だから」
 I knew that would happen.　But I'm tsurugi.
 
 「心が鉄で出来てるから……きっと冷酷なんでしょうね」
@@ -187,10 +187,10 @@ Because my heart is made of iron, ...... I'm sure I'm ruthless.
 「感謝する」
 Thank you.
 
-「…… midou？」
+「……御堂？」
 "...... midou?
 
-「お前のお陰で、俺は正しく俺でいられる。　お前が冷たい tsurugiで良かった」
+「お前のお陰で、俺は正しく俺でいられる。　お前が冷たい劒冑で良かった」
 "Thanks to you, I can be right and be me.　I'm glad you're cold tsurugi.
 
 「――――」
@@ -268,7 +268,7 @@ I silently supported Muramasa as he cried out with a sense of guilt and regret t
 ……周囲状況を再認識する。
 Reacquaint yourself with your surroundings at .......
 
-ここは Fudaraku城。　今は―― Silver Starの力で引き起こされた混乱の渦中にある。
+ここは普陀楽城。　今は――銀星号の力で引き起こされた混乱の渦中にある。
 This is Fudaraku Castle.　It is now in the middle of the chaos caused by the power of the Silver Star.
 
 、　殺し、　殺す。
@@ -286,13 +286,13 @@ A hopeless space of struggle.
 「？　何をだ」
 "What?　What?
 
-「 Ootori Kanaeから、貴方に伝言があるの」
+「大鳥香奈枝から、貴方に伝言があるの」
 I have a message for you from Ootori Kanae.
 
 「……大尉殿から？」
 "From ......, Captain?
 
-その名を聞くのも久々だった。　 Ootori大尉…… Ayane Ichijou…………
+その名を聞くのも久々だった。　大鳥大尉……綾弥一条…………
 It had been a long time since I had heard that name.　 Captain Ootori...... Ayane Ichijou............
 
 「何だか眉唾な話なんだけど。　……そのまま言うからね」
@@ -307,22 +307,22 @@ Oh.
 「――――」
 ----
 
-「 midouにはわかる？　私には正直さっぱりなんだけど」
+「御堂にはわかる？　私には正直さっぱりなんだけど」
 "Do you understand, midou?　I honestly have no idea.
 
 首を傾げる村正に、しかし俺は返答するどころではなかった。　　そうだ……鍛造雷弾！
 Muramasa tilted his head, but I didn't have time to reply.　　That's right, ...... forged thunderbolts!
 
-この Fudaraku城を一掃する威力を有する最終兵器。　進駐軍の勝利のため――否。緑龍会の目的のために、間もなく投下される……。
+この普陀楽城を一掃する威力を有する最終兵器。　進駐軍の勝利のため――否。緑龍会の目的のために、間もなく投下される……。
 The ultimate weapon with the power to wipe out this Fudaraku castle.　For the victory of the Occupation forces - no. For the purpose of the Green Dragon Society, ...... will be dropped soon.
 
-そんな法外な兵器が本当にあるのか、実在を疑う気持ちもあった。　しかし、全く別のルートから――あの Ootori大尉から同じ情報がもたらされたとなると……
+そんな法外な兵器が本当にあるのか、実在を疑う気持ちもあった。　しかし、全く別のルートから――あの大鳥大尉から同じ情報がもたらされたとなると……
 There was a part of me that wondered if such an outrageous weapon really existed.　However, when the same information came to me from a completely different route - from that Captain Ootori ......
 
 「実在する」
 It's real.
 
-「…… midou？」
+「……御堂？」
 "...... midou?
 
 「その兵器は本当に存在するのだ、村正。　そして、もうすぐここに落とされる……」
@@ -340,7 +340,7 @@ That's the top priority right now.　That is the closest and most massive destru
 だが、どうやって防ぐ？
 But how do we prevent it?
 
-爆弾の投下は、飛行艦か竜 craft兵が行うのだろう。　それを――迎撃する？
+爆弾の投下は、飛行艦か竜騎兵が行うのだろう。　それを――迎撃する？
 The bombs will probably be dropped by airships or dragon craft soldiers.　And intercept them?
 
 …………無理だ。
@@ -349,7 +349,7 @@ I can't .............
 爆弾の威力が桁違いなら、投下を行う飛行体は相当の高度を取ると考えられる。　迎え撃つならその空域へ行き着かねばならない。
 If the bombs are more powerful than they are, the aircraft that will be dropping the bombs will have to be at a considerable altitude.　If we wanted to intercept them, we would have to get to that airspace.
 
-しかし今、低空域には Silver Starの複製集団が陣取っている。　力任せの突破などできる話ではなかった。
+しかし今、低空域には銀星号の複製集団が陣取っている。　力任せの突破などできる話ではなかった。
 However, there was now a group of Silver Star duplicates in the lower airspace.　There was no way they could break through by force.
 
 仮に迂回するなり隙を突くなりの方法で抜けられたとしても、その次は投下の護衛隊と交戦し撃退しなくてはならない。　まさか護衛がいないという事はないだろう。
@@ -370,7 +370,7 @@ Storming the headquarters of the Occupation Forces and talking directly to the c
 他に、他に何か手は――
 There's no other way, no other way--
 
-「 midou、伝言にはあと少し続きがあるの」
+「御堂、伝言にはあと少し続きがあるの」
 Midou, there's a little more to the message.
 
 「実はこれも、何だか意味がよくわからないんだけど……」
@@ -394,14 +394,14 @@ What's that supposed to mean?
 「わからないってば。　あと……」
 I don't know.　And .......
 
-「鍵は Ashikaga Shirou Kuniuji、ですって」
+「鍵は足利四郎邦氏、ですって」
 "The key is Ashikaga Shirou Kuniuji.
 
 「…………」
 "............
 
- Ashikaga Shirou Kuniuji―― Moriujiの嫡孫。六波羅の総大将。　あの少年を鍵にして、六波羅を消す……？
- Ashikaga Shirou Kuniuji--Legitimate grandson of Moriuji. He is the general of Rokuhara.　Use that boy as a key to eliminate Rokuhara. ......?
+足利四郎邦氏――護氏の嫡孫。六波羅の総大将。　あの少年を鍵にして、六波羅を消す……？
+Ashikaga Shirou Kuniuji--Legitimate grandson of Moriuji. He is the general of Rokuhara.　Use that boy as a key to eliminate Rokuhara. ......?
 
 大尉は何を考えていたのだろう。　確かに進駐軍は城それ自体より住まう六波羅を潰したいのだから、六波羅が無くなれば爆弾を落とす必要も無くなる理屈だが。
 I wonder what the Captain was thinking.　It is true that the Occupation forces are more interested in destroying the Rokugahara than the castle itself, so it makes sense that if the Rokugahara is gone, there is no need to drop bombs on it.
@@ -436,7 +436,7 @@ His existence is not important in the actual Noh scene of Rokubara, and even if 
 「どこへ？」
 Where are you going?
 
-「天守閣。　 Ashikaga Kuniuji-dono下のもとへ」
+「天守閣。　足利邦氏殿下のもとへ」
 The castle tower.　 Ashikaga Kuniuji-dono, to the bottom.
 
 「彼を説得し、大政奉還を宣言させる」
@@ -445,8 +445,8 @@ I will convince him to declare the Great Government.
 政権返上。　国家統治機構としての六波羅の終焉を表明するよう願う。
 Return to power.　We hope that he will announce the end of the Six Harmonies as a national governing body.
 
- Ashikaga Kuniujiは名目上の幕府元首に過ぎない。　だが名目上でも首長であるからには、その名のもと公的宣言がなされれば、重大な意義を持つだろう……少なくとも、実権を握る者に否定されるまでの間は。
- Ashikaga Kuniuji is only nominally the head of the Shogunate.　But as the nominal head of the shogunate, a public declaration in his name would be of great significance,......, at least until it is denied by those who hold the real power.
+足利邦氏は名目上の幕府元首に過ぎない。　だが名目上でも首長であるからには、その名のもと公的宣言がなされれば、重大な意義を持つだろう……少なくとも、実権を握る者に否定されるまでの間は。
+Ashikaga Kuniuji is only nominally the head of the Shogunate.　But as the nominal head of the shogunate, a public declaration in his name would be of great significance,......, at least until it is denied by those who hold the real power.
 
 進駐軍は六波羅を不当な政府と断定し、この排除を名分として兵を動かした。　だから――彼らの言う通りにしてやるのだ。先手を打って、六波羅自身の行動で。
 The Occupation forces have declared Muhajiro to be an unjust government and have moved their troops in the name of this elimination.　So - we will do what they say. We have to make the first move, with our own actions.
@@ -460,7 +460,7 @@ Of course, it is possible to silence them.　But in that case, there is too much
 それは進駐軍を動かす者――大英連邦であれ新大陸独立派であれ――にとって受け入れ難いはずだ。　戦争利益を全て失いかねない。
 That would be unacceptable to whoever is running the occupation forces, be it the British Commonwealth or the New World Independents.　They could lose all their war profits.
 
-この方法なら、鍛造雷弾投下を止められる！　 Ashikaga Kuniujiの口で六波羅体制の終結を宣言させれば！
+この方法なら、鍛造雷弾投下を止められる！　足利邦氏の口で六波羅体制の終結を宣言させれば！
 This way, we can stop the forged thunderbolts from being dropped!　 If we can get Ashikaga Kuniuji to declare the end of the Six-Parallel System with his mouth!
 
 「…………。　で、できるの？　そんなこと」
@@ -475,7 +475,7 @@ The implementation of the declaration can be done by using the wide area lines o
 難点は、やはり説得か。
 The difficulty is persuasion.
 
-ここしばらくを Fudaraku城で暮らしたが、俺の身分は所詮一介の竜軍中佐、殿上人たる Ashikaga Kuniujiに会う機会など無かった。　当然、言葉を交わした事もない。
+ここしばらくを普陀楽城で暮らしたが、俺の身分は所詮一介の竜軍中佐、殿上人たる足利邦氏に会う機会など無かった。　当然、言葉を交わした事もない。
 I've been living in Fudaraku Castle for a while now, but I'm only a lieutenant colonel in the Dragon Army, and I've never had the chance to meet Ashikaga Kuniuji.　Naturally, we had never exchanged a word.
 
 ……つまり。　俺は初対面の貴人の所へ押し掛けて、無茶な要求を通さなくてはならないわけだ。
@@ -496,7 +496,7 @@ Please.
 横手からの声に、振り向く。　ようやく糸の戒めを振り払い、彼女が立ち上がっていた。
 A voice from the side of the room made me turn around.　She had finally shaken off the warning of the thread and was standing up.
 
-「 Chachamaru！」
+「茶々丸！」
 "Chachamaru!
 
 「やってくれた。　おめー、本当にやってくれやがったな」
@@ -508,8 +508,8 @@ A voice from the side of the room made me turn around.　She had finally shaken 
 「――――」
 ----
 
- Ashikaga Chachamaruの声は、怨念という心理を純粋に信号化したようなものだった。　それを真正面から吹き付けられ、村正が硬直する。
- Ashikaga Chachamaru's voice was like a pure signal of psychological resentment.　Muramasa stiffened as he was blasted head-on with it.
+足利茶々丸の声は、怨念という心理を純粋に信号化したようなものだった。　それを真正面から吹き付けられ、村正が硬直する。
+Ashikaga Chachamaru's voice was like a pure signal of psychological resentment.　Muramasa stiffened as he was blasted head-on with it.
 
 「堀越で……始末しとくべきだった……！」
 "I should have taken care of ...... at Horikoshi. ......!
@@ -547,10 +547,10 @@ That's right.　I took it from you first.
 「くそ、後悔なんて趣味じゃねえ！　今からでもやってやる――」
 "Damn it, regret is not my thing!　I'm gonna do it now!
 
-飢えた鴉も逃げ出すほどの凶気を込めて、 Chachamaruが手を伸ばす。　俺は反射的に、村正を庇うべく間へ割って入った。
+飢えた鴉も逃げ出すほどの凶気を込めて、茶々丸が手を伸ばす。　俺は反射的に、村正を庇うべく間へ割って入った。
 Chachamaru reaches out his hand with such ferocity that even a hungry raven would flee.　I reflexively stepped in between them to protect Muramasa.
 
-だが。　その俺の前で、 Chachamaruが不意によろめく。
+だが。　その俺の前で、茶々丸が不意によろめく。
 But...　In front of me, Chachamaru suddenly staggered.
 
 頭を抱えながら、膝を屈した。
@@ -571,7 +571,7 @@ Jee............!
 頭痛……？　　余程の苦しみなのか。額を押さえる指はともすれば肉を引き裂きそうだ。
 Headache ......?　　I'm not sure how much pain I'm in. I'm not sure what to do, but I'm sure I'll be able to do it.
 
-「…… Chachamaru……？」
+「……茶々丸……？」
 "...... Chachamaru......?
 
 「…………」
@@ -586,14 +586,14 @@ Headache ......?　　I'm not sure how much pain I'm in. I'm not sure what to do
 「お兄さん」
 Big brother.
 
-ゆらりと。　小さく笑って、 Chachamaruが再び立った。
+ゆらりと。　小さく笑って、茶々丸が再び立った。
 Wobbling.　With a small smile, Chachamaru stood up again.
 
 「良かった。　中将閣下ー、に戻っちゃわなくて」
 "Good.　I'm glad you didn't go back to being a lieutenant general.
 
-「…………。　 Chachamaru、もうやめろ」
-'.............　 Chachamaru, no more.
+「…………。　茶々丸、もうやめろ」
+.............　 Chachamaru, no more.
 
 「お前が何を求めているのか、それは知らん。　だが犠牲とするものが大き過ぎる事だけはわかっている」
 I don't know what you're looking for.　I don't know what you're looking for, but I do know that the sacrifice is too great.
@@ -610,19 +610,19 @@ I don't preach morality. ......, please.　I want you to stop.
 「でも、聞けない。　やめられないんだ。お兄さんのお願いでも」
 But I can't listen.　I can't stop. Even if it's for your brother's sake.
 
-「 Chachamaru！」
+「茶々丸！」
 "Chachamaru!
 
-「だから Kuniujiの所にも行かせてあげられない」
+「だから邦氏の所にも行かせてあげられない」
 That's why I can't let you go to Kuniuji's either.
 
-「お兄さんの考えはいいとこ突いてるよ。　確かに Kuniujiを利用すれば、今からでも鍛造雷弾の投下を阻止できる……」
+「お兄さんの考えはいいとこ突いてるよ。　確かに邦氏を利用すれば、今からでも鍛造雷弾の投下を阻止できる……」
 "Your brother's idea makes a good point.　Indeed, if we use Kuniuji, we can stop the forged mine bombs from being dropped now. ......
 
-「説得も、案外難しくないんじゃないかな。　今の Kuniujiはちょっと情緒が不安定だからね。幕府を潰してって頼まれたら、あっさりその気になっちまいそうだ」
+「説得も、案外難しくないんじゃないかな。　今の邦氏はちょっと情緒が不安定だからね。幕府を潰してって頼まれたら、あっさりその気になっちまいそうだ」
 It's not as difficult as it seems.　The current Kuniuji is a little unstable emotionally. If he were asked to destroy the Shogunate, he would easily fall for it.
 
-「……まさか Doushin-bo主の悪趣味がこんなとこで祟るとはなァ……」
+「……まさか童心坊主の悪趣味がこんなとこで祟るとはなァ……」
 I never thought that the Lord Doushin-bo's bad taste would come back to haunt me here. ......
 
 「…………」
@@ -634,8 +634,8 @@ Why did you bother to tell me?
 希望を持たせるような事を。　俺は自信を欠いていたのだから、そのままにして、迷わせておけば良さそうなものだ。
 Something to make me hopeful.　I lacked confidence, so why not just let it be and let it wander.
 
- Chachamaruが俺に対立するなら、そうして当然だろう。
- If Chachamaru confronts me, so be it.
+茶々丸が俺に対立するなら、そうして当然だろう。
+If Chachamaru confronts me, so be it.
 
 「理由は三つ」
 Three reasons.
@@ -652,7 +652,7 @@ Three. It seems that ...... has a soft spot for her brother.　I'm not sure if i
 「色男さんめ」
 "You're a man of color.
 
-「 Chachamaru。　もう一度――」
+「茶々丸。　もう一度――」
 "Chachamaru, once again--
 
 「だめ。　……困らせないで」
@@ -664,7 +664,7 @@ Three. It seems that ...... has a soft spot for her brother.　I'm not sure if i
 「……」
 "......
 
-「 midou、行きましょう」
+「御堂、行きましょう」
 Midou, let's go.
 
 「村正」
@@ -676,7 +676,7 @@ There's no need to fight.　All you have to do is armor up and fly away.
 「上の複製が危険だけど……　短い距離なら何とかなると思う」
 The duplicate above is dangerous, but ...... I think I can manage for a short distance.
 
-妥当な提案だった。　天守閣まで craft航で行き着けなくても良い。 Chachamaruを振り切るだけで良いのだ。
+妥当な提案だった。　天守閣まで騎航で行き着けなくても良い。茶々丸を振り切るだけで良いのだ。
 It was a reasonable suggestion.　It didn't matter if we couldn't make it to the castle tower by craft flight. We just need to shake off the Chachamaru.
 
 妨害者がいなければ、後は走って目的地まで行ける。
@@ -688,7 +688,7 @@ Incompetent.
 「……何よ」
 "...... what?
 
-「おめーの言うことに従ったら、お兄さんはあっさりあてに撃墜されてる。　仕手を死なせる tsurugiが無能でなくてなんだってんだ？」
+「おめーの言うことに従ったら、お兄さんはあっさりあてに撃墜されてる。　仕手を死なせる劒冑が無能でなくてなんだってんだ？」
 "If I followed your advice, my brother would have been easily shot down.　If tsurugi isn't incompetent, what is?
 
 「……ふん。　貴方が飛べる可能性は計算の内よ」
@@ -697,7 +697,7 @@ Incompetent.
 「……？」
 "......?
 
-「でも所詮、 mushaとは craft航性能が比較にならないもの。　注意は要るけど、問題にすることもない」
+「でも所詮、武者とは騎航性能が比較にならないもの。　注意は要るけど、問題にすることもない」
 "But it's still not as good as the musha in terms of craft navigation.　We need to be careful, but it's not a problem.
 
 「それがおめーの計算か。　採点してやる。……まぁ一〇点だな」
@@ -712,7 +712,7 @@ And by the way, that's a hundred million points.
 「怒るな、村正。　俺もお前の意見に問題点はないと判断している」
 "Don't be angry, Muramasa.　I see nothing wrong with your opinion either.
 
-「お兄さんがわからないのは仕方ないさ。　でも tsurugiがいまだに気付いてないってのは、どんなもんかねー？」
+「お兄さんがわからないのは仕方ないさ。　でも劒冑がいまだに気付いてないってのは、どんなもんかねー？」
 "I don't blame you for not knowing, brother.　But how can it be that tsurugi still doesn't realize it?
 
 「何が言いたいのよ」
@@ -727,7 +727,7 @@ I know that.
 「ほー？　言ってみ」
 "Huh?　Say it.
 
-「貴方は tsurugiでしょう。　 Chachamaru」
+「貴方は劒冑でしょう。　茶々丸」
 "You are tsurugi, aren't you?　 Chachamaru.
 
 「…………」
@@ -736,10 +736,10 @@ I know that.
 「……何？」
 "...... what?
 
-「 tsurugiなのよ、 midou。　この Ashikaga Chachamaruはね！」
+「劒冑なのよ、御堂。　この足利茶々丸はね！」
 "It's tsurugi, midou, this Ashikaga Chachamaru!
 
-「貴方が精神汚染された時……私が Chachamaruの能力で押さえ込まれたのを覚えている？　あの時に、もしかしてって思ったの」
+「貴方が精神汚染された時……私が茶々丸の能力で押さえ込まれたのを覚えている？　あの時に、もしかしてって思ったの」
 "Remember when you were contaminated by ...... and I was subdued by Chachamaru's ability?　That's when I thought it might be possible.
 
 「その気になって精査してみれば、やっぱり何かおかしい。肉体が肉体らしくない。　私と同じように」
@@ -748,13 +748,13 @@ When I examined it carefully, I found that there was something wrong. The body i
 「…………」
 "............
 
-「そう、私と同じ。　ヒトの形態を持つ tsurugiなのよ、 Chachamaruは」
+「そう、私と同じ。　ヒトの形態を持つ劒冑なのよ、茶々丸は」
 "Yes, just like me.　It's a tsurugi with a human form, Chachamaru.
 
-堀越公方 Ashikaga Chachamaruが、 tsurugi？　馬鹿な。有り得る話ではない。
+堀越公方足利茶々丸が、劒冑？　馬鹿な。有り得る話ではない。
 Ashikaga Chachamaru is a tsurugi? It's not possible.
 
-…………だが。　　 Chachamaruが幾度か見せた、奇怪な能力――――
+…………だが。　　茶々丸が幾度か見せた、奇怪な能力――――
 It's .............　　 Chachamaru has shown some bizarre abilities on several occasions: ----
 
 あれは断じて常人の備えるものではなく。　つまりは――
@@ -769,13 +769,13 @@ It's definitely not something a normal person would have.　I mean...
 「とことん目の利かねェ駄鍛冶だな!　自信満々で外しやがる」
 "You're a real blacksmith with no eye for detail!　You miss with confidence.
 
-「あては tsurugiじゃない」
+「あては劒冑じゃない」
 "I'm not tsurugi.
 
 「……嘘よ」
 "...... is a lie.
 
-「生憎と本当だ。　…… tsurugiになれていたら良かったけどな」
+「生憎と本当だ。　……劒冑になれていたら良かったけどな」
 It's true.　I wish I could have been ...... tsurugi.
 
 「ただの人だって言うの？　そうじゃないのは、もう明らかよ」
@@ -790,7 +790,7 @@ Don't think you can pull the wool over my eyes.
 「心鉄を持つ人間がいるわけないでしょう！」
 "How can anyone have an iron heart!
 
-「あほが。　おめーの頭ん中にゃ、 tsurugiと人しかいねえのかよ!」
+「あほが。　おめーの頭ん中にゃ、劒冑と人しかいねえのかよ!」
 "Idiot.　Do you only have tsurugi and people in your head?
 
 「――――えっ？」
@@ -799,7 +799,7 @@ Don't think you can pull the wool over my eyes.
 突如、奇怪な音が鳴り響いた。　鉄骨を力任せに押し曲げるかの――
 Suddenly, a strange sound rang out.　It was as if a steel frame was being bent by force.
 
-音に乗り、 Chachamaruの肌が変化を始める。　白い肉皮が別の何かへ。
+音に乗り、茶々丸の肌が変化を始める。　白い肉皮が別の何かへ。
 Riding the sound, Chachamaru's skin begins to change.　The white flesh skin becomes something else.
 
 鈍い光沢を放つ硬質のものへ。
@@ -808,13 +808,13 @@ To a hard one with a dull sheen.
 「甲鉄……?」
 "A. ......?
 
- tsurugiを呼び寄せた様子は全くなかった。　そも眼前の変化は、 mushaの装甲とみるには余りにも異質である。
- There was no indication that he had summoned tsurugi.　In fact, the change in front of me was too different to be considered musha armor.
+劒冑を呼び寄せた様子は全くなかった。　そも眼前の変化は、武者の装甲とみるには余りにも異質である。
+There was no indication that he had summoned tsurugi.　In fact, the change in front of me was too different to be considered musha armor.
 
 皮膚が甲鉄に覆われてゆくのではない。　皮膚が甲鉄に変わってゆくのだ。
 It is not that the skin is being covered with iron oxide.　It is the skin that is changing into iron oxide.
 
-村正の蜘蛛から蝦夷への変形を、逆回しに再現したならきっとこのようになるだろう。　　……やはり、 Chachamaruは tsurugiだったのか?
+村正の蜘蛛から蝦夷への変形を、逆回しに再現したならきっとこのようになるだろう。　　……やはり、茶々丸は劒冑だったのか?
 If you were to recreate Muramasa's transformation from a spider to an ezo in reverse, it would probably look something like this.　　...... So, Chachamaru was a tsurugi?
 
 「……ぐ……」
@@ -829,16 +829,16 @@ If you were to recreate Muramasa's transformation from a spider to an ezo in rev
 違う。　村正とは決定的に違う点が一つある。
 It's different.　There is one crucial difference from Muramasa.
 
-村正の人型変形――肉体変成は、 tsurugiとしての機能の応用発現だ。　術式を開発するまでは四苦八苦していたが、完成後は何の支障もなく操っている。
+村正の人型変形――肉体変成は、劒冑としての機能の応用発現だ。　術式を開発するまでは四苦八苦していたが、完成後は何の支障もなく操っている。
 Muramasa's humanoid transformation, or physical metamorphosis, is an applied expression of his tsurugi function.　He struggled to develop the technique, but after its completion, he was able to control it without any trouble.
 
-だが Chachamaruは苦しんでいた。　今、生き地獄の苦痛に苛まれていることが傍目にも明らかであった。
+だが茶々丸は苦しんでいた。　今、生き地獄の苦痛に苛まれていることが傍目にも明らかであった。
 But Chachamaru was in pain.　It was obvious even to the casual observer that he was now in the agony of a living hell.
 
 ……血も流れ出している。　手足から、腹部から、首筋から。
 The ...... blood is also flowing out.　It's a great way to make sure you're getting the most out of your money.
 
-村正の―― tsurugiの変形であれば、こんな事はない。
+村正の――劒冑の変形であれば、こんな事はない。
 If it were a variant of Muramasa's -- tsurugi, this would not be the case.
 
 何なのだ。　この光景は?
@@ -856,7 +856,7 @@ It's as if they've been altered by some mad scientist, isn't it?
 「ク……クク……」
 "kk...... kk......
 
-「………… Chachamaru……」
+「…………茶々丸……」
 ............ Chachamaru......
 
 「貴方は、何なの」
@@ -877,7 +877,7 @@ He's a half-breed.
 「……」
 "......
 
-「…… Chachamaru、お前は――」
+「……茶々丸、お前は――」
 "...... Chachamaru, you--
 
 「蛆には腐肉を。蠅には糞を。　百舌には蛙の串刺しを」
@@ -889,8 +889,8 @@ He's a half-breed.
 「……!」
 "......!
 
- musha形態――――?
- musha form ----?
+武者形態――――?
+musha form ----?
 
 「お兄さん……あてはね……
 My brother's name is ...... and you can reach him at .......
@@ -898,16 +898,16 @@ My brother's name is ...... and you can reach him at .......
 ――――――――――生体甲冑なんだ」
 It's ---------- bio-armor.
 
-人でもなく。 tsurugiでもなく。　生ける鎧。
+人でもなく。劒冑でもなく。　生ける鎧。
 It's not a person. Not tsurugi.　Living armor.
 
 そんな存在が生まれ得るのか？
 How could such a being be born?
 
-どうして Chachamaruはそんな存在になったのだ?
+どうして茶々丸はそんな存在になったのだ?
 How did Chachamaru become such a thing?
 
-「あての父親は堀越公方 Ashikaga守政。　母親は蝦夷の tsurugi鍛冶……長曽弥 Nyudo虎徹の銘を受け継ぐ二八代目、興永」
+「あての父親は堀越公方足利守政。　母親は蝦夷の劒冑鍛冶……長曽弥入道虎徹の銘を受け継ぐ二八代目、興永」
 His father was Ashikaga Morimasa, a lord of Horikoshi.　His mother was a tsurugi blacksmith from Ezo. ...... He is the 28th generation to inherit the name of Nagasoya Nyudo Toratetsu.
 
 「本当ならあては人間か蝦夷か、でなけりゃ半蝦夷に生まれつくはずだった」
@@ -916,7 +916,7 @@ His father was Ashikaga Morimasa, a lord of Horikoshi.　His mother was a tsurug
 六波羅の公安警察である鎌倉大番が睨みを利かせているため、声高に語られることはない。　しかし、それは有名な話だった。
 It is not talked about out loud because the Kamakura Daiban, the public security police of Rokubara, keeps a close eye on it.　However, it was a well-known story.
 
-堀越公方 Ashikaga Chachamaruの血の半分は蝦夷のもの。　すなわち彼の将帥は半蝦夷である――と。
+堀越公方足利茶々丸の血の半分は蝦夷のもの。　すなわち彼の将帥は半蝦夷である――と。
 Half of Ashikaga Chachamaru's blood is from Ezo.　In other words, his generals are half-Egyptian.
 
 「……だが。　そうはならなかった……？」
@@ -940,19 +940,19 @@ I'm sorry to hear that.
 「……」
 "......
 
-「 midou」
+「御堂」
 "midou.
 
 「ああ……」
 Oh, .......
 
-確かに、そんな場合ではない。　当の Chachamaruに忠告されるのもおかしな話だが。
+確かに、そんな場合ではない。　当の茶々丸に忠告されるのもおかしな話だが。
 Certainly, this is not the time.　It would be strange if Chachamaru were to advise me.
 
 今は鍛造雷弾の投下を阻止せねば！
 Now we have to stop them from dropping forged lightning bombs!
 
-「 Chachamaru。　通しては――くれないのだな」
+「茶々丸。　通しては――くれないのだな」
 "Chachamaru, you won't let me through, will you?
 
 「うん……」
@@ -967,7 +967,7 @@ Now we have to stop them from dropping forged lightning bombs!
 「ええ」
 Yeah.
 
-装甲ノ構――　仕手と tsurugiが mushaと成る、その必須の過程。
+装甲ノ構――　仕手と劒冑が武者と成る、その必須の過程。
 Armored construction -- the essential process by which a craftsman and tsurugi become musha.
 
 （八幡宮の事件以来か）
@@ -1003,7 +1003,7 @@ From the imperfect two, to the perfect one.　Sing the words of the covenant.
 「……へっへ。　あては御姫と違って、愛情表現でぶん殴っちゃうようなビョーキは抱えてないけど」
 "...... hehe.　Unlike the princess, I don't have the kind of illness that would make me punch her in the face with affection.
 
-「やっぱり武人の端くれ、こうして musha姿のお兄さんを前にすると手合わせしたくなってはくるね。　中身はともかく外側はやたら忌々しいしな」
+「やっぱり武人の端くれ、こうして武者姿のお兄さんを前にすると手合わせしたくなってはくるね。　中身はともかく外側はやたら忌々しいしな」
 I'm a warrior, and when I see my brother in a musha like this, I'm tempted to try my hand at it.　I'm a warrior, and when I see my brother in musha like this, I want to match him.
 
 《……望むところよ。　高い代償を払わせてあげる》
@@ -1012,8 +1012,8 @@ I'm a warrior, and when I see my brother in a musha like this, I'm tempted to tr
 「ハ。夜郎自大な屑鉄がァ！」
 "Ha. You're a piece of shit!
 
- mushaとして見れば、その容姿は特異であった。
- As a musha, his appearance was peculiar.
+武者として見れば、その容姿は特異であった。
+As a musha, his appearance was peculiar.
 
 まず、太刀を携えていない。　それに代わる刀剣槍棒の類もない。
 First of all, he didn't carry a sword.　There are no swords or spears to replace them.
@@ -1027,13 +1027,13 @@ As if it were a tiger's forelimb.
 至近距離なら刀剣より有効な武装だろう。　……格闘戦に特化した型か。
 I'm not sure if this is a good idea or not.　You can find a lot more information on the web at .......
 
-これに対する定法は、敵 craftの間合に入らない――　つまり太刀の間合で勝負を決める事。
+これに対する定法は、敵騎の間合に入らない――　つまり太刀の間合で勝負を決める事。
 The best way to deal with this is to stay out of the enemy's craft's gap - in other words, to decide the match in the sword's gap.
 
 距離の有利を生かして一方的に攻めて勝つ。　それが最上だ。
 The best way to win is to take advantage of the distance and attack unilaterally.　That is the best way to win.
 
-最上だが…………　　俺は左手で、自 craftの腰を探ってみた。
+最上だが…………　　俺は左手で、自騎の腰を探ってみた。
 The best part is ............ I used my left hand to explore the waist of my craft.
 
 そこにある筈の太刀が、今は無い。　脇差があるきりだ。
@@ -1042,13 +1042,13 @@ The sword that was supposed to be there was now gone.　There is only a side swo
 覚悟していた事である。落胆はしなかった。　ただ、厳しい現実を思う。
 I was prepared for this. I was not discouraged.　I just felt the harsh reality.
 
-脇差の刀身は短く、これを用いるなら近距離の間合に踏み込まざるを得ない。　敵 craftの得意な戦場を選ぶしかなくなる。
+脇差の刀身は短く、これを用いるなら近距離の間合に踏み込まざるを得ない。　敵騎の得意な戦場を選ぶしかなくなる。
 The blade of the Wakizashi is short, and if you use it, you will be forced to step into close quarters.　The only choice is to choose a battlefield that the enemy craft is good at.
 
 村正の主武器であった長大な野太刀、それに代わるものだった三尺余の太刀、いずれかでもあればそんな羽目にならず済んだのだが。　今となっては無い物ねだりだ。
 If I had either the long wild sword that was Muramasa's main weapon, or the three-foot-plus sword that was to replace it, I wouldn't have had to do this.　But now it's a matter of asking for what you don't have.
 
-どちらも Silver Starに奪われてしまった。　前者は砕かれて〝卵〟の素材にされ。後者は重力の渦に呑み込まれて消え。
+どちらも銀星号に奪われてしまった。　前者は砕かれて〝卵〟の素材にされ。後者は重力の渦に呑み込まれて消え。
 Both were taken by Silver Star.　The former was crushed and used as material for an egg. The latter was swallowed by the vortex of gravity and disappeared.
 
 今や武装はこの脇差しか残されていない。
@@ -1057,28 +1057,28 @@ Now, the only armament left was this side arm.
 （分は……悪いな）
 (The minutes are bad at ......)
 
- Chachamaruの三本爪に気を払いながら思う。　数の問題ではなかった。
- I thought as I paid attention to Chachamaru's three claws.　It wasn't a matter of numbers.
+茶々丸の三本爪に気を払いながら思う。　数の問題ではなかった。
+I thought as I paid attention to Chachamaru's three claws.　It wasn't a matter of numbers.
 
-先方は性能にせよ技術にせよ密着戦に適したものを有しているとみて間違いないだろう。　反して此方はまず俺が脇差の扱いに太刀ほど慣れておらず、 craft体も小型武器の運用を目的としていない。
+先方は性能にせよ技術にせよ密着戦に適したものを有しているとみて間違いないだろう。　反して此方はまず俺が脇差の扱いに太刀ほど慣れておらず、騎体も小型武器の運用を目的としていない。
 You can be sure that the other side has the performance and technology suitable for close combat.　In the event you're not sure what to do, there are a few things you can do.
 
-村正は tsurugiとして正統派であり、重量のある刀剣を空中又は地上で扱うという想定のもと性能設定がなされている。　至近距離戦闘では本来の性能を発揮できないのだ。
+村正は劒冑として正統派であり、重量のある刀剣を空中又は地上で扱うという想定のもと性能設定がなされている。　至近距離戦闘では本来の性能を発揮できないのだ。
 The Muramasa is a legitimate tsurugi, and its performance is based on the assumption that the heavy sword will be handled in the air or on the ground.　It is not designed for close-range combat.
 
 不利な要因は他にもある。
 There are other disadvantageous factors as well.
 
-村正の武装が見えていない筈はない。にも関わらず Chachamaruは動かず、様子を窺っている。　警戒心からそうしているのでない事は明らかだ。
+村正の武装が見えていない筈はない。にも関わらず茶々丸は動かず、様子を窺っている。　警戒心からそうしているのでない事は明らかだ。
 There was no way that Muramasa's armament could not be seen. In spite of this, Chachamaru does not move and is watching the situation.　It was clear that he was not doing so out of caution.
 
-現状、 Chachamaruはあえて攻め出る必要がない。　 Chachamaruの目的は俺をこの場に足止めしておくだけで達せられるのである。
+現状、茶々丸はあえて攻め出る必要がない。　茶々丸の目的は俺をこの場に足止めしておくだけで達せられるのである。
 Currently, there is no need for Chachamaru to go on the offensive.　 Chachamaru's goal can be accomplished by simply keeping me here.
 
-その理を返せば俺の勝利条件になる。　俺は必ずしも Chachamaruを倒す必要はないが、とにかく一秒でも早く突破して天守閣へ向かわねばならない。
+その理を返せば俺の勝利条件になる。　俺は必ずしも茶々丸を倒す必要はないが、とにかく一秒でも早く突破して天守閣へ向かわねばならない。
 If I return that logic, it will be my victory condition.　I don't necessarily have to defeat Chachamaru, but I have to get through him as quickly as possible and head for the castle tower.
 
-このまま時間が過ぎ去れば、鎬を削るまでもなく、 Chachamaruの勝利と俺の敗北が決する。　　鍛造雷弾の投下によって。
+このまま時間が過ぎ去れば、鎬を削るまでもなく、茶々丸の勝利と俺の敗北が決する。　　鍛造雷弾の投下によって。
 If time continues to tick away, it won't take much to decide whether Chachamaru will win or I will be defeated.　　By dropping forged thunderbolts.
 
 従って俺は戦術的に不利な上、戦略的理由から持久策を選べないのだった。　不得手を承知で至近戦闘の領域へ自ら攻め込まねばならない。
@@ -1096,8 +1096,8 @@ If you're at a disadvantage, there's always something you can do about it, and t
 俺は右手で脇差を抜き、先端を対手へ向けて腰溜めに構えた。　同時、左手と左足は軽く前へ出して、半身の体勢となる。
 I pulled out my armpit with my right hand and held it in a hip position with the tip facing my opponent.　At the same time, I put my left hand and left foot lightly out in front of me to form a half stance.
 
- Yoshino Goryu戦礼法小太刀術、逆脇の構。　　吉野御流の小太刀は得物を前へ出し主として防御に用いるが正形だが、この構はその逆をゆく。
- Yoshino Goryu's kotaijutsu is the art of the reverse side.　　The Yoshino Goryu's kotai katana is mainly used for defense, but this stance is the opposite.
+吉野御流合戦礼法小太刀術、逆脇の構。　　吉野御流の小太刀は得物を前へ出し主として防御に用いるが正形だが、この構はその逆をゆく。
+Yoshino Goryu's kotaijutsu is the art of the reverse side.　　The Yoshino Goryu's kotai katana is mainly used for defense, but this stance is the opposite.
 
 空の左手を捨て身の防御とし、敵にこれを斬らせて右手の小太刀で突き殺す。　一撃勝負、肉を斬らせて骨を断つの型である。
 He uses his empty left hand as an abandoned defense and lets the enemy slash it, then kills him with the small sword in his right hand.　It is a form of one-hit-win, let the enemy cut the flesh and cut off the bone.
@@ -1105,10 +1105,10 @@ He uses his empty left hand as an abandoned defense and lets the enemy slash it,
 「なるほどねェ……」
 "I see. ......
 
- Chachamaruは俺の変化に応じて、ほぼ同じような姿勢をとった。　右足を引き、左前半身になる。
- Chachamaru responded to my change by assuming an almost identical posture.　He pulled his right leg and became the left front half of his body.
+茶々丸は俺の変化に応じて、ほぼ同じような姿勢をとった。　右足を引き、左前半身になる。
+Chachamaru responded to my change by assuming an almost identical posture.　He pulled his right leg and became the left front half of his body.
 
-刺突に対して体の正面を広げて立ち向かうのは危険、半身となって的の面積を減らすべきである。 Chachamaruの判断は正しい。　……だが正しいだけに、それは俺の予測通りだった。
+刺突に対して体の正面を広げて立ち向かうのは危険、半身となって的の面積を減らすべきである。茶々丸の判断は正しい。　……だが正しいだけに、それは俺の予測通りだった。
 It is dangerous to face a stab attack with the front of the body extended. Chachamaru's decision is correct.　It's just that ...... is right, and that's just what I predicted.
 
 「しッ――」
@@ -1123,10 +1123,10 @@ The fist that was lightly clenched is now fully extended, while covering the fac
 「!」
 "!
 
-視界を塞がれた Chachamaruが一瞬の十分の一ほどの時間、思案する――肌に伝わる呼吸でわかる。　俺の小太刀が右から出るか下からゆくか、それとも正面からか、この刹那は判断材料が無い。
+視界を塞がれた茶々丸が一瞬の十分の一ほどの時間、思案する――肌に伝わる呼吸でわかる。　俺の小太刀が右から出るか下からゆくか、それとも正面からか、この刹那は判断材料が無い。
 Chachamaru, his vision blocked, ponders for about a tenth of a second - you can tell by the breath on his skin.　I don't know if my little sword is going to come from the right, the bottom, or the front.
 
-一瞬を待てば見切れるが、その一瞬を待てば避けるのは無理となる。　　―― Chachamaruは結局、無難な決断をした。
+一瞬を待てば見切れるが、その一瞬を待てば避けるのは無理となる。　　――茶々丸は結局、無難な決断をした。
 If he waited a moment, he could see it, but if he waited that moment, it would be impossible to avoid it.　　-- Chachamaru eventually made the safe decision.
 
 左手の爪で前面に盾を作り、かつ後方に退避する。　こうしておけば、逆撃の手は失うが、俺の小太刀がどの角度から襲おうと防ぎ切れる。軽く刺される事はあっても致命傷とはなり得ない。
@@ -1138,7 +1138,7 @@ With the claw of my left hand, I make a shield in front of me and also move back
 （あと半歩！）
 Halfway there!
 
-相手の後退に合わせて――想定通りなのだから苦はない――足の踏み出しを延長する。　 Chachamaruを逃さず間合に捉え続ける。
+相手の後退に合わせて――想定通りなのだから苦はない――足の踏み出しを延長する。　茶々丸を逃さず間合に捉え続ける。
 As your opponent retreats, you extend your footsteps - as you are supposed to, so there is no need to bother.　 Keep Chachamaru in your sights.
 
 小太刀は、　刺突の軌道を
@@ -1153,7 +1153,7 @@ The first step is to outsmart him with the Kinohagakure, and then outsmart him b
 「――――」
 ----
 
-しかし Ashikaga Chachamaruは……　恐ろしい事に、その練達者である。
+しかし足利茶々丸は……　恐ろしい事に、その練達者である。
 But Ashikaga Chachamaru is a master of ...... and, scarily enough, a master of that.
 
 その齢でどれ程の実戦経験を積んでそうなったのか。　俺の攻撃変化に動揺すら見せない。あくまで平静なまま適切な対処を続行している。
@@ -1174,8 +1174,8 @@ I'm right on target.
 裏の裏の、もう一つ裏。　防御のためにかざされた爪を目掛けて、俺は小太刀を打ち下ろす。
 The back of the back, and the other back.　I strike down my small sword at the claws held up for defense.
 
- Chachamaruを無用に傷付ける意図はなかった。　そうしたくない理由は幾つもあるが、最たるものは、関わりを持ち過ぎたという事だ……それが精神汚染を受けている間の話であっても、記憶は拭えない。
- It was not my intention to hurt Chachamaru needlessly.　There are a number of reasons why I don't want to do that, but the most important one is that I've been involved too much. ...... Even if it was during the time of the mental contamination, the memory can't be wiped away.
+茶々丸を無用に傷付ける意図はなかった。　そうしたくない理由は幾つもあるが、最たるものは、関わりを持ち過ぎたという事だ……それが精神汚染を受けている間の話であっても、記憶は拭えない。
+It was not my intention to hurt Chachamaru needlessly.　There are a number of reasons why I don't want to do that, but the most important one is that I've been involved too much. ...... Even if it was during the time of the mental contamination, the memory can't be wiped away.
 
 無力化するのみで充分なのだ。　だから、武器である爪を狙う。
 It is enough to neutralize it.　That's why I go for the claws, the weapon.
@@ -1198,7 +1198,7 @@ I knew you would.　You're so sweet.
 折れて、
 Break.
 
-俺の小太刀が、 Chachamaruの鉄爪――　　爪と爪の間に絡め取られている。
+俺の小太刀が、茶々丸の鉄爪――　　爪と爪の間に絡め取られている。
 My small sword is entangled in Chachamaru's iron claws - claw to claw.
 
 接着されたように、びくとも動かない。
@@ -1216,8 +1216,8 @@ Hello DeepL
 「雷虎流刀剣破壊。　いま開眼していま命名!」
 "Thunder Tiger Style Sword Destruction.　I'm naming it now.
 
- Chachamaruが捕獲した小太刀に体重を掛ける。　刀身から不穏な悲鳴が聴こえてきた。
- Chachamaru put his weight on the small sword he had captured.　A disturbing scream could be heard from the blade.
+茶々丸が捕獲した小太刀に体重を掛ける。　刀身から不穏な悲鳴が聴こえてきた。
+Chachamaru put his weight on the small sword he had captured.　A disturbing scream could be heard from the blade.
 
 《ちょっ――》
 What the hell?
@@ -1231,10 +1231,10 @@ Instead of breaking, our weapons will be broken!
 瞬時の判断で、俺は柄から手を離した。　負荷の一方を失い、小太刀が明後日の方角へ飛んでゆく。
 With a quick decision, I took my hand off the hilt.　I lost one side of the load, and the small sword flew off in the direction of the day after tomorrow.
 
-武器を奪われた事には変わりないが、後で取り戻す機会があるだけこの方がましだ。　　が……これも Chachamaruの想定内だったのだろう。
+武器を奪われた事には変わりないが、後で取り戻す機会があるだけこの方がましだ。　　が……これも茶々丸の想定内だったのだろう。
 The weapon was still taken from him, but he had a chance to get it back later, which was better.　　But ...... I guess this was also in Chachamaru's mind.
 
-体勢を崩す事なく、間を取る事もなく即座、 Chachamaruが低い姿勢から一歩踏み込む。　右手を掌打の形にしながら――俺の水月を狙い。
+体勢を崩す事なく、間を取る事もなく即座、茶々丸が低い姿勢から一歩踏み込む。　右手を掌打の形にしながら――俺の水月を狙い。
 Chachamaru immediately takes a step forward from a low stance without losing his stance or taking a pause.　With his right hand in the form of a palm strike, he aimed at my water moon.
 
 打ち抜く。
@@ -1249,7 +1249,7 @@ It worked.　The impact penetrated the armor, but it didn't go all the way throu
 地獄の苦悶。　そして腹部打撃の特徴として、頭部打撃と違い意識を奪うという事がない……意識はむしろ鮮明になり、苦痛をより明瞭により強烈にする。
 The agony of hell.　And one of the characteristics of abdominal blows is that, unlike head blows, they do not deprive you of consciousness. ...... Consciousness becomes rather clearer, making the pain more distinct and intense.
 
-たまらず、俺は体をくの字に折り曲げた。　　 Chachamaruの攻め手は更に続く。
+たまらず、俺は体をくの字に折り曲げた。　　茶々丸の攻め手は更に続く。
 Unable to resist, I bent my body into a crooked shape.　　 Chachamaru's offensive continued.
 
 打ち込んだ掌を支点に運動。　硬直状態にある俺の背後へ回りつつ、腋下から両手を差し込み、首の後ろで固定……
@@ -1261,7 +1261,7 @@ I lose all freedom in my shoulders and neck.
 （巧い）
 (clever)
 
-流水よりも滑らかな連携技。　 Chachamaruが体術に熟達しているのは知っていたつもりだったが、ここまでとは思わなかった。
+流水よりも滑らかな連携技。　茶々丸が体術に熟達しているのは知っていたつもりだったが、ここまでとは思わなかった。
 A coordination technique smoother than running water.　 I thought I knew that Chachamaru was proficient in physical arts, but I didn't expect it to go this far.
 
 当事者の立場も忘れ、感嘆する。　　その半瞬後には呼吸困難に陥り、そんな余裕もなくなった。
@@ -1279,8 +1279,8 @@ It is a simple neck joint technique.　But when it's done to the extreme, it's n
 腕はまるで動かず、反撃はおろか脱出の役にも立たなかった。　首は……顎が喉に埋まりそうなほど、前へ押し曲げられている。
 His arms were as if they couldn't move, and they were useless for escape, let alone fighting back.　His neck was bent forward so far that his ...... chin was almost buried in his throat.
 
- Chachamaruの腕力は猛獣のそれさながら。やはり組打に適した craft体性能であるためなのか。　窒息死を待つまでもなく、頚骨をへし折られそうであった。
- Chachamaru's arm strength is like that of a fierce beast. I wondered if it was because the craft's body performance was suitable for paired strikes.　I didn't have to wait for death by asphyxiation, I was about to have my neckbone snapped.
+茶々丸の腕力は猛獣のそれさながら。やはり組打に適した騎体性能であるためなのか。　窒息死を待つまでもなく、頚骨をへし折られそうであった。
+Chachamaru's arm strength is like that of a fierce beast. I wondered if it was because the craft's body performance was suitable for paired strikes.　I didn't have to wait for death by asphyxiation, I was about to have my neckbone snapped.
 
 「おとなしくしててね。　殺したくないって思ってるのは、お兄さんだけじゃないんだ」
 "Be quiet.　Your brother's not the only one who doesn't want to kill you.
@@ -1294,8 +1294,8 @@ His arms were as if they couldn't move, and they were useless for escape, let al
 村正が歯軋りじみた金打声を上げる。　感じているのは心理的な苦しみばかりではあるまい。甲鉄にもかなりの負荷が掛かっている筈だ。
 Muramasa raises his voice with a chattering of teeth.　It's not just psychological pain that he's feeling. I'm sure Kotetsu is under a lot of strain as well.
 
- Chachamaruにその気が無いのなら、この状態が俺と tsurugiの死に直結する事はあるまいが……。　敗北には直結する。
- If Chachamaru doesn't want to do it, this situation won't lead directly to the death of me and tsurugi, but .......　But it will lead directly to our defeat.
+茶々丸にその気が無いのなら、この状態が俺と劒冑の死に直結する事はあるまいが……。　敗北には直結する。
+If Chachamaru doesn't want to do it, this situation won't lead directly to the death of me and tsurugi, but .......　But it will lead directly to our defeat.
 
 動けないのでは、鍛造雷弾の阻止ができない。
 If we can't move, we can't stop the forged lightning bombs.
@@ -1315,7 +1315,7 @@ There is no culture in the 66 provinces of Yamato that calls such a thing "otsu"
 《息ができないだけよっ!》
 I just can't breathe!
 
-村正が俺の意見を代弁してくれるのは有難かったが、この情勢を覆す契機にはなりそうもなかった。　軽口を叩き油断しているようでいて、 Chachamaruの筋力は少しの緩みも見せない。
+村正が俺の意見を代弁してくれるのは有難かったが、この情勢を覆す契機にはなりそうもなかった。　軽口を叩き油断しているようでいて、茶々丸の筋力は少しの緩みも見せない。
 I was grateful for Muramasa's opinion on my behalf, but it was unlikely to be an opportunity to reverse the situation.　Chachamaru's muscles never relaxed a bit, even though he seemed to be talking lightly and carelessly.
 
 力でも技でも脱出は無理だ。　この形勢から抜けるには、それを超えた術が要る。
@@ -1342,10 +1342,10 @@ Oh?
 「……磁気鍍装！」
 "...... magnetic plating!
 
-何かを察したか、 Chachamaruが身じろぎする。　だがもう遅い――擦れ声の呪句によって術は完成、発動した。
+何かを察したか、茶々丸が身じろぎする。　だがもう遅い――擦れ声の呪句によって術は完成、発動した。
 As if sensing something, Chachamaru jerked away.　But it was too late - the jutsu was completed and activated by the incantation of the scraping voice.
 
-本来は防御に用いる shinogiの応用。　自 craftと敵 craftに磁気を付与――相互に反発するよう。
+本来は防御に用いる陰義の応用。　自騎と敵騎に磁気を付与――相互に反発するよう。
 An application of shinogi, originally used for defense.　Imparts magnetism to your craft and the enemy craft - so that they repel each other.
 
 反発力は瞬間的ながら激しい。　単なる力や技だけでは無理でも、この理外の加勢を利用すれば……
@@ -1366,7 +1366,7 @@ Magnetism has been erased from ......?
 いや、相殺されたのか?　反発を目的とした磁力が、吸着を目的とした磁力に上書きされて――無効化した……？
 No, they canceled each other out?　The magnetic force that was intended to repel was overridden by the magnetic force that was intended to adsorb -- nullified ......?
 
-いや、馬鹿な！　何故 Chachamaruにそんな真似ができる！
+いや、馬鹿な！　何故茶々丸にそんな真似ができる！
 No, you idiot!　How could you do such a thing to Chachamaru!
 
 《……嘘よ。　だって、この力は》
@@ -1381,7 +1381,7 @@ I don't want to use it too much because it would affect my reputation.
 《どうして貴方が?》
 Why you?
 
-「にっひっひ。　あては Fuumaの化狼や殺人嗜好の青江なんかとは一味二味違うってーことですよーだ」
+「にっひっひ。　あては風魔の化狼や殺人嗜好の青江なんかとは一味二味違うってーことですよーだ」
 "Hee-hee.　You are different from the werewolves of Fuuma and the aoe of murderous tastes.
 
 《…………え？》
@@ -1390,10 +1390,10 @@ Why you?
 「さぁお兄さん、もう手は尽きたかな。　危ない真似はこれっきりにしてねー」
 "Come on, big brother, I think we've run out of tricks.　I don't want to see you doing anything dangerous again.
 
-心持ち、 Chachamaruの締め上げてくる力が増す。　気道は更に狭まり、呼吸状態が悪化した。
+心持ち、茶々丸の締め上げてくる力が増す。　気道は更に狭まり、呼吸状態が悪化した。
 The tightening of Chachamaru's hold on me increased.　His airway narrowed further, and his breathing worsened.
 
-これでは最早、 shinogiは練れない。
+これでは最早、陰義は練れない。
 In this way, shinogi can no longer be developed.
 
 （……どうする……?）
@@ -1417,7 +1417,7 @@ Can I just give up?
 脱出できなければ、鍛造雷弾はやがて落ちるだろう。　それで神なるモノが現れるかどうかはわからないが、間違いなく膨大な数の死者は出る。
 If we can't escape, the forged thunderbolts will eventually fall.　I don't know if that will bring out the gods or not, but there will definitely be a huge number of deaths.
 
-下手をすれば、過去の Silver Star事件の被害者が端数に思える程の――
+下手をすれば、過去の銀星号事件の被害者が端数に思える程の――
 If I'm not careful, the victims of the past Silver Star cases will seem like fractions of a percent.
 
 （それでは）
@@ -1465,7 +1465,7 @@ The ............
 《……わかった》
 《...... found out.》
 
-更なる異議は呈さず、 tsurugiが首肯の意思を寄越す。　当然だ――村正は道理のわからぬ奴ではない。
+更なる異議は呈さず、劒冑が首肯の意思を寄越す。　当然だ――村正は道理のわからぬ奴ではない。
 No further objections were raised, and tsurugi gave his nod of approval.　Of course - Muramasa is not a man who does not understand reason.
 
 俺はその一瞬に備えた。　力を抜き、気は強く張る。
@@ -1477,7 +1477,7 @@ It wouldn't be funny if I were to lose consciousness.
 「……？」
 "......?
 
-《 midou！》
+《御堂！》
 midou!
 
 「肯――」
@@ -1486,7 +1486,7 @@ midou!
 村正が左腕甲鉄を解除する。　次の瞬間、俺の左肩は鈍い音を立てて外れた。
 Muramasa releases the left arm armor.　The next moment, my left shoulder came off with a dull thud.
 
-……何の不思議もない事である。　敵 craftの剛腕で押し込まれていたその関節から、急に甲鉄の支えが失われ脆弱な生の肉体のみとなれば――ひとたまりもなく折れて当たり前。
+……何の不思議もない事である。　敵騎の剛腕で押し込まれていたその関節から、急に甲鉄の支えが失われ脆弱な生の肉体のみとなれば――ひとたまりもなく折れて当たり前。
 ...... It is no wonder.　In the event that you've got a lot more than one of these, you'll be able to get a lot more.
 
 痛覚を電撃が駆け抜ける。　思考の全てが吹き飛びそうになった。
@@ -1495,13 +1495,13 @@ An electric shock ran through my pain.　All my thoughts were about to be blown 
 「ふえっ?」
 "Huh?
 
-流石に Chachamaruも驚いたらしい。　唖然たる吐息が首筋に触れる。
+流石に茶々丸も驚いたらしい。　唖然たる吐息が首筋に触れる。
 It seems that Chachamaru was also surprised.　A stunned exhale touched his neck.
 
 好機だった。　左腕が折れたために、羽交絞めは緩んでいる。脱出するなら今しかない。
 It was an opportunity.　His left arm was broken, and his choke was loose. Now was the only time to escape.
 
-岩石を噛み砕くように奥歯を打ち合わせ、瞬間的に苦痛を忘却――　俺は力任せに Chachamaruを振り解き、その場から跳んで離れた。
+岩石を噛み砕くように奥歯を打ち合わせ、瞬間的に苦痛を忘却――　俺は力任せに茶々丸を振り解き、その場から跳んで離れた。
 I clenched my teeth together like I was chewing on a rock, momentarily oblivious to the pain--I shook Chachamaru with all my might and jumped away from the scene.
 
 自由を取り戻す。　だがその代償の激痛は、再び脳髄を焼いた。
@@ -1528,7 +1528,7 @@ Yeah.
 「いや、『ええ』じゃねーだろーがぁ！」
 "No, it's not 'yeah'!
 
-我に返ったらしい Chachamaruが、激昂の様子で荒い声を上げる。　険しい視線がこちらへ向けられていた。
+我に返ったらしい茶々丸が、激昂の様子で荒い声を上げる。　険しい視線がこちらへ向けられていた。
 Chachamaru, who seemed to have come to his senses, raised his voice in a rage.　A steely gaze was directed at us.
 
 対象は俺ではないようだ。
@@ -1537,16 +1537,16 @@ I don't think I'm the target.
 「てめぇ村正……　仕手の体を壊してどうする?　命令されたってやらねえだろ普通！」
 "You Muramasa, ......, what are you doing destroying the body of the supplier?　You wouldn't do that even if I told you to, normally!
 
-「それでも tsurugiか!」
+「それでも劒冑か!」
 "Still tsurugi?
 
-《 tsurugiよ》
+《劒冑よ》
 It's tsurugi.
 
 村正は糸屑程度の怯みも見せなかった。
 Muramasa did not show the slightest bit of trepidation, not even a scrap of thread.
 
-《私は midouの保護者じゃない。　戦って勝つための相棒なの》
+《私は御堂の保護者じゃない。　戦って勝つための相棒なの》
 I'm not Midou's guardian.　I'm your partner to fight and win.
 
 《勝つために守るし、勝つためなら傷付けることだってある》
@@ -1564,7 +1564,7 @@ He interjected as he picked up the things at his feet.　...... Apparently, the 
 脇差である。　手放してしまった唯一の武装を、俺は取り戻した。
 It was a sidearm.　The only armament I had given up, I had regained.
 
-「俺の tsurugiはそれで正しい」
+「俺の劒冑はそれで正しい」
 "My tsurugi is right about that.
 
 「……お兄さんも難儀なお人やね。　どうしてそんなのを認めちまうかなぁ」
@@ -1573,16 +1573,16 @@ It was a sidearm.　The only armament I had given up, I had regained.
 「切ない気分ですよ」
 I feel so sad.
 
-「そう言われても返しようがないが。　仕手と tsurugiの縁が結ばれるからには、相応の理由があったという事なのだろうよ」
+「そう言われても返しようがないが。　仕手と劒冑の縁が結ばれるからには、相応の理由があったという事なのだろうよ」
 I don't know how to respond to that.　I'm not sure how to respond to that, but I'm guessing there was a good reason for the relationship between you and tsurugi.
 
 「……はは。　その逆をいえば、結ばれなかったことにも理由はあるってことか」
 "...... haha.　I guess the flip side of that is that there's a reason they didn't tie the knot.
 
-低く笑いながら。　悔しげに、 Chachamaruは唇を噛んだ。
+低く笑いながら。　悔しげに、茶々丸は唇を噛んだ。
 With a low chuckle.　In frustration, Chachamaru bit his lip.
 
-「どうしたもんかな。　 tsurugiはイカレてるし、お兄さんは頑固者」
+「どうしたもんかな。　劒冑はイカレてるし、お兄さんは頑固者」
 I don't know what to do.　 Tsurugi is crazy, and my brother is stubborn.
 
 「これじゃその気がなくたって命の取り合いになっちまうねぇ……」
@@ -1600,10 +1600,10 @@ I knew it would be futile to ask.　The only response I got was a shake of the h
 「む……」
 It's .......
 
-《 midou、敵 craftの熱量が変動してる！　これは――》
+《御堂、敵騎の熱量が変動してる！　これは――》
 Midou, the enemy craft's heat level is fluctuating!　This is--
 
-「 shinogiか?」
+「陰義か?」
 "Shinogi?
 
 《おそらく！》
@@ -1615,8 +1615,8 @@ Is it too late to control it before it is activated?　The distance is a little 
 待ち受けるしかないようだ。　術を見極め、その上で防ぐ。
 It seems we have to wait and see.　Determine the technique and then prevent it.
 
- mushaの秘中の秘技たる shinogiは法外不測、どんな現象でも起こり得る――しかしどんな現象が起きても対処せねばならない。　鬼が出るか蛇が出るか。俺は心胆を据えた。
- The secret of musha, shinogi, is that any phenomenon can happen - but whatever happens, it must be dealt with.　Will a demon or a snake come out? I set my mind to it.
+武者の秘中の秘技たる陰義は法外不測、どんな現象でも起こり得る――しかしどんな現象が起きても対処せねばならない。　鬼が出るか蛇が出るか。俺は心胆を据えた。
+The secret of musha, shinogi, is that any phenomenon can happen - but whatever happens, it must be dealt with.　Will a demon or a snake come out? I set my mind to it.
 
 「そう警戒しなくていいよ。　大した術じゃないんだ……」
 "Don't be so alarmed.　It's not much of a technique. ......
@@ -1636,7 +1636,7 @@ But...
 「今回は加減なし」
 Not this time.
 
-「 Ashikaga Chachamaruの世界をそのまま捧げる」
+「足利茶々丸の世界をそのまま捧げる」
 "I dedicate the world of Ashikaga Chachamaru as it is.
 
 「――――」
@@ -1690,22 +1690,22 @@ The first.
 溢れ返る、　。情報。情報。
 Overflowing, . Information. Information.
 
-これが―― Chachamaruの世界――――？
+これが――茶々丸の世界――――？
 Is this -- Chachamaru's world ----?
 
 《……これは……》
 《...... this is ......》
 
-《人の感覚と、 tsurugiの感覚が……　混線している？》
+《人の感覚と、劒冑の感覚が……　混線している？》
 Your senses and tsurugi's are mixed up in ......?
 
 「そうさ」
 Yeah.
 
-輪唱、群像の中、 Ashikaga Chachamaruという一個体も喋っていた。
+輪唱、群像の中、足利茶々丸という一個体も喋っていた。
 In the midst of the chanting and the crowd, an individual named Ashikaga Chachamaru was also speaking.
 
-「これがヒトで在り tsurugiで在るあての宿業。　ヒトの感覚に基づいて、 tsurugiの感覚機能が情報を収集し、肉の脳に叩き込む」
+「これがヒトで在り劒冑で在るあての宿業。　ヒトの感覚に基づいて、劒冑の感覚機能が情報を収集し、肉の脳に叩き込む」
 This is what we do as humans and as tsurugi.　Based on human senses, the sensory functions of tsurugi collect information and put it into the flesh brain.
 
 「結果がこの情報洪水。　……お兄さん？　もう溺死しちゃってないだろうね？」
@@ -1714,7 +1714,7 @@ The result is this flood of information.　...... Brother?　You haven't drowned
 「――――」
 ----
 
-「まだあるんだよ。　ヒトと tsurugiの複合感覚は、ヒトにも tsurugiにも感じ取れないものまでつかみ取る……」
+「まだあるんだよ。　ヒトと劒冑の複合感覚は、ヒトにも劒冑にも感じ取れないものまでつかみ取る……」
 It's still there.　The combined senses of human and tsurugi grasp at things that neither human nor tsurugi can sense. ......
 
 「その最たるものが」
@@ -1780,14 +1780,14 @@ The fragments of my scattered consciousness came together.　After about ten bil
 両腕を突いて、体を持ち上げる。
 Thrust your arms out and lift yourself up.
 
-……意識を失っていた時間は、どうやら思っていたよりは幾らか短かったらしい。　周辺の光景が未知の文明のそれに置き換わっているようなことはなく、相変わらずの Fudaraku城である。
+……意識を失っていた時間は、どうやら思っていたよりは幾らか短かったらしい。　周辺の光景が未知の文明のそれに置き換わっているようなことはなく、相変わらずの普陀楽城である。
 The time I spent unconscious in ...... was apparently somewhat shorter than I had expected.　There was no sign that the surrounding scenery had been replaced by that of an unknown civilization, and it was still the same old Fudaraku Castle.
 
- Chachamaruもそのままの姿で、立っていた。　驚きを込めて、俺を見詰めている。
- Chachamaru was standing there, looking exactly the same.　He was staring at me with surprise.
+茶々丸もそのままの姿で、立っていた。　驚きを込めて、俺を見詰めている。
+Chachamaru was standing there, looking exactly the same.　He was staring at me with surprise.
 
 「……予想以上にタフだねー、お兄さん。　今ので潰れないとは思わなかった」
-'...... You're tougher than I expected, brother.　I didn't think you'd go under now.
+...... You're tougher than I expected, brother.　I didn't think you'd go under now.
 
 「……………………」
 "........................
@@ -1801,10 +1801,10 @@ Is it the same with ...... Muramasa?
 統御機能が完全に崩壊しかねない程の衝撃を受けたらしい。　幸いにもそうはならず、復旧に向かっているが……。
 It seems that the shock was so great that it could have completely destroyed the control function.　Fortunately, it didn't and is on its way to recovery. ......
 
-これが craft航中の事でなかったのも幸いだった。　もしそうであったら、墜落は免れなかったろう。
+これが騎航中の事でなかったのも幸いだった。　もしそうであったら、墜落は免れなかったろう。
 It was fortunate that this was not during the flight.　If it had been, we would not have been able to avoid the crash.
 
-「 Chachamaru」
+「茶々丸」
 "Chachamaru.
 
 ようやく、言葉が出る。
@@ -1858,7 +1858,7 @@ It will truly be destroyed.
 あんなものが地上に現れ、活動したなら！
 If that thing showed up on Earth and was active!
 
-《…… midou……》
+《……御堂……》
 ...... midou......
 
 「回復したか」
@@ -1894,7 +1894,7 @@ The ............
 《こ、金神さま？》
 Goldfinger?
 
-「ウォルフの推論が当たってればだけどな。　あれが tsurugiの起源」
+「ウォルフの推論が当たってればだけどな。　あれが劒冑の起源」
 That is, if Wolff's theory is correct.　That's the origin of tsurugi.
 
 「天界から火を盗んだプロメテウス。　太陽を削り取るヴィシュヴァカルマン。　天帝に挑んで敗れ、地に埋められた蚩尤。　宇宙よりの客人、金神魔王尊」
@@ -1903,7 +1903,7 @@ That is, if Wolff's theory is correct.　That's the origin of tsurugi.
 「遠い昔に天から落ちてきた、鍛冶の祖神だ」
 "He fell from the heavens a long time ago, the ancestor of blacksmithing.
 
-記憶に触れる。　あの―― tsurugi夢想論と題された論文か。
+記憶に触れる。　あの――劒冑夢想論と題された論文か。
 Touching my memory.　The paper titled "Tsurugi's Dream Theory"?
 
 《……そうだとしても。　崇めはしたって、この現世に連れて来ようなんて考えるもんですか》
@@ -1930,7 +1930,7 @@ The ............
 「望む通りにしてやるしかねえんだよ」
 You've got to do what you want.
 
-「 Chachamaru……」
+「茶々丸……」
 "Chachamaru......
 
 そうしなければ。　お前は、あれから解放されない……？
@@ -1939,7 +1939,7 @@ I have to.　You can't free yourself from that. ......?
 《……また!》
 《...... again!
 
-「お兄さんがいくらしぶとくても、その tsurugiがどこまで鈍感でも、もう一度あれを聴けば落ちるだろ。　だから、そうする」
+「お兄さんがいくらしぶとくても、その劒冑がどこまで鈍感でも、もう一度あれを聴けば落ちるだろ。　だから、そうする」
 "No matter how stubborn your brother is, no matter how insensitive that tsurugi is, if you listen to that again, you'll fall.　So I will.
 
 「下手に抗わない方が多分楽だよ、お兄さん」
@@ -1954,7 +1954,7 @@ At any rate - we must not be defeated here.　There are too many things to lose,
 瞬時の判断で、俺は脇差を鞘に納めた。　そして体内の熱量を掻き集める。
 With a quick decision, I sheathed my armpit.　Then I scraped the heat from my body.
 
-《 midou?》
+《御堂?》
 《Midou?
 
 「電磁擲刀！　やれるな、村正?」
@@ -1966,7 +1966,7 @@ With a quick decision, I sheathed my armpit.　Then I scraped the heat from my b
 未だ足腰が立たず、斬り掛かる事のできない現状では、これが唯一の方途だった。　電磁刀術の第三法。鞘に納めた脇差を、磁気反発を利用して射出する。
 This was the only way out of the current situation where he was still unable to stand on his feet and slash.　The third method of the electromagnetic sword technique. The third method of the electromagnetic sword technique, using the magnetic repulsion to shoot out the arrows in their sheaths.
 
-何者であれ回避は不可能。　いや一度だけ、超常の速度まで到達した craft体に回避された経験があるが――あの真似を Chachamaruが成し得るとは思えない。通常は反応すら無理だ。
+何者であれ回避は不可能。　いや一度だけ、超常の速度まで到達した騎体に回避された経験があるが――あの真似を茶々丸が成し得るとは思えない。通常は反応すら無理だ。
 Whatever it is, it is impossible to avoid.　No, I've only been evaded once by a craft that had reached supernatural speeds, but I don't think Chachamaru could pull off something like that. Normally, it is impossible to even react.
 
 狙うは足元。　直撃させねば致命傷になる事はない。しかし着弾の衝撃波は甲鉄の守護をもってしても完全には防ぎ切れないであろう。
@@ -2008,7 +2008,7 @@ I didn't bother to thank him.　It's not necessary now.
 左手の不安は、これでほぼ無い。　掌と鞘が磁力で接合されている――握力不足の補いになる。
 My anxiety about my left hand is almost non-existent with this.　The palm and scabbard are joined by magnetic force - it makes up for the lack of grip strength.
 
-後は shinogiを完成させるのみ！
+後は陰義を完成させるのみ！
 Now we just need to finish shinogi!
 
 「――――」
@@ -2026,7 +2026,7 @@ I'm the one.
 「呪」
 "Spell.
 
-……術は完全な形で行使された。　敵 craftの shinogiは襲って来ない。
+……術は完全な形で行使された。　敵騎の陰義は襲って来ない。
 The ...... technique has been exercised in its full form.　The enemy craft shinogi will not attack you.
 
 つまりは――企図を遂げた。
@@ -2035,14 +2035,14 @@ In other words, I've accomplished what I set out to do.
 「……ぬっ?」
 "...... Nuh?
 
- Chachamaruがいない。
- Chachamaru is not here.
+茶々丸がいない。
+Chachamaru is not here.
 
 まさか、直撃した……？　いや、だとしても破片も残さず消え失せるのは妙だ。
 Don't tell me you got a direct hit from ......?　No, but even if it was, it's odd that it disappeared without leaving any debris.
 
- Chachamaruが立っていた地点には、電磁擲刀の着弾跡であろう、いびつな擂鉢状の穴が出来ているのみ。　他には何もない。
- At the spot where Chachamaru had been standing, there was only an indented gravelly hole, probably the result of an EMP grenade.　There was nothing else.
+茶々丸が立っていた地点には、電磁擲刀の着弾跡であろう、いびつな擂鉢状の穴が出来ているのみ。　他には何もない。
+At the spot where Chachamaru had been standing, there was only an indented gravelly hole, probably the result of an EMP grenade.　There was nothing else.
 
 ……何処に行った？
 ...... Where did it go?
@@ -2059,20 +2059,20 @@ I turned my helmet in the direction Muramasa had indicated.　There he was. He m
 ……どういう意図であろう。
 ...... What are the intentions?
 
- shinogiの勝負をやめ、直前に退避した。　それはわかる。わかるが。
- I stopped playing shinogi and retreated just before the game.　I understand that. I can understand it.
+陰義の勝負をやめ、直前に退避した。　それはわかる。わかるが。
+I stopped playing shinogi and retreated just before the game.　I understand that. I can understand it.
 
 何の益がある？
 What's in it for me?
 
-確かにこちらは電磁擲刀を無駄撃ちした格好だ。　とはいえ Chachamaruも術を完成寸前まで練り上げていた。そこから shinogiを放棄しても、既に消費した熱量を取り戻せるものではない。
+確かにこちらは電磁擲刀を無駄撃ちした格好だ。　とはいえ茶々丸も術を完成寸前まで練り上げていた。そこから陰義を放棄しても、既に消費した熱量を取り戻せるものではない。
 It's true that this one was a waste of an electromagnetic grenade.　However, Chachamaru had also worked on the technique to the point of completion. It is not possible to regain the heat that has already been consumed by abandoning the shinogi.
 
 つまり消耗はお互い様。　戦力比は全く変移していない。
 In other words, the wear and tear is mutual.　The force ratio has not changed at all.
 
- Chachamaruの行動は本当に無意味……　としか思えない、が……
- Chachamaru's actions really seem to be pointless ......, but ......
+茶々丸の行動は本当に無意味……　としか思えない、が……
+Chachamaru's actions really seem to be pointless ......, but ......
 
 「あての勝ちかな」
 I guess that's a win.
@@ -2080,13 +2080,13 @@ I guess that's a win.
 「……」
 "......
 
-「悪知恵勝負じゃ分が悪かったね、お兄さん。　こちとら堀越公方 Ashikaga Chachamaru」
+「悪知恵勝負じゃ分が悪かったね、お兄さん。　こちとら堀越公方足利茶々丸」
 "The odds were not in your favor in the battle of wits, brother.　This is Ashikaga Chachamaru, Lord of Horikoshi.
 
 「裏技はお手の物ですよ。　……じゃっ」
 "I'm good with subterfuge.　...... Ja.
 
-言い捨てて、 Chachamaruは駆け去ろうとする。　踵を返し、俺に背を向けて。
+言い捨てて、茶々丸は駆け去ろうとする。　踵を返し、俺に背を向けて。
 He turns on his heel and turns his back on me.　He turns on his heel and turns his back to me.
 
 逃げる……？
@@ -2104,10 +2104,10 @@ No!
 図られた。　完璧に騙された。
 I was lied to.　I was completely fooled.
 
- Chachamaruは無理を押してまで俺と決戦する必要はない。　時間が過ぎ去り、鍛造雷弾を積んだ船が Fudaraku上空へ現れればそれで勝利を得られる――
- The Chachamaru don't have to force themselves into a battle with me.　As soon as the time is up and the ship carrying the forged thunderbolts appears above Fudaraku, we will have victory.
+茶々丸は無理を押してまで俺と決戦する必要はない。　時間が過ぎ去り、鍛造雷弾を積んだ船が普陀楽上空へ現れればそれで勝利を得られる――
+The Chachamaru don't have to force themselves into a battle with me.　As soon as the time is up and the ship carrying the forged thunderbolts appears above Fudaraku, we will have victory.
 
-そこまでは俺も承知していた。　だから一か八かの shinogi勝負を避けた事にも実は納得ができなくはなかった……無難に時間を稼げればそれで良かったのだと。余りに消極的だとは思うものの。
+そこまでは俺も承知していた。　だから一か八かの陰義勝負を避けた事にも実は納得ができなくはなかった……無難に時間を稼げればそれで良かったのだと。余りに消極的だとは思うものの。
 I knew that much.　In the event that you have any questions regarding where and how to use the internet, you can contact us at the following web site: ....... I'm sure you'll agree that it's a great idea.
 
 だが違った。
@@ -2116,8 +2116,8 @@ But it was different.
 もう一つある事に気付かなかった。
 I didn't realize there was one more thing.
 
- Chachamaruは俺を倒す事と時間を稼ぐ事の他にもう一つ、勝ち筋を持っている！
- Besides beating me and buying time, Chachamaru has one more thing he can do to win!
+茶々丸は俺を倒す事と時間を稼ぐ事の他にもう一つ、勝ち筋を持っている！
+Besides beating me and buying time, Chachamaru has one more thing he can do to win!
 
 「殺す気だ」
 He's gonna kill him.
@@ -2125,14 +2125,14 @@ He's gonna kill him.
 《……え？　誰を？》
 《...... huh?　Who?
 
-「 Ashikaga Kuniujiをだ！　彼が死ねば、鍛造雷弾投下を阻止する方法は無くなる！」
+「足利邦氏をだ！　彼が死ねば、鍛造雷弾投下を阻止する方法は無くなる！」
 "Ashikaga Kuniuji!　If he dies, there will be no way to stop the forged mine bombs from dropping!
 
 《……あ……！》
 The ......あ......!
 
- Chachamaruの行く手には天守閣。　間違いない。
- The castle tower is in Chachamaru's path.　No doubt about it.
+茶々丸の行く手には天守閣。　間違いない。
+The castle tower is in Chachamaru's path.　No doubt about it.
 
 追わねば！
 We have to go after him!
@@ -2143,16 +2143,16 @@ We have to go after him!
 足が崩れる。　力が――入らない。
 My legs collapse.　My strength is gone.
 
- Chachamaruの shinogiの余韻がまだ残っているのか。　それに加えて、電磁擲刀による熱量の消耗が響いている……?
- Are the lingering effects of Chachamaru's shinogi still lingering?　In addition to that, the heat exhaustion caused by the electromagnetic grenades is echoing ......?
+茶々丸の陰義の余韻がまだ残っているのか。　それに加えて、電磁擲刀による熱量の消耗が響いている……?
+Are the lingering effects of Chachamaru's shinogi still lingering?　In addition to that, the heat exhaustion caused by the electromagnetic grenades is echoing ......?
 
-これが狙いだったのか!　全ては Chachamaruの計算の内か!
+これが狙いだったのか!　全ては茶々丸の計算の内か!
 Is this what you wanted?　Was this all part of Chachamaru's plan?
 
 「くっ……おおお!」
 "Stick to ......!
 
-「 Yoshino Goryu戦礼法――」
+「吉野御流合戦礼法――」
 "Yoshino Goryu Sengen Ritual--
 
 「剔抉！」
@@ -2167,7 +2167,7 @@ Is this what you wanted?　Was this all part of Chachamaru's plan?
 「釈掌！」
 "Palm!
 
-「……良い！　流石は名にし負う六波羅衆。　いずれも見事な mushaぶりぞ！」
+「……良い！　流石は名にし負う六波羅衆。　いずれも見事な武者ぶりぞ！」
 "...... good!　It's a great example of the famous Rokubarashu.　I'm sure you'll be pleased to hear that.
 
 「だが惜しいかな、光に一太刀浴びせるには至らぬ……。　怯むまじ。奮うべし！　我こそはと思わん武士、光の前へ出て来られい!」
@@ -2179,7 +2179,7 @@ This is not how ...... things are supposed to work.
 《これだけの数で掛かって、傷の一つもつけられんとは……》
 I can't believe they couldn't even get a scratch on it. ......
 
-《…… Silver Star……!》
+《……銀星号……!》
 《...... Silver Star......!》
 
 《だが。　囲い込み、足は止めた――予定通りに》
@@ -2209,7 +2209,7 @@ Crash, monster!
 《仕留めたかっ！》
 I wanted to kill it!
 
-《摩天蛟の主砲を浴びて形を保っていられるものはこの世に存在しない。　それが白銀の魔王、 Silver Starでもだ!》
+《摩天蛟の主砲を浴びて形を保っていられるものはこの世に存在しない。　それが白銀の魔王、銀星号でもだ!》
 There's nothing in this world that can keep its shape after being hit by the main cannon of the rainbow.　That's even the Silver Star, the Demon King of Silver!
 
 「ふむ。　その論、誤ってはいない」
@@ -2260,7 +2260,7 @@ The ...... Hush Dahl ......?
 《かぁさま》
 《Mother》
 
-「この華を見て疼くか？　我が子ら――最も強猛なる八 craftよ」
+「この華を見て疼くか？　我が子ら――最も強猛なる八騎よ」
 "Do you tingle at the sight of this flower?　My children, the mightiest of the eight crafts.
 
 「戦いを欲するのか。　生命と生命の覇権争奪を」
@@ -2284,19 +2284,19 @@ We have conquered the age with our power, and now we will conquer it with even m
 「…………」
 "............
 
-《 midou》
+《御堂》
 《Midou》
 
 「何か」
 "Something.
 
-《大物が近付いておる。　なかなかの tsurugi。おそらく仕手も凡俗ではあるまい》
+《大物が近付いておる。　なかなかの劒冑。おそらく仕手も凡俗ではあるまい》
 The big one is approaching.　Perhaps the stockbroker is no ordinary person either.
 
 「……ほう？」
 "The ...... way?
 
-「六波羅 Kogakuboにして大和竜軍中将を拝命する Yusa Doushin Nyudo。　白銀の流星現ると聞き及び、年甲斐もなくしゃしゃり出て参った」
+「六波羅古河公方にして大和竜軍中将を拝命する遊佐童心入道。　白銀の流星現ると聞き及び、年甲斐もなくしゃしゃり出て参った」
 I've heard that a silver meteor is about to appear, so I've come out of my shell, despite my age.
 
 「名高き古河中将どのか！　これはこの光、不覚にも見誤った」
@@ -2305,13 +2305,13 @@ I've heard that a silver meteor is about to appear, so I've come out of my shell
 「おぅ、何者と思われたか？」
 "Oh, what do they think I am?
 
-「老体と見えて敏速なる craft航。　かの黄漢升に違いあるまいと見定めたのだが――」
+「老体と見えて敏速なる騎航。　かの黄漢升に違いあるまいと見定めたのだが――」
 "He looks old, but his craft is very quick.　I knew it had to be the famous Huang Hanzheng.
 
 「はぁっはっはっはっ！　これはしたり、これはしたり」
-'Hahahahaha!　This one does, that one does.
+Hahahahaha!　This one does, that one does.
 
-「よもや Silver Star-donoに世辞を言って頂けるとは思わなんだ！」
+「よもや銀星号殿に世辞を言って頂けるとは思わなんだ！」
 "I never thought I'd be flattered by Silver Star-dono!
 
 「光は世辞を好まぬ。　円滑な人間関係の構築のため必要な場合もあろうが、今がそうだとは思っていないぞ」
@@ -2326,7 +2326,7 @@ I've heard that a silver meteor is about to appear, so I've come out of my shell
 「うむ……　まずは問答を一つ願おうかの」
 "Mm, ......, let's start with a question and answer.
 
-「人の姿をした災いと呼ばれ、まさに大災禍を天地に振り撒いておられる Silver Star-dono。　貴殿の望みは奈辺にありや？」
+「人の姿をした災いと呼ばれ、まさに大災禍を天地に振り撒いておられる銀星号殿。　貴殿の望みは奈辺にありや？」
 "Silver Star-dono, the plague in human form, the very one who spreads havoc throughout the heavens and the earth. What is your hope?
 
 「その問いならば答えは易い」
@@ -2335,7 +2335,7 @@ If that's the question, the answer is easy.
 「天下布武!」
 "The World Bouw!
 
-「おぉ……。　Bushidoを以て天下の主となるが望みでござるか」
+「おぉ……。　武を以て天下の主となるが望みでござるか」
 "Oh, .......　Do you wish to be the master of the world with Bushido?
 
 「然り」
@@ -2344,7 +2344,7 @@ Exactly.
 「正しき武の法を天下に布く。　その法に則り、万人と武を競い、頂へ至るが光の望むところ」
 "Spread the law of righteous warfare throughout the land.　In accordance with this law, I will compete with all people in warfare and reach the summit, which is what the light desires.
 
-「正しきBushidoの法とは？」
+「正しき武の法とは？」
 "What is the Law of Righteous Bushido?
 
 「殺法。　死法。　凶法。　祝法」
@@ -2365,25 +2365,25 @@ You're right.
 「ぐぅの音も出ぬわ。　それこそ武の、武器の、武人の――正統にして真実であることを誰がどうして否定できようか」
 "I can't say no to that.　It is the truth of the warrior, of the weapon, of the warrior--how can anyone deny that it is the truth?
 
-「Bushidoは殺し合いの為にあり、しからば、殺し合わねばならぬ。　正しく純一に武を追えば、その簡素にして明瞭なる真理へ行き着くほか無い！」
+「武は殺し合いの為にあり、しからば、殺し合わねばならぬ。　正しく純一に武を追えば、その簡素にして明瞭なる真理へ行き着くほか無い！」
 "Bushido is about killing each other, and therefore, we must kill each other.　If you follow the martial arts in a correct and pure manner, you will arrive at the simple and clear truth!
 
 「まさに」
 Exactly.
 
-「Bushidoが正しく在れば、世は争乱に満つるべし。　世に和平を布くのであれば、武は全て滅ぶべし」
+「武が正しく在れば、世は争乱に満つるべし。　世に和平を布くのであれば、武は全て滅ぶべし」
 "If Bushido is right, the world will be full of strife.　If Bushido is correct, the world will be full of strife. If it is not for peace, all warriors will perish.
 
 「いやァ、はっきりしておるのう！　偽善も虚飾も屁理屈も、何もござらん！」
 "Well, that's clear!　No hypocrisy, no pretense, no quibbling, nothing!
 
-「この Doushin-bo、感服いたした」
+「この童心坊、感服いたした」
 "This Doushin-bo, I admire it.
 
 「ならば、如何される？　古河中将どの」
 What would you have me do?　Lieutenant General Furukawa.
 
-「Bushidoは今ここに二つ、存在する……」
+「武は今ここに二つ、存在する……」
 "Bushido now exists in two places: ......
 
 「うむ。　……正しき法に従うしかござらんのう」
@@ -2404,7 +2404,7 @@ Well...
 （どうもこの姫、予想以上）
 Thank you, this princess is more than I expected.
 
-（悪徳大師 Doushin-boも、ようやく年貢の納め時、か……）
+（悪徳大師童心坊も、ようやく年貢の納め時、か……）
 (Is it finally time for the evil master Doushin-bo to pay his tribute? ......)
 
 「しかァし！」
@@ -2419,13 +2419,13 @@ We'll be in Kamakura soon!
 「そうか……。　投下の用意は出来ているな？」
 "Well, .......　You're ready to pitch in, right?
 
-「はっ、問題ありません。　当該 craft体は既に爆装を終えて射出口で待機しています」
+「はっ、問題ありません。　当該騎体は既に爆装を終えて射出口で待機しています」
 "Ha, no problem.　The craft in question has already finished detonating and is waiting at the ejection port.
 
 「ならいい」
 I'll take that.
 
-「…………。　 Canon中佐」
+「…………。　キャノン中佐」
 ".............　 Canon Nakazo
 
 「何だ？」
@@ -2437,7 +2437,7 @@ Will our objective be achieved?
 「……」
 "......
 
-「ああ。　やるさ、 Gargett中尉」
+「ああ。　やるさ、ガーゲット中尉」
 "Yeah.　Will do, Lieutenant Gargett.
 
 「大和を奪り、女王と戦い、故郷を解放する。　あの広大な大陸で待つ同胞達のために」
@@ -2446,7 +2446,7 @@ Will our objective be achieved?
 「……」
 "......
 
-「そして今は亡き同胞達のために。　 Mizuhi少将……それに Gargett少佐」
+「そして今は亡き同胞達のために。　ウィロー少将……それにガーゲット少佐」
 "And for our now deceased brothers and sisters.　 Major General Mizuhi: ...... and Major Gargett.
 
 「君の兄の勇敢な死に応えなくてはな、中尉」
@@ -2482,19 +2482,19 @@ Ha!
 「どうだ」
 How's it going?
 
-「 Fudaraku城周辺は混乱しています。　……あの Silver Starが出現したらしく」
+「普陀楽城周辺は混乱しています。　……あの銀星号が出現したらしく」
 "The area around Fudaraku Castle is in chaos.　...... It seems that the Silver Star has appeared.
 
 「何だと!?」
 "What the hell?
 
-「その影響で、我が軍の撤退は完了しておりません。　 Silver Starが原因と思われる狂乱状態の渦中に巻き込まれています」
+「その影響で、我が軍の撤退は完了しておりません。　銀星号が原因と思われる狂乱状態の渦中に巻き込まれています」
 Because of this, our troop withdrawal has not been completed.　 We are caught in the middle of a frenzy that seems to be caused by the Silver Star.
 
 「…………」
 "............
 
-「何を迷うのだね？　 Canon中佐」
+「何を迷うのだね？　キャノン中佐」
 "What are you confused about?　 Commander Canon.
 
 「教授……」
@@ -2566,7 +2566,7 @@ In other words, taking off the pants of an innocent girl is a supreme pleasure, 
 「ますますわからなくなりましたが」
 I'm getting more and more confused.
 
-「うぅぬ、手を焼かせる男だな！　中佐、君は Mizuhi少将の最期をもう忘れ去ってしまったのか!?」
+「うぅぬ、手を焼かせる男だな！　中佐、君はウィロー少将の最期をもう忘れ去ってしまったのか!?」
 "Ugh, you're a hard man to please!　Commander, have you already forgotten the end of Major General Mizuhi?
 
 「……」
@@ -2620,13 +2620,13 @@ I'm going to ask you the same question one more time.　If the answer remains th
 「…………」
 "............
 
-「あなたは鍛造雷弾の使用にこだわってきた。　そう、勝利ではない。戦果ではない。政治的意義ではない……ただ雷弾を Fudarakuに投下するというその行為にのみ執心していた」
+「あなたは鍛造雷弾の使用にこだわってきた。　そう、勝利ではない。戦果ではない。政治的意義ではない……ただ雷弾を普陀楽に投下するというその行為にのみ執心していた」
 "You've insisted on using forged lightning rounds.　Yes, not victory. It's not a war result. You have been obsessed only with the act of dropping thunderbolts on Fudaraku, not with political significance. ......
 
 「そのために我々に近付いた」
 That's why you approached us.
 
-「 Canon-kun……どうも誤解が」
+「キャノン君……どうも誤解が」
 "Canon-kun......, there's been a misunderstanding.
 
 「ウォルフ教授。　覚えてらっしゃいますか……」
@@ -2662,13 +2662,13 @@ If the war situation becomes unfavorable, we can use that as an excuse to ask fo
 「……教授。　少し、無謀が過ぎませんか？」
 "Professor .......　Don't you think you're being a little reckless?
 
-「いや……いや！　そう決め付けたものでもないぞ、 Canon中佐」
+「いや……いや！　そう決め付けたものでもないぞ、キャノン中佐」
 "No. ...... No!　I'm not so sure about that, Commander Canon.
 
 「あなたはあの時――　好都合だと言ったんです」
 You said at the time-- you said it was convenient.
 
-「……何が好都合なんでしょうね？　通常兵力による関東侵攻を選択した我々にとって、最良の結末とは、作戦が順調に運び最低限の損害で Fudarakuを陥とす事です」
+「……何が好都合なんでしょうね？　通常兵力による関東侵攻を選択した我々にとって、最良の結末とは、作戦が順調に運び最低限の損害で普陀楽を陥とす事です」
 ...... What's in it for us?　For those of us who have chosen to invade Kanto with conventional forces, the best possible outcome is for the operation to go smoothly and for Fudaraku to fall with minimal damage.
 
 「苦戦に陥り、鍛造雷弾を使わねばならない状況にまで追い込まれる事が、好都合であるはずがありませんよ」
@@ -2698,10 +2698,10 @@ I've been trying to get information out to Rokhala and .......
 「…………」
 "............
 
-「最後の審判を仰ぐためですよ。　 Canon中佐」
+「最後の審判を仰ぐためですよ。　キャノン中佐」
 "It's for the final judgment.　 Commander Canon.
 
-「…… Gargett中尉……」
+「……ガーゲット中尉……」
 "...... Lt. Gargett ......
 
 「迂闊な真似はなさらないでください。　小官のライターも不健康な代物です」
@@ -2719,7 +2719,7 @@ Yeah.
 「……それは違いますよ。　小官は――俺はもう、単に疲れたんです」
 ...... That's not true, sir.　The little officer--I'm simply tired of it.
 
-「疲れたんですよ、 Canon中佐」
+「疲れたんですよ、キャノン中佐」
 "I'm tired, Commander Canon.
 
 「中尉……」
@@ -2746,7 +2746,7 @@ So you're giving up on liberating your homeland?
 「…………」
 "............
 
-「あの Georgeの弟だ。もう少し気概はあるとみていたんだがな……。　まさか女王に本心から屈服しても構わないと思っているとはね」
+「あのジョージの弟だ。もう少し気概はあるとみていたんだがな……。　まさか女王に本心から屈服しても構わないと思っているとはね」
 It's George's brother. I thought he'd have a little more spirit. .......　I didn't think he'd be willing to truly bow down to the Queen.
 
 「見縊らないで欲しい。　女王に頭を下げたりはしません」
@@ -2848,7 +2848,7 @@ It's a common phrase of mystics.
 「はぁ。地底の神とやらを？」
 "Huh. You know that subterranean god thing?
 
-「うん。　君はずっと見過ごしていた Gargett中尉の背信を、今ようやく事実として認めているだろう？」
+「うん。　君はずっと見過ごしていたガーゲット中尉の背信を、今ようやく事実として認めているだろう？」
 "Yes.　You've been overlooking Lt. Gargett's treachery for so long, and now you're finally admitting it as fact, aren't you?
 
 「それと同じことさ」
@@ -2866,7 +2866,7 @@ But he is not the owner of a perfect intellect.　Just as the Gruppenführer Rei
 「何が仰りたいので？」
 What are you trying to say?
 
-「君が気付いていない真実についてさ。　…… Gargett中尉だけだと思うかね？」
+「君が気付いていない真実についてさ。　……ガーゲット中尉だけだと思うかね？」
 "It's about a truth you're not aware of.　Do you think it's just Lt. ...... Gargett?
 
 「――――」
@@ -2878,7 +2878,7 @@ What are you trying to say?
 「何ですと……」
 What is it? ......
 
-「もちろん簡単ではなかったがね。　しかし中尉の兄―― George・ Gargett少佐の死後は、さしもの君も足元への注意がそれまでよりおろそかになった」
+「もちろん簡単ではなかったがね。　しかし中尉の兄――ジョージ・ガーゲット少佐の死後は、さしもの君も足元への注意がそれまでよりおろそかになった」
 It wasn't easy, of course.　But after the death of the lieutenant's brother, Major George Gargett, you've been less careful with your feet than you should have been.
 
 「その隙に僕の仲間が潜り込んだ。　君の組織の中に」
@@ -2899,7 +2899,7 @@ At this time, there are enough of us to take away the ship's functions for as lo
 「…………………………」
 "........................... ...
 
-「さて。　 Canon中佐」
+「さて。　キャノン中佐」
 "Well.　 Commander Canon.
 
 「僕はこれから、質問と要求をする。　是か否で答えてもらおう」
@@ -3067,7 +3067,7 @@ However, the old couple's house was attacked by bandits and the child was lost.�
 ――まずは、名を――
 --First of all, the name...
 
-名無しの子は、茶々の名を与えられて、名無しの子ではなくなった。　　堀越 Ashikaga家の一粒種、茶々姫さま。
+名無しの子は、茶々の名を与えられて、名無しの子ではなくなった。　　堀越足利家の一粒種、茶々姫さま。
 A nameless child is no longer a nameless child when she is given the name Tea.　　Princess Tea, a single seed of the Horikoshi Ashikaga family.
 
 豪壮な館。　綺麗な服。　美味しい食事。　何人もの家臣。
@@ -3091,7 +3091,7 @@ I'm not sure what to do, but I'm going to do it.　I'm not sure what to make of 
 『そこまで焦らずとも……』
 "Don't be in such a hurry. ......
 
-『戯け！　あの忌々しい Moriujiめが虎視眈々とわしの隙を窺っておること、忘れたと申すか。　堀越家に子が絶えたのは奴にすれば格好の攻撃材料よ』
+『戯け！　あの忌々しい護氏めが虎視眈々とわしの隙を窺っておること、忘れたと申すか。　堀越家に子が絶えたのは奴にすれば格好の攻撃材料よ』
 "Nonsense!　Do you think I've forgotten that that damned Moriuji is watching vigilantly for an opportunity to attack me?　The fact that the Horikoshi family has lost all of its children is a perfect opportunity for him to attack.
 
 『次男坊あたりを養子に押し込んできかねん』
@@ -3103,10 +3103,10 @@ I'm not sure what to do, but I'm going to do it.　I'm not sure what to make of 
 『ふん……そんな理由でもなくば、わしとてあんな妙な餓鬼を引き取るものか。　あれは出生からしておかしいのだ』
 I would not have taken in such a strange brat if it were not for that reason.　I'm not sure what to make of it.
 
-『気まぐれで手をつけた虎徹の女門主が孕みよったので、面倒が生じる前に我が身を鍛造して tsurugiに成れと命じたのだがな。　どうしたわけか、出来たのは赤子』
+『気まぐれで手をつけた虎徹の女門主が孕みよったので、面倒が生じる前に我が身を鍛造して劒冑に成れと命じたのだがな。　どうしたわけか、出来たのは赤子』
 I'm not sure if it's a good idea, but it's a good idea.　I don't know how it happened, but it turned out to be a baby.
 
-『蝦夷どもはそれを、二八代目虎徹 Nyudo興永だと―― tsurugiだと言い張って寄越してきたが。　全く気味の悪い話よ』
+『蝦夷どもはそれを、二八代目虎徹入道興永だと――劒冑だと言い張って寄越してきたが。　全く気味の悪い話よ』
 The Emishi sent it to me, claiming it was the 28th Toratetsu Nyudo Koinaga, or tsurugi.　It's all very creepy.
 
 『それで、辺境の村に追いやられたので』
@@ -3142,7 +3142,7 @@ I could hear .......　I was able to hear everything.
 歳月が過ぎ去り。　六波羅が大和を制し、堀越家は堀越公方となって。　　茶々姫の父は、待望の子を得た。
 The years passed.　Rokuhara took control of Yamato, and the Horikoshi family became the Horikoshi Principality.　　Princess Chaji's father had a long-awaited child.
 
-その夜、祝宴が張られる中、一人遠ざけられていた茶々姫は突如襲われ館の外へ連れ出された。　以前の強盗――を装った刺客――と違い今度のそれは屈強の mushaで、茶々姫の力も及ばなかった。
+その夜、祝宴が張られる中、一人遠ざけられていた茶々姫は突如襲われ館の外へ連れ出された。　以前の強盗――を装った刺客――と違い今度のそれは屈強の武者で、茶々姫の力も及ばなかった。
 That night, as the feast was being held, Princess Tea, who had been kept alone, was suddenly attacked and taken out of the house.　Unlike the previous assassins posing as robbers, this time it was a powerful musha that was beyond the reach of Princess Tea's strength.
 
 ……元々、抵抗する意欲も無かったのだけれど。　茶々姫は自分の運命をとっくに知っていて、諦めていたから。
@@ -3163,7 +3163,7 @@ The end.
 『……ふむ。　まぁ、人には色々な事情があるのだろうが』
 "...... Hmm.　Well, I guess people have different circumstances.
 
-『夜闇の中、 tsurugi持つ者が無抵抗の女を殺しかけている図というのはどうにも興を欠くな。　 mushaよ、そんな無粋な遊びはやめておれの相手を一差し務めてみてはどうか？』
+『夜闇の中、劒冑持つ者が無抵抗の女を殺しかけている図というのはどうにも興を欠くな。　武者よ、そんな無粋な遊びはやめておれの相手を一差し務めてみてはどうか？』
 The image of a tsurugi wielder trying to kill an unarmed woman in the dark of night is not very interesting.　 Musha, why don't you stop playing such a tactless game and try to be my partner for a while?
 
 天から降りてきた白銀のひと。　月のかけらが生命を得たかのような。
@@ -3175,7 +3175,7 @@ A silvery white man who came down from the heavens.　It was as if a piece of th
 茶々姫はそう直感した。　その名を押し付けられただけの自分とは違う、本当に貴いひと。
 Tea Princess had a hunch.　She was truly a noble person, not just someone who had been forced to bear that name.
 
-白銀の mushaの方でも、茶々姫を見定めたようだった。　そして一言。
+白銀の武者の方でも、茶々姫を見定めたようだった。　そして一言。
 Even the silver musha seemed to have spotted the Princess Tea.　Then a word.
 
 『なんだ、負け犬か』
@@ -3239,10 +3239,10 @@ The voices of men do not cease to ring.　The cries of the beasts in the depths 
 It's always, always resonating.　That's why ...... is so hard. I can't rest.
 
 『すまない。　綺麗さっぱり、全然わからん』
-'I'm sorry.　I have no idea.
+I'm sorry.　I have no idea.
 
 『だがそれは耳栓とかで何とかならないものなのか？』
-'But can't that be managed with earplugs or something?
+But can't that be managed with earplugs or something?
 
 ……無理……。
 ...... ignore .......
@@ -3254,13 +3254,13 @@ It's always, always resonating.　That's why ...... is so hard. I can't rest.
 ...... yeah .......
 
 『なるほど厄介だな。　しかしそれなら、元を断てば良いだろう？』
-'Well, that's tricky.　But then, why not just cut off the source?
+Well, that's tricky.　But then, why not just cut off the source?
 
 ……元を？
 ...... yuan?
 
 『何か知らぬが、おまえの耳元で騒いでいるやつらがいるわけだ。　そいつらを全員抹殺すれば静かになる理屈ではないか？』
-'I don't know what it is, but there are people screaming in your ear.　Isn't it logical that if you eliminate them all, things will quiet down?
+I don't know what it is, but there are people screaming in your ear.　Isn't it logical that if you eliminate them all, things will quiet down?
 
 …………無理だよ。
 You can't .............
@@ -3370,7 +3370,7 @@ It's a ...... world.
 『なぜ諦める？　相手が世界だから？　全ての人類だから？』
 "Why give up?　Because you're dealing with the world?　Or because it's all of humanity?
 
-『それがどうした。　そちらが全世界全人類なら、おれは一個の Minato光だ！』
+『それがどうした。　そちらが全世界全人類なら、おれは一個の湊斗光だ！』
 What about it?　If you're the whole world, then I'm just one Minato Light!
 
 『対等の勝負を挑んでいけない理由があるか』
@@ -3401,7 +3401,7 @@ What about it?　If you're the whole world, then I'm just one Minato Light!
 .........................
 
 『この理屈がわからんなら、おまえは骨の髄から負け犬だ。　手の施しようもないな』
-'If you don't understand this logic, you're a loser to the bone.　There's nothing you can do about it.
+If you don't understand this logic, you're a loser to the bone.　There's nothing you can do about it.
 
 『だが……本当にわからんか？』
 "But ......, are you sure you don't know?
@@ -3430,10 +3430,10 @@ If you have the will to do so!
 （この……上か……）
 (On this ...... or ......)
 
-「―― Chachamaru？」
+「――茶々丸？」
 "Chachamaru?
 
-「 Raichou……」
+「雷蝶……」
 "Raichou......
 
 「こんな所で何やってるの。　軍は？」
@@ -3442,22 +3442,22 @@ If you have the will to do so!
 「……それどころじゃねえだろ。　チャーハン作ってる最中の中華鍋みたいになってんだぜ、城の中も外も」
 It's more than that.　It's like a wok in the middle of making fried rice, inside and outside the castle.
 
-「ええ……。　 Silver Starが現れたんですってね」
+「ええ……。　銀星号が現れたんですってね」
 "Yes, .......　 I heard the Silver Star showed up.
 
-「 Kuniujiの身が心配だ。　様子を見に行くから、そこ通せよ」
+「邦氏の身が心配だ。　様子を見に行くから、そこ通せよ」
 I'm afraid for Kuniuji's safety.　I'm going to check on him, so let me through.
 
 「そうなの？　わかったわ」
 "Oh, yeah?　Okay.
 
-「 Chachamaru」
+「茶々丸」
 "Chachamaru.
 
 「何だよ」
 What the fuck?
 
-「あなた、 tsurugiを持っていたの？」
+「あなた、劒冑を持っていたの？」
 "You had tsurugi?
 
 「……ああ。　まぁまぁ悪くねえだろ？」
@@ -3469,16 +3469,16 @@ Yeah. It's nice.　It's rare to find a three-pronged nail.
 「ありがとよ。　じゃーな」
 "Thanks, man.　See ya.
 
-「ねえ Chachamaru」
+「ねえ茶々丸」
 "Hey, Chachamaru.
 
 「……急いでんだってば」
 ...... I'm in a hurry!
 
-「麿の tsurugiはどう？」
+「麿の劒冑はどう？」
 How's my tsurugi?
 
-「膝丸か？　ご立派だよ。　 Moriujiの鬚切と並ぶ源氏の至宝って呼ばれるだけのことはあるな」
+「膝丸か？　ご立派だよ。　護氏の鬚切と並ぶ源氏の至宝って呼ばれるだけのことはあるな」
 "Kneecap"?　It's magnificent.　 Along with Moriuji's Beard Cutter, it's no wonder he's called the greatest treasure of the Minamoto clan.
 
 「ウフフ、ありがとう」
@@ -3487,7 +3487,7 @@ How's my tsurugi?
 「もういいか」
 That's enough.
 
-「ねえ、 Chachamaru？」
+「ねえ、茶々丸？」
 "Hey, Chachamaru?
 
 「…………」
@@ -3517,13 +3517,13 @@ It appeared on his chest.
 「…は…」
 "...is...
 
-「 Chachamaru」
+「茶々丸」
 "Chachamaru.
 
 「あは、ははははは」
 "Ha, ha, ha, ha.
 
-「 Chachamaruゥ!」
+「茶々丸ゥ!」
 "Chachamaru!
 
 「ッしゃァァァァァァ!」
@@ -3532,7 +3532,7 @@ It appeared on his chest.
 「こんなもので」
 That's it.
 
-「この Imagawa Raichouを」
+「この今川雷蝶を」
 "Take this Imagawa Raichou.
 
 「倒せると思うかァ!」
@@ -3547,13 +3547,13 @@ You can find it at ....... ......
 「……フン……」
 "......fun......
 
-「 Shirouの所に行くと言っていたわね」
+「四郎の所に行くと言っていたわね」
 You said you were going to Shirou's.
 
 「…………」
 "............
 
-「謀叛人！　お父様の次は Shirouということ？」
+「謀叛人！　お父様の次は四郎ということ？」
 "Rebel!　You mean Shirou is next after your father?
 
 「……」
@@ -3580,7 +3580,7 @@ What's so funny?
 「ほんとは、あてが行くまでもない……　もう……終わってるはずだ……」
 "I really don't need to go to ...... I should have finished ...... by now.
 
-「へ……へっ。　力じゃ、勝負にもならねえけどよ…… Raichou。性根の悪さは……やっぱ……あての勝ち、だ」
+「へ……へっ。　力じゃ、勝負にもならねえけどよ……雷蝶。性根の悪さは……やっぱ……あての勝ち、だ」
 "Heh, ...... heh.　You can't even compete in terms of strength,...... Raichou, but you can ...... win in terms of guts,.......
 
 「おまえ、何を――」
@@ -3676,13 +3676,13 @@ Everybody, back!　Do not return until I call you.
 「……」
 "......
 
-「 Sakurako-dono……」
+「桜子どの……」
 "Sakurako-dono......
 
 「……」
 "......
 
-「 Sakurako-dono、その、今日は――」
+「桜子どの、その、今日は――」
 "Sakurako-dono, well, today--
 
 「……」
@@ -3706,7 +3706,7 @@ I don't know what to say.
 （僕は、あの時……　何もできなかったのに）
 (I couldn't do anything about ...... at that time.)
 
-「 Okabeの姫よ！　六波羅を語れい！」
+「岡部の姫よ！　六波羅を語れい！」
 "Princess of Okabe!　Speak of the Six Palaces!
 
 「――外道ッッ!」
@@ -3742,7 +3742,7 @@ I can't tell you that.
 「――――!」
 "----!
 
-「 Ashikaga Kuniujiッッ!」
+「足利邦氏ッッ!」
 「 Ashikaga Kuniujiッッ!」
 
 「……っ……」
@@ -3823,10 +3823,10 @@ I'm the king of the demons.
 「…………」
 "............
 
-「………… Shirou…………」
+「…………四郎…………」
 "............ Shirou............
 
-「 Raichou-sama！　 Raichou-samaぁーーー!」
+「雷蝶様！　雷蝶様ぁーーー!」
 "Raichou-sama! Raichou-sama!
 
 「……どうしたの」
@@ -3844,19 +3844,19 @@ Ha!
 「今更……何をするつもりで」
 "What are you going to do now, ......?
 
-《―― midou！　あれ!》
+《――御堂！　あれ!》
 Midou!
 
 「!」
 "!
 
-気付いたのは、 tsurugiの指摘とほぼ同時だった。
+気付いたのは、劒冑の指摘とほぼ同時だった。
 I noticed it almost at the same time as tsurugi pointed it out.
 
 廊下に倒れ伏している、小さな――――　それ。
 Collapsed in the hallway, a small ---- it.
 
-「 Chachamaru?」
+「茶々丸?」
 "Chachamaru?
 
 「……やっ。　早いね、お兄さん」
@@ -3865,8 +3865,8 @@ Collapsed in the hallway, a small ---- it.
 「もうちょっと掛かるかと思ったんだけど」
 I thought it would take a little longer.
 
- Chachamaruは負傷している。　軽傷ではない。重傷という表現も厳密には当てはまらない。
- Chachamaru is injured.　It is not a minor injury. Seriously injured is also not strictly true.
+茶々丸は負傷している。　軽傷ではない。重傷という表現も厳密には当てはまらない。
+Chachamaru is injured.　It is not a minor injury. Seriously injured is also not strictly true.
 
 傷の深さ、大きさ、出血の量……　それらを勘案して、脳の醒めた部分が告げている。
 The depth of the wound, the size of the wound, and the amount of blood loss ...... are all taken into account by the waking part of the brain.
@@ -3874,8 +3874,8 @@ The depth of the wound, the size of the wound, and the amount of blood loss ....
 これは致命傷だ。
 This is a fatal wound.
 
- mushaの回復力をもってしても生命の流出を留められない、傷。
- Even with musha's resilience, the drain of life cannot be contained, the wound.
+武者の回復力をもってしても生命の流出を留められない、傷。
+Even with musha's resilience, the drain of life cannot be contained, the wound.
 
 「どういうことだ……」
 What the hell is going on? ......
@@ -3886,13 +3886,13 @@ I screwed up at the last minute.
 「誰にやられた！」
 Who did this to me?
 
-「 Raichou……」
+「雷蝶……」
 "Raichou......
 
 「……小弓公方に?」
 "...... for Lord Koyumi?
 
-「 Kuniujiを殺しに行くところだってのがバレて。　やー、きつい一発もらいました」
+「邦氏を殺しに行くところだってのがバレて。　やー、きつい一発もらいました」
 They found out that I was going to kill Kuniuji.　I got a hard hit.
 
 おかしそうに笑う。　血の気の失せた唇を震わせて。
@@ -3922,8 +3922,8 @@ I wonder if there was ever a .......
 「例えば……　お兄さんに、一緒にいて欲しいって思ったなら――」
 For example, ......, if you wanted your brother to stay with you--
 
- Chachamaruが片手を伸ばす。　もどかしくなる程、それは遅い。
- Chachamaru reaches out with one hand.　It's frustratingly slow.
+茶々丸が片手を伸ばす。　もどかしくなる程、それは遅い。
+Chachamaru reaches out with one hand.　It's frustratingly slow.
 
 「力ずくで洗脳なんかしなくても。　こうして」
 "You don't have to brainwash me by force.　This way.
@@ -3946,8 +3946,8 @@ If I did, would you have listened to me at ......?
 「でも」
 But...
 
- Chachamaruの手が離れる。
- Chachamaru's hand leaves mine.
+茶々丸の手が離れる。
+Chachamaru's hand leaves mine.
 
 「あては……　力ずくで奪う方を、もう選んじゃったから」
 I've already chosen ...... to take it by force.
@@ -3955,7 +3955,7 @@ I've already chosen ...... to take it by force.
 「失敗したからって……今更、お願いなんかしないもんね……」
 "Just because you failed ...... doesn't mean you can't ask for help now .......
 
-「…… Chachamaru……」
+「……茶々丸……」
 ...... Chachamaru......
 
 「来るよ」
@@ -3967,10 +3967,10 @@ He's coming.
 「そら」
 "The sky.
 
- Chachamaruが窓の向こうを示す。　俺は振り仰いだ――自分が間に合わなかったことを直感的に悟りながら。
- Chachamaru points to the other side of the window.　I look up - intuitively realizing that I didn't make it.
+茶々丸が窓の向こうを示す。　俺は振り仰いだ――自分が間に合わなかったことを直感的に悟りながら。
+Chachamaru points to the other side of the window.　I look up - intuitively realizing that I didn't make it.
 
-輝く小さな球体が、落ちる。　天頂から真っ直ぐに。白銀の craft体を目指して。
+輝く小さな球体が、落ちる。　天頂から真っ直ぐに。白銀の騎体を目指して。
 A small, shining sphere falls.　Straight down from the zenith. Straight from the zenith, aiming at the silvery craft.
 
 「――――」
@@ -3982,7 +3982,7 @@ You've been a good enemy.　Masakuni Doutanuki? ...... He's made his mark in his
 「――――」
 ----
 
-《 midou？　どうした、先程から上ばかり気に掛けて》
+《御堂？　どうした、先程から上ばかり気に掛けて》
 What's the matter? You've been looking up and down all day.
 
 《……ふむ。何かちょろちょろしておるな。　あれが気に障るのか？》
@@ -3994,7 +3994,7 @@ What's the matter? You've been looking up and down all day.
 「辰気収斂!」
 "Cinnabar convergence!
 
-《…… midou?　何をする！》
+《……御堂?　何をする！》
 《...... midou? What are you doing!
 
 「備えろ、村正！　何だか知らんが」
@@ -4033,7 +4033,7 @@ Don't think!　I don't know what to think!
 《八幡宮で見せた――》
 I showed it to you at Hachiman Shrine.
 
-輝く球体に襲われた Silver Starが、　あの黒い渦を創り出す……！
+輝く球体に襲われた銀星号が、　あの黒い渦を創り出す……！
 The Silver Star, attacked by a glowing sphere, creates that black vortex. ......!
 
 《…………》
@@ -4147,7 +4147,7 @@ So, what is it?
 「渦が……割れる?」
 "Will the vortex break ......?
 
-《そんな……　 Silver Starのあの術が破られるっていうの?》
+《そんな……　銀星号のあの術が破られるっていうの?》
 Oh no... ...... Are you saying that Silver Star's technique will be defeated?
 
 「…………」
@@ -4186,7 +4186,7 @@ In the end, the evil one will triumph.　Always.
 「――い――い――ア――――」
 "I--I--I--a------
 
-《 Silver Starが……負ける……》
+《銀星号が……負ける……》
 《 Silver Star is losing ....... ......
 
 「――――」
@@ -4258,7 +4258,7 @@ Gone?
 「…………………………」
 "........................... ...
 
-「きょ、教授？　消えてしまいましたが。　鍛造雷弾も、 Silver Starも」
+「きょ、教授？　消えてしまいましたが。　鍛造雷弾も、銀星号も」
 "Hello, Professor?　You've disappeared.　The forged thunderbolts, the Silver Star...
 
 「違うよ」
@@ -4312,7 +4312,7 @@ It worked.
 「この光……　神の命を宿した水……」
 "This light ......, the water that holds the life of God ......
 
-「 tsurugiの元素だ」
+「劒冑の元素だ」
 The elements of tsurugi.
 
 「……おお……　何もかもが水晶のように……」
@@ -4321,7 +4321,7 @@ The elements of tsurugi.
 「……金属の水晶！」
 "...... Metal Crystals!
 
-「 tsurugi鍛造という過程を経ずに……　濃密な光水を浴びれば……このように……純粋に神の一部となるのだ」
+「劒冑鍛造という過程を経ずに……　濃密な光水を浴びれば……このように……純粋に神の一部となるのだ」
 If you don't go through the process of tsurugi forging, ...... and bathe in the dense light water, ...... this is how you become ...... purely a part of God.
 
 「万物を結びつける神の愛！」
@@ -4360,7 +4360,7 @@ I'm the one who led you here.
 「あなたを冒したのはこの僕だ」
 I'm the one who violated you.
 
-「この Wolfram・ von・ Sieversが、　地球に革世をもたらした!!」
+「このウォルフラム・フォン・ジーバスが、　地球に革世をもたらした!!」
 "These Wolfram von Sievers have brought a new world to Earth!
 
 「おお――――」
@@ -4387,7 +4387,7 @@ It's a new world!
 「…………」
 "............
 
-《―― midou！　南方！》
+《――御堂！　南方！》
 Midou!
 
 「相模湾か?」
@@ -4441,14 +4441,14 @@ The sun is ---- one more thing.
 「……黄金の夜明けだよ……」
 It's the golden dawn of ....... ......
 
-瀕死の Chachamaruは良く保ったが、元より致命傷を癒す術など無い。　緩慢に死へ近付き……今、死に至ろうとしていた。
+瀕死の茶々丸は良く保ったが、元より致命傷を癒す術など無い。　緩慢に死へ近付き……今、死に至ろうとしていた。
 The dying Chachamaru held up well, but there was no way to heal the original fatal wound.　He was slowly approaching death. ...... Now, he was about to die.
 
-空を見たいという望みを容れて、外へ連れ出す。　今の Fudaraku城内に人気は少ない。揉め事に出くわす不安はなかった。
+空を見たいという望みを容れて、外へ連れ出す。　今の普陀楽城内に人気は少ない。揉め事に出くわす不安はなかった。
 I took him outside, accepting his wish to see the sky.　There were few people in Fudaraku Castle now. There was no need to worry about running into trouble.
 
- Chachamaruを松の根元に座らせて、俺も隣へ腰を下ろし、二人で空を見上げる。　村正は俺達から一歩離れて佇んでいた。
- I sat Chachamaru down at the base of a pine tree, and I sat down next to him, and we both looked up at the sky.　Muramasa was standing one step away from us.
+茶々丸を松の根元に座らせて、俺も隣へ腰を下ろし、二人で空を見上げる。　村正は俺達から一歩離れて佇んでいた。
+I sat Chachamaru down at the base of a pine tree, and I sat down next to him, and we both looked up at the sky.　Muramasa was standing one step away from us.
 
 怪奇な天体は今日もそこにある。
 The bizarre celestial body is still there today.
@@ -4465,7 +4465,7 @@ I heard that the mainstream of experts now believe that it is a kind of phantom 
 「……うん」
 "...... un
 
-衰えた声音で、しかし迷わず、 Chachamaruは認めた。
+衰えた声音で、しかし迷わず、茶々丸は認めた。
 In a faded tone of voice, but without hesitation, Chachamaru admitted.
 
 「あれは御姫で……地底の牢獄から解き放たれた神だよ。　どっちが食ってどっちが食われたんだかは、よくわからないけど」
@@ -4498,7 +4498,7 @@ Can't your brother hear me?
 「聴こえるような気がする」
 I think I can hear you.
 
-空に第二太陽が現れて以来、ずっと吹き続けているこの風。　耳孔の中に反響する谺は、どうしてか――どうにも Silver Starの唄を思い出させる。
+空に第二太陽が現れて以来、ずっと吹き続けているこの風。　耳孔の中に反響する谺は、どうしてか――どうにも銀星号の唄を思い出させる。
 This wind has been blowing ever since the second sun appeared in the sky.　The echoes in my ears remind me of the song of Silver Star.
 
 人を闘争の衝動に駆り立てる、あの恐ろしい唄を。
@@ -4516,8 +4516,8 @@ So that's why.
 「……」
 "......
 
- Chachamaruは答えない。　眼だけで、頷きを返してきた。
- Chachamaru did not answer.　He just gave me a nod with his eyes.
+茶々丸は答えない。　眼だけで、頷きを返してきた。
+Chachamaru did not answer.　He just gave me a nod with his eyes.
 
 あの『神』の解放から、何週間何ヶ月と経ったわけではない。しかしこのごく短い間に世界各地で起きた激変は、過去の歴史の数年分、あるいは数十年分にも相当するだろう。
 Not many weeks or months have passed since the release of that "god". But the cataclysmic changes that have occurred around the world in this very short period of time could be equivalent to years or even decades of past history.
@@ -4570,7 +4570,7 @@ Yamato was no exception.　The war between the Shogunate and the Occupying Force
 この全世界的激動は、一部の有識者が主張するような大英連邦を筆頭とする専制支配に対する現代人類の総合的拒絶意思の表れなどではなく、　ただ単に……
 This global upheaval is not a sign of modern humanity's total rejection of tyranny, led by the British Commonwealth, as some experts claim, but simply a sign that ......
 
-「 Silver Starの精神汚染が世界全土を狂わせつつあるというのか」
+「銀星号の精神汚染が世界全土を狂わせつつあるというのか」
 "Silver Star's mental pollution is driving the entire world mad?
 
 「範囲が広いせいで汚染の進行は遅いみたいだけどね。　あと一週間くらいかな……」
@@ -4585,10 +4585,10 @@ It looks like the contamination is slow because of the large area.　Maybe anoth
 「それは、人間世界が滅ぶという事だ」
 It would mean the end of the human world.
 
-「甲鉄で守られるから mushaは残るよ。　とりあえず」
+「甲鉄で守られるから武者は残るよ。　とりあえず」
 It's protected by the armor, so musha will stay.　For now.
 
-「本当にとりあえずの事に過ぎないだろう。　 mushaのみで社会を維持できる道理がない」
+「本当にとりあえずの事に過ぎないだろう。　武者のみで社会を維持できる道理がない」
 "It will only be for the time being, really.　 There's no reason why we can't sustain our society on musha alone.
 
 「そうだね……」
@@ -4687,7 +4687,7 @@ Oh.
 「あれを壊すしかないだろうね」
 We're going to have to tear that thing down.
 
-指差すような声で――実際はもうその腕が動く事はなかった―― Chachamaruが天を示す。　それは単純な結論だった。あの天体が元凶ならば、あれを取り除く事で問題は解決するだろう。
+指差すような声で――実際はもうその腕が動く事はなかった――茶々丸が天を示す。　それは単純な結論だった。あの天体が元凶ならば、あれを取り除く事で問題は解決するだろう。
 Chachamaru pointed to the heavens with a voice that seemed to point - in fact, the arm never moved again.　It was a simple conclusion. If that celestial body is the culprit, then removing it will solve the problem.
 
 しかし、方法が無い。
@@ -4696,7 +4696,7 @@ But there is no way.
 「……とても行き着けん」
 I can't get to .......
 
-「どう見ても成層圏越えてるもんねぇ。　 mushaの craft航で届く高さじゃない」
+「どう見ても成層圏越えてるもんねぇ。　武者の騎航で届く高さじゃない」
 "No matter how you look at it, it's above the stratosphere.　 It's not high enough to be reached by musha craft.
 
 「コロンビヤード砲で撃ち出してもらうしかなさそうだ」
@@ -4735,13 +4735,13 @@ Get yourself in shape. ......
 「体調の事か」
 You mean your condition.
 
- Chachamaruの双眼が俺を捉えた。　その――空洞化しつつある瞳。
- Chachamaru's binoculars caught sight of me.　Those - hollowing eyes.
+茶々丸の双眼が俺を捉えた。　その――空洞化しつつある瞳。
+Chachamaru's binoculars caught sight of me.　Those - hollowing eyes.
 
 「いい？　これはあてからお兄さんへの、最後の忠告」
 "Okay?　This is the last advice from me to your brother.
 
-「お兄さんは Minato Kageakiである限り、御姫には決して勝てない。　御姫は、 Minato光なんだから」
+「お兄さんは湊斗景明である限り、御姫には決して勝てない。　御姫は、湊斗光なんだから」
 "As long as you are Minato Kageaki, you will never be able to defeat the princess.　Mihime is Minato Kageaki.
 
 「……」
@@ -4765,10 +4765,10 @@ It's the only way to defeat the princess and save the world.
 「……」
 "......
 
-「……いい？　お兄さん、間違えYesで」
+「……いい？　お兄さん、間違えないで」
 "Can I go to ......?　Yes, brother, by mistake.
 
-「これは Ashikaga Chachamaruの」
+「これは足利茶々丸の」
 "This is Ashikaga Chachamaru's.
 
 「お兄さんへの。　この世界への」
@@ -4786,7 +4786,7 @@ It's the only way to defeat the princess and save the world.
 「……ふぅ……」
 "...... phew ......
 
-「 Chachamaru？」
+「茶々丸？」
 "Chachamaru?
 
 「疲れちゃった」
@@ -4813,7 +4813,7 @@ I'll just go to .......
 「他の声は……もう遠いし」
 The other voices are ...... too far away.
 
-「 Chachamaru」
+「茶々丸」
 "Chachamaru.
 
 「うん。　これで、いいや」
@@ -4831,25 +4831,25 @@ Big brother.
 「……ん」
 "......
 
-「 Sayoなら」
+「さよなら」
 "Sayo will.
 
 「…………ああ」
 "............ Oh.
 
-「 Sayoうなら」
+「さようなら」
 "Sayonara.
 
-そうして。　堀越公方 Ashikaga Chachamaruは、帰らぬ者となった。
+そうして。　堀越公方足利茶々丸は、帰らぬ者となった。
 And so.　Ashikaga Chachamaru, the Lord of Horikoshi, never returned.
 
-「 midou」
+「御堂」
 "midou.
 
 「……」
 "......
 
-「 Chachamaruは……」
+「茶々丸は……」
 "Chachamaru is at .......
 
 「今、逝った」
@@ -4873,7 +4873,7 @@ That's right.　He had been collecting these fragments in order to restore Muram
 ……ここのところ事が多くて、すっかり忘れていた。
 ...... There have been so many things going on here lately that I forgot all about it.
 
-「最後の〝卵〟は Chachamaruが持っていたのか」
+「最後の〝卵〟は茶々丸が持っていたのか」
 "The last egg was in Chachamaru's possession?
 
 「……」
@@ -4897,13 +4897,13 @@ Muramasa seemed to understand what the word "battle" meant without explanation.
 手渡しで破片を預けて、少し離れる。　脳裏に、去った者の遺した言葉が過ぎった。
 I handed over the pieces and left for a bit.　The words left behind by the one who had left passed through my mind.
 
-―― Minato Kageakiは Minato光を倒せない。
+――湊斗景明は湊斗光を倒せない。
 -- Minato Kageaki can't defeat Hikaru Minato.
 
 しかし。　世界を守る英雄は、世界を壊す魔王を殺せる。
 But.　The hero who protects the world can kill the demon king who destroys the world.
 
-（ Chachamaru……）
+（茶々丸……）
 (Chachamaru......)
 
 人であって人ではなく、道具であって道具ではない、生体甲冑として生を受け――そんな世界に滅びの鍵を差し込んだ者の事を想う。　憎しみの感情を掻き立てるのは難しかった。
@@ -4930,7 +4930,7 @@ Oddly enough, there was no surprise.　Despite the suddenness of the encounter.
 何処かで悟っていたのかもしれない。　この人と会わずに、最後の決着を迎えることはできないと。
 Maybe somewhere along the way I had realized that I couldn't face the end without seeing this person.　Maybe he had realized somewhere that he would not be able to reach his final destination without meeting this person.
 
-「 Ootori大尉に聞いてな」
+「大鳥大尉に聞いてな」
 You'll have to ask Captain Ootori.
 
 「……そうですか」
@@ -4969,13 +4969,13 @@ Master Takashi.
 「……」
 "......
 
-「 Kageaki」
+「景明」
 "Kageaki.
 
 「はい」
 "Yes.
 
-「……あれは、 Silver Starなのか？」
+「……あれは、銀星号なのか？」
 "...... Is that the Silver Star?
 
 天の異常を指して、彼は問うた。
@@ -4990,7 +4990,7 @@ I'm sorry.　I had to eavesdrop a bit on your conversation.
 「いえ。　……そうです」
 No.　It's .......
 
-「あれは光―― Silver Star。　今、世界を混乱に陥れているものです」
+「あれは光――銀星号。　今、世界を混乱に陥れているものです」
 "That's the light - the Silver Star, the one that's throwing the world into chaos right now.
 
 「……経緯が想像もつかんな」
@@ -5047,7 +5047,7 @@ All of them.
 「…………」
 "............
 
-「済まなかった、 Kageaki」
+「済まなかった、景明」
 I'm sorry, Kageaki.
 
 「……？」
@@ -5071,7 +5071,7 @@ I knew I shouldn't have left you in charge.
 「いいえ」
 No.
 
-「…… Kageaki」
+「……景明」
 "...... Kageaki
 
 「心得違いをなさらぬよう」
@@ -5092,7 +5092,7 @@ You have abandoned the light.
 「……ああ」
 "...... Oh.
 
-「私は捨てた。　光だけではない。統も、 Minatoの家も」
+「私は捨てた。　光だけではない。統も、湊斗の家も」
 "I threw it away.　It's not just the light. It's not just the light.
 
 「そしてお前に全て押し付けた」
@@ -5107,7 +5107,7 @@ And I put it all on you.
 「光との決着は、自分がつけます」
 I'll settle this with Hikaru myself.
 
-「貴方はどうか……　 Kikuchi明堯として、為すべき事を」
+「貴方はどうか……　菊池明堯として、為すべき事を」
 Will you please go to ...... and do what needs to be done as Takashi Kikuchi?
 
 「…………」
@@ -5119,7 +5119,7 @@ Will you please go to ...... and do what needs to be done as Takashi Kikuchi?
 「お願いします。　……もうお行き下さい」
 "Please.　Please go to ...... now.
 
-「ああ。　………… Kageaki」
+「ああ。　…………景明」
 "Oh.　............ Kageaki
 
 「はい」
@@ -5158,8 +5158,8 @@ His gait was heavy, as if he had suddenly reached old age.　I bowed to him once
 瞑目して、胸中に理解を落とす。　　――あの人は。
 I meditate and drop understanding in my heart.　　--That man.
 
- Minato明堯という人は。　今こそ、本当に去っていったのだと。
- Minato Myungyo is a man.　Now it was time for him to truly leave.
+湊斗明堯という人は。　今こそ、本当に去っていったのだと。
+Minato Myungyo is a man.　Now it was time for him to truly leave.
 
 「…………」
 "............
@@ -5203,7 +5203,7 @@ Muramasa radiated a light that seemed to erupt from within.　No matter how you 
 白銀色の……
 Silvery white ......
 
-《こ、これ……　 Silver Starの力が》
+《こ、これ……　銀星号の力が》
 This, ......, is the power of the Silver Star.
 
 《……強過ぎる……！》
@@ -5212,7 +5212,7 @@ This, ......, is the power of the Silver Star.
 「!」
 "!
 
-寄生体を倒して野太刀の断片を取り戻す都度、村正は断片に付随していた Silver Starの能力をも僅かずつ獲得した。　それが全て揃った事で――何かの異変を？
+寄生体を倒して野太刀の断片を取り戻す都度、村正は断片に付随していた銀星号の能力をも僅かずつ獲得した。　それが全て揃った事で――何かの異変を？
 Each time he defeated a parasite and retrieved a fragment of the Wild Sword, Muramasa also acquired a small amount of the Silver Star ability that was attached to the fragment.　And now that they're all here, what's wrong with them?
 
 《っ……こんな、こと……！》
@@ -5230,7 +5230,7 @@ No way.
 〝卵〟を植えられたのと同じ状態になっているのか?
 Is this the same state as when the egg was planted?
 
-村正が…… Silver Starの複製に……？
+村正が……銀星号の複製に……？
 Muramasa to duplicate ...... Silver Star ......?
 
 《甘かったっ……！　こんな罠があるなんて……》
@@ -5242,7 +5242,7 @@ I'm not invaded by eggs, but what's finished inside ...... can't be ...... helpe
 「村正……！」
 "Muramasa ......!
 
-そうか――村正が取り込んだ Silver Starの力は、〝卵〟の断片でもあったのだ！　それがいま完成し、孵化しようとしている……。
+そうか――村正が取り込んだ銀星号の力は、〝卵〟の断片でもあったのだ！　それがいま完成し、孵化しようとしている……。
 So the power of the Silver Star that Muramasa took in was also a fragment of an "egg"!　It is now complete, and is about to hatch. ......
 
 意図的に仕掛けられた罠なのか偶然の所為なのかはわからないが。　……虫の良い話は無いと、警戒しておくべきだった！
@@ -5269,7 +5269,7 @@ There was nothing I could do without the help of others.　But I was the only ot
 それでも――
 And yet--
 
-《だめっ！　近付かないで、 midou！》
+《だめっ！　近付かないで、御堂！》
 No!　Get away from me, midou!
 
 《貴方まで汚染される！》
@@ -5284,7 +5284,7 @@ You're just in my way!
 村正は力という力を振り絞って、自らを侵食しようとするものに抗っている。　傍目にも、その勝負は分が悪い。
 Muramasa is wielding the power of strength to resist what is trying to encroach on him.　Even to the casual observer, the odds are not in his favor.
 
-しかし、俺は何もできない。　 tsurugiの苦闘を、手を拱いて眺めているだけだ。
+しかし、俺は何もできない。　劒冑の苦闘を、手を拱いて眺めているだけだ。
 But I can't do anything about it.　 All I can do is watch tsurugi's struggle with my hands folded in front of me.
 
 今の俺なら案山子でも代役が務まる。
@@ -5308,13 +5308,13 @@ I can't go on like this.　I've got to do something. I've got to do something!
 だが、何が？　何ができる？　　何をして、村正を助けられる？
 But what?　What can you do?　　What can you do to help Muramasa?
 
-俺は仕手で、村正は tsurugiだ。　仕手が傷付いた時は tsurugiの能力で癒せるが、 tsurugiの損傷を仕手の技能で治す事はできない。
+俺は仕手で、村正は劒冑だ。　仕手が傷付いた時は劒冑の能力で癒せるが、劒冑の損傷を仕手の技能で治す事はできない。
 I am the tamer, and Muramasa is the tsurugi.　If the tailor is injured, tsurugi's ability can heal him, but tsurugi's damage cannot be healed by the tailor's skill.
 
 （理不尽な）
 (Unreasonable)
 
-これまで思いもしなかった事を、俺は胸中に叫んだ。　この無能は許せない。 tsurugiを纏って mushaにならねば何もできない、仕手のこの無能は……！
+これまで思いもしなかった事を、俺は胸中に叫んだ。　この無能は許せない。劒冑を纏って武者にならねば何もできない、仕手のこの無能は……！
 I shouted something into my heart that I had never thought of before.　This incompetence is unacceptable. You can't do anything unless you wear tsurugi and become musha, this incompetent of a speculator is ......!
 
 ――――――――――――いや。　　　そうだ。できる事はある。
@@ -5347,7 +5347,7 @@ I'm in danger of contamination.　I'm aware of that.
 だが。
 But.
 
-「俺が精神汚染された時、お前はどうした。　 tsurugiとして、俺を助けに来ただろうが」
+「俺が精神汚染された時、お前はどうした。　劒冑として、俺を助けに来ただろうが」
 "What did you do when I was mentally contaminated?　 As tsurugi, you came to my rescue.
 
 「それと同じ事をするだけだ」
@@ -5359,13 +5359,13 @@ At--but ......
 「今度は俺がお前に力を貸す！　村正……忘れるな」
 "Now I will help you!　Don't forget Muramasa ......
 
-「俺とお前は mushaだ。　二人で一 craftの！」
+「俺とお前は武者だ。　二人で一騎の！」
 "You and I are musha.　"You and I are musha, two of a kind!
 
 《……！》
 The ......!
 
-戦いは常に、二人揃って臨むもの。　別々である限り仕手も tsurugiも不完全で弱い――二者が合一してようやく、強力な敵とも戦える mushaになるのだから。
+戦いは常に、二人揃って臨むもの。　別々である限り仕手も劒冑も不完全で弱い――二者が合一してようやく、強力な敵とも戦える武者になるのだから。
 A battle is always fought by two people together.　As long as they are separate, both the tailor and the tsurugi are incomplete and weak - it is only when they are united that they become a musha that can fight even powerful enemies.
 
 汚染の〝卵〟が相手の戦いでも意味はある。　活力源たる熱量を俺から供給できるし、何より〝卵〟の侵食に一人ではなく二人分の意志力で立ち向かえるようになる。
@@ -5401,7 +5401,7 @@ I'm sure you'll be pleased to know that I'm not the only one.　Is it possible t
 弱気は無用。　勝たねばならぬのだから、勝つまでの事。
 Don't be weak.　We have to win, and we will win until we win.
 
-村正を――無論この俺自身も、 Silver Starの複製になどしてはならない。　この精神の戦場は断じて退けぬ。負けられぬ。
+村正を――無論この俺自身も、銀星号の複製になどしてはならない。　この精神の戦場は断じて退けぬ。負けられぬ。
 I will not let Muramasa, or myself for that matter, become a duplicate of Silver Star.　I can't retreat from the battlefield of this spirit. I cannot lose.
 
 しかし……　　押し流される。

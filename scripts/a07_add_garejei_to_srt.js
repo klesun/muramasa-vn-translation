@@ -1,17 +1,12 @@
 
 import { promises as fs } from 'fs';
 import {
-    CHAPTER5_REC1_DIR,
-    HERO_ROUTE_REC1_DIR,
     HERO_ROUTE_REC2_DIR,
     RECORDING_LOCATIONS
 } from "../backend/assets_index.js";
 
-import { dirname } from 'path';
-import { fileURLToPath } from 'url';
 import {joinSrtBlockParts, parseSrtSentence} from "../public/modules/SrtUtils.js";
 import {allocateBetweenKeyframes} from "../public/modules/GareLinker.js";
-const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const addGarejeiAt = async (dirPath, gareDir) => {
     const adminKeyframesStr = await fs.readFile(gareDir + '/adminKeyframes.json');
