@@ -13,8 +13,8 @@ export const ParseNwscript = (nssText) => {
     const getTextLeft = () => nssText.slice(offset);
 
     const SrcError = (reason) => {
-        const preview = JSON.stringify(getTextLeft().slice(0, 15));
-        const fullMessage = reason + ' - at ' + offset + ' - ' + preview;
+        const preview = getTextLeft().slice(0, 15);
+        const fullMessage = reason + ' - at ' + offset + ' - ' + JSON.stringify(preview);
         const error = new Error(fullMessage);
         error.reason = reason;
         error.offset = offset;
@@ -90,68 +90,111 @@ export const ParseNwscript = (nssText) => {
         return Err(SrcError('Missing ' + closeCh + ' termination '), closed);
     };
 
+    // ===========================
+    // statement parsing functions follow
+    // ===========================
+
+    const parseAsAssignment = () => {
+        const match = unprefix(/([#$])((?:\w|[^\x00-\x7F])+)\s*=/);
+        if (!match) {
+            return null;
+        }
+        const [_, varKind, varName] = match;
+        // let's hope this language does not have anonymous functions... though
+        // if it does, that probably should be handled within skipTillClosed
+        const statement = {
+            kind: 'ASSIGNMENT',
+            varKind: varKind,
+            varName: varName,
+            rawValue: '',
+        };
+        let error;
+        [error, statement.rawValue] = skipTillClosed('', ';');
+        return [error, statement];
+    };
+
+    const parseAsIf = () => {
+        if (!unprefix(/if\s*\(/)) {
+            return null;
+        }
+        const statement = {
+            kind: 'IF',
+            rawCondition: '',
+            thenStatements: [],
+            elseStatements: [],
+        };
+        let error;
+        [error, statement.rawCondition] = skipTillClosed('(', ')');
+        if (error) {
+            return [error, statement];
+        }
+        if (!unprefix(/\s*{/)) {
+            return [SrcError('IF statement misses opening brace'), statement];
+        }
+        [error, statement.thenStatements] = parseStatements();
+        if (!error && unprefix(/\s*else\s*{/)) {
+            [error, statement.elseStatements] = parseStatements();
+        }
+        return [error, statement];
+    };
+
+    const parseAsFunctionCall = () => {
+        const match = unprefix(/((?:\w|[^\x00-\x7F])+)\(/);
+        if (!match) {
+            return null;
+        }
+        const statement = {
+            kind: 'FUNCTION_CALL',
+            name: match[1],
+            rawArguments: '',
+        };
+        let error;
+        [error, statement.rawArguments] = skipTillClosed('(', ')');
+        if (error) {
+            return [error, statement];
+        }
+        if (!unprefix(/\s*;/)) {
+            error = SrcError('Missing semicolon after side-effects function call');
+        }
+        return [error, statement];
+    };
+
+    const parseStatement = () => {
+        unprefix(/\s+/);
+        let error;
+        let match;
+        let result;
+        if (match = unprefix(/(\.\.|)\/\/(.*)(?:\n|$)/)) {
+            return Ok({
+                kind: 'LINE_COMMENT',
+                text: match[2],
+            });
+        } else if (result = parseAsAssignment()) {
+            return result;
+        } else if (result = parseAsIf()) {
+            return result;
+        } else if (result = parseAsFunctionCall()) {
+            return result;
+        } else if (unprefix(/call_scene\s+/)) {
+            const statement = {
+                kind: 'CALL_SCENE',
+                rawIdExpression: '',
+            };
+            [error, statement.rawIdExpression] = skipTillClosed('', ';');
+            return [error, statement];
+        } else {
+            return Err(SrcError('Unsupported statement'));
+        }
+    };
+
     const parseStatements = () => {
         const statements = [];
         while (offset < nssText.length) {
             unprefix(/\s+/);
-            let statement = null;
-            let error = null;
-            let match;
             if (unprefix(/}/)) {
                 break;
-            } else if (match = unprefix(/(\.\.|)\/\/(.*)(?:\n|$)/)) {
-                statement = {
-                    kind: 'LINE_COMMENT',
-                    text: match[2],
-                };
-            } else if (match = unprefix(/([#$])((?:\w|[^\x00-\x7F])+)\s*=/)) {
-                const [_, varKind, varName] = match;
-                // let's hope this language does not have anonymous functions... though
-                // if it does, that probably should be handled within skipTillClosed
-                statement = {
-                    kind: 'ASSIGNMENT',
-                    varKind: varKind,
-                    varName: varName,
-                    rawValue: '',
-                };
-                [error, statement.rawValue] = skipTillClosed('', ';');
-            } else if (unprefix(/if\s*\(/)) {
-                statement = {
-                    kind: 'IF',
-                    rawCondition: '',
-                    thenStatements: [],
-                    elseStatements: [],
-                };
-                [error, statement.rawCondition] = skipTillClosed('(', ')');
-                if (!error) {
-                    if (!unprefix(/\s*{/)) {
-                        error = SrcError('IF statement misses opening brace');
-                    } else {
-                        [error, statement.thenStatements] = parseStatements();
-                        if (!error && unprefix(/\s*else\s*{/)) {
-                            [error, statement.elseStatements] = parseStatements();
-                        }
-                    }
-                }
-            } else if (match = unprefix(/((?:\w|[^\x00-\x7F])+)\(/)) {
-                statement = {
-                    kind: 'FUNCTION_CALL',
-                    name: match[1],
-                    rawArguments: '',
-                };
-                [error, statement.rawArguments] = skipTillClosed('(', ')');
-                if (!error && !unprefix(/\s*;/)) {
-                    error = SrcError('Missing semicolon after side-effects function call');
-                }
-            } else if (unprefix(/call_scene\s+/)) {
-                statement = {
-                    kind: 'CALL_SCENE',
-                    rawIdExpression: '',
-                };
-                [error, statement.rawIdExpression] = skipTillClosed('', ';');
-            } else {
-                error = SrcError('Unsupported statement');
             }
+            const [error, statement] = parseStatement();
             if (statement) {
                 statements.push(statement);
             }
@@ -161,6 +204,10 @@ export const ParseNwscript = (nssText) => {
         }
         return Ok(statements);
     };
+
+    // ===========================
+    // definitions parsing functions follow
+    // ===========================
 
     const parseDefinitions = () => {
         const definitions = [];
