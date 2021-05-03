@@ -69,18 +69,17 @@ export const ParseNwscript = (nssText) => {
         let level = 1;
         let start = offset;
         for (; offset < nssText.length; ++offset) {
-            const ch = nssText[offset];
-            if (openCh && ch === openCh) {
-                ++level;
-            } else if (ch === closeCh) {
+            if (nssText.slice(offset, offset + closeCh.length) === closeCh) {
                 --level;
                 if (level <= 0) {
                     const closed = nssText.slice(start, offset);
-                    ++offset;
+                    offset += closeCh.length;
                     return Ok(closed);
                 }
-            } else if (ch === '"') {
-                const [error, content] = parseString(ch);
+            } else if (openCh && nssText.slice(offset, offset + openCh.length) === openCh) {
+                ++level;
+            } else if (nssText[offset] === '"') {
+                const [error, content] = parseString(nssText[offset]);
                 if (error) {
                     return Err(error, nssText.slice(start, offset));
                 }
@@ -165,6 +164,105 @@ export const ParseNwscript = (nssText) => {
         return Ok(statement);
     };
 
+    const parseXmlPreElement = () => {
+        let match;
+        if (match = unprefix(/(\.\.|)\/\/(.*)(?:\n|$)/)) {
+            return Ok({
+                kind: 'LINE_COMMENT',
+                text: match[2],
+            });
+        } else if (match = unprefix(/\[(\w+)]/)) {
+            return Ok({
+                kind: 'TEXT_ID',
+                id: match[1],
+            });
+        } else if (match = unprefix(/<([A-Z]+)/)) {
+            const element = {
+                kind: 'XML_WRAPPER',
+                tagName: match[1],
+                rawAttributes: '',
+                innerXML: '',
+            };
+            let error;
+            [error, element.rawAttributes] = skipTillClosed('<', '>');
+            if (error) {
+                return Err(error, element);
+            }
+            [error, element.innerXML] = skipTillClosed('<' + element.tagName, '</' + element.tagName + '>');
+            return [error, element];
+        } else if (match = unprefix(/<([a-z]+)/)) {
+            const element = {
+                kind: 'XML_POINT',
+                tagName: match[1],
+                rawAttributes: '',
+                innerXML: '',
+            };
+            let error;
+            [error, element.rawAttributes] = skipTillClosed('<', '>');
+            return [error, element];
+        } else if (unprefix(/{/)) {
+            const element = {
+                kind: 'INLINED_STATEMENTS',
+                statements: [],
+            };
+            let error;
+            [error, element.statements] = parseStatements();
+            return [error, element];
+        } else {
+            return [null, null];
+        }
+    };
+
+    const parseXmlPreElements = () => {
+        unprefix(/\s*\n/);
+        const elements = [];
+        while (offset < nssText.length) {
+            if (unprefix(/<\/PRE>/)) {
+                return Ok(elements);
+            }
+            const [error, element] = parseXmlPreElement();
+            if (element) {
+                elements.push(element);
+            } else {
+                let lastPart = elements.slice(-1)[0];
+                if (!lastPart || lastPart.kind !== 'PLAIN_TEXT') {
+                    lastPart = {kind: 'PLAIN_TEXT', text: ''};
+                    elements.push(lastPart);
+                }
+                lastPart.text += unprefix(/[\s\S]/)[0];
+            }
+            if (error) {
+                return Err(error, elements);
+            }
+        }
+        return Err(SrcError('Unterminated XML <PRE> tag'), elements);
+    };
+
+    const parseAsXml = () => {
+        const match = unprefix(/<([A-Z]+)/);
+        if (!match) {
+            return null;
+        }
+        const statement = {
+            kind: 'XML_WRAPPER',
+            tagName: match[1],
+            rawAttributes: '',
+            elements: [],
+            innerXML: '',
+        };
+        let error;
+        [error, statement.rawAttributes] = skipTillClosed('<', '>');
+        if (error) {
+            return Err(error, statement);
+        }
+        if (statement.tagName === 'PRE') {
+            [error, statement.elements] = parseXmlPreElements();
+        } else {
+            [error, statement.innerXML] = skipTillClosed('<' + statement.tagName, '</' + statement.tagName + '>');
+        }
+        return [error, statement];
+    };
+
     const parseStatement = () => {
         unprefix(/\s+/);
         let error;
@@ -180,6 +278,8 @@ export const ParseNwscript = (nssText) => {
         } else if (result = parseAsIf()) {
             return result;
         } else if (result = parseAsFunctionCall()) {
+            return result;
+        } else if (result = parseAsXml()) {
             return result;
         } else if (unprefix(/call_scene\s+/)) {
             const statement = {
