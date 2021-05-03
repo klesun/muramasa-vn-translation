@@ -3,6 +3,62 @@
  */
 import {mkReg} from "./Misc.js";
 
+const Ok = (value) => [null, value];
+const Err = (error, incompleteValue = null) => [error, incompleteValue];
+
+const TextBlock = (props = {}) => ({
+    voice: null,
+    inlinedStatements: [],
+    textParts: [],
+    skippedElements: [],
+    ...props,
+});
+
+const elementsToTextBlocks = (elements) => {
+    const result = {
+        textId: '',
+        textBlocks: [TextBlock()],
+    };
+    const last = () => result.textBlocks.slice(-1)[0];
+    for (const element of elements) {
+        if (element.kind === 'TEXT_ID') {
+            result.textId = element.id;
+        } else if (element.kind === 'LINE_COMMENT') {
+            last().skippedElements.push(element);
+        } else if (element.kind === 'INLINED_STATEMENTS') {
+            if (last().inlinedStatements.length > 0) {
+                return Err(new Error('Unexpected multiple code injections in same text block'), result);
+            }
+            last().inlinedStatements = element.statements;
+        } else if (element.kind === 'XML_DOT') {
+            if (element.tagName === 'voice') {
+                last().voice = element.attributes;
+            } else {
+                last().textParts.push(element);
+            }
+        } else if (element.kind === 'XML_WRAP') {
+            last().textParts.push(element);
+        } else if (element.kind === 'PLAIN_TEXT') {
+            const split = element.text.split(/\n{2,}/);
+            last().textParts.push({
+                kind: 'PLAIN_TEXT',
+                text: split.shift(),
+            });
+            for (const text of split) {
+                result.textBlocks.push(TextBlock({
+                    textParts: [{
+                        kind: 'PLAIN_TEXT',
+                        text: text,
+                    }],
+                }));
+            }
+        } else {
+            return Err(new Error('Unexpected element kind: ' + element.kind), result);
+        }
+    }
+    return Ok(result);
+};
+
 /**
  * it is awfully inefficient
  * @param {string} nssText
@@ -21,9 +77,6 @@ export const ParseNwscript = (nssText) => {
         error.preview = preview;
         return error;
     };
-
-    const Ok = (value) => [null, value];
-    const Err = (error, incompleteValue = null) => [error, incompleteValue];
 
     /** @param {RegExp} regex */
     const unprefix = (regex) => {
@@ -57,12 +110,13 @@ export const ParseNwscript = (nssText) => {
             } else if (ch === '\\') {
                 escape = true;
             } else if (ch === quote) {
+                ++offset;
                 return Ok(result);
             } else {
                 result += ch;
             }
         }
-        return Err(SrcError('Unterminated string literal'));
+        return Err('Unterminated string literal');
     };
 
     const skipTillClosed = (openCh = '', closeCh) => {
@@ -80,13 +134,14 @@ export const ParseNwscript = (nssText) => {
                 ++level;
             } else if (nssText[offset] === '"') {
                 const [error, content] = parseString(nssText[offset]);
+                --offset; // so that next iteration increment did not skip a char
                 if (error) {
                     return Err(error, nssText.slice(start, offset));
                 }
             }
         }
         const closed = nssText.slice(start);
-        return Err(SrcError('Missing ' + closeCh + ' termination '), closed);
+        return Err('Missing ' + closeCh + ' termination', closed);
     };
 
     // ===========================
@@ -128,7 +183,7 @@ export const ParseNwscript = (nssText) => {
             return Err(error, statement);
         }
         if (!unprefix(/\s*{/)) {
-            return Err(SrcError('IF statement misses opening brace'), statement);
+            return Err('IF statement misses opening brace', statement);
         }
         [error, statement.thenStatements] = parseStatements();
         if (error) {
@@ -159,9 +214,32 @@ export const ParseNwscript = (nssText) => {
             return Err(error, statement);
         }
         if (!unprefix(/\s*;/)) {
-            return Err(SrcError('Missing semicolon after side-effects function call'), statement);
+            return Err('Missing semicolon after side-effects function call', statement);
         }
         return Ok(statement);
+    };
+
+    const parseXmlAttributes = () => {
+        const attributes = {};
+        while (offset < nssText.length) {
+            unprefix(/\s+/);
+            let match;
+            if (unprefix(/>/)) {
+                return Ok(attributes);
+            } else if (match = unprefix(/(\w+)\s*=\s*"/)) {
+                const [error, value] = parseString('"');
+                attributes[match[1]] = value;
+                if (error) {
+                    return Err(error, attributes);
+                }
+            } else if (match = unprefix(/@(\w+)/)) {
+                attributes['@'] = attributes['@'] || [];
+                attributes['@'].push(match[1]);
+            } else {
+                return Err('Unexpected XML attribute list token', attributes);
+            }
+        }
+        return Err('Unterminated XML attributes list, missing ">"', attributes);
     };
 
     const parseXmlPreElement = () => {
@@ -178,13 +256,13 @@ export const ParseNwscript = (nssText) => {
             });
         } else if (match = unprefix(/<([A-Z]+)/)) {
             const element = {
-                kind: 'XML_WRAPPER',
+                kind: 'XML_WRAP',
                 tagName: match[1],
-                rawAttributes: '',
+                attributes: {},
                 innerXML: '',
             };
             let error;
-            [error, element.rawAttributes] = skipTillClosed('<', '>');
+            [error, element.attributes] = parseXmlAttributes();
             if (error) {
                 return Err(error, element);
             }
@@ -192,13 +270,12 @@ export const ParseNwscript = (nssText) => {
             return [error, element];
         } else if (match = unprefix(/<([a-z]+)/)) {
             const element = {
-                kind: 'XML_POINT',
+                kind: 'XML_DOT',
                 tagName: match[1],
-                rawAttributes: '',
-                innerXML: '',
+                attributes: {},
             };
             let error;
-            [error, element.rawAttributes] = skipTillClosed('<', '>');
+            [error, element.attributes] = parseXmlAttributes();
             return [error, element];
         } else if (unprefix(/{/)) {
             const element = {
@@ -214,7 +291,6 @@ export const ParseNwscript = (nssText) => {
     };
 
     const parseXmlPreElements = () => {
-        unprefix(/\s*\n/);
         const elements = [];
         while (offset < nssText.length) {
             if (unprefix(/<\/PRE>/)) {
@@ -235,7 +311,7 @@ export const ParseNwscript = (nssText) => {
                 return Err(error, elements);
             }
         }
-        return Err(SrcError('Unterminated XML <PRE> tag'), elements);
+        return Err('Unterminated XML <PRE> tag', elements);
     };
 
     const parseAsXml = () => {
@@ -244,19 +320,29 @@ export const ParseNwscript = (nssText) => {
             return null;
         }
         const statement = {
-            kind: 'XML_WRAPPER',
+            kind: 'XML_WRAP',
             tagName: match[1],
-            rawAttributes: '',
-            elements: [],
-            innerXML: '',
+            attributes: {},
+            textId: '',
+            textBlocks: undefined,
+            elements: undefined,
+            innerXML: undefined,
         };
         let error;
-        [error, statement.rawAttributes] = skipTillClosed('<', '>');
+        [error, statement.attributes] = parseXmlAttributes();
         if (error) {
             return Err(error, statement);
         }
         if (statement.tagName === 'PRE') {
-            [error, statement.elements] = parseXmlPreElements();
+            let elements;
+            [error, elements] = parseXmlPreElements();
+            if (error) {
+                statement.elements = elements;
+                return Err(error, statement);
+            }
+            let collected;
+            [error, collected] = elementsToTextBlocks(elements);
+            Object.assign(statement, collected);
         } else {
             [error, statement.innerXML] = skipTillClosed('<' + statement.tagName, '</' + statement.tagName + '>');
         }
@@ -289,7 +375,7 @@ export const ParseNwscript = (nssText) => {
             [error, statement.rawIdExpression] = skipTillClosed('', ';');
             return [error, statement];
         } else {
-            return Err(SrcError('Unsupported statement'));
+            return Err('Unsupported statement');
         }
     };
 
@@ -342,13 +428,13 @@ export const ParseNwscript = (nssText) => {
                 };
                 [error, definition.statements] = parseStatements();
             } else {
-                error = SrcError('Unsupported definition');
+                error = 'Unsupported definition';
             }
             if (definition) {
                 definitions.push(definition);
             }
             if (error) {
-                return Err(error, definitions);
+                return Err(SrcError(error), definitions);
             }
         }
         return Ok(definitions);
