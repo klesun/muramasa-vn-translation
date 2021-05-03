@@ -22,7 +22,11 @@ const knownFalsePositives = [
     "Why are you here in the first place?　Why are you attacking me?",
     "Something is being lost.　Something is being taken away.",
     "You're an idiot. You're dead.　Tell the guards. If this happens again, you're going to the bunker too.",
+];
 
+const knownFalseNegatives = [
+    // should eventually try to match start of the next sentence and ending of the previous by shifting character by character
+    '"The people of Yoshino Mountain should have been generous enough to give him a rank.　They should have been generous enough to give him a rank, but they turned a deaf ear to his plea.',
 ];
 
 const main = async () => {
@@ -37,6 +41,14 @@ const main = async () => {
         {
             jpn: '男はいた。　酷くぞんざいで、だが奇妙に熱っぽい――そう、己を含めた世の何もかもを下らぬものと看做し嘲りつつそこに耽溺する、この男独特の風情を露わにしながら。',
             eng: 'There was a man.　It\'s not that I don\'t like it, it\'s just that I don\'t like it.',
+        },
+        {
+            jpn: '《どうかしら。　各個の騎体性能は大きく低下していたようだし……あれは奇襲か緊急回避のための機巧で、何度も使っては来ないと思うけれど》',
+            eng: 'I don\'t know.　You can find a lot of people who are looking for the best way to get the most out of their life.',
+        },
+        {
+            jpn: '「……爆発……？」',
+            eng: '"......爆発......?',
         },
     ];
 

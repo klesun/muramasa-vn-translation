@@ -44,10 +44,19 @@ export const hasRepeatingSentences = (eng) => {
     return false;
 };
 
+const hasJapaneseCharacters = (eng) => {
+    return eng.match(/[ぁ-ゖ]/) // hiragana
+        || eng.match(/[ァ-ヺ]/) // katakana
+        || eng.match(/[㐀-龯]/); // kanji
+};
+
 export const hasUncertaintyArtifacts = (eng, jpn = undefined) => {
-    if (jpn && eng.length < jpn.length * 1.5) {
+    if (jpn && eng.length < jpn.length * 1.75) {
         // normally english translation consists of 2-3 more characters than original japanese
         // text, but sometimes DeepL does not translate some sentences - detecting such cases
+        return true;
+    }
+    if (hasJapaneseCharacters(eng)) {
         return true;
     }
     return eng.toLowerCase().includes("not sure what")
