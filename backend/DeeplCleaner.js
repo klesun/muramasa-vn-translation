@@ -29,7 +29,7 @@ export const hasRepeatingSentences = (eng) => {
                 // const distance = ed.levenshtein(minPrev, minCurr, insert, remove, update).distance;
 
 
-                if (distance / minLength <= 0.42) {
+                if (distance / minLength <= 0.45) {
                     // console.log('prev: ' + minPrev);
                     // console.log('curr: ' + minCurr);
                     // console.log('min: ' + minLength);
@@ -44,7 +44,12 @@ export const hasRepeatingSentences = (eng) => {
     return false;
 };
 
-export const hasUncertaintyArtifacts = (eng) => {
+export const hasUncertaintyArtifacts = (eng, jpn = undefined) => {
+    if (jpn && eng.length < jpn.length * 1.5) {
+        // normally english translation consists of 2-3 more characters than original japanese
+        // text, but sometimes DeepL does not translate some sentences - detecting such cases
+        return true;
+    }
     return eng.toLowerCase().includes("not sure what")
         || eng.toLowerCase().includes("not sure if")
         || eng.toLowerCase().includes("in the event that you")
@@ -55,8 +60,8 @@ export const hasUncertaintyArtifacts = (eng) => {
         || eng.toLowerCase().includes("you can find it at");
 };
 
-export const hasDeeplArtifacts = (eng) => {
-    return hasUncertaintyArtifacts(eng)
+export const hasDeeplArtifacts = (eng, jpn = undefined) => {
+    return hasUncertaintyArtifacts(eng, jpn)
         || hasRepeatingSentences(eng);
 };
 
@@ -96,7 +101,7 @@ export const tryGetDeeplTranslations = async (recordingDir) => {
             webEng,
             ...deeplDocJpnToEng.has(jpn) ? [deeplDocJpnToEng.get(jpn)] : [],
         ].find(eng => {
-            const isGood = !hasDeeplArtifacts(eng);
+            const isGood = !hasDeeplArtifacts(eng, jpn);
             // if (!isGood && hasRepeatingSentences(eng)) {
             //     console.log(JSON.stringify(eng) + ',');
             // }

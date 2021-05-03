@@ -33,11 +33,14 @@ const main = async () => {
     const expectedDupeSentence = JSON.parse(expectedDupeSentenceStr);
     const expectedNoArtifacts = JSON.parse(expectedNoArtifactsStr);
     const expectedUncertaintyArtifacts = JSON.parse(expectedUncertaintyArtifactsStr);
+    const expectedUncertaintyArtifactsWithJpn = [
+        {
+            jpn: '男はいた。　酷くぞんざいで、だが奇妙に熱っぽい――そう、己を含めた世の何もかもを下らぬものと看做し嘲りつつそこに耽溺する、この男独特の風情を露わにしながら。',
+            eng: 'There was a man.　It\'s not that I don\'t like it, it\'s just that I don\'t like it.',
+        },
+    ];
 
     // const expectedDupeSentence = [
-    //     // "\"Gradually, they treated the hero as a god.　Gradually, they began to treat the hero as a god, affirmed whatever the hero did, and began to imitate him. ...... Now, they are a blacklisted extremist group.",
-    //     // "\"I sent a few more of my men to various locations.　\"I sent a few other men to various places, and I organized and combined the small bits of information that they had gathered.",
-    //     "The only way to communicate is to write on each other's backs.　The only way to communicate with each other is to write on each other's backs, which is very inconvenient.",
     // ];
     // const expectedNoArtifacts = [
     // ];
@@ -64,6 +67,14 @@ const main = async () => {
         if (!uncertaintyDetected) {
             console.error('Expected uncertainty not found:');
             console.error(JSON.stringify(line) + ',');
+        }
+    }
+
+    for (const {jpn, eng} of expectedUncertaintyArtifactsWithJpn) {
+        const uncertaintyDetected = hasUncertaintyArtifacts(eng, jpn);
+        if (!uncertaintyDetected) {
+            console.error('Expected jpn uncertainty not found:');
+            console.error(JSON.stringify(eng) + ',');
         }
     }
 };
