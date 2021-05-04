@@ -61,6 +61,8 @@ export const hasUncertaintyArtifacts = (eng, jpn = undefined) => {
     }
     return eng.toLowerCase().includes("not sure what")
         || eng.toLowerCase().includes("not sure if")
+        || eng.toLowerCase().includes("great way to make sure")
+        || eng.toLowerCase().includes("you can find")
         || eng.toLowerCase().includes("in the event that you")
         || eng.toLowerCase().includes("in the event you")
         || eng.toLowerCase().includes("it's a good idea")

@@ -28,8 +28,6 @@ const knownFalseNegatives = [
     // should eventually try to match start of the next sentence and ending of the previous by shifting character by character
     '"The people of Yoshino Mountain should have been generous enough to give him a rank.　They should have been generous enough to give him a rank, but they turned a deaf ear to his plea.',
     'He was born into a military family, and initially enrolled in an army childhood school with the intention of pursuing a career in the military, but was expelled due to several problems. However, he was expelled from school due to a number of problems, and thereafter, he led a life that completely negated the environment in which he had been raised.',
-    // it's just wrong
-    'It\'s a great way to make sure you\'re getting the most out of your time and money.',
 ];
 
 const main = async () => {
