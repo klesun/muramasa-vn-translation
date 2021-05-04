@@ -9,6 +9,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 export const CHAPTER5_REC1_DIR = __dirname + '/../public/assets/ma_common_route/ma05_star_craft';
 export const HERO_ROUTE_REC1_DIR = __dirname + '/../public/assets/mb_hero_route/rec1';
 export const HERO_ROUTE_REC2_DIR = __dirname + '/../public/assets/mb_hero_route/rec2';
+export const REVENGE_ROUTE_REC3_DIR = __dirname + '/../public/assets/mc_revenge_route/rec3';
 
 export const RECORDING_LOCATIONS = [
     [__dirname + '/../public/assets/ma_common_route/ma01_crimson_craft'],
@@ -25,7 +26,7 @@ export const RECORDING_LOCATIONS = [
     [__dirname + '/../public/assets/mb_hero_route/rec3'],
     [__dirname + '/../public/assets/mc_revenge_route/rec1'],
     [__dirname + '/../public/assets/mc_revenge_route/rec2'],
-    [__dirname + '/../public/assets/mc_revenge_route/rec3'],
+    [REVENGE_ROUTE_REC3_DIR],
     [__dirname + '/../public/assets/mc_revenge_route/rec4'],
     [__dirname + '/../public/assets/mc_revenge_route/rec4', 'game_recording_during_h'],
     [__dirname + '/../public/assets/mc_revenge_route/rec4', 'game_recording_after_h'],
