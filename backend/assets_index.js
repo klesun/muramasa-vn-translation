@@ -28,6 +28,7 @@ export const RECORDING_LOCATIONS = [
     [__dirname + '/../public/assets/mc_revenge_route/rec2'],
     [REVENGE_ROUTE_REC3_DIR],
     [__dirname + '/../public/assets/mc_revenge_route/rec4'],
+    [__dirname + '/../public/assets/mc_revenge_route/rec5'],
     [__dirname + '/../public/assets/mc_revenge_route/rec4', 'game_recording_during_h'],
     [__dirname + '/../public/assets/mc_revenge_route/rec4', 'game_recording_after_h'],
     [__dirname + '/../public/assets/md_devil_route/rec1'],
