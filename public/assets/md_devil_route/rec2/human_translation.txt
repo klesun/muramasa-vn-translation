@@ -162,7 +162,7 @@ The party had their spears turned upside down, and they were attacking their all
 「There's nothing we can do about it.」
 
 「飽間様も、支え切れぬようだ」
-「It seems even Akuma-sama is unable support it.」
+「It seems even Akuma-sama is unable to support it.」
 
 「……」
 
@@ -174,10 +174,10 @@ The party had their spears turned upside down, and they were attacking their all
 「That's not true！」
 
 「現に敗れている……」
-「It's because he has been defeated by it...」
+「He is very down because of it...」
 
 「一時の事だ。　うてらが奉ずる吉野の主上こそ正当の帝、いま京に御座すは尊き血筋ではあれど僭帝に過ぎぬ」
-「It's only temporary. The lord of Yoshino who Utera serves is the true Emperor, and the one who is seated in Kyo right now is merely a tyrant, even if he is of noble blood.
+「It's only temporary. The lord of Yoshino who Utera serves is the true emperor, and the one who is seated in Kyo right now is merely a tyrant, even if he is of noble blood.
 
 「最後には正しき者が勝つ。　世は、そう出来ている」
 「The one that is just will be victorious in the end. The world, it is made that way.」
@@ -222,7 +222,7 @@ The party had their spears turned upside down, and they were attacking their all
 Without realizing, I had let out my voice. With a voice that isn't mine.
 
 我が身から生じる異質な声を聴く……　　それはしかし、良く慣れ親しんだ感覚だった。
-I heard that the voice I produced was different... However, it felt like something I'm already familiar with.
+I heard that the voice I produced was different... However, it felt familiar.
 
 装甲する都度、これと同じ体験をしている。　ただ今の声は、いつもと比べると、些か幼かった。
 Every time I was armouring up, I feel like it's the same experience as this.  It's just that the voice just now, it felt a little bit younger.
@@ -252,7 +252,7 @@ The woman turned her small neck.
 「I don't know.」
 
 「……いくさは、いつからしてるの？」
-「... The war, when did it start?」
+「...The war, when did it start?」
 
 「なれの生まれる前から、ずっとだ」
 「A long time ago, before you were even born.」
@@ -319,58 +319,59 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「Yes.」
 
 「佐々木も大した奴よ。　裏切る時と場所を決して間違えん」
-「Sasaki is truly something. There were absolutely no mistakes in the timing and the place of his betrayal. 
+「Sasaki is truly something. There were absolutely no mistakes in the timing and the place of his betrayal.」
 
 「吉野山の方々は位階くらい気前良くくれてやるべきだった。　奴の訴えを聞き流していたばかりに、このざまだ」
-
+「The people from Mt. Yoshino should have been more generous when it comes to court ranks. They didn't listen to his complaints, and look what happened.」
 
 「欲得ずくの輩など要るまい。　どうせ寝返る男なら、最初から敵に回しておいた方がましだ」
-
+「There is no use for such a calculating ally. If he is someone who will betray you, it would be better to make an enemy out of him from the beginning.」
 
 「……あれはあれで筋は通しているがな。　領地を求め官位を求め、北から南南から北へと忙しく立ち回るのも、一族を守るためだ」
-
+「...Even so, it does make sense. The reason why he demands to be given territory and an official rank, why he is so busy going back and forth between North and South, it was all to protect his clan.」
 
 「本末転倒であろう。　将ならば、大義を守護するために一族の力を用いるべき」
-
+「He has his priorities backwards. If he is a general, he should have utilized his clan's power to uphold justice.」
 
 「一族を守るために大義を捨てて、何の武人か」
-
+「Throwing away justice for the sake of his clan, what kind of warrior is that?」
 
 「うむ……」
-
+「Indeed...」
 
 「飽間様は、たとえ一族郎党悉く死に絶える始末となろうが、北朝方へ鞍替えなどなさるまい」
-
+「If it's Akuma-sama, even if your entire clan were to go extinct, you would never defect to the North.」
 
 「当然だ」
-
+「Of course.」
 
 「この伊勢國は神宮の膝元。　民が帝を崇め、逆賊を憎む気持ちは、どの國よりも強い」
-
+「This country of Ise is under the protection of the imperial Shinto shrine. The citizens revere the emperor, so their feeling of hatred towards traitors, it is far greater than that of other countries.」
+*(Ise --> former province located in the major part of present-day Mie Prefecture and parts of Aichi and Gifu prefectures)
 
 「断じて偽帝に頭は下げられぬ」
-
+「They would never bow their heads to the fake emperor.」
 
 「うむ」
-
+「Indeed.」
 
 「勝たねばならぬ……」
-
+「We must win...」
 
 「そのためには、だ。　村正。ぬしの力が要る」
-
+「And, for that. Muramasa. Your power is needed.」
 
 「……」
 
 
 「口にはされぬが、帝は待ちかねておられるようだ。　楠木殿もな」
-
+「He does not say it, but the emperor seems to be unable to endure the wait any longer. Kusunoki-dono as well.」
 
 「うむ……」
-
+「Indeed...」
 
 「勢州桑名、千子村の鍛冶長は、五郎正宗の再来ならん……。　その風評が帝のお耳に届き、劒冑鍛造の勅が下って――早三年」
-
+「
 
 「まだ出来ぬか」
 
