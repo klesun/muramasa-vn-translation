@@ -120,6 +120,7 @@ const main = async () => {
         const kanjiToRomaji = await collectKanjiToRomaji(dirPath);
         const transTxt = await fs.readFile(dirPath + '/translated_sentences.txt', 'utf8');
         const newJpnSentences = [];
+        console.log('processing ' + dirPath);
         for (let [jpn, eng] of parseSentenceTranslationsFile(transTxt)) {
             for (let [kan, rom] of kanjiToRomaji) {
                 let index;

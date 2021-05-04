@@ -23,7 +23,7 @@ const parseObsTimestamp = (fileName) => {
     return new Date(normalized).getTime();
 };
 
-const chapterDir = __dirname + '/../public/assets/ma_common_route/ma04_sky_shaking_craft';
+const chapterDir = __dirname + '/../public/assets/mc_revenge_route/rec5';
 
 const parseTranslatorBlock = (lineTimingText) => {
     const lines = lineTimingText.split(/(?:\r\n|\n)/);
