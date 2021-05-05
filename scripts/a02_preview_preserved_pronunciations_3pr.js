@@ -56,7 +56,10 @@ const collectKanjiToRomaji = async (dirPath) => {
     kanjiToRomaji.set('脛巾', 'habaki');
     kanjiToRomaji.set('吉野御流合', 'Yoshino Goryu');
     kanjiToRomaji.set('鉄炮', 'Tetsuhao');
-    kanjiToRomaji.set('古河公方', 'Kogakubo'); // a way to refer to the government perhaps? or maybe an another title of Doushin
+    kanjiToRomaji.set('古河公方', 'Koga Kubou'); // the title of Doushin
+    kanjiToRomaji.set('小弓公方', 'Oyumi Kubou'); // the title of Raichou
+    kanjiToRomaji.set('堀越公方', 'Horigoe Kubou'); // the title of Chachamaru
+    kanjiToRomaji.set('篠川公方', 'Sasagawa Kubou'); // the title of Shishiku
     kanjiToRomaji.set('普陀楽', 'Fudaraku'); // the name of the castle where Ichijou and Kag infiltrate
     kanjiToRomaji.set('改とやら', 'Arata Toyara'); // fake name Kageaki used in Ayane route
     kanjiToRomaji.set('一媛', 'Ichihime'); // Ayane's fake name Kageaki used in her route

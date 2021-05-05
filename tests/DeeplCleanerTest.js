@@ -28,6 +28,9 @@ const knownFalseNegatives = [
     // should eventually try to match start of the next sentence and ending of the previous by shifting character by character
     '"The people of Yoshino Mountain should have been generous enough to give him a rank.　They should have been generous enough to give him a rank, but they turned a deaf ear to his plea.',
     'He was born into a military family, and initially enrolled in an army childhood school with the intention of pursuing a career in the military, but was expelled due to several problems. However, he was expelled from school due to a number of problems, and thereafter, he led a life that completely negated the environment in which he had been raised.',
+    '"Until that time, I believed that I was a loyal vassal.　"I believed that I was a loyal vassal, that I might be defeated and die without fortune, but I would not live long enough to succumb to my enemies. ......',
+    // ;c
+    'He is the only person in human history who can be called truly wise.　In the history of man, there is only one person who can be called a true master of wisdom.',
 ];
 
 const main = async () => {
