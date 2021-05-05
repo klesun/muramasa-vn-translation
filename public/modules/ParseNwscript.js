@@ -6,57 +6,31 @@ import {mkReg} from "./Misc.js";
 const Ok = (value) => [null, value];
 const Err = (error, incompleteValue = null) => [error, incompleteValue];
 
-const TextBlock = (props = {}) => ({
-    voice: null,
-    inlinedStatements: [],
-    textParts: [],
-    skippedElements: [],
-    ...props,
-});
+const XML_WRAP_TAGS = new Set([
+    'RUBY', // wrapped text displayed as is, and over it, in small letters are displayed characters from the `text`
+            // attribute - on most part it's either a hiragana pronunciation of rare kanji or synonyms expressing
+            // what characters actually think/feel/say
+    'PRE', // ma04_014vs.nss - <PRE>The paradox of "Tell and apple".</PRE>
+           // I suspect it has something to do with non-full-width latin characters
+    'I', // italic I assume
+    'FONT', // has `incolor` attribute that takes a CSS format hex color
+]);
+const XML_DOT_TAGS = new Set([
+    'BR', // like html I assume
+    'k', // can be placed between words to delay further print until player presses a button
+    'K', // guess tags are case-insensitive...
+    'voice', // specifies the audio file to be played when following text is displayed
+    'VALUE', // I think it shows text stored in a variable by it's `name` attribute
+]);
 
-const elementsToTextBlocks = (elements) => {
-    const result = {
-        textId: '',
-        textBlocks: [TextBlock()],
-    };
-    const last = () => result.textBlocks.slice(-1)[0];
-    for (const element of elements) {
-        if (element.kind === 'TEXT_ID') {
-            result.textId = element.id;
-        } else if (element.kind === 'LINE_COMMENT') {
-            last().skippedElements.push(element);
-        } else if (element.kind === 'INLINED_STATEMENTS') {
-            if (last().inlinedStatements.length > 0) {
-                return Err(new Error('Unexpected multiple code injections in same text block'), result);
-            }
-            last().inlinedStatements = element.statements;
-        } else if (element.kind === 'XML_DOT') {
-            if (element.tagName === 'voice') {
-                last().voice = element.attributes;
-            } else {
-                last().textParts.push(element);
-            }
-        } else if (element.kind === 'XML_WRAP') {
-            last().textParts.push(element);
-        } else if (element.kind === 'PLAIN_TEXT') {
-            const split = element.text.split(/\n{2,}/);
-            last().textParts.push({
-                kind: 'PLAIN_TEXT',
-                text: split.shift(),
-            });
-            for (const text of split) {
-                result.textBlocks.push(TextBlock({
-                    textParts: [{
-                        kind: 'PLAIN_TEXT',
-                        text: text,
-                    }],
-                }));
-            }
-        } else {
-            return Err(new Error('Unexpected element kind: ' + element.kind), result);
-        }
+const isXmlWrapTag = (tagName) => {
+    if (XML_WRAP_TAGS.has(tagName)) {
+        return Ok(true);
+    } else if (XML_DOT_TAGS.has(tagName)) {
+        return Ok(false);
+    } else {
+        return Err('Unsupported XML tag - ' + tagName);
     }
-    return Ok(result);
 };
 
 /**
@@ -70,7 +44,10 @@ export const ParseNwscript = (nssText) => {
 
     const SrcError = (reason) => {
         const preview = getTextLeft().slice(0, 15);
-        const fullMessage = reason + ' - at ' + offset + ' - ' + JSON.stringify(preview);
+        const line = nssText.slice(0, offset).split('\n').length;
+        const column = nssText.slice(0, offset).replace(/[\s\S]+\n/, '').length + 1;
+        const fullMessage = reason + ' - at ' + line + ':' + column +
+            ' (' + offset + ') - ' + JSON.stringify(preview);
         const error = new Error(fullMessage);
         error.reason = reason;
         error.offset = offset;
@@ -119,15 +96,15 @@ export const ParseNwscript = (nssText) => {
         return Err('Unterminated string literal');
     };
 
-    const skipTillClosed = (openCh = '', closeCh) => {
+    const skipTillClosedAny = (openCh = '', length, predicate) => {
         let level = 1;
         let start = offset;
         for (; offset < nssText.length; ++offset) {
-            if (nssText.slice(offset, offset + closeCh.length) === closeCh) {
+            if (predicate(nssText.slice(offset, offset + length))) {
                 --level;
                 if (level <= 0) {
                     const closed = nssText.slice(start, offset);
-                    offset += closeCh.length;
+                    offset += length;
                     return Ok(closed);
                 }
             } else if (openCh && nssText.slice(offset, offset + openCh.length) === openCh) {
@@ -141,29 +118,78 @@ export const ParseNwscript = (nssText) => {
             }
         }
         const closed = nssText.slice(start);
-        return Err('Missing ' + closeCh + ' termination', closed);
+        return Err('Missing termination', closed);
+    };
+
+    const skipTillClosed = (openCh = '', closeCh) => {
+        return skipTillClosedAny(openCh, closeCh.length, textPart => textPart === closeCh);
+    };
+
+    const parseAsCodeTypoArtifact = () => {
+        const match =
+            unprefix(/([.=―]+)(.*)\n/) ||
+            unprefix(/<voice.*\n/) ||
+            unprefix(/「[\s\S]*?」/s);
+        if (!match) {
+            return null;
+        }
+        return Ok({
+            kind: 'CODE_TYPO_ARTIFACT',
+            text: match[0],
+        });
+    };
+
+    // // ...
+    const parseAsLineComment = () => {
+        const match = unprefix(/\/{2}(.*)(?:\n|$)/);
+        if (!match) {
+            return null;
+        }
+        return Ok({
+            kind: 'LINE_COMMENT',
+            text: match[1],
+        });
+    };
+
+    // /* ... */
+    const parseAsBlockComment = () => {
+        const match = unprefix(/\/\*/);
+        if (!match) {
+            return null;
+        }
+        const text = skipTillClosed('', '*/');
+        return Ok({
+            kind: 'BLOCK_COMMENT',
+            text: text,
+        });
     };
 
     // ===========================
     // statement parsing functions follow
     // ===========================
 
+    const VAR_NAME_REGEX = /((?:\w|[^\x00-\x7F])+)/;
+
     const parseAsAssignment = () => {
-        const match = unprefix(/([#$])((?:\w|[^\x00-\x7F])+)\s*=/);
+        // allow more than one leading $ to fix code mistakes - mc01_003.nss
+        const regex = mkReg([/([#$]+)/, VAR_NAME_REGEX ,/\s*([+\-*/]?=)/]);
+        const match = unprefix(regex);
         if (!match) {
             return null;
         }
-        const [_, varKind, varName] = match;
+        const [_, varKind, varName, operation] = match;
         // let's hope this language does not have anonymous functions... though
         // if it does, that probably should be handled within skipTillClosed
         const statement = {
             kind: 'ASSIGNMENT',
             varKind: varKind,
             varName: varName,
+            operation: operation,
             rawValue: '',
         };
         let error;
-        [error, statement.rawValue] = skipTillClosed('', ';');
+        // assuming there are no stuff like function calls wrapped to multiple lines, so far holds true...
+        [error, statement.rawValue] = skipTillClosedAny('', 1, textPart => [';', '\n'].includes(textPart));
         return [error, statement];
     };
 
@@ -175,7 +201,57 @@ export const ParseNwscript = (nssText) => {
             kind: 'IF',
             rawCondition: '',
             thenStatements: [],
+            elseIfs: [],
             elseStatements: [],
+        };
+        let error;
+        [error, statement.rawCondition] = skipTillClosed('(', ')');
+        if (error) {
+            return Err(error, statement);
+        }
+        if (!unprefix(/\s*{/)) {
+            return Err('IF statement lacks opening brace', statement);
+        }
+        [error, statement.thenStatements] = parseStatements();
+        if (error) {
+            return Err(error, statement);
+        }
+        for (let i = 0; unprefix(/\s*else\s+if\s*\(/); ++i) {
+            let error;
+            statement.elseIfs[i] = {
+                rawCondition: '',
+                thenStatements: [],
+            };
+            [error, statement.elseIfs[i].rawCondition] = skipTillClosed('(', ')');
+            if (error) {
+                return Err(error, statement);
+            }
+            if (!unprefix(/\s*{/)) {
+                return Err('ELSE IF branch lacks opening brace', statement);
+            }
+            [error, statement.elseIfs[i].thenStatements] = parseStatements();
+            if (error) {
+                return Err(error, statement);
+            }
+        }
+        if (unprefix(/\s*else\s*{/)) {
+            [error, statement.elseStatements] = parseStatements();
+            if (error) {
+                return Err(error, statement);
+            }
+        }
+        return Ok(statement);
+    };
+
+    const parseAsWhile = () => {
+        const match = unprefix(/while\s*\(/);
+        if (!match) {
+            return null;
+        }
+        const statement = {
+            kind: 'WHILE',
+            rawCondition: '',
+            statements: [],
         };
         let error;
         [error, statement.rawCondition] = skipTillClosed('(', ')');
@@ -185,17 +261,8 @@ export const ParseNwscript = (nssText) => {
         if (!unprefix(/\s*{/)) {
             return Err('IF statement misses opening brace', statement);
         }
-        [error, statement.thenStatements] = parseStatements();
-        if (error) {
-            return Err(error, statement);
-        }
-        if (unprefix(/\s*else\s*{/)) {
-            [error, statement.elseStatements] = parseStatements();
-            if (error) {
-                return Err(error, statement);
-            }
-        }
-        return Ok(statement);
+        [error, statement.statements] = parseStatements();
+        return [error, statement];
     };
 
     const parseAsFunctionCall = () => {
@@ -213,28 +280,75 @@ export const ParseNwscript = (nssText) => {
         if (error) {
             return Err(error, statement);
         }
-        if (!unprefix(/\s*;/)) {
+        if (!unprefix(/\s*[;\n]/)) {
             return Err('Missing semicolon after side-effects function call', statement);
         }
         return Ok(statement);
     };
 
+    /**
+     * most likely NWScript allows any expression to be called as statement,
+     * but I don't want to parse expression just yet and probably ever
+     */
+    const parseAsVarIncrement = () => {
+        const regex = mkReg([/\$/, VAR_NAME_REGEX ,/\+\+\s*;/]);
+        const match = unprefix(regex);
+        if (!match) {
+            return null;
+        }
+        return Ok({
+            kind: 'VAR_INCREMENT',
+            name: match[1],
+        });
+    };
+
+    const parseAsExpression = () => {
+        let match;
+        if (unprefix(/"/)) {
+            const expression = {
+                kind: 'STRING_LITERAL',
+                value: '',
+            };
+            let error;
+            [error, expression.value] = parseString('"');
+            return [error, expression];
+        } else if (match = unprefix(/\d+(?:\.\d+|)/)) {
+            return Ok({
+                kind: 'NUMBER_LITERAL',
+                value: match[0],
+            });
+        } else if (match = unprefix(mkReg([/\$/, VAR_NAME_REGEX]))) {
+            return Ok({
+                kind: 'VARIABLE_REFERENCE',
+                name: match[1],
+            });
+        } else {
+            return null;
+        }
+    };
+
     const parseXmlAttributes = () => {
-        const attributes = {};
+        const attributes = [];
         while (offset < nssText.length) {
             unprefix(/\s+/);
             let match;
             if (unprefix(/>/)) {
                 return Ok(attributes);
-            } else if (match = unprefix(/(\w+)\s*=\s*"/)) {
-                const [error, value] = parseString('"');
-                attributes[match[1]] = value;
+            } else if (match = unprefix(/(\w+)\s*=\s*/)) {
+                const [error, value] = parseAsExpression() || Err('Unsupported expression');
+                attributes.push({
+                    kind: 'NAMED_ATTRIBUTE',
+                    name: match[1],
+                    value: value,
+                });
                 if (error) {
                     return Err(error, attributes);
                 }
             } else if (match = unprefix(/@(\w+)/)) {
-                attributes['@'] = attributes['@'] || [];
-                attributes['@'].push(match[1]);
+                attributes.push({
+                    kind: 'SET_ATTRIBUTE',
+                    name: match[1],
+                });
             } else {
                 return Err('Unexpected XML attribute list token', attributes);
             }
@@ -243,39 +357,38 @@ export const ParseNwscript = (nssText) => {
     };
 
     const parseXmlPreElement = () => {
+        let result;
         let match;
-        if (match = unprefix(/(\.\.|)\/\/(.*)(?:\n|$)/)) {
-            return Ok({
-                kind: 'LINE_COMMENT',
-                text: match[2],
-            });
+        if (result = parseAsLineComment()) {
+            return result;
         } else if (match = unprefix(/\[(\w+)]/)) {
             return Ok({
                 kind: 'TEXT_ID',
                 id: match[1],
             });
-        } else if (match = unprefix(/<([A-Z]+)/)) {
+        } else if (match = unprefix(/<([a-zA-Z]+)/)) {
             const element = {
-                kind: 'XML_WRAP',
+                kind: 'XML_TAG',
                 tagName: match[1],
                 attributes: {},
-                innerXML: '',
+                isWrap: undefined,
+                innerXML: undefined,
             };
             let error;
             [error, element.attributes] = parseXmlAttributes();
             if (error) {
                 return Err(error, element);
             }
-            [error, element.innerXML] = skipTillClosed('<' + element.tagName, '</' + element.tagName + '>');
-            return [error, element];
-        } else if (match = unprefix(/<([a-z]+)/)) {
-            const element = {
-                kind: 'XML_DOT',
-                tagName: match[1],
-                attributes: {},
-            };
-            let error;
-            [error, element.attributes] = parseXmlAttributes();
+            [error, element.isWrap] = isXmlWrapTag(element.tagName);
+            if (error) {
+                return Err(error, element);
+            }
+            if (element.isWrap) {
+                // TODO: mind that opening can also be in different case!
+                const terminator = ('</' + element.tagName + '>').toLowerCase();
+                const predicate = textPart => textPart.toLowerCase() === terminator;
+                [error, element.innerXML] = skipTillClosedAny('<' + element.tagName, terminator.length, predicate);
+            }
             return [error, element];
         } else if (unprefix(/{/)) {
             const element = {
@@ -334,46 +447,99 @@ export const ParseNwscript = (nssText) => {
             return Err(error, statement);
         }
         if (statement.tagName === 'PRE') {
-            let elements;
-            [error, elements] = parseXmlPreElements();
-            if (error) {
-                statement.elements = elements;
-                return Err(error, statement);
-            }
-            let collected;
-            [error, collected] = elementsToTextBlocks(elements);
-            Object.assign(statement, collected);
+            [error, statement.elements] = parseXmlPreElements();
         } else {
             [error, statement.innerXML] = skipTillClosed('<' + statement.tagName, '</' + statement.tagName + '>');
         }
         return [error, statement];
     };
 
-    const parseStatement = () => {
-        unprefix(/\s+/);
+    const parseAsCallScene = () => {
+        if (!unprefix(/call_scene\s+/)) {
+            return null;
+        }
+        const statement = {
+            kind: 'CALL_SCENE',
+            rawIdExpression: '',
+        };
         let error;
-        let match;
-        let result;
-        if (match = unprefix(/(\.\.|)\/\/(.*)(?:\n|$)/)) {
-            return Ok({
-                kind: 'LINE_COMMENT',
-                text: match[2],
-            });
-        } else if (result = parseAsAssignment()) {
+        [error, statement.rawIdExpression] = skipTillClosed('', ';');
+        return [error, statement];
+    };
+
+    const parseAsSelect = () => {
+        if (!unprefix(/select\s+{/)) {
+            return null;
+        }
+        const statement = {
+            kind: 'SELECT',
+            statements: [],
+        };
+        let error;
+        [error, statement.statements] = parseStatements();
+        return [error, statement];
+    };
+
+    /**
+     * I assume it can be only inside `select`,
+     * but that's semantics I guess, not syntax
+     */
+    const parseAsCase = () => {
+        if (!unprefix(/case\s+/)) {
+            return null;
+        }
+        const statement = {
+            kind: 'CASE',
+            rawCondition: '',
+            statements: [],
+        };
+        let error;
+        [error, statement.rawCondition] = skipTillClosed('', '{');
+        if (error) {
+            return Err(error, statement);
+        }
+        [error, statement.statements] = parseStatements();
+        return [error, statement];
+    };
+
+    const parseAsBeginLabel = () => {
+        if (!unprefix(/begin:\s+/)) {
+            return null;
+        }
+        return Ok({ kind: 'BEGIN_LABEL' });
+    };
+
+    const parseAsScopeBlock = () => {
+        if (!unprefix(/{/)) {
+            return null;
+        }
+        const statement = {
+            kind: 'SCOPE_BLOCK',
+            statements: [],
+        };
+        let error;
+        [error, statement.statements] = parseStatements();
+        return [error, statement];
+    };
+
+    const parseStatement = () => {
+        const result =
+            parseAsBeginLabel() ||
+            parseAsLineComment() ||
+            parseAsBlockComment() ||
+            parseAsAssignment() ||
+            parseAsIf() ||
+            parseAsWhile() ||
+            parseAsFunctionCall() ||
+            parseAsVarIncrement() ||
+            parseAsXml() ||
+            parseAsCallScene() ||
+            parseAsSelect() ||
+            parseAsCase() ||
+            parseAsScopeBlock() ||
+            parseAsCodeTypoArtifact();
+        if (result) {
             return result;
-        } else if (result = parseAsIf()) {
-            return result;
-        } else if (result = parseAsFunctionCall()) {
-            return result;
-        } else if (result = parseAsXml()) {
-            return result;
-        } else if (unprefix(/call_scene\s+/)) {
-            const statement = {
-                kind: 'CALL_SCENE',
-                rawIdExpression: '',
-            };
-            [error, statement.rawIdExpression] = skipTillClosed('', ';');
-            return [error, statement];
         } else {
             return Err('Unsupported statement');
         }
@@ -382,7 +548,7 @@ export const ParseNwscript = (nssText) => {
     const parseStatements = () => {
         const statements = [];
         while (offset < nssText.length) {
-            unprefix(/\s+/);
+            unprefix(/[\s;]+/);
             if (unprefix(/}/)) {
                 break;
             }
@@ -404,15 +570,16 @@ export const ParseNwscript = (nssText) => {
     const parseDefinitions = () => {
         const definitions = [];
         while (offset < nssText.length) {
-            unprefix(/\s+/);
             let definition = null;
             let error = null;
+            let result;
             let match;
-            if (match = unprefix(/(\.\.|)\/\/(.*)(?:\n|$)/)) {
-                definition = {
-                    kind: 'LINE_COMMENT',
-                    text: match[2],
-                };
+            if (unprefix(/\s+/)) {
+                continue;
+            } else if (result = parseAsLineComment()) {
+                [error, definition] = result;
+            } else if (result = parseAsBlockComment()) {
+                [error, definition] = result;
             } else if (match = unprefix(/chapter\s+(\w+)\s*{/)) {
                 definition = {
                     kind: 'CHAPTER',
@@ -427,6 +594,34 @@ export const ParseNwscript = (nssText) => {
                     statements: [],
                 };
                 [error, definition.statements] = parseStatements();
+            } else if (match = unprefix(/function\s+([\w.]+)\s*\(/)) {
+                definition = {
+                    kind: 'FUNCTION',
+                    name: match[1],
+                    rawArguments: '',
+                    statements: [],
+                };
+                let error;
+                [error, definition.rawArguments] = skipTillClosed('(', ')');
+                if (error) {
+                    return Err(error, definition);
+                }
+                if (!unprefix(/\s*{/)) {
+                    return Err('Missing opening brace of function body', definition);
+                }
+                [error, definition.statements] = parseStatements();
+            } else if (unprefix(/}/)) {
+                // ma04_003.nss
+                // seems to be yet another code typo that their interpreter tolerates... php flashbacks
+                continue;
+            } else if (unprefix(/continuation number="\d+">/)) {
+                // more code mistakes cleanup - missing "//<" at line start
+                continue;
+            } else if (result = parseAsCodeTypoArtifact()) {
+                [error, definition] = result;
+            } else if (result = parseStatement()) {
+                // I think it's yet again code typos, but oh well
+                [error, definition] = result;
             } else {
                 error = 'Unsupported definition';
             }
