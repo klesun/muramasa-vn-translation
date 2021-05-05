@@ -413,7 +413,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「...No.」
 
 「どれほど力量ある鍛冶師でも、万能の劒冑は打てぬ。　何かを選び、何かを捨てねばならぬ」
-「No matter how talented the forger is, they can't make an all-purpose Tsurugi. Something must be chosen, and something else must be thrown away.」
+「No matter how talented the blacksmith, they can't make an all-purpose Tsurugi. Something must be chosen, and something else must be thrown away.」
 
 「その選択が、定まらぬのか」
 「So you are unable to settle on a choice?」
@@ -434,169 +434,169 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「The North is our ally, while the South is our enemy, no?」
 
 「より深く。より細かくだ。　役目が明確であればあるほど、劒冑の性能を特化できる」
-「You must think deeper. More precise. The clearer the goal, the stronger the Tsurugi becomes.」
+「You must think deeper. More precise. As its tasks become clearer, the stronger the Tsurugi becomes.」
 
 「……成程のぅ」
 「...I see.」
 
 「機能を定めるにはまず目的を定める必要がある。要はそういうことだ」
-「
+「To determine its functions we need to have a clear goal. That's how it is.」
 
 「それで戦場巡りか」
-
+「So that's why we need to go around battlefields?」
 
 「うむ」
-
+「Yes.」
 
 「結論は出せそうか？」
-
+「Shall we help you come to a conclusion then?」
 
 「まだ、掛かるな。　まだ……倒すべき敵の姿が見えぬ」
-
+「Not yet, don't be rash. Not yet... I still do not see the form of the enemy that we need to defeat.」
 
 「佐々木如きでは不足だしの」
-
+「I guess someone like Sasaki is also not enough.」
 
 「そうか……。　わかった。ぬしの存念はそれとなく楠木殿にお伝えしておく」
-
+「I see... Understood. I shall inform Kusunoki-dono of your opinion.」
 
 「帝のお耳にも入ろう。　お二方とも納得される筈だ」
-
+「I will also inform the emperor of this. I should be able to have their consent.」
 
 「済まぬ」
-
+「I'm sorry for the trouble.」
 
 「なに。ぬしとわしの仲だ。　水臭い言葉などいらぬ」
-
+「It's fine. You and I are friends. Do not be reserved.」
 
 「ぬしは心ゆくまで工夫を続けろ。　その間は、わしが賊軍どもから吉野を守り通してみせる」
-
+「Just continue to come up with ideas to your heart's content. In the mean time, I shall make sure to protect Yoshino from the bandits.
 
 「……頼む」
-
+「...I leave it to you.」
 
 「…………」
 
 
 「どうした、御父。　大層機嫌が悪いようだが」
-
+「What's wrong, Father? You seem to be in a bad mood.」
 
 「…………」
 
 
 「御母？」
-
+「Mother?」
 
 「京の都が奪われたそうです」
-
+「It seems Kyoto has been taken.」
 
 「……何?　先月、楠木様が攻め落とし、帝は八年ぶりの帰京を果たされたばかりではないか！」
-
+「...What? It was just last month that Kusunoki-sama attacked, and it was the first time the emperor returned to the capital in 8 years!」
 
 「洛中守護を拝命せし赤松の軍勢は何をしていたのだ」
-
+「What was the Akamatsu army who was appointed to safeguard the city doing?」
 
 「その赤松が、寝返ったのです」
-
+「The Akamatsu army, they defected.」
 
 「……何と」
-
+「...Oh my.」
 
 「北朝に売りよったのよ！　都と、帝をな」
-
+「They sold them off to the South! The capital, and the emperor as well!」
 
 「帝が北朝の手に?」
-
+「The emperor is in the South's hands?」
 
 「……」
 
 
 「では……南朝は、これから」
-
+「Then... the North, from now on...」
 
 「吉野の皇子が即位されると、飽間様は言うておられた」
-
+「The prince of Yoshino will ascend the throne, that was what Akuma-sama said.」
 
 「……」
 
 
 「みやこのおはなし？」
-
+「Is this about the capital?」
 
 「……」
 
 
 「ととさまは？　ととさま、みやこでしょ？」
-
+「What's wrong with Father? Father, he's at the capital right?
 
 「……」
 
 
 「……御父」
-
+「...Father.」
 
 「……婿殿が……　御番鍛冶の端に加えられる栄に浴しながら、帝を捨てて逃げると思うか」
-
+「...Your husband... Do you think he will abandon the emperor and run away, all the while bathing in the honour that you get by being near an honourable blacksmith?」
 
 「…………」
 
 
 「かかさま。　ねえ、ととさまは？」
-
+「Mother. Please, what about Father?」
 
 「……………………」
 
 
 「ばばさま……　ととさまは？」
-
+「Grandmother... what's wrong with Father?」
 
 「…………」
 
 
 「……じじさま……？」
-
+「...Grandfather...?」
 
 「…………」
 
 
 「この村も、久方ぶりだ」
-
+「It has been a long time, since I last seen this village.」
 
 「うむ……」
-
+「Indeed...」
 
 「飽間様、ようこそいらっしゃいました」
-
+「Welcome, Akuma-sama.」
 
 「おう！　見違えたわ。　蝦夷はまったく、瞬きの間に大きくなるな」
-
+「Yes! I barely recognized it. In the blink of an eye, the Emishi has grown so much.」
 
 「どちらが村正の娘で、どちらが孫だったか、うっかりしていると間違えそうじゃ」
-
+「Which one is Masamune's daughter, and which one is the granddaughter, if I were to be careless I might mix them up.」
 
 「……それは言い過ぎだ。　こやつはまだまだ子供」
-
+「...You must be exaggerating. This one is still a child.」
 
 「鍛冶の技も、ようやく基礎が出来てきたかどうかというところだ」
-
+「When it comes to smithing skills, it's finally time to see whether or not she has the foundations ready.」
 
 「でも、背は母様より少し高い」
-
+「But even so, she is slightly taller than her mother.」
 
 「む」
-
+「Ugh.]
 
 「ふふ……」
-
+「Fufu...」
 
 「長いこと、各地を転戦していたそうだが」
-
+「For a long time, I have been fighting numerous battles in various places.」
 
 「うむ。　甲斐あって、赤松めの裏切りからの頽勢をようやく半分ばかりは挽回できたわ」
-
+「Indeed. It was worth it, I was able to recover about half of what was lost from the Akamatsu's betrayal.」
 
 「虜囚の身で世を去らねばならなかった先帝の御無念、いささかは晴らせたかのう。　ぬしの婿殿の無念もな……」
-
+「
 
 「……」
 
