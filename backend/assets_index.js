@@ -13,6 +13,7 @@ export const REVENGE_ROUTE_REC3_DIR = __dirname + '/../public/assets/mc_revenge_
 
 export const RECORDING_LOCATIONS = [
     [__dirname + '/../public/assets/ma_common_route/ma01_crimson_craft'],
+    [__dirname + '/../public/assets/ma_common_route/ma02_two_old_crafts'],
     [__dirname + '/../public/assets/ma_common_route/ma03_counterattack_craft', 'game_recording_during_h'],
     [__dirname + '/../public/assets/ma_common_route/ma04_sky_shaking_craft'],
     [CHAPTER5_REC1_DIR],
