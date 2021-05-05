@@ -443,7 +443,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「To determine its functions we need to have a clear goal. That's how it is.」
 
 「それで戦場巡りか」
-「So that's why we need to go around battlefields?」
+「So that's why you need to go around battlefields?」
 
 「うむ」
 「Yes.」
@@ -590,7 +590,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「Fufu...」
 
 「長いこと、各地を転戦していたそうだが」
-「For a long time, I have been fighting numerous battles in various places.」
+「For a long time, you have been fighting numerous battles in various places.」
 
 「うむ。　甲斐あって、赤松めの裏切りからの頽勢をようやく半分ばかりは挽回できたわ」
 「Indeed. It was worth it, I was able to recover about half of what was lost from the Akamatsu's betrayal.」
