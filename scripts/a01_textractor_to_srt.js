@@ -23,7 +23,7 @@ const parseObsTimestamp = (fileName) => {
     return new Date(normalized).getTime();
 };
 
-const chapterDir = __dirname + '/../public/assets/ma_common_route/ma02_two_old_crafts';
+const chapterDir = __dirname + '/../public/assets/ma_common_route/ma03_counterattack_craft';
 
 const parseTranslatorBlock = (lineTimingText) => {
     const lines = lineTimingText.split(/(?:\r\n|\n)/);
