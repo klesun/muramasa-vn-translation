@@ -162,7 +162,7 @@ The party had their spears turned upside down, and they were attacking their all
 「There's nothing we can do about it.」
 
 「飽間様も、支え切れぬようだ」
-「It seems even Akuma-sama is unable to support it.」
+「It seems even Akima-sama is unable to support it.」
 
 「……」
 
@@ -177,7 +177,7 @@ The party had their spears turned upside down, and they were attacking their all
 「He is very down because of it...」
 
 「一時の事だ。　うてらが奉ずる吉野の主上こそ正当の帝、いま京に御座すは尊き血筋ではあれど僭帝に過ぎぬ」
-「It's only temporary. The lord of Yoshino who Utera serves is the true emperor, and the one who is seated in Kyo right now is merely a tyrant, even if he is of noble blood.
+「It's only temporary. The lord of Yoshino who Utera serves is the true emperor, and the one who is seated in Kyoto right now is merely a tyrant, even if he is of noble blood.
 
 「最後には正しき者が勝つ。　世は、そう出来ている」
 「The one who is just will be victorious in the end. The world, it is made that way.」
@@ -294,7 +294,7 @@ It was told that the storm of war had swept over the whole land of ancient Japan
 The conflict of the Northern and Southern Courts (Nanboku-chō period). The world where my Tsurugi―― Muramasa, lived.
 
 「御父。　飽間様がお越しだ」
-「Father. Akuma-sama has come.」
+「Father. Akima-sama has come.」
 
 「おう」
 「Yeah.」
@@ -340,7 +340,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「Indeed...」
 
 「飽間様は、たとえ一族郎党悉く死に絶える始末となろうが、北朝方へ鞍替えなどなさるまい」
-「If it's Akuma-sama, even if your entire clan were to go extinct, you would never defect to the North.」
+「If it's Akima-sama, even if your entire clan were to go extinct, you would never defect to the North.」
 
 「当然だ」
 「Of course.」
@@ -401,7 +401,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「Direction?」
 
 「飽間様は、至高の劒冑とは如何なるものだと思われる？」
-「Akuma-sama, what do you think the great Tsurugi is?」
+「Akima-sama, what do you think the great Tsurugi is?」
 
 「力が強く、甲鉄は硬く、翼は鋭く速く――」
 「It possesses great strength, hard armour, and sharp but swift wings――
@@ -425,7 +425,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「What would be the best, what would be the most... superior?」
 
 「至高の劒冑とはな、飽間様。　役目を遂げる劒冑に他ならぬ」
-「Akuma-sama, the most superior Tsurugi. It is none other than a Tsurugi that is able to carry out its duty.」
+「Akima-sama, the most superior Tsurugi. It is none other than a Tsurugi that is able to carry out its duty.」
 
 「如何なる者の助けとなり、　如何なる者を討ち滅ぼすのか、　……まずそれを見定めねば、何も始まらぬ」
 「To be of help to everyone and everything, or to be the one to bring all to its doom, ...we must first decide on that, or else nothing will start.」
@@ -443,19 +443,19 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「To determine its functions we need to have a clear goal. That's how it is.」
 
 「それで戦場巡りか」
-「So that's why we need to go around battlefields?」
+「So that's why you need to go around battlefields?」
 
 「うむ」
 「Yes.」
 
 「結論は出せそうか？」
-「Shall we help you come to a conclusion then?」
+「Have you come with a conclusion then?」
 
 「まだ、掛かるな。　まだ……倒すべき敵の姿が見えぬ」
-「Not yet, don't be rash. Not yet... I still do not see the form of the enemy that we need to defeat.」
+「Not yet, it's going to take a bit longer. Not yet... I still do not see the form of the enemy that we need to defeat.」
 
 「佐々木如きでは不足だしの」
-「I guess someone like Sasaki is also not enough.」
+「Someone like Sasaki is also not enough.」
 
 「そうか……。　わかった。ぬしの存念はそれとなく楠木殿にお伝えしておく」
 「I see... Understood. I shall inform Kusunoki-dono of your opinion.」
@@ -470,7 +470,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「It's fine. You and I are friends. Do not be reserved.」
 
 「ぬしは心ゆくまで工夫を続けろ。　その間は、わしが賊軍どもから吉野を守り通してみせる」
-「Just continue to come up with ideas to your heart's content. In the mean time, I shall make sure to protect Yoshino from the bandits.
+「Just continue to work to your heart's content. In the mean time, I shall make sure to protect Yoshino from the bandits.
 
 「……頼む」
 「...I leave it to you.」
@@ -515,7 +515,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「Then... the North, from now on...」
 
 「吉野の皇子が即位されると、飽間様は言うておられた」
-「The prince of Yoshino will ascend the throne, that was what Akuma-sama said.」
+「The prince of Yoshino will ascend the throne, that was what Akima-sama said.」
 
 「……」
 
@@ -527,7 +527,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 
 
 「ととさまは？　ととさま、みやこでしょ？」
-「What's wrong with Father? Father, he's at the capital right?
+「What will happen to Father? Father, he's at the capital right?
 
 「……」
 
@@ -536,7 +536,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「...Father.」
 
 「……婿殿が……　御番鍛冶の端に加えられる栄に浴しながら、帝を捨てて逃げると思うか」
-「...Your husband... Do you think he will abandon the emperor and run away, all the while bathing in the honour that you get by being near an honourable blacksmith?」
+「...Your husband... Do you really think he will abandon the emperor and run away, all the while bathing in the honour that you get by being near an honourable blacksmith?」
 
 「…………」
 
@@ -548,7 +548,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 
 
 「ばばさま……　ととさまは？」
-「Grandmother... what's wrong with Father?」
+「Grandmother... what will happen to Father?」
 
 「…………」
 
@@ -560,19 +560,19 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 
 
 「この村も、久方ぶりだ」
-「It has been a long time, since I last seen this village.」
+「It has been a long time, since I last saw this village.」
 
 「うむ……」
 「Indeed...」
 
 「飽間様、ようこそいらっしゃいました」
-「Welcome, Akuma-sama.」
+「Welcome, Akima-sama.」
 
 「おう！　見違えたわ。　蝦夷はまったく、瞬きの間に大きくなるな」
-「Yes! I barely recognized it. In the blink of an eye, the Emishi has grown so much.」
+「Oh! I barely recognized you. In the blink of an eye, Emishi has grown so much.」
 
 「どちらが村正の娘で、どちらが孫だったか、うっかりしていると間違えそうじゃ」
-「Which one is Masamune's daughter, and which one is the granddaughter, if I were to be careless I might mix them up.」
+「Which one is Muramasa's daughter, and which one is the granddaughter, if I were to be careless I might mix them up.」
 
 「……それは言い過ぎだ。　こやつはまだまだ子供」
 「...You must be exaggerating. This one is still a child.」
@@ -581,7 +581,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「When it comes to smithing skills, it's finally time to see whether or not she has the foundations ready.」
 
 「でも、背は母様より少し高い」
-「But even so, she is slightly taller than her mother.」
+「But even so, I am slightly taller than mother.」
 
 「む」
 「Ugh.]
@@ -590,13 +590,13 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「Fufu...」
 
 「長いこと、各地を転戦していたそうだが」
-「For a long time, I have been fighting numerous battles in various places.」
+「It seems for a long time, you have been fighting numerous battles in various places.」
 
 「うむ。　甲斐あって、赤松めの裏切りからの頽勢をようやく半分ばかりは挽回できたわ」
 「Indeed. It was worth it, I was able to recover about half of what was lost from the Akamatsu's betrayal.」
 
 「虜囚の身で世を去らねばならなかった先帝の御無念、いささかは晴らせたかのう。　ぬしの婿殿の無念もな……」
-「
+「I hope I was able to clear up the regrets of the previous emperor who had to leave the world as a prisoner. Your son-in-law's as well...」
 
 「……」
 
@@ -605,232 +605,234 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 
 
 「……して、そちらの御仁は？」
-
+「...Speaking of which, who is that person?」
 
 「おう。　この方は鞍馬山の学僧での」
-
+「Oh. This person is an apprentice monk from Mt. Kurama.」
 
 「浦夢と申します。　どうか、よしなに」
-
+「My name is Uramu. Please call me what you see fit.」
 
 「……」
 
 
 「非常に深い学識をお持ちでな。　長らく南朝の、陰の相談役のようなことをして下さっていた」
-
+「He unexpectedly possesses profound knowledge. For a long time, he has been working in the shadows as a counsellor for the North.」
 
 「ほう……」
-
+「Oh...」
 
 「わしも幾度となく世話になったものよ。　先日も相談事を持ち掛けたのだが、その折にふと、ぬしのことを話してみたところ――」
-
+「He has also aided me on multiple occasions. I had come to him for advice the other day, and incidentally, I talked to him about you――
 
 「至高の劒冑を求めておいでと伺いました。　それはとても、とても興味深い命題です」
-
+「I heard that you are searching for the ultimate Tsurugi. That is a very, very interesting proposition.」
 
 「是非、私に協力させてください」
-
+「Please, let me help you.」
 
 「――と、こう言われる」
-
+「――And that, was what he told me.」
 
 「協力？　……鍛冶の心得でもお有りか」
-
+「Help? ...Do you have any knowledge of blacksmithing?」
 
 「いいえ。鍛冶の技は知りません。　しかし私、広い、とても広い世界を巡ってきました」
-
+「No. I do not know any smithing techniques. However, I have travelled around this wide, wide world.」
 
 「色々な学問を知っています。　劒冑もたくさん、見てきました」
-
+「I have studied many things. I have also seen many Tsurugis.」
 
 「……ふむ」
-
+「...I see.」
 
 「どうだ。　その分ではまだ劒冑の工夫がついておらんのだろう？」
-
+「How about it? You are still unable to invent the Tsurugi because you don't have knowledge on that, right?」
 
 「物の試しに、浦夢殿の知恵を拝借してみても損はあるまい」
-
+「There is nothing to be lost from borrowing Uramu's wisdom for testing purposes.
 
 「まぁ……　そう言われるなら、あえて断る理由もないがな」
-
+「Well... if you put it that way, there is no reason to decline.」
 
 「見ての通り貧しい村、京の暮らしに慣れた方にはさぞ不自由が多かろうと存ずるが……。　それでも宜しいか」
-
+「As you can see, it is a poor village, someone used to life in Kyoto may find it highly inconvenient... Are you okay with that?」
 
 「構いません。　ありがとうございます。村正どの」
-
+「There is no problem. Thankyou very much. Muramasa-dono.」
 
 「どうか、よろしく」
-
+「Please take care of me.」
 
 「……」
 
 
 「村正どのは、計算が得意ですか」
-
+「Muramasa-dono, are you good at calculations?」
 
 「……異な事を。　計算が不得手で、劒冑鍛冶など務まろうか」
-
+「...You are asking a strange question. If I am bad at calculation, how can I be a blacksmith?」
 
 「ではお答えください。　六十二万五千五百九十二に七万八千四百二十一を加え、十五万六千五十九を引き、それから三倍すると、いくつになります？」
-
+「Then please answer me. If you add 78,421 to 625,592, subtract it by 156,059, and then multiply by three, what do you get?」
 
 「…………待たれい。　今、算木を――」
-
+「...Wait. I will fetch my counting rods――」
 
 「ふふふ。　算木を使っても、答えを出すのには時間が少し掛かるでしょう」
-
+「Fufufu. Even if you used your counting rods, it will still take some time for you to find the answer, right?」
 
 「少しな」
-
+「It will take some time.」
 
 「これを使ってみてください」
-
+「Please try to use this.」
 
 「……これは？　何かの記号に見えるが」
-
+「...What is this? It looks like some sort of symbol.」
 
 「天竺の数字です」
-
+「These are foreign numbers.」
 
 「数字？　これが？」
-
+「Numbers? This?」
 
 「はい。　これが一、これが二、これが三……となります」
-
+「Yes. This is one, this is two, and this... will be three.」
 
 「ふむ……。　では、この丸い記号は十か」
-
+「I see... Then this round symbol would be ten?」
 
 「いいえ、違います。　それはぜろです」
-
+「No, you are wrong. That would be zero.」
 
 「ぜろ？」
-
+「Zero?」
 
 「無い、ということを示します。　空白を表す数字が〇です」
-
+「Nothing, that is what it means. The number representing a blank space would be 0.」
 
 「？　……？」
 
 
 「無いものを、どうして数字で表さねばならない？」
-
+「Why should something that is not there be represented by numbers?
 
 「……」
 
 
 「あぁ――?」
-
+「Ah――?」
 
 「どうした」
-
+「What's wrong?」
 
 「いや、どうしたではない、御父！　これは途轍もない発見だぞ!」
-
+「No, it's not "what's wrong", Father! This is an unbelievable discovery!
 
 「何？」
-
+「What?」
 
 「浦夢殿、この数字で十を表すと……　もしやこうなるのか？」
-
+「Uramu-dono, if this number was to be used to represent ten... would it be like this?」
 
 「はい。１と〇を並べます。　縦ではなく、横に並べるのが正しいやり方ですが」
-
+「Yes. You line up the 1 and 0. Although the right way would be to line it up horizontally, and not vertically.」
 
 「御父、見ろ。　この数字を使って、さっきの計算をすると――」
-
+「Father, look. If you use these numbers, and do the calculation from before――」
 
 「百六十四万三千八百六十二。　瞬く間だ……」
-
+「1,643,862. You can get it in an instant...」
 
 「――――」
 
 
 「どうですか。　天竺の数字を使うと、計算がしやすくなるでしょう」
-
+「What do you think? If you use these numbers, you calculations can be done faster.」
 
 「十、百、千といった数字を無くし……　一から九、これに〇を加えた十個の数字で、あらゆる数を表す……」
-
+「Eliminate numbers such ten, one hundred, and one thousand... 1 to 9, add 0 and with these 10 numbers, any number can be represented...」
 
 「ただこれだけの工夫で、計算の手間がかくも減るのか！」
-
+「So just with this, the amount of time and effort needed to do calculations can be reduced!」
 
 「実はこの数字と計算法は、もっと古くから大和に伝わっていたのです。　少し形は変えてはいましたが……」
-
+「Actually, these numbers and their calculation methods have been told in Japan ever since a long time ago. Althought their form was slightly altered...」
 
 「けれど、ほとんどの人は価値を理解できませんでした。　理解できた人は独占して、隠してしまいました」
-
+「However, most people did not understand its value. Those who did understand monopolized it, and hid it away.
 
 「だから広まっていないのです」
-
+「That is why it is not widespread.」
 
 「むぅ……」
-
+「Ugh...」
 
 「せっかく海を越えて伝わったのに埋もれてしまった知識、他にもたくさんあります。　もちろん、まったく未知の知識も」
-
+「There are many other kinds of knowledge that were painstakingly brought here from across the seas, but have been buried. Of course, there are also knowledge that are still unknown.」
 
 「浦夢殿は、それをご存知なのか」
-
+「Is Uramu-dono well-versed on such knowledge?」
 
 「はい」
-
+「Yes.」
 
 「……教えてくれ！　いや、お願いする。教えて頂きたい」
-
+「...Tell me! No, I ask you a favor.　I would like you to teach me.」
 
 「どうか！」
-
+「Please!」
 
 「頭を下げないでください。　教えます。私はそのために来たのです」
-
+「Please don't lower your head. I will teach you. I came here with that goal in mind.」
 
 「村正どのに、私の知識をすべて差し上げるために……」
-
+「To offer up all of my knowledge to Muramasa-dono...」
 
 「村正どの。　あなたが至高の劒冑を求めるなら、三つの源気について知らなくてはなりません」
-
+「Muramasa-dono. If you are searching for the ultimate Tsurugi, you must know about the three powers.」
 
 「三つのちから？」
-
+「Three powers?」
 
 「この宇宙の根源的なちからです。　私はこれを、磁気、辰気、創気と呼びます」
-
+「This universe's primordial powers. I call these magnetism, gravity, and chemical bonding.
+(note: 辰--> dragon. i guess dragonic energy sounds stupid with this context so did some research. upcoming section had a bit explaining about the earth's pull and what not, also 星辰 means celestial bodies/stars which i guess can mean earth? i'll put gravity for now.
+note_2: 創気 --> totally doesnt mean covalent bonds, but 基素 is a kanji that will come up later. its literal meaning is also really weird and vague, but 基 alone can mean two or more atoms in a bond, which means molecule? so atoms bonding into molecule = chemical bonding? eff this ill come back to it later)
 
 「…………」
 
 
 「磁気というのは、磁石の？」
-
+「By magnetism, do you mean a magnet?」
 
 「はい。　磁石が引き合い、反発し合うちからのことです」
-
+「Yes. It is the power that makes magnets attract, and repel each other.」
 
 「あと二つはわかりますか？」
-
+「Do you know what the other two are?」
 
 「いや」
-
+「No.」
 
 「辰気とは、あらゆる物体に備わるものです。　他の物体を引き寄せるちからです」
-
+「Gravity, it is something that every object possess. It is the power to attract other objects.」
 
 「……？」
 
 
 「今、私は石を拾いました。　手を離すと、この通り」
-
+「Just now, I have picked up a stone. If I let go, what happens is as you see.」
 
 「石は地面に落ちます」
-
+「The stone will fall to the ground.」
 
 「……」
 
 
 「これが辰気です」
-
+「This is gravity.」
 
 「？　……？」
 
@@ -839,91 +841,92 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 
 
 「つまり――物が落ちるのは、大地の辰気が引き寄せているからだ……と？」
-
+「In other words―― the reason why things fall, it's because the earth's gravity is pulling them...?」
 
 「そうです。　あなたはいつも理解がお早い」
-
+「That's right. You always understand things fast.」
 
 「……」
 
 
 「……では、創気とは？」
-
+「...Then, how about chemical bonding?」
 
 「基素を結び合わせ、物体を造り上げているちからのことです」
-
+「It is the power that binds molecules together to create an object.」
 
 「基素？」
-
+「Molecules?」
 
 「物体をひたすら細かく細かく砕いていった時、最後に残るもの――もうこれ以上は砕けないものを基素と呼びます」
-
+「When an object is broken into very small pieces, the last thing that remains―― the thing that can no longer be broken anymore, it is called a molecule.
+(note again: made sure, for a molecule to be broken the atoms usually need to be heated for the bond to break, so last thing should be molecule. then again im not a chemist)
 
 「万物の素材です。　これを多種多様に組み合わせて、草花や、鉱物や、昆虫や、私たちを生み出すちからが創気です」
-
+「It is the mateial of all things. The power to create plants, minerals, insects, and us by combining molecules in many different ways is called chemical bonding.」
 
 「それは……神仏の御業のことか？」
-
+「That... Are you talking about the works of the gods?」
 
 「そう言っても構いません」
-
+「You could say that.」
 
 「……創気。　それに磁気……辰気……？」
-
+「...Chemical bonding. Aside from that there are magnetism... and gravity...?」
 
 「無理に理解しようとしないでください。　焦ること、急ぐことは、頭脳の働きを妨げます」
-
+「Please don't force yourselves to understand. Being impatient, and trying to hasten things, it will obstruct your brain's performance.」
 
 「学問に近道はありません。　ゆっくり、学んでいきましょう」
-
+「There are no shortcuts in learning. Let us learn slowly.」
 
 「前からお尋ねしたかったのだが……」
-
+「I've been meaning to ask you something for a while...」
 
 「はい？」
-
+「Yes?」
 
 「浦夢殿は、何ゆえ劒冑に興味を持たれる？」
-
+「Why is Uramu-dono interested in Tsurugis?」
 
 「不思議ですか」
-
+「Is that a strange thing?」
 
 「森羅万象を窮めた御方がどうして武具などにこだわられるのか……　今ひとつ得心がゆかぬ」
-
+「Why would someone who has thoroughly studied the creation of all things be interested in weapons... I am unable to understand.」
 
 「褒めてくださること、光栄です。　けれど、私はまだ何も知りません」
-
+「I am honoured by your praise. However, I am still ignorant.」
 
 「まさか」
-
+「You jest.」
 
 「いいえ。本当に何も知らないのです。　私が本当に知りたいことは、まだ遥か遠くにあります」
-
+「No. I really do not know anything. What I really want to know, it is still far way in the distance.」
 
 「浦夢殿の知識をもってしても、遥か遠い？」
-
+「Even with Uramu-dono's knowledge, it is still far away?」
 
 「海に落とした一粒の砂金を探している心地です」
-
+「It feels like searching for a grain of gold that I dropped in the ocean.」
 
 「……想像もつかぬ」
-
+「...I can't even imagine.」
 
 「神の愛」
-
+「Agape.」
 
 「？」
 
 
 「何処にあるかわかりません。　どんな形をしているのかも……」
-
+「I do not know where it is. I don't even know what it looks like...」
 
 「しかし私は信じているのです。　劒冑は人間に与えられし翼。天へ至るただ一つの方法……なら、」
-
+「But I believe. Tsurugis are wings that were given to humans. It is the only way to reach the heavens... If so,」
 
 「これを極めた先に、求めるものはあると」
-
+「what I want, lies beyond this.」
 
 「…………」
 
