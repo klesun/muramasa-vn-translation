@@ -27,8 +27,9 @@ const collectKanjiToRomaji = async (dirPath) => {
                         // skip, frequently used word "suguru", something like table
                     } else if (kanWords[i] === '操' && !dirPath.endsWith('/chapter3')) {
                         // skip, frequently used word "misao", apparently it means something
-                    } else if (kanWords[i] === '光' && !dirPath.endsWith('/ma05_star_craft')
-                            && !dirPath.match('/md_devil_route/rec\d+')
+                    } else if (kanWords[i] === '光'
+                            && !dirPath.endsWith('/ma05_star_craft')
+                            && !dirPath.match(/md_devil_route\/rec\d+/)
                             && !dirPath.endsWith('/mb_hero_route/rec2')
                             && !dirPath.endsWith('/mb_hero_route/rec3')
                     ) {
