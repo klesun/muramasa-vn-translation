@@ -431,7 +431,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「To be of help to everyone and everything, or to be the one to bring all to its doom, ...we must first decide on that, or else nothing will start.」
 
 「味方は南朝、敵は北朝であろう？」
-「The North is our ally, while the South is our enemy, no?」
+「The South is our ally, while the North is our enemy, no?」
 
 「より深く。より細かくだ。　役目が明確であればあるほど、劒冑の性能を特化できる」
 「You must think deeper. More precise. As its tasks become clearer, the stronger the Tsurugi becomes.」
@@ -512,7 +512,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 
 
 「では……南朝は、これから」
-「Then... the North, from now on...」
+「Then... the South, from now on...」
 
 「吉野の皇子が即位されると、飽間様は言うておられた」
 「The prince of Yoshino will ascend the throne, that was what Akima-sama said.」
@@ -617,7 +617,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 
 
 「非常に深い学識をお持ちでな。　長らく南朝の、陰の相談役のようなことをして下さっていた」
-「He unexpectedly possesses profound knowledge. For a long time, he has been working in the shadows as a counsellor for the North.」
+「He unexpectedly possesses profound knowledge. For a long time, he has been working in the shadows as a counsellor for the South.」
 
 「ほう……」
 「Oh...」
@@ -902,7 +902,7 @@ note_2: 創気 --> totally doesnt mean covalent bonds, but 基素 is a kanji tha
 「You jest.」
 
 「いいえ。本当に何も知らないのです。　私が本当に知りたいことは、まだ遥か遠くにあります」
-「No. I really do not know anything. What I really want to know, it is still far way in the distance.」
+「No. I really do not know anything. What I really want to know, it is still far away in the distance.」
 
 「浦夢殿の知識をもってしても、遥か遠い？」
 「Even with Uramu-dono's knowledge, it is still far away?」
@@ -932,196 +932,194 @@ note_2: 創気 --> totally doesnt mean covalent bonds, but 基素 is a kanji tha
 
 
 「村正どの。あなたに巡り合ったのは天命でした。　私はあなたに会うために、この東の果ての国までやって来たのです」
-
+「Muramasa-dono. Meeting you was my destiny. I have come to this country in the far east in order to meet you.」
 
 「どうか私を導いてください。　……黄金の夜明けへ！」
-
+「Please guide me... to the Golden Dawn!」
 
 「御父、もういかぬ！　敵兵の数は百や二百ではない」
-
+「Father, we must go! The enermy's numbers is not just a hundred or two hundred men.」
 
 「このままでは皆殺しぞ！」
-
+「If we stay we will be slaughtered!」
 
 「……おのれ……」
-
+「...Damn it...」
 
 「母様、怪我……！」
-
+「Mother, you're wounded...!」
 
 「構うでない。　流れ矢が掠めただけだ」
-
+「Don't worry about it. It's just a graze from a stray arrow.」
 
 「母より自分の心配をせよ。　焼けて崩れた家の下敷きにでもなろうものなら、助からぬぞ」
-
+「Rather than worrying about your mother, worry about yourself. Should you be trapped under a burned and collapsed house, I won't be able to save you.」
 
 「う、うん……」
-
+「Y-Yes...」
 
 「御父、とにかく今は退こう。　裏里まで逃れれば、奴らも追って来られぬ」
-
-
-「……」
+「Father, let us retreat for now. If we can escape to the backcountry, even they won't be able to follow us.
 
 
 「御父！」
-
+「Father!」
 
 「……何故だ。　北朝の軍がここまで攻め入って来るなど、有り得んことだ！」
-
+「...How can it be? It should've been impossible for the Northern army to invade this place!」
 
 「こんな筈では……」
-
+「It shouldn't have gone this way...」
 
 「長島を越えない限り、北朝はここまで来れない……ですか？」
-
+「As long as they are unable to pass through Nagashima, the North won't be able to reach this place... was it?」
 
 「浦夢殿……」
-
+「Uramu-dono...」
 
 「では、長島は落ちたのでしょう」
-
+「Then, that must mean Nagashima has fallen.」
 
 「馬鹿な！　今、長島を預かるのは他ならぬ飽間様ぞ」
-
+「Impossible! Right now, the one in charge of Nagashima is the one and only Akima-sama!」
 
 「あの方なら、たとえ万の大軍を敵としても数日は持ち堪える筈……」
-
+「If it's that person, he should be able to last for a few days even if he has to battle an army of 10,000...」
 
 「戦えば、そうでしょう。　けれど、戦わなければ、どうですか？」
+「If he fought, then yes. However, what if he didn't fight?」
 
-
-「な、何?」
-
+「な、何!?」
+「W-what!?」
 
 「飽間どのが北朝の軍勢を素通しにしたなら……」
-
+「If Akima-dono had let the Northern army pass through unscathed...」
 
 「戯けたことを申すな!」
-
+「Don't say such ridiculous things!」
 
 「……」
 
 
 「確かに当世、武人といえばどいつも達磨よ。　北朝へ転がり南朝へ転がり、風向き次第で旗幟を変えよる」
-
+「It's true that nowadays, warriors are like darumas. They roll around from the North and to the South, changing their banners depending on the direction of the wind.」
 
 「だが飽間様は違うっ！　あの方は、」
-
+「But Akima-sama is different! That person is,」
 
 「……あの方だけは……」
-
+「...That person is...」
 
 「村正どの……」
-
+「Muramasa-dono...」
 
 「……御父。　今は考えまい」
-
+「...Father. Don't think about that now.」
 
 「今は逃げねばならぬ。　忘れたか。御父は大和一の劒冑を打てと、先の帝より勅を賜った身」
-
+「We must run for now. Have you forgotten? Father must create Japan's greatest Tsurugi, you are the person entrusted with the former emperor's imperial decree.」
 
 「ここで命を危うくしてはならぬ！」
-
+「You must not risk your life here!」
 
 「爺様」
-
+「Grandfather.」
 
 「……くっ」
-
+「...Ugh.」
 
 「……生き残りはこればかりか」
-
+「...So these are the only ones left.」
 
 「母様。　……婆様が、いない」
-
+「Mother... Granmother is nowhere to be found.」
 
 「…………」
 
 
 「いないの……」
-
+「She is not here...」
 
 「いないのなら、おらぬのであろうよ」
-
+「If she is not here, then she must be gone.」
 
 「……そんな」
-
+「...No way.」
 
 「……」
 
 
 「……っ……」
-
+「...Hic...」
 
 「泣くのなら、何処かに隠れて一人で泣け。　ここではやめよ」
-
+「If you are going to cry, go hide somewhere and cry on your own. Do not do it here.」
 
 「御父の前では」
-
+「Not in front of Father.」
 
 「……………………」
 
 
 「……爺様……」
-
+「...Grandfather...」
 
 「…………何故だ…………」
-
+「...Why...」
 
 「何故、あの方が……　飽間様が……裏切りなど！」
-
+「Why, has that person... Why did Akima-sama... betray us?!」
 
 「間違いではないのか……？」
-
+「Is it not a mistake...?」
 
 「……長島から逃れてきた者がそう言うのだ。　事実であろうよ」
-
+「...The people who escaped from Nagashima said so. It must be true.」
 
 「…………おお」
-
+「...Argh.」
 
 「何たる……　…………何たるっッ!」
-
+「What a... What a-!」
 
 「……」
 
 
 「……浦夢殿……」
-
+「...Uramu-dono...」
 
 「はい……」
-
+「Yes...」
 
 「うては見誤ったのであろうか……　あの方を……」
-
+「Did I... misjudge that person...」
 
 「飽間どのは、とても良い方でした。　吉野には私をあやしげな呪い師だといって忌み嫌う人も多かったのですが、飽間どのはいつも私をかばってくれました」
-
+「Akima-sama was a very good person. There were many people in Yoshino who detested me, believing that I was a suspicious curse-bringer, but Akima-sama has always defended me.」
 
 「……なら……何故……」
-
+「...Then...why...」
 
 「……」
 
 
 「良い人に、不義を強いる……。　そういう時代があります」
-
+「Forcing good people to commit injustice... There are times like that.」
 
 「今がそうです。　今は悪しき世なのです」
-
+「Now is one of those times. This is an evil world.」
 
 「……」
 
 
 「御父。　いま戻った」
-
+「Father. I have returned」
 
 「うむ……」
-
+「Yes...」
 
 「吉野の方々には、時間を掛けねば良い物は出来んの一点張りで通しておいた。　しかし皆、かなり立腹していたぞ」
-
+「
 
 「……」
 
