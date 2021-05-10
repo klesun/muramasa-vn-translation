@@ -1,0 +1,30 @@
+{
+    "youtubeNumber": 70,
+    "youtubeUrl": "https://www.youtube.com/watch?v=9x6cvGl9IOI&list=PLlRk_Elz9MdaZRPMCMZyAXNt3bGAQMBJZ",
+    "duration": "04:17:06",
+    "splitParts": [
+        {
+            "fileNameRoot": "game_recording",
+            "nssRanges": [
+                {"srtStart": 2, "srtEnd": 4, "scene": "mc02_031rouka3.nss"},
+                {"srtStart": 6, "srtEnd": 8, "scene": "mc02_031rouka2.nss"},
+                {"srtStart": 10, "srtEnd": 11, "scene": "mc02_031rouka1.nss"},
+                {"srtStart": 13, "srtEnd": 16, "scene": "mc02_031shikann_No.nss"},
+                {"srtStart": 17, "srtEnd": 18, "scene": "mc02_031rouka1.nss"},
+                {"srtStart": 20, "srtEnd": 22, "scene": "mc02_031rouka2.nss"},
+                {"srtStart": 24, "srtEnd": 26, "scene": "mc02_031rouka3.nss"},
+                {"srtStart": 28, "srtEnd": 39, "scene": "mc02_031innsyoku_No.nss"},
+                {"srtStart": 41, "srtEnd": 47, "scene": "mc02_031daidokoro.nss"},
+                {"srtStart": 48, "srtEnd": 48, "scene": "mc02_031daidokoroz.nss"},
+                {"srtStart": 50, "srtEnd": 51, "scene": "mc02_031syokuryou.nss"},
+                {"srtStart": 52, "srtEnd": 52, "scene": "mc02_031syokuryouc.nss"},
+                {"srtStart": 53, "srtEnd": 53, "scene": "mc02_031syokuryouz.nss"},
+                {
+                  "srtStart": 278, "srtEnd": 2806,
+                  "nssStart": {"scene": "mc02_032.nss", "textId": "text0020"},
+                  "nssEnd": {"scene": "mc04_014vs.nss", "textId": "text0510"}
+                }
+            ]
+        }
+    ]
+}
