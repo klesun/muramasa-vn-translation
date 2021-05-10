@@ -27,6 +27,8 @@ const collectKanjiToRomaji = async (dirPath) => {
                         // skip, frequently used word "suguru", something like table
                     } else if (kanWords[i] === '操' && !dirPath.endsWith('/chapter3')) {
                         // skip, frequently used word "misao", apparently it means something
+                    } else if (kanWords[i] === '律' && !dirPath.endsWith('/chapter1')) {
+                        // skip, frequently used word "ritsu", apparently it means something
                     } else if (kanWords[i] === 'さよ'
                             && !dirPath.match(/ma_common_route/)
                             && !dirPath.match(/mc_revenge_route/)
