@@ -798,8 +798,6 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 
 「この宇宙の根源的なちからです。　私はこれを、磁気、辰気、創気と呼びます」
 「This universe's primordial powers. I call these magnetism, gravity, and chemical bonding.
-(note: 辰--> dragon. i guess dragonic energy sounds stupid with this context so did some research. upcoming section had a bit explaining about the earth's pull and what not, also 星辰 means celestial bodies/stars which i guess can mean earth? i'll put gravity for now.
-note_2: 創気 --> totally doesnt mean covalent bonds, but 基素 is a kanji that will come up later. its literal meaning is also really weird and vague, but 基 alone can mean two or more atoms in a bond, which means molecule? so atoms bonding into molecule = chemical bonding? eff this ill come back to it later)
 
 「…………」
 
@@ -860,7 +858,6 @@ note_2: 創気 --> totally doesnt mean covalent bonds, but 基素 is a kanji tha
 
 「物体をひたすら細かく細かく砕いていった時、最後に残るもの――もうこれ以上は砕けないものを基素と呼びます」
 「When an object is broken into very small pieces, the last thing that remains―― the thing that can no longer be broken anymore, it is called a molecule.
-(note again: made sure, for a molecule to be broken the atoms usually need to be heated for the bond to break, so last thing should be molecule. then again im not a chemist)
 
 「万物の素材です。　これを多種多様に組み合わせて、草花や、鉱物や、昆虫や、私たちを生み出すちからが創気です」
 「It is the mateial of all things. The power to create plants, minerals, insects, and us by combining molecules in many different ways is called chemical bonding.」
@@ -1371,139 +1368,140 @@ note_2: 創気 --> totally doesnt mean covalent bonds, but 基素 is a kanji tha
 
 
 「……心鉄の軸を一矢で射抜くか。　性根は腐り果てても、腕は昔のままのようだな。飽間様」
-「
+「...To pierce through the center of its iron core with just a single arrow. It seems even though your character has rotted away, your skills stayed the same. Akima-sama.」
 
 「ああ」
-
+「Indeed.」
 
 「あなたはこの武者の後詰として来たのではないのか？」
-
+「Did you not come here as this warrior's rearguard?」
 
 「そうだ」
-
+「I did.」
 
 「……寝返りか」
-
+「...So it's a betrayal.」
 
 「情勢がまた変わったのでな。　佐々木が丹波の國衆を連れて吉野に転んだ……今後、畿内では南朝が盛り返す」
-
+「The circumstances has changed once again, you see. Sasaki has brought the people of Tanba and turned to Yoshino... Hereafter, the South will be able to regain their strength in the Kinai region.」
+(TL/N: Kinai region --> territories in the vicinity of the capital & under direct imperial rule.)
 
 「こやつの首を手土産に、南朝へ帰参を願うことにした」
-
+「Using this fellow's head as a gift, I hope to return to the service of the Southern Court.」
 
 「恥じぬか、飽間！」
-
+「Have no you shame, Akima?!」
 
 「……」
 
 
 「なれの忠義はそんなにも安いのか！　そこまで……下らぬ男だったのかっ!」
-
+「Is your loyalty that cheap?! You lowlife!!」
 
 「……忠義か」
-
+「...Loyalty, huh?」
 
 「あの時までは、わしも己を忠臣だと信じておった。　武運つたなく敗れ死すことはあろうとも、敵に屈して生き長らえはすまい、とな……」
-
+「Up until that time, I had also believed that I was a lotal retainer. Even if the fortunes of war wasn't on my side and I were to be defeated and die, I will never yield to the enemy just to live longer, was what I thought...」
 
 「だがあの時……北朝の大軍が長島に迫り。　囲まれたが最後、一門全滅は避けられぬと悟った刹那」
-
+「But at that time... the North's large army was approaching Nagashima. I had realized in an instant that if we were surrounded that would be the end, my entire clan would be annihiliated.」
 
 「ふっと、霜が溶けるように、忠義なるものの値打ちがわからなくなってしもうた……。　我が身と一族をそのために擲って、本当に良いのか……と」
-
+「Suddenly, just like a frost melting, I became unable to understand the value of loyalty... To throw away my life and that of my entire clan just to be annihilated, was that really the best choice...」
 
 「……済まぬな。　わしの忠義とはその程度……紛い物でしかなかったようだ」
-
+「...Forgive me. It seems... my loyalty is nothing but a sham.」
 
 「……」
 
 
 「裏切り者め……　裏切り者め……」
-
+「Traitor... Traitor...」
 
 「裏切り者めがぁっ!」
-
+「You traitor!」
 
 「……」
 
 
 「わしのことは良い。　だが村正、妻君のことは憎んでやるな」
-
+「You may think what you want of me. But Muramasa, do not hate your wife.」
 
 「仕方がなかったのだ……」
-
+「There was no other way...」
 
 「何が無いと云う！　敵の手中に落ちたなら、自害して果てろとまではあえて言うまい――だが一本の節義は通して当然！」
-
+「What do you mean there was none?! If you've fallen into the hands of the enemy, I will not tell you to commit suicide to end it all―― However, you must always stick to your principle!」
 
 「劒冑を鍛えて献上する者がおろうか?　こやつなど……もはや妻でもなければ一族とも思わぬわ!」
-
+「Who would just forge themselves into a Tsurugi to serve the enemy? Such a person... is no longer my wife nor my family!
 
 「……村正。　ぬしの妻はな」
-
+「...Muramasa. Your wife」
 
 「北朝に囚われた後、別の蝦夷と娶わされ、子を産まされたのだ」
-
+「After she was captured by the North, she was married to another Emishi, and she was made to bore his child.」
 
 「――――」
 
 
 「そして、その子を盾に取られた。　子の命が惜しくば、劒冑を打て……とな」
-
+「And then, that child was taken as a shield. If you value your child's life, forge a Tsurugi...」
 
 「目の前の子か、遠くの家族か……。　悩んだすえ、ぬしの妻は我が身を鉄としたのだ」
-
+「The child in front of you, or a family far away... After much deliberations, your wife decided to turn her body into iron.」
 
 「……恨むまいぞ……」
-
+「...I would not hate her...」
 
 「………………」
 
 
 「村正どの……」
-
+「Muramasa-dono...」
 
 「……浦夢殿か。　傷に障る、もう休まれよ」
-
+「...It's Uramu-dono. You will make your wounds worse, rest.」
 
 「私は平気です。　村正どのこそ、お体を大事に」
-
+「I am fine. Muramasa-dono as well, please take care of your body.」
 
 「お酒の飲み過ぎ、体の毒です」
-
+「Drinking too much alcohol, is a poison for the body.」
 
 「…………」
 
 
 「北朝が、憎いですか」
-
+「Do you hate the North?」
 
 「憎い……」
-
+「I hate them...」
 
 「何という……卑劣な……！　外道め……賊どもめ」
-
+「Such despicable... outcasts... Bandits!」
 
 「許せぬ……！」
-
+「Unforgivable...!」
 
 「けれど、南朝も同じです」
-
+「However, the South is no different.」
 
 「な、何を?」
-
+「W-what?」
 
 「同じくらい汚いこと、たくさんしてます。　いえ、もっと卑怯なことも……」
-
+「They've done just as many filthy things. No, they've done even more dastardly deeds...」
 
 「馬鹿なっ！」
-
+「Impossible!」
 
 「本当です。　私、南朝の陰の働きに関わること多かったので、良く知っています」
-
+「It is the truth. I have numerous experiences working for the South in the shadows, so I know it well.」
 
 「陰謀の犠牲になった人、とても多いです。　そのほとんどは、何の罪もない、無力な民たちでした」
-
+「
 
 「…………」
 
