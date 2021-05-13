@@ -692,7 +692,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「...What is this? It looks like some sort of symbol.」
 
 「天竺の数字です」
-「These are foreign numbers.」
+「These are Indian numbers.」
 
 「数字？　これが？」
 「Numbers? This?」
@@ -1501,142 +1501,142 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「It is the truth. I have numerous experiences working for the South in the shadows, so I know it well.」
 
 「陰謀の犠牲になった人、とても多いです。　そのほとんどは、何の罪もない、無力な民たちでした」
-「
+「There were many who fell victim to their schemes. Most who did, were all innocent and helpless people.」
 
 「…………」
 
 
 「まさか……有り得ぬ。　楠木様たちが、そのような真似をなさる筈が……」
-
+「No... that's impossible. Kusunoki-sama and the others would never do such things...」
 
 「吉野の方々、悪い人ではありません。　皆、立派な方たちです」
-
+「The people of Yoshino, they are not bad people. They are all splendid people.
 
 「けれど、前にも言いました。　今は時代が悪いのです」
-
+「However, I have said this before. These times are evil.」
 
 「善き人々が、悪しき事をする世なのです」
-
+「This is a world, where the good people are made to do bad things.」
 
 「…………」
 
 
 「では、うてはどうすれば良いのだ……」
-
+「Then what do you suggest would be the best choice...」
 
 「……」
 
 
 「誰が味方なのかわからぬ。　誰が敵なのかもわからぬ」
-
+「I don't know who are my allies. I also don't know who are my enemies.」
 
 「何が正しいのかわからぬ。　何が誤りなのかもわからぬ」
-
+「I don't know what is right. I also don't know what is wrong.」
 
 「何を信じれば良いのかわからぬ……！」
-
+「I don't even know what I should believe anymore...!」
 
 「村正どの……」
-
+「Muramasa-dono...」
 
 「うては……　何のために……劒冑を打つのだ……」
-
+「For what purpose... am I... forging the Tsurugi...」
 
 「……」
 
 
 「悪しき世を正すため……　そうではないですか？」
-
+「To correct this wrong world... is that not why?」
 
 「その道筋がわからんのだ！　南朝の大義さえ信じられぬとあっては……」
-
+「I don't know how to get there! If you can't even believe in the South's cause...」
 
 「村正どの。　今からする話を、よく聞いてください」
-
+「Muramasa-dono. What I am about to say, please listen to it carefully.」
 
 「あなたにお教えしなくてはならないこと、実はあと一つ残っていました。　それを、これからお話しします」
-
+「Actually, there is still one thing that I have yet to teach you. I will tell you about that now.」
 
 「……？」
 
 
 「私の本当の名前……　にこやふらめう、云います」
-
+「My real name... it is Nicolas Flamel.」
 
 「にこ……？」
-
+「Nico...?」
 
 「呼びにくいでしょう。浦夢で構いません。　私の生まれた国とこの大和は、言葉が全く違うのです」
-
+「I am sure it is hard to pronounce. You can just call me Uramu. The country where I was born, the language spoken there is completely different than that of Japan.」
 
 「遠く遠く、離れていますから」
-
+「IT is because it is very far, far away.」
 
 「……浦夢殿は、天竺のお人だったのか？」
-
+「...So Uramu-dono was someone from India?」
 
 「いいえ。　天竺の、更にずっと向こうです」
-
+「No. I come from a place much further than India.」
 
 「西方浄土より参られたと……？」
-
+「So you come from the paradise land of the west?」
 
 「そうですね……西の果ての国です。　けれど、浄土ではありません」
-
+「You may say so... It is a country in the far west. However, it is not a paradise.」
 
 「私の生まれた国、戦争ばかりでした。　今の大和と同じです」
-
+「The country where I was born, it was filled with wars. It is the same with the Japan of now.」
 
 「だから私は、平和な楽園を求めて、旅に出ました」
-
+「Because of that, I had wished to find paradise, and thus set out on a journey.」
 
 「……」
 
 
 「でもそんな国、何処にもありませんでした。　どの国も短い平和と長い争いを繰り返していました」
-
+「But such a country, it didn't exist anywhere. Every country was stuck in a loop of having a short period of peace coupled with long lasting strife.」
 
 「私は平和な世界を探して彷徨うより、世界を平和にする方法を求めるべきだと、考えるようになりました。　そうして……あなたに出会ったのです」
-
+「I began to think that instead of wandering around trying to find a peaceful country, I should instead try to find a way to make the world peaceful. And then... I met you.」
 
 「……うては一介の鍛冶師。　しかも今は、道を見失っている」
-
+「...I am merely a blacksmith. Moreover, one who has lost his way.」
 
 「浦夢殿の力にはなれぬ」
-
+「I can not be of help to Uramu-dono.」
 
 「いいえ。　そんなあなたでなくてはいけません」
-
+「No. It has to be you.」
 
 「劒冑こそ神の子……。　奇跡の欠片を宿す聖別の者です」
-
+「A Tsurugi is a child of God... It is a consecrated being that contains fragments of miracles.」
 
 「最も貴き劒冑の生誕が、人の原罪を雪ぐ。　神は万民を赦し、地を楽園にするでしょう」
-
+「The birth of the most exalted Tsurugi will rinse out the sins of man. God will forgive all people, and turn the earth into paradise.」
 
 「そう……。　正しき心を持つ鍛冶師が、真理を求めて鎚を振るう時、苦しみの時代は終わりを告げるに違いないのです！」
-
+「Yes... When the blacksmith with a just heart swings his hammer in pursuit of the truth, if will no doubt signal the end of the age of suffering.」
 
 「……？　済まぬが、わからぬ……」
-
+「...? Forgive me, but I don't understand...」
 
 「うてには……真理など……」
-
+「I... don't know any thing about truth...」
 
 「それをお教えします。　村正どの、どうか聞いてください」
-
+「I will teach you. Muramasa-dono, please listen to what I say.」
 
 「そして私の理想を叶えてください……」
-
+「Please make my ideals come true...」
 
 「…………」
 
 
 「遠い昔……　ぐらえきあに、えんぺどくれすという賢者がいました」
-
+「A long time ago... in a place named Greece, there was a wise man named Empledocles.」
 
 「宇宙の理を解いた人物です。　人間の歴史上、真の叡智の持ち主と呼べるのは彼一人しかいません」
-
+「He was a person who solved 
 
 「宇宙の……？　それは以前にお伺いした、あの話のことであろうか」
 
