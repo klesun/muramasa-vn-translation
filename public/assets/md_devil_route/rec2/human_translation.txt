@@ -797,7 +797,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「Three powers?」
 
 「この宇宙の根源的なちからです。　私はこれを、磁気、辰気、創気と呼びます」
-「This universe's primordial powers. I call these magnetism, gravity, and chemical bonding.
+「This universe's primordial powers. I call these magnetism, gravity, and chemical bonding.」
 
 「…………」
 
@@ -1636,142 +1636,142 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「A long time ago... in a place named Greece, there was a wise man named Empledocles.」
 
 「宇宙の理を解いた人物です。　人間の歴史上、真の叡智の持ち主と呼べるのは彼一人しかいません」
-「He was a person who solved 
+「He was a person who solved the mystery of the universe. In human history, he is the only one who can be called the owner of true wisdom.」
 
 「宇宙の……？　それは以前にお伺いした、あの話のことであろうか」
-
+「The universe...? Are you talking about that topic that I asked about back then?」
 
 「この世には磁気、辰気、創気の三つの源気があるという――」
-
+「There are 3 primordial powers in this world: magnetism, gravity, and chemical bonding――」
 
 「それは、えんぺどくれすの考えを私なりに進めてみたものです。　物理には近付いているはずですが……真理からは離れてしまいました」
-
+「They are ideas of Empedocles which I tried to advance in my own way. I am getting closer to understanding the law of physics... but I have gone further away from the truth.」
 
 「……？」
 
 
 「彼はこう言いました。　世界は四種の元素と二種の力で構成されている……」
-
+「Emepedocles once said. The world is made out of 4 elements and 2 powers...」
 
 「〝地〟〝陽〟〝海〟〝空〟の四つが〝愛〟の力で結びつき、また〝争い〟の力で別れることによって、世の万象が顕れる。　そう説いたのです」
-
+「"Earth", "Fire", "Water", "Air", these four elements are brought into union by the power of "Love". and are parted from one another by the power of "Strife", thus allowing all things in the world to materialize. That was what he explained.」
 
 「例えば人間は、四種類の元素がほぼ均等に〝愛〟で結ばれることから生まれます。　そして〝愛〟よりも強い〝争い〟の力――怪我や病気――に襲われると死にます」
-
+「For example, human beings are born from the four elements being united with equal powers of "Love". And when "Love" is attacked by "Strife" of a greater power―― such as injuries or death―― we pass away.」
 
 「ふむ……」
-
+「Hmm...」
 
 「この理論で、世のあらゆる物事が説明できます」
-
+「With this theory, it is possible to explain everything in the world.」
 
 「ならば浦夢殿、正義とはいかなるものか？　また、邪悪とは？」
-
+「Then Uramu-dono, what exactly is justice? And what exactly is injustice?」
 
 「正義と邪悪。　善と悪ですか」
-
+「Justice and injustice. Good and evil huh...」
 
 「うむ。　是非とも教えて頂きたい」
-
+「Indeed. By all means please teach me.」
 
 「……ありません」
-
+「...There is none.」
 
 「何？」
-
+「What?」
 
 「そんなものは、存在しないのです」
-
+「Those kinds of things, they do not exist.」
 
 「な、無いはずはなかろう！」
-
+「T-That can't be!」
 
 「……そうですね。　実質は何もありませんが、単なる物の見方としてなら、あるとも言えます」
-
+「...True. It is not tangible, but if you consider it as a way of looking at things, then you can say that it exists.」
 
 「見方？」
-
+「Way of looking at things?」
 
 「村正どの。　今、私はここに一つの世界を作りました」
-
+「Muramasa-dono. Right now, I have created a world right here.」
 
 「ふらすこに塩と水を入れてかき混ぜ、蓋をしました。　この閉じた世界には、塩水と空気しかありません」
-
+「I have stirred salt into the water in the flask, and I have covered it. In this closed off world, there is only salt water and air.」
 
 「……」
 
 
 「これを、下から火で熱すると」
-
+「If this is heated from below with fire,」
 
 「〝争い〟の力が働きます。　結ばれていた塩と水が別れ、水は水蒸気となって空気と混ざり、塩は結晶に戻ります」
-
+「The power of "Strife" will come into play. The salt and water that were mixed together will seperate, the water will turn into water vapour and be one with the air, and the salt will return to its crystallized form.」
 
 「うむ……」
-
+「I see...」
 
 「さて。　善と悪は、何処にあったでしょうか……」
-
+「Now then. The good and evil, where were they?」
 
 「……」
 
 
 「我々の世界に置き換えて、考えてみてください」
-
+「Please think about it in terms of our world.」
 
 「……塩と水を引き離した〝争い〟の力……　火が、悪なのであろうか？」
-
+「...The power of "Strife" that seperated the salt and the water... The fire, would that be the evil?」
 
 「そうですね。　人のつながり、絆は尊いものです。これを引き離すのは罪悪だといえるでしょう……」
-
+「That's true. Relationships between people, bonds are a precious thing. To pull them apart would be a crime...」
 
 「塩と水を塩水にしていた〝愛〟が正義で、引き離した火が邪悪か……」
-
+「So the power of "Love" that combines the salt and water into salt water is justice, and the fire that pulled them apart would be injustice...」
 
 「しかし村正どの。　よく見てください」
-
+「But Muramasa-dono. Please look carefully.」
 
 「塩と水は別れましたが、新たに水と空気が混ざり合い、靄が生まれています」
-
+「Although the salt and water have seperated, the water mixed with the air to produce mist.」
 
 「……むぅ？」
-
+「...Hmm?」
 
 「水と空気の間に〝愛〟が働いたのです。　ということは……火は善でもあったのです」
-
+「The power of "Love" is coming into play between the water and air. This means that... the fire was also good.」
 
 「…………」
 
 
 「今度はこの世界を冷やしてみましょうか」
-
+「This time let us try to cool this world.」
 
 「靄を冷やすと……　水は水滴となって落ちます」
-
+「If the mist is cooled... it will turn back into water and fall as droplets.」
 
 「水滴は塩を溶かし、再び塩水になります」
-
+「The water droplets will dissolve the salt, and then it will once again become salt water.」
 
 「……」
 
 
 「塩水を生んだのですから、冷やしたのは善の行いですね。　しかし靄を分解してしまったので、悪でもあります」
-
+「It gave birth to salt water, so the cold is doing a good deed. But since it also seperated the water from the mist, it is evil.」
 
 「ぬ……むぅ」
-
+「Nghh...」
 
 「村正どの。わかりましたか」
-
+「Muramasa-dono. Have you understood?」
 
 「善と悪は――」
-
+「Good and evil――」
 
 「……裏表でしかない、と？」
-
+「...they are two sides of the same coin?」
 
 「そうです。　ある行いを、特定の視点から見た時に善と呼び、逆方向から見た時は悪と呼ぶ」
-
+「Exactly. 
 
 「それだけのことに過ぎないのです」
 
