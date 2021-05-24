@@ -2119,13 +2119,13 @@ That's how much people amounted to. You can sense their presence around you, but
 「...Yes...」
 
 家門断絶。　中世の価値観においてその一事がどれほどの重みを持つのか。現代人には知る由もないことだ。
-The severance of a clan. The people of today have no way of knowing how much weight such an event had according to the values of those living in the Middle Ages.
+The severance of a clan. The people of today have no way of knowing how much weight such an event would have to those living in the Middle Ages.
 
 ただ、村正の両手の震えと……　白砂の上へしたたり落ちる雫から、推し量るしかなかった。
 However, I can only guess from Muramasa's trembling hands... and the droplets that fell unto the white sand.
 
 全ては罪のため。招いた災いのため。
-Everything was for that sin. For the calamity that was brought forth.
+Everything was for that sin. For the calamity that was brought forth. --> fix later
 
 俺は知った。　南北朝時代最後の惨劇――そこに秘められた真実を。
 I knew. The last tragedy that happened during the Nanboku-chō period―― and the truth behind it.
@@ -2134,31 +2134,31 @@ I knew. The last tragedy that happened during the Nanboku-chō period―― and 
 A single incident has put everything out of order.
 
 始祖村正を贈られた北朝軍の主将は、当時、堅牢な権力基盤を有しているとは言い難い状況にあった。　支配者というよりも、諸将の利害調整役という立場に近かった。
-
+The general of the North who was bestowed with the Founder Muramasa was in a situation where he could not be said to have a solid power base. Rather than a ruler, he was closer to a coordinator of interests among the generals.
 
 政治の才に優れた実弟の力を借りて、漸う軍をまとめていたのである。　些細な情勢の変化、利害関係の変動から敵意を買い、昨日までの部下に盾突かれることも一切ではなかった。
-
+With the help of his younger brother who had an aptitude for politics, he was finally able to organize an army. Taking advantage of the slight changes in the current state of affairs, buying off his enemies according to the change in interests, and all that without causing a rebellion from his subordinates.
 
 それは彼が村正を手に入れてまだ程ない頃のことである。　出陣前の慌しさに紛れて刺客が主将の側まで近付き、不意に襲い掛かった。
-
+This was not long after he had his hands on Muramasa. In the hustle and bustle before going into battle, an assassin approached the general and unexpectedly attacked him.
 
 戦慣れした主将は反射的に抜刀し、刺客を斬り――　殺してしまったのだ。
-
+The battle hardened general reflexively drew his sword and slashed the assasin―― thus killing him.
 
 村正の戒律が持つ拘束力は絶対である。　敵を殺した彼は自分の意思によらずして刃の向きを返し、傍らに立つ味方を斬り伏せた。
-
+The binding force of Muramasa's precept was absolute. Having killed his enemy, he unwillingly turned his blade towards his ally who stood beside him, and took his life.
 
 公私両面で彼を支えてくれていた、最愛の弟を。
-
+It was his beloved brother who had supported him in both official and personal affairs. 
 
 ……その日から、北朝軍は狂気の集団と化した。　発狂した主将が〝精神同調〟の波を無差別に放散し、全軍に己が狂気を蔓延させたのである。
-
+...Ever since that day, the Northern army turned into a group filled with madness. The mad general radiated the waves of "spirit alignment" without discrimination, and thus spreading his madness throughout the whole army.
 
 狂将率いる狂兵の群れを迎えて――　二世村正を持つ南朝方の主将は、狂気の『波』から味方を守るため、先んじて全軍を自分の精神影響下へ置くよりほかに手立てがなくなった。
-
+In the face of an army spearheaded by a mad general―― the leader of the Southern army who had the second-generation Muramasa, in order to protect his allies from the "waves" of madness, had no choice but to preemptively place the entire army under his mental influence.
 
 かくして前例のない地獄的な闘争が地上に発現する。
-
+Thus, an unprecedented hellish struggle will emerge on earth.
 
 一方は、手当たり次第何もかも破壊し殺し尽くさんとする魔獣の群れ。　一方は、敵兵を一人殺す都度、肩並べて戦う友をも一人ずつ殺してゆく悲愴の軍団。
 
@@ -2176,16 +2176,16 @@ A single incident has put everything out of order.
 
 
 ある法師の嘆弁である。
-
+This is the lament of a Buddhist priest.
 
 「村正よ……」
-
+「Muramasa...」
 
 「……」
 
 
 「そなたら一門に悪心がなかったことは良くわかっている。　乱世を収めたかったのであろう……」
-
+「I am well aware that you and your clan did not have any evil intentions. You all must have wanted to bring a close to these turbulent times...」
 
 「元を糺せば、民の苦難も顧みず戦を続けた朕の罪こそ重い……。　もそっと早く、北朝と和しておれば、このような仕儀とはならなんだ」
 
