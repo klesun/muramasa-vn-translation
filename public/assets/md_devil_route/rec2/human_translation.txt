@@ -2122,10 +2122,10 @@ That's how much people amounted to. You can sense their presence around you, but
 The severance of a clan. The people of today have no way of knowing how much weight such an event would have to those living in the Middle Ages.
 
 ただ、村正の両手の震えと……　白砂の上へしたたり落ちる雫から、推し量るしかなかった。
-However, I can only guess from Muramasa's trembling hands... and the droplets that fell unto the white sand.
+However, from Muramasa's trembling hands... and the droplets that fell unto the white sand, I can only guess.
 
 全ては罪のため。招いた災いのため。
-Everything was for that sin. For the calamity that was brought forth. --> fix later
+Everything was to right that sin. For the calamity that was brought forth. --> hmm maybe 
 
 俺は知った。　南北朝時代最後の惨劇――そこに秘められた真実を。
 I knew. The last tragedy that happened during the Nanboku-chō period―― and the truth behind it.
@@ -2137,10 +2137,10 @@ A single incident has put everything out of order.
 The general of the North who was bestowed with the Founder Muramasa was in a situation where he could not be said to have a solid power base. Rather than a ruler, he was closer to a coordinator of interests among the generals.
 
 政治の才に優れた実弟の力を借りて、漸う軍をまとめていたのである。　些細な情勢の変化、利害関係の変動から敵意を買い、昨日までの部下に盾突かれることも一切ではなかった。
-With the help of his younger brother who had an aptitude for politics, he was finally able to organize an army. Taking advantage of the slight changes in the current state of affairs, buying off his enemies according to the change in interests, and all that without causing a rebellion from his subordinates.
+With the help of his younger brother who had an aptitude for politics, he was finally able to organize an army. He took advantage of the slight changes in the current state of affairs, bought off his enemies according to the change in interests, and all that without causing a rebellion from his subordinates.
 
 それは彼が村正を手に入れてまだ程ない頃のことである。　出陣前の慌しさに紛れて刺客が主将の側まで近付き、不意に襲い掛かった。
-This was not long after he had his hands on Muramasa. In the hustle and bustle before going into battle, an assassin approached the general and unexpectedly attacked him.
+It was not long after he had his hands on Muramasa. In the hustle and bustle before going into battle, an assassin approached the general and unexpectedly attacked him.
 
 戦慣れした主将は反射的に抜刀し、刺客を斬り――　殺してしまったのだ。
 The battle hardened general reflexively drew his sword and slashed the assasin―― thus killing him.
@@ -2149,34 +2149,36 @@ The battle hardened general reflexively drew his sword and slashed the assasin�
 The binding force of Muramasa's precept was absolute. Having killed his enemy, he unwillingly turned his blade towards his ally who stood beside him, and took his life.
 
 公私両面で彼を支えてくれていた、最愛の弟を。
-It was his beloved brother who had supported him in both official and personal affairs. 
+It was his beloved brother who had supported him in both his official and personal affairs. 
 
 ……その日から、北朝軍は狂気の集団と化した。　発狂した主将が〝精神同調〟の波を無差別に放散し、全軍に己が狂気を蔓延させたのである。
 ...Ever since that day, the Northern army turned into a group filled with madness. The mad general radiated the waves of "spirit alignment" without discrimination, and thus spreading his madness throughout the whole army.
 
 狂将率いる狂兵の群れを迎えて――　二世村正を持つ南朝方の主将は、狂気の『波』から味方を守るため、先んじて全軍を自分の精神影響下へ置くよりほかに手立てがなくなった。
-In the face of an army spearheaded by a mad general―― the leader of the Southern army who had the second-generation Muramasa, in order to protect his allies from the "waves" of madness, had no choice but to preemptively place the entire army under his mental influence.
+In the face of an army spearheaded by a mad general―― the commander of the Southern army who had the second-generation Muramasa, in order to protect his allies from the "waves" of madness, had no choice but to preemptively place the entire army under his mental influence.
 
 かくして前例のない地獄的な闘争が地上に発現する。
-Thus, an unprecedented hellish struggle will emerge on earth.
+Thus, an unprecedented hellish struggle emerged on earth.
 
 一方は、手当たり次第何もかも破壊し殺し尽くさんとする魔獣の群れ。　一方は、敵兵を一人殺す都度、肩並べて戦う友をも一人ずつ殺してゆく悲愴の軍団。
-
+On one side was a pack of beasts who indescriminately destroys and kills everything until nothing was left. On the other side was a pitiful army that kills its own allies for every enemy that they kill.
 
 末世の相そのものであった。　この世において人間の生命は秋の田の稲穂のように、無造作に刈り取られ、三途の川の向こうへ流された。
-
+It was truly the Latter Days of the Dharma itself. In this world, human life is like the ears of rice in the autumn fields, easily harvested and swept away to the other side of the Sanzu River.
+(TL/N: Latter Days of the Dharma --> 2000 years after the passing of Buddha. An age where the teaching of Buddhism are lost, and the world if filled with conflict.)
 
 どれほどの人が死に、どれほどの村が滅んだか……　正確に知る者など誰もいない。知ろうとする意欲を持つ者もいなかったろう。
-
+No one knew exactly how many people have died, or how many villages have been destroyed... No one had the desire to find out. 
 
 乱の最中、人々はただ生き延びるために必死であり、乱が果てた後は、世間の惨状にただ呆然とするばかりであった。
-
+In the middle of war, people were just desperately trying to survive, and once the war was over, they will be stunned by the disastrous scene before them. 
 
 神懸かりの力を揮った始祖村正と北朝主将に南朝の将とその麾下十三騎が挑み、遂にこれを討ち果たして乱の源を断った時――曰く「いまや大和では人よりも、死肉を食らう犬猫の方が栄えている」……。
-
+The commander of the South and his 13 cavalrymen faced off against the Northern general and the Founder Muramasa who wielded divine power. When the source of the war has finally been cut off by the North's defeat―― it was said 
+"in Japan of that time, dogs and cats that feast on dead flesh were more prosperous than people"...
 
 ある法師の嘆弁である。
-This is the lament of a Buddhist priest.
+The lament of Buddhist priest.
 
 「村正よ……」
 「Muramasa...」
@@ -2185,64 +2187,64 @@ This is the lament of a Buddhist priest.
 
 
 「そなたら一門に悪心がなかったことは良くわかっている。　乱世を収めたかったのであろう……」
-「I am well aware that you and your clan did not have any evil intentions. You all must have wanted to bring a close to these turbulent times...」
+「We are well aware that you and your clan did not have any evil intentions. You all must have wanted to bring a close to these turbulent times...」
 
 「元を糺せば、民の苦難も顧みず戦を続けた朕の罪こそ重い……。　もそっと早く、北朝と和しておれば、このような仕儀とはならなんだ」
-
+「In actuality, it is Our sin that is heavy, We had continued the war without regard for the suffering of Our people... If We had made peace with the North ealier, things would not have come to such an outcome.」
 
 「…………」
 
 
 「いずれ朕の罪は天の罰するところとなろう」
-
+「Sooner or later We will be punished by the heavens for Our sins.」
 
 「が……それでも村正よ、朕は社稷を預かる者として、国土に災禍をもたらしたそなたらを許すわけにはゆかぬ。　わけてもそなたの祖父と母は……」
-
+「But even so... Muramasa, as someone who is in charge of this nation, We cannot forgive you for the calamity that you have brought upon the land. Especially your grandfather and mother...」
 
 「始祖村正は粉々に砕かれ、既に跡形もない。　楠木の二世村正は深く傷ついたが……まだ滅びておらぬ……」
-
+「Founder Muramasa have been broken into many pieces, and no trace was left. Kusunoki's second-generation Muramasa was critically damaged... but it is not yet destroyed...」
 
 「これを……このままにはしておけぬ」
-
+「Things... cannot be left this way.」
 
 「……！」
 
 
 「近いうちに砕き、鋳潰す……。　さよう心得よ」
-
+「In the near future, it will be destroyed and melted down... Be aware of this.」
 
 「……お、お待ちを……　陛下！」
-
+「...P-Please wait... Your Majesty!」
 
 「……」
 
 
 「どうか……その儀ばかりは！」
-
+「Please... anything but that!」
 
 「二世村正を潰すなと云うか」
-
+「I am not saying second-generation Muramasa should not be destroyed.」
 
 「蝦夷にとり、劒冑となるは本望。　戦場にて斃され、土に朽ちるもまた本望」
-
+「As an Emishi, becoming a Tsurugi is our long cherished ambition. To fall on the battlefield, to decay and return to earth, it is also our long cherished ambition.」
 
 「さ、されど……　ひとたび劒冑となりながら、戦なき場所で鉄屑に戻され棄てられるは――蝦夷として、鍛冶師として、死にも堕獄にも勝る痛哭！」
-
+「B-Be that as it may... once we have become a Tsurugi, for us to be thrown away and turned into scraps of iron in a place other than a battlefield―― as an Emishi, as a blacksmith, that is a pain even worse than death or falling into hell!」
 
 「……そうか。　そうであったのう……」
-
+「...I see. I see...」
 
 「だが戦で葬るには、今一度、あの恐ろしき劒冑を誰かに装甲させねばならぬ……。　さようなことを、朕が許せると思うてか」
-
+「But for it to be buried in the battle, someone must once again, equip that terryfying Tsurugi... Did you think We will let that happen?」
 
 「…………」
 
 
 「武の器は戦場にて朽ちねばならぬもの……　それが叶わぬならいっそ封印され、永劫の眠りにつき、忘れ去られるを望むものにございます」
-
+「
 
 「どうか、陛下……！　この首を献じて、お願い申し上げます」
-
+「Please, Your Majesty...! 
 
 「……」
 
