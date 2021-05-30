@@ -2454,61 +2454,61 @@ Coordination between the Tsurugi and its wielder.
 I've been thinking about that old man's words frequently these days, and I wonder if it's because some unconscious part of me has been trying to suggest that fact.
 
 「しかし、それだけ装甲を重ねているにしては……御堂、なれはあまり劔冑のことを信頼しておらぬようだな？」
-「
+「But despite having so many armours... Midou, you don't seem to have faith in Tsurugis, do you?」
 
 「昨日からなれとあの赤い劔冑を見ておると、どうも……な。　どこか、うまく噛み合っておらぬ気がするのだ」
-
+「I've been looking at that red Tsurugi with you since yesterday, and well... I feel like you both don't mesh well in some way.」
 
 「劔冑は道具……それは、事実。　しかし魂を持つ道具であることを忘れてはならんのではないか？」
-
+「Tsurugis are tools... that is a fact. But we shouldn't forget that they are tools with a soul, no?」
 
 （弥源太老）
-
+（Old Yagenta)
 
 あの時は、貴重な忠告を突っ撥ねたのだった。　心が有ろうが無かろうが道具は道具、使い手の意思のみで――全てを使い手の責任において扱いきるべきものだ、と。
-
+At that time, I brushed off his valuable advice. I told him that whether or not it has a heart, a tool is a tool, it is only a reflection of its user's will―― Its use should completely be the responsibility of its master.
 
 今とてその存念が何か変化したわけではない。　劒冑を使う責任、使った結果に対する責任は仕手が一人で担うもので、誰とも分かち合えないし、分かち合ってはならない。そう思う。
-
+It's not that I have changed my mind. The responsibility of using a Tsurugi, and the responsibility in regards to the results that came for using it should be shouldered by its user alone, it is not something that can or should be shared with anyone else.
 
 だが……
-
+However...
 
 （俺は村正の事をまるで知らなかった）
-
+（I didn't know anything about Muramasa.)
 
 善悪相殺。　あの奇妙な戒律の意味。
-
+Counterbalancing good and evil. The meaning of that odd precept.
 
 知らなかったのは、村正が語ろうとしなかったからでもある。　しかし、俺の側で積極的に知ろうとする意思を持たなかった事も理由である。
-
+The reason I didn't know anything was because Muramasa did not talk about it. However, it was also because I didn't have the will to actively find out.
 
 ただ、呪わしい劒冑なのだと思っていた。　そう決めつけ、忌むことで――
-
+I just thought that it was an accursed Tsurugi. I arbitrarily decided so, and abhorred it――
 
 俺の罪も、光の罪も……　何もかも、この妖甲に祟られた所為なのだと。
-My and Hikaru's sins... are all the result of being haunted by this demon armor, that's what I thought.
+My sins, and that of Hikaru... everything, they were all the results of being haunted by this demon armor, was what I thought.
 
 だが青江貞次との戦闘が、秘められた真実を教えてくれた。　村正の戒律は、世と人への悪意から付加されたものではない――
-
+But the battle with Sadaji Aoe taught me a hidden truth.　Muramasa's precepts were not added out of malice for the world and people――
 
 むしろ乱世を正さんとする思いからだった。　それが、完全に裏目に出……南北朝の時代をこの上なく凄惨な形で閉じさせる事になった。
-
+Rather, it was out of a desire to correct the turbulent times. But it completely backfired... and the era of the Northern and Southern courts ended in the most horrific way possible.
 
 あの災厄の再現が今、銀星号によって為されている。　　　だから、なのだ。
-
+The calamity is now being reenacted by the Silver Star. That is why.
 
 （……村正）
-
+（...Muramasa)
 
 だから村正は劒冑の身でありながら、仕手に責任を委ねず、自分の責任において戦おうとしていたのだ。　一族の罪を、自分の手で贖おうと。
-
+That is why despite being a Tsurugi, Muramasa did not leave the responsibility to her wielder, but is trying to fight on her own responsibility. She wanted to atone for the sins that her clan commited with her own hands.
 
 そうして俺達は互いに背を向け合った。　互いを見ないままに、突き詰めれば自分の意思と力のみで戦おうとしていた。
-
+And so we both turned our backs on each other. Without caring for each other, we wanted to fight with our own power. 
 
 ……銀星号に勝てる道理がない。
-
+...There was no way we could've won against the Silver Star.
 
 責任意識のためであろうと、心の逃げ場を作るためであろうと、互いに認め合わない仕手と劒冑が武者としてまともに働けるかと問えば、答えは否だ。　何故なら両者の関係はまず相互承認から始まる。
 
@@ -2532,10 +2532,10 @@ My and Hikaru's sins... are all the result of being haunted by this demon armor,
 
 
 「戻ったか」
-
+「So you're back.」
 
 《ええ》
-
+《Yes.》
 
 やおら、天井に影が這う。　赤い蜘蛛が逆しまに、俺の頭上へ現れていた。
 
@@ -2547,7 +2547,7 @@ My and Hikaru's sins... are all the result of being haunted by this demon armor,
 
 
 「どうだった」
-
+「How was it?」
 
 《何だか微妙ね……。　かすかにあるような、錯覚のような》
 
@@ -2556,16 +2556,16 @@ My and Hikaru's sins... are all the result of being haunted by this demon armor,
 
 
 「……そうか」
-
+「...I see.」
 
 「…………」
 
 
 《？　……なに？》
-
+《? ...What is it?》
 
 「いや」
-
+「It's nothing.」
 
 深紅の甲鉄には所々、泥やら砂やらが跳ねていた。　人目を避けて駆け回ったための汚れだろう。
 
@@ -2574,10 +2574,10 @@ My and Hikaru's sins... are all the result of being haunted by this demon armor,
 
 
 が。
-
+However. 
 
 （武人ならば）
-
+（If you are a warrior.）
 
 正調の武人ならば、我が武装の手入れを怠るものだろうか。　否、常に入念な整備を心掛けて当然であろう。
 
@@ -2586,25 +2586,25 @@ My and Hikaru's sins... are all the result of being haunted by this demon armor,
 
 
 今まで考えもしなかったが……　やはり、そういうものであろう。
-
+I've never thought about it until now... As I thought, it was like that.
 
 「村正。降りて来い」
-
+「Muramasa. Come down here.」
 
 《？》
 
 
 《どうしたのよ？》
-
+《What's wrong?》
 
 「……」
 
 
 《……えっ？》
-
+《...Huh?》
 
 《ちょっと――》
-
+《Wait――》
 
 丁度、手近に布巾があった。　右手でそれを取り、左手で村正を引き寄せる。
 
@@ -2622,19 +2622,19 @@ My and Hikaru's sins... are all the result of being haunted by this demon armor,
 
 
 《きゃーーーーーーーーーー!》
-
+《Kyaaーーーーーーーーーー!》
 
 「……何だ」
-
+「...What?」
 
 《何だじゃないでしょっ！　どっ、どっ、どこ触ってるの!》
-
+《What do you mean "what"?! W-W-Where are you touching?!》
 
 「お前の甲鉄を……」
-
+「Your armour, I was going to...」
 
 《いやーー！　好きものっ、へんたい！》
-
+《Noーー！ You pervert!》
 
 「……」
 
@@ -2643,10 +2643,10 @@ My and Hikaru's sins... are all the result of being haunted by this demon armor,
 
 
 《はなしてよー！》
-
+《Let me goー！》
 
 「落ち着け」
-
+「Calm down.」
 
 《ちょっ、そんなことされたら……　およめいけなくなるっ》
 
