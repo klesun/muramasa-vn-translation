@@ -2511,22 +2511,22 @@ And so we both turned our backs on each other. Without caring for each other, we
 ...There was no way we could've won against the Silver Star.
 
 責任意識のためであろうと、心の逃げ場を作るためであろうと、互いに認め合わない仕手と劒冑が武者としてまともに働けるかと問えば、答えは否だ。　何故なら両者の関係はまず相互承認から始まる。
-
+Whether it is because of a sense of responsibility or to create a place for one's heart to take refuge, when it comes to the question of whether or not a Tsurugi and its wielder who don't approve of each other could work together, the answer would be "no". That's because everything could only begin when the both of them have acknowledged each other. 
 
 互いに資質を問い、認め合う事で、縁が結ばれ武者となる。　これを古来、帯刀の儀と云う。
-
+By getting to know each other's nature and recognizing each other, a bond will be formed, and one will become a musha. Since ancient times, this has been said to be the ceremony of equipping a tsurugi.
 
 俺と村正は二年前、極めて切迫した状況下で略式に済ませたきりだった。　あの後、改めて正式な儀礼を行ってなどいない。俺が望まなかったし、村正も欲する様子は見せなかった。
-
+Two years ago, Muramasa and I had only done an informal ceremony due to very urgent circumstances. We never did a formal ceremony after that. I didn't wish to do it, and Muramasa didn't show any signs of wanting to do so either.
 
 つまり俺と村正は、実は武者として話にならぬ欠陥の持ち主なのだ。　それをこれまでは、問題にもならぬ事、鍛錬で補いがつく程度の事だと思い捨ててきた。
-
+In short, Muramasa and I both have flaws that makes us unworthy of being a musha. Up until now, we dismissed it as something that will not pose a problem, thinking that it is something that can be compensated with training.
 
 だが……もはや考えを改めるべき時か。　本当に銀星号を倒すつもりがあるのならば。
-
+However... it is time to change the way we think. If we truly want to defeat the Silver Star that is.
 
 一人と一領、ではなく、一騎たらんとす。　……そしてそれは、これまでのような、俺の意思に村正を屈従させようというやり方では果たされまい。
-
+Not as one person and one set of armour, but as one warrior... And this is something that can't be achieved by trying to bend Muramasa to my will as I've done so far.
 
 「……」
 
@@ -2538,22 +2538,22 @@ And so we both turned our backs on each other. Without caring for each other, we
 《Yes.》
 
 やおら、天井に影が這う。　赤い蜘蛛が逆しまに、俺の頭上へ現れていた。
-
+A shadow is slowly crawling across the ceiling. A crimson spider that is upside down appeared above my head.
 
 潜伏潜行を得手とする劒冑の到来は、いつもこう、唐突だ。
-
+The arrival of a Tsurugi with concealment as its strong point is always like this, sudden and unpredictable.
 
 《鎌倉市中を一通り、銀星号の香気を探って回ってみたけど》
-
+《I went around the whole city of Kamakura, looking for the Silver Star's scent.》
 
 「どうだった」
 「How was it?」
 
 《何だか微妙ね……。　かすかにあるような、錯覚のような》
-
+《It's a little strange... It's like there was a faint trace, but it felt like its an illusion.》
 
 《もしかしたら、いま何処かから近付きつつあるのかもしれない……。　後で、もう一度見回ってみる》
-
+《Perhaps, it may be approaching from somewhere right now... I'll take another look around later.》
 
 「……そうか」
 「...I see.」
@@ -2568,13 +2568,13 @@ And so we both turned our backs on each other. Without caring for each other, we
 「It's nothing.」
 
 深紅の甲鉄には所々、泥やら砂やらが跳ねていた。　人目を避けて駆け回ったための汚れだろう。
-
+The crimson armour was covered with mud and sand in certain places. The stains must have been from running about trying to avoid being seen.
 
 半生物である劒冑は、異物の付着や侵入に対処する除去機能を備えている。　このように汚れていても、別に掃除などする必要はない。
-
+As a semi-living being, Tsurugis are equipped with a removal function that deals with the adhesion and intrusion of foreign substances.　It's not necessary to clean them, even if they are dirty.
 
 が。
-However. 
+But.
 
 （武人ならば）
 （If you are a warrior.）
@@ -2649,22 +2649,22 @@ I've never thought about it until now... As I thought, it was like that.
 「Calm down.」
 
 《ちょっ、そんなことされたら……　およめいけなくなるっ》
-
+《Wait, if you do something like that... I can't be a wife anymore!》
 
 《だっ、だめっ！　そこだめ！　おなかさわらないでっ》
-
+《Y-You can't! Not there! Don't touch my stomach!》
 
 《あーん、かかさまー！》
-
+《Ahn, motherー！》
 
 「落ち着けというに！　異常な性癖に目覚めそうだ！」
-
+「I told you to calm down! I'm about to develop a strange fetish!」
 
 《だーれーかーー!》
-
+《Someone helpーー!》
 
 「〇四八号、何を騒いでいる?　開けるぞ！」
-
+「Number 048, what's with that racket?! I'm opening the door!」
 
 「――――」
 
@@ -2676,10 +2676,10 @@ I've never thought about it until now... As I thought, it was like that.
 
 
 「何だ？　その珍妙なポーズは」
-
+「What? What's with that weird pose?」
 
 「単なる妄想遊戯です、看守殿」
-
+「It's just
 
 「……どんな」
 
