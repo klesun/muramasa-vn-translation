@@ -9808,6 +9808,9 @@ kill.
 俺は、　石を振りかぶって、
 I sprinkled a stone,
 
+……殺せない @ 殺す
+...... I can't kill @ kill
+
 打ち下ろした。
 Downhill.
 
@@ -10278,6 +10281,9 @@ Forget everything. Go somewhere alone.
 
 それとも――――
 Or ――――
+
+選んだ道を進む @ 逃げる
+Follow the chosen path @ escape
 
 体はどこまでも重い。　手足には鉛が詰まり、頭上には石があるかのようだ。
 The body is forever heavy. The limbs are clogged with lead, as if there were stones overhead.
