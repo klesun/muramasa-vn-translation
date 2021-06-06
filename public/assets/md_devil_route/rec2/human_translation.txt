@@ -2816,10 +2816,10 @@ If possible, to zero.　It is said that no one has ever reached the summit befor
 ――That's right. This is what we've been saying to each other.
 
 これまではずっと。　そうして……銀星号に敗退を続けた。
-All this time. And like that... we kept being defeated by the Silver Star.
+All this time. And just like that... we kept being defeated by the Silver Star.
 
 ここまでにしなくてはならない。　銀星号を、あの災厄を一刻も早く止める事が至上の命題なのだから。
-
+We can't keep going like this. We need to defeat that calamity, the Silver Star, as soon as possible.
 
 「村正」
 「Muramasa.」
@@ -2852,7 +2852,7 @@ I lowered my head before my Tsurugi.
 《...Midou》
 
 「お前にも認めて欲しいのだ。　俺もこの戦いを人手に預けることはできん。光は俺が止めなくてはならない……」
-「I also want you to acknowldge mine.　I can't leave this fight in the hands of others either. I have to stop Hikaru...」
+「But I also want you to acknowldge mine.　I can't leave this fight in the hands of others either. I have to stop Hikaru...」
 
 「頼む、村正。　俺の意思を認めてくれ」
 「Please, Muramasa. Please acknowledge my wish.」
@@ -2870,7 +2870,7 @@ That alone should have changed something.
 It's not about sharing sins or responsibilities. It's actually the opposite―― we are mutually accepting the fact that we cannot share our burdens, that we both won't give up what we want. 
 
 俺は俺の意思と責任において戦い、罪を負う。　村正も村正の意思と責任において戦う。
-I fight out of my own will and responsibilities, and I will bear my own sins. Muramasa will also fight out her own will and responsibilities.
+I fight out of my own will and responsibilities, and I will bear my own sins. Muramasa will also fight out of her own will and responsibilities.
 
 互いの意思を侵さず、尊重する。
 We will not violate the other's will, but respect it.
@@ -2882,7 +2882,7 @@ We should have done this sooner. We should have done this when both of us were r
 《...That's pointless.》
 
 「ある、と思う。　おそらくは必要な事なのだ」
-「There is, I think. It's likely that it is actually necessary,」
+「There is a point, I think. It's likely that it is actually necessary,」
 
 「俺とお前が共に戦うために」
 「for you and I to fight together.」
@@ -2915,7 +2915,7 @@ We should have done this sooner. We should have done this when both of us were r
 I begged her repeatedly... For a short while, the Metal Echo only conveyed the silence of a bewildered wind. 
 
 やはりこれは、遅過ぎた、虫の良い話というものか。　武者ならば半身とも恃むべき劒冑をろくろく顧みなかった二年間の無為が、今更ながらに悔やまれる。
-In the end, it was too late, it did sound to good to be true. I'm regretting the two years of inactivity where I hardly took care of my tsurugi, which a warrior should trust with half his body.
+In the end, it was too late, it did sound too good to be true. I'm regretting the two years of inactivity where I hardly took care of my tsurugi, which a warrior should trust with half his body.
 
 《……どうして急に、そんなことを言うの》
 《...Why do you say such things so suddenly?》
@@ -2936,7 +2936,7 @@ In the end, it was too late, it did sound to good to be true. I'm regretting the
 「I think I've done something inexcusable. It wasn't my intention to look into people's innermost thoughts without their permission.」
 
 「しかし、お前の戦う理由……　譲れぬ理由が、それでわかった」
-「However, the reason why you fight... the reason why you didn't want to yield, I knew because of that.」
+「However, the reason why you fight... the reason why you didn't want to yield, I was able to know because of that.」
 
 《……》
 《……》
@@ -2948,22 +2948,22 @@ In the end, it was too late, it did sound to good to be true. I'm regretting the
 Counterbalancing good and evil. A precept that seemed like a curse, but was actually a sincere wish for peace.
 
 それが養母の命を奪ったと思えば恨みも湧く。　が、やはり筋違いの怨恨であった。村正が恐ろしい何かを背負っていると感付きつつ、深く思慮せず解き放ってしまったのは、誰でもない俺なのだから。
-When I recall that it was the very thing that took my adoptive mother's life, a feeling of resentment wells up. However, it was still a grudge of the wrong kind. 
+When I recall that it was the very thing that took my adoptive mother's life, a feeling of resentment wells up within me. However, it was still a grudge of the wrong kind. That's because the one who suspected that Muramasa was carrying a dreadful burden, and released her without thinking too deep about it, was none other than me.
 
 そうして、この世には突き詰めて善も悪もないのだという信念について思いを致せば――
-
+And then, when I think of the belief that there is no good nor evil in this world――
 
 そこまで思い切れない部分がある。
-
+there is a part of me that can't bring myself to go that far. 
 
 しかし理解は及んだ。　南北朝というまさしく泥沼の抗争期においてはその究極論をもって挑むほかに、戦乱を治める希望が全く見出せなかったのだろう。
-
+However, it's understandable. Regarding the mess that is the Nanboku-chō period, he probably could not see any hope to calm the war other than challenging it with the ultimate theory.
 
 あの情景を見た今ならば、善悪相殺の四文字に託された想いの深さが知れる。　　その想いが招いた、凄惨な末路への無念も。
-
+Now that I've seen that scene, I can understand the depth of the feeling behind the four words "counterbalancing good and evil". I also feel the regret for the horrible consequences that those feelings have incurred.
 
 「村正……俺がお前でも、自分の手で決着をつけようと望んだだろう。　そう思う」
-
+「Muramasa... I think if I were you, I would have wished to settle things with my own hands as well.」
 
 「だから俺はお前の意思を認める」
 「That's why I will acknowledge your wishes.」
@@ -2972,7 +2972,7 @@ When I recall that it was the very thing that took my adoptive mother's life, a 
 《――――》
 
 「お前も認めてはくれないか。　俺の、」
-「Will you not acknowledge it? My、」
+「Will you not acknowledge it? My wish.」
 
 《駄目よ》
 《You fool.》
@@ -2996,166 +2996,166 @@ When I recall that it was the very thing that took my adoptive mother's life, a 
 「But Muramasa. We have to win.」
 
 「剛くならねばなるまい」
-
+「We must be stronger.」
 
 《ええ。　心甲一致は私も必要だと思う》
-
+《Indeed. I also think that the mind-body unity is necessary.》
 
 《だから貴方は、私の意志に従うべきよ。　自分の意思を眠らせて》
-
+《That's why you must obey my wishes. Put your own wishes to sleep.》
 
 「……それはできん」
-
+「...I can't do that.」
 
 俺に課せられた責務は、人に委ねられないものだ。　村正の負う責務もまた、そうであるように。
-
+The duty that is assigned to me is not something that can be entrusted to another person. Then again, it is also the same with the burden that Muramasa is carrying.
 
 《そう。　でもね》
-
+《I see. But you know,》
 
 《貴方の希望なんて、もう関係ない》
-
+《that wish of yours, it is no longer of concern.》
 
 「何……？」
-
+「What...?」
 
 《これだけはしたくなかった》
-
+《I didn't want to do this.》
 
 《けれどもう仕方ない。　貴方がそんなことまで言い出すのなら……仕方ない》
-
+《But there is no other way. If you're going so far as to say something like that... then there is no choice.》
 
 「……ッ?」
-
+「...Hm?」
 
 《御堂。私はね……　一つだけ、二世にも始祖にもできないことができる》
-
+《Midou. I... There is one thing that I can do, that even the second-generation and founder can't do.》
 
 《それは私が、二世村正を制するという特定目的のもとで鍛造されたからこそ可能なこと。　目的遂行のためならば――》
-
+《It is only possible because I was forged with a specific purpose of holding back second Muramasa. If it is to accomplish my purpose――》
 
 《己の仕手に対しても力を揮える》
-
+《I am able to use my powers against my own user.》
 
 「村正……」
-
+「Muramasa...」
 
 「お前は、真逆」
-
+「You, don't tell me――」
 
 《私の過去を見たなら、知っているでしょう。　私にもこの能はあるの》
-
+《If you saw my past, then you should know. I also have abilities.》
 
 《人の心を侵すことは、私にだってできる!》
-
+《I am also able to affect people's hearts!》
 
 精神汚染
-
+Spirit contamination.
 
 「……止せ！」
-
+「...Stop!」
 
 《…………》
 《…………》
 
 「それは、帝に禁じられたのだろうが?」
-
+「Didn't the emperor forbid it?」
 
 そう。あの過去夢で、精神干渉の力は勅命をもって厳に封じられていた。　中世の人間が帝室を重んじること、現代人の比ではないだろう。あの命令は絶対のものだった……筈だが。
-
+That's right. In that dream of the past, the power of spirit contamination was strictly forbidden with an imperial order. The importance that people from the middle ages places on the imperial family can't be compared to people of today. That order was absolute... or at least it was supposed to be.
 
 果たして村正は――少なくとも表面上――何ら動揺を示さなかった。
-
+But sure enough, Muramasa―― at least on the surface―― did not show any signs being shaken.
 
 《遠い……昔のことよ》
-
+《That was... a long time ago.》
 
 「……」
 「……」
 
 《……あの時代から色褪せずに残っているのは、私の甲鉄と使命だけ。　邪魔になった貴方の意思を潰すくらいの事、造作もないのよ》
-
+《...The only thing that hasn't faded since that time is my armor and my mission. It's a simple feat to crush your will that has gotten in the way.》
 
 「く……?」
-
+「Guh...?」
 
 《そう。　簡単なことなのよ……！》
-
+《That's right. It's as simple as that...!》
 
 〝従いなさい〟
-
+"Obey me."
 
 我がものならぬ思念が、心中に芽生える。　これは……村正の？
-
+A thought that shouldn't belong to me sprouts in my mind. This is... Muramasa's?
 
 精神汚染とはこういうものか。　これは――まずい。抗う術がない。
-
+So this is spirit contamination. This is―― bad. I don't have the means to go against it.
 
 〝従いなさい〟
-
+"Obey me."
 
 この波は内側から俺を食い荒らそうとする。　どうにも排除する方法がない！
-
+This wave is trying to devour from the inside out. I don't have any means to reject it!
 
 〝貴方の心はいらない〟
-
+"I don't need your heart."
 
 〝私には……必要ない〟
-
+"I don't... need it."
 
 〝だから……〟
-
+"That's why..."
 
 〝……だから…………消す…………〟
-
+"...That's why... I will erase it..."
 
 「――――――――」
 
 
 「……あぁ……」
+「...Oh...」
 
-
-俺は――
-
+俺は――  俺だ。
+I'm―― me.
 
 湊斗景明だ。他の何者でもない。　……自我を保っている。
-
+I'm Minato Kageaki. Not anyone else... I'm keeping myself intact.
 
 だが、何故？　あの力に屈服を余儀なくされたと思ったのだが……。
-
+But why? I thought I was forced to yield to that power...
 
 《……っ……》
-
+《...Ugh...》
 
 《どうして……私は！》
-
+《Why... I'm-》
 
 「村正……」
-
+「Muramasa...」
 
 《もう……もういいっ！　貴方なんていらない！》
-
+《Enough... Enough with this! I don't need you!》
 
 《貴方がいなくたって――》
-
+《Even without you I――》
 
 「何処へ行く！」
-
+「Where are you going?!」
 
 《何処でもいいでしょう。　もう、貴方とはこれきり》
-
+《It doesn't matter where. This is the last time I'm seeing you.》
 
 《私は別の仕手を探す……》
-
+《I will find another user...》
 
 「何だと？」
-
+「What?」
 
 《さようなら》
-
+《Goodbye.》
 
 瞬時にして消え去る劒冑。　一切の痕跡を残さず――あたかも最初から存在しなかったかのように。
-
+The tsurugi vanishes in the blink of an eye. 
 
 足音さえ、俺の耳には届かなかった。
 
