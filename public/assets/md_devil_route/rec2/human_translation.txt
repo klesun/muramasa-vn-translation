@@ -3302,13 +3302,13 @@ This is something that happened because of me, it is my sin.
 
 
 ……香気！　銀星号か、その〝卵〟を受けた寄生体か。二世村正の力を宿したものが近くにいる。
-...A scent! 
+...This scent! It could be the Silver Star, or it could be a vessel that received its "egg". Either way, the one who possesses the second Muramasa's power is nearby.
 
 強い――濃い。　故意に発散しているのかと思えるほど、いま感じる気配は濃密だ。
-
+Strong―― and dense. It is so dense to the point that I think it is deliberately emanating the scent.
 
 急ぐ必要があるのかもしれない。
-
+I maight need to hurry up.
 
 《みど――》
 《Mido――》
@@ -3317,10 +3317,10 @@ This is something that happened because of me, it is my sin.
 （…………）
 
 頭の向きを翻し、牢獄の景明のもとへ戻りかけて。　……最早そうするべきではないのだと、思い出した。
-
+I turned my head and almost returned to Kageaki's side in the prison... but then I remembered that I no longer have to do that.
 
 これ以上、彼と一緒には戦えない。　彼の意思を認めることはできず、支配し隷従させることもできなかったのだから、もう…………無理だ。
-I cannot fight together with him anymore. 
+I cannot fight together with him anymore. I could not acknowledge his wish, nor could I take control of him. I can't... do this anymore.
 
 行くなら、一人で行かねばならない。
 If I go, I have to go alone.
@@ -3332,10 +3332,10 @@ If I go, I have to go alone.
 （Going alone is better.）
 
 思えば、自分一人の戦いに他人を巻き込むという事がそもそも大きな誤りなのだ。　いくら劒冑には仕手が必須であろうと。
-If I think about it, involving others in my fight is a big mistake no matter how much a tsurugi needs a wielder.
+If I think about it, involving others in my fight is a big mistake in the first place. It doesn't matter how much a tsurugi needs a wielder.
 
 その程度の常識、村正の業をもってすれば覆せる。　覆す――覆してみせる。
-
+That sort of thing can be overcome as long as I have Muramasa's arts. I can overcome it―― I will overcome it!
 
 磁場展開
 Activating magnetic field
@@ -3356,13 +3356,13 @@ Booting up
 《――――》
 
 「呼び立てたようですまない、景明。　いや、事実呼んだのだが」
-
+「Sorry if it seemed like I'm calling you out, Kageaki. No, actually I did call for you.」
 
 「どうしたわけか、今日という日は起き抜けからおまえの顔が見たくて、矢も盾もたまらなくなってしまってな。　まったく乙女心というのはままならぬ」
-
+「I don't know why, but ever since I woke up today, I wanted to see your face so badly I can't calm down. Good grief, a maiden's heart is truly a hard thing to control.」
 
 「おまえも罪なやつ。　しかし、こうして早速招きに応じてくれたのは有難い――」
-
+「You're such a sinful man. But I'm thankful that you accepted my invitation so quickly――」
 
 「――――」
 「――――」
@@ -3371,64 +3371,64 @@ Booting up
 《……………………》
 
 「誰だ、貴様」
-
+「Who the hell are you?」
 
 《……あら。　騙し通せなかった？》
-
+《...Oh my. My trick didn't work?》
 
 「見縊るでない。　外面に変わりがなかろうと、景明とほかの誰かを取り違えるようなおれか！」
-
+「Don't underestimate me. Even if the exterior doesn't change, I will never mistake Kageaki for someone else!」
 
 「音が違う！」
-
+「The voice is different!」
 
 「匂いが違う！」
-
+「The scent is different!」
 
 「何となく風情が違う！」
-
+「For some reason it feels different!」
 
 「そして、臍の下にぐっとくるものがない！」
-
+「Also, there's nothing down there!」
 
 《ぐっ？》
-
+《Hm?》
 
 「蜘蛛、そやつは何処の馬の骨だ?　どういう了見で景明を置いてきた?」
-
+「Spider, who the hell is that nobody? How dare you leave Kageaki behind?」
 
 《答える義理はないと思うけれど》
-
+《I don't think I'm obligated to answer that.》
 
 「……まさか」
-
+「...No way.」
 
 《…………》
 《…………》
 
 「景明は風邪でも引いたのか?　それで代理か?」
-
+「Did Kageaki catch a cold or something? Is that why you subtituted him?」
 
 「なら看病に行くぞ!」
-
+「In that case I'll go take care of him!」
 
 《行くのか?　……いや待て、落ち着け御堂》
-
+《Are you going? ...Wait, calm down, Midou.》
 
 《あれはどうも、空のようだ》
-
+《No matter how you look at it, that thing looks empty.》
 
 「む？」
-
+「Hm?」
 
 《――――》
 《――――》
 
 「……何だ、あれは……。　中身はすかすかなのか」
-
+「...What is that... Is the inside hollow」
 
 《装甲されたように見せかけているだけだな。　さて……何の意図やら》
-
+《
 
 「伝言に来ただけなら、蜘蛛の形で良かろうしな。ふむ……」
 
