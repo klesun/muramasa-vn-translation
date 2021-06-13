@@ -383,7 +383,7 @@ The warrior did not show any signs of displeasure. ...Maybe they have a special 
 「If Kusunoki-dono equips your Tsurugi, and if the whole Southern army were to set out under his command, the North would perish in a single night.」
 
 「大和の民の待ち望む平穏がようやく訪れるであろう……」
-「The peace that the people of Japan have been waiting for would come...」
+「The peace that the people of Yamato have been waiting for would come...」
 
 「うても、そうあらねばならぬと思うておる。　だからこそ、軽々しく鍛造に踏み切れぬ」
 「I as well, think that peace must come. However, that is also the exact reason why we must not be rash.」
@@ -3425,184 +3425,184 @@ Booting up
 《――――》
 
 「……何だ、あれは……。　中身はすかすかなのか」
-「...What is that... Is the inside hollow」
+「...What is that... Is the inside hollow?」
 
 《装甲されたように見せかけているだけだな。　さて……何の意図やら》
-《
+《It seems she's trying to make it look like there's someone inside. I wonder what it is she's aiming for...》
 
 「伝言に来ただけなら、蜘蛛の形で良かろうしな。ふむ……」
-
+「It's also true that if she wanted to pass on a message, the spider form would be fine. Hmm...」
 
 《……詮索は結構よ》
-
+《...Don't pry.》
 
 「なら直に訊くが。　おまえは結局、何しに来た？」
-
+「Then I'll ask you directly. What did you come here for?」
 
 《戦うために決まっているでしょう……！》
-
+《Of course it's to fight...!》
 
 「……景明は？」
-
+「...Where's Kageaki?」
 
 《仕手なんて、いなくてもいい。　私の力で、貴方を――二世を討つ！》
-
+《I don't need a wielder. With my powers, I will defeat y―― I will defeat Mother!》
 
 「…………」
 「…………」
 
 「……村正……」
-
+「...Muramasa...」
 
 《誠に遺憾だが、あれはどうも本気らしい》
-
+《It's truly regrettable, but it seems she is serious.》
 
 「…………」
 「…………」
 
 《何よ……》
-
+《What's wrong...》
 
 「何、ではないわ。　呆れるほかにどうしろと云う」
-
+「What do you mean "what's wrong"? What else did you expect me to do besides being shocked?」
 
 「そんな態でおれの相手をするだと？」
-
+「Did you think you can go up against me in that sorry state?」
 
 《自惚れた言い草ね》
-
+《You're so full of yourself.》
 
 「鏡を見て言うがいい」
-
+「Say that once you've taken a look at yourself in the mirror.」
 
 《……》
 《……》
 
 「村正よ。　おまえの娘はとんだ駄作だな」
-
+「Muramasa. Your daughter is really a poor piece of work.」
 
 《返す言葉がないのは残念だ》
-
+《It's a shame that I have nothing to say to that.》
 
 《何ですって……?》
-
+《What did you say...?》
 
 「どうしてやろうか」
-
+「What should I do with this?」
 
 《馬鹿者の相手で御堂を煩わせとうはない。　冑に任せて貰えぬか》
-
+《I don't want to bother Midou with this fool. Should I use "that"?》
 
 「許す。　ゆけ」
-
+「I'll allow it. Go.」
 
 《応》
-
+《All right.》
 
 《甘く見て！》
-
+《You dare underestimate me?!》
 
 《それはこの母に言わせておけ。　……そんなごまかしで、如何にせば冑らに勝てると思うのだ》
-
+《Then tell me... How in the world were you planning on defeating me with such a cheap trick?》
 
 《やってみなければわからない》
-
+《I won't know unless I try.》
 
 《明々白々。　その擬装がどれほど無様なものか、ひと目見れば窺い知れる……》
-
+《It's as clear as day. Just one look and you can tell how poor your pretense is...》
 
 《どうせ人型を取るなら、ここまでやらねば何の意味とてあるまいに》
-
+《If you're going to take on a human form, there's no point unless you go this far.》
 
 《……え？》
-
+《...Huh?》
 
 《辰気収斂》
-
+《Celestial Constriction》
 
 《……なッ――》
-
+《...Wh――》
 
 《に……肉体変成?　そんな、どうやって！》
-
+《B...Body metamorphosis?! But how?!》
 
 「そこから一歩進めれば成せる事なのだがな。　その一歩さえ届かないとは、我が娘ながら救いが無い」
-
+「If only you can take that one step forward from your current state, you may have had a chance of defeating me. But to think you can't even reach that one step, despite being my daughter you're helpless.」
 
 「ここで砕いてやるのが情けというものか？」
-
+「Would it be merciful of me to crush you here?」
 
 《くっ……！》
-
+《Ugh...!》
 
 《そ、そんな芸……無意味よ！　劒冑の戦力はこの騎形が最も高い》
-
+《T-That technique... it's pointless! When it comes to a tsurugi's fighting power, this form is stronger.》
 
 《戦えば私が勝つ！》
-
+《If we fight, I will win!》
 
 「さて？」
-
+「Will you now?」
 
 《この――》
-
+《You――》
 
 「ふん……」
-
+「Hmmm...」
 
 《――っ――》
-
+《――Huh ――》
 
 「……蝿でも追っているのか？」
-
+「...Are you chasing a fly or something?」
 
 《ちょこまかとっ！》
-
+《Just you wait!》
 
 「まだ気付かぬか……。　ほとほと血巡りの悪い娘だ」
-
+「Do you still not realize... You're such a helpless daughter that it makes my blood boil.」
 
 「冑が素早いのではない。　なれが――」
-
+「It's not that I'm fast. It's just that you――」
 
 《ッ！》
-
+《!》
 
 《くはっ?》
-
+《Guah?!》
 
 「あまりにとろくさいだけだ。　そんな動きでは蝿はおろか、牛も捕まえられん」
-
+「are just incredibly slow. You won't be able to catch a fly with that movements, let alone a cow.」
 
 《……勝ち誇らないで！　まだよ！》
-
+《...Don't get cocky! It's not over yet!》
 
 「流石にそろそろ理解できような？」
-
+「Isn't it about time for you to understand?」
 
 《…………》
 《…………》
 
 「おのれの、その……　ぎくしゃくとした醜態が」
-
+「That... disgraceful stiff movements of yours」
 
 《どうして……》
-
+《Why...》
 
 「どうもこうもない」
-
+「I don't even want to talk about it.」
 
 「武者形は確かに至強の姿。　しかしそれも、仕手と共にあればのことだ」
-
+「The form of a musha is indeed a form of supreme strength, but that is only with the help of a wielder.」
 
 「中身の無い鎧が何だという？　張子の虎に過ぎまいが……」
-
+「What's the point of an armor with nothing inside? It's only all bark and no bite...」
 
 《……》
 《……》
 
 「太刀の術技もなく。　熱量の供給もなく」
-
+「
 
 「無駄に膨れた騎体を持て余すだけ。　重いわ、鈍いわ、良いこと無し」
 
