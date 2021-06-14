@@ -3602,145 +3602,145 @@ Booting up
 《……》
 
 「太刀の術技もなく。　熱量の供給もなく」
-「
+「You don't have any sword techniques. You also don't have an energy supply.」
 
 「無駄に膨れた騎体を持て余すだけ。　重いわ、鈍いわ、良いこと無し」
-
+「You're just wasting your efforts trying to control a uselessly bulky piece of armor. It's heavy and slow, it has no good points.」
 
 「そんな虚仮威しに比べれば――」
-
+「Compared to that useless thing――」
 
 《……っ?》
-
+《...?!》
 
 「この方がはるかに効率的。　そういうことだ！」
-
+「this form is much more efficient. That's what I'm saying!」
 
 《がっ……》
-
+《Gah...》
 
 「この形なら心鉄の熱量だけで充分に戦える」
-
+「With this form, the heat from my core is enough to fight.」
 
 《!》
 
 
 「落ちよ」
-
+「Fall.」
 
 《……は……》
-
+《...Hah...》
 
 《かっ……つッ……！》
-
+《Gah... ugh...!》
 
 「…………」
 「…………」
 
 「駄作。　なれは御父の名を辱める気か？」
-
+「Rubbish. Are you trying to disgrace your father's name?」
 
 《……そっ……》
-
+《...Th...》
 
 《そんなこと……母様には言わせない！》
-
+《That... I will not let mother say it!》
 
 「……」
 「……」
 
 《私が駄作なら、母様はなんなの！》
-
+《If I'm rubbish, then what is mother?!》
 
 「何か不服があるのか。　この母に」
-
+「Do you have something you're unsatisfied with towards your mother?」
 
 《あるに決まってるでしょう?　なんで――どうして、》
-
+《Isn't that obvious? Why― Why》
 
 《また災いを振り撒いているの!》
-
+《Why are you trying to cause another calamity?!》
 
 「それを冑に訊いてどうする。　劒冑は仕手に従うもの――知りたくば、上で退屈げにしている御堂に問うがいい」
-
+「What use would there be in asking the armor? Tsurugis should obey their wielder―― If you want to know, then ask my master who is bored up there.」
 
 《そうじゃない！　狂人の考えなんかどうでもいい》
-
+《That's not it! I don't care about the thoughts of a lunatic.》
 
 《その前の話よ！　母様はどうして、あんな人間を仕手にしたの！》
-
+《I'm talking about what happened before! Why did mother choose that kind of person as your wielder?!》
 
 「…………」
 「…………」
 
 《始祖の失敗で学ばなかったの?　私たち村正は武人の独善を戒める為の劒冑――けれどたった一つの間違いで災いの化身になりおおせる》
-
+《Did you not learn from the founder's mistake? We Muramasas are tsurugis that are created to admonish the self-righteousness of warriors―― but just because of one mistake, we have become the personafication of calamity. 》
 
 《だから……母様はもう誰とも結縁するべきじゃなかった！　するにしても、よほど慎重に選ばなくちゃいけなかった》
-
+《That's why... mother was not supposed to make a connection with anyone! Even if you did, you should have been more careful when you are choosing.》
 
 《意志の弱い人が村正を帯びて武者になれば、善悪相殺の掟に耐えられず、狂うこともある……それがわかっていたんだから！　なのにどうしてまた、そんな人間を選んで》
-
+《If a person with a weak will were to wear Muramasa and become a musha, they may lose their mind because they are unable to bear the effects of the good and evil offset... You should have known that! And yet once again, you chose that kind of human.》
 
 《むざと狂わせたの！　五百年前と同じように狂気を広めて、殺戮を煽る羽目になっているのはなんでよ?》
-
+《You ruthlessly drove her mad! Why are you once again spreading madness and inciting massacre just like 500 years ago?》
 
 「……」
 「……」
 
 「そうか。　……どうもいくつか、誤解があるようだな」
-
+「I see... It seems that there are some misunderstandings.」
 
 《誤解……？》
-
+《Misunderstanding...?》
 
 「まず。　冑が仕手は、狂っておらぬ」
-
+「First of all, my wielder is not mad.」
 
 「いや……狂っているのやもしれぬが。　いずれにせよ、あの者は元々ああだった」
-
+「No... she might be. But at any rate, that one was already like that from the very beginning.」
 
 《……?》
-
+《...?》
 
 「冑はあの者の人格を承知した上で、仕手と認め、縁を結んだ……」
-
+「The armor was aware of that person's nature, acknowledged her as its master, and formed a connection...」
 
 《ど、どうして！》
-
+《W-Why?!》
 
 「三世……　なれは封印より放たれてから、大和の歴史を学んだか？」
-
+「Third-generation... ever since you were set free from the seal, did you study Yamato's history?」
 
 《……》
 《……》
 
 「驚くべきこと……信じ難いことだが……　あの南北朝の争乱、冑ら村正がもたらした絶滅的な殺し合いの上に築かれた平和の時代は、」
-
+「It was surprising... quite unbelievable... The era of peace that was built upon the mass killings that happened because of the Muramasas during the conflict of the Northern and Southern courts,」
 
 「百年と保たれなかったらしい」
-
+「it seems it didn't even last for a hundred years.」
 
 《…………戦国時代？》
-
+《...The Sengoku era?》
 
 「そう呼ばれているな。　南北朝にも劣らぬ混沌の大乱世が、ほんの数十年を隔てて再び訪れたようだ……」
-
+「That's what they call it. It seems that  
 
 「これをどう考える？」
-
+「What do you think of this?」
 
 《…………》
 《…………》
 
 「足りなかった」
-
+「It wasn't enough.」
 
 「足りなかったのだ!」
-
+「It wasn't enough!」
 
 「あれほどの戦！　あれほどの殺戮！　あれほどの大地獄をもってしても！」
-
+「That much fighting! That much slaughter! Even with all that hell!」
 
 「諸人に戦の醜さ、愚劣さ、その独善を知らしめるには、全く足りなかったのだ!　武とは常に善悪相殺、戦には正義なし――村正が示した真理は瞬く間に忘れ去られた!」
 
@@ -3749,7 +3749,7 @@ Booting up
 
 
 《か……母様……》
-
+《M...Mother...》
 
 「人の愚かさを甘く見ていたわ」
 
@@ -3758,10 +3758,10 @@ Booting up
 
 
 《だから……だから？　もう一度やるって言うの?》
-
+《So... So? So you're going to do it once more?》
 
 「そうだ」
-
+「That's right.」
 
 《本末転倒じゃないの！　そんなこと、爺様だって望まない！》
 
@@ -3770,7 +3770,7 @@ Booting up
 
 
 「なれは考えが浅い」
-
+「Your thoughts are shallow.」
 
 《…………》
 《…………》
@@ -3782,7 +3782,7 @@ Booting up
 
 
 《?　……な、何を！》
-
+《? ...W-What are you-?!》
 
 「御父は端から表と裏を考えていた」
 
