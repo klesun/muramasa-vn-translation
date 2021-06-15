@@ -3725,7 +3725,7 @@ Booting up
 《...The Sengoku era?》
 
 「そう呼ばれているな。　南北朝にも劣らぬ混沌の大乱世が、ほんの数十年を隔てて再び訪れたようだ……」
-「That's what they call it. It seems that  
+「That's what they call it. It seems that within just a few decades, a great turbulent era of chaos that is not at all inferior to the conflict of the Northern and Southern courts has appeared once more...」
 
 「これをどう考える？」
 「What do you think of this?」
@@ -3755,19 +3755,19 @@ Booting up
 「I underestimated people's foolishness.」
 
 「冑ら劒冑は魂を甲鉄に打ち込める、ゆえに不変の理念を持つが……　肉の脳髄は真理を刻んでも、刻むそばから忘れてゆくようだ」
-「
+「Tsurugis are able to forge their souls into armour, and thus possess an unchanging philosophy... but it seems that brains made of flesh will forget the truth even if it was etched into their minds.」
 
 《だから……だから？　もう一度やるって言うの?》
-《So... So? So you're going to do it once more?》
+《So... So? You're going to do it once more?》
 
 「そうだ」
 「That's right.」
 
 《本末転倒じゃないの！　そんなこと、爺様だって望まない！》
-《
+《Aren't you getting your priorities backwards?! Even grandfather won't wish for such a thing!》
 
 《爺様はあくまで、善悪相殺の戒めを人々に広めて、争いを未然に治めようとしただけで――》
-
+《Grandfather had only spread the precept of counterbalancing good and evil to the people in an attempt to subdue the conflicts――》
 
 「なれは考えが浅い」
 「Your thoughts are shallow.」
@@ -3776,19 +3776,19 @@ Booting up
 《…………》
 
 「先程、口にしたな。始祖の失敗がどうのと。　……それも誤解だ」
-
+「A while ago, you mentioned something about the founder's mistake... That is also another misunderstanding.」
 
 「御父は失敗など一つもしておらぬ」
-
+「Father has never made a single failure.」
 
 《?　……な、何を！》
 《? ...W-What are you-?!》
 
 「御父は端から表と裏を考えていた」
-
+「Father was always thinking outside the box.」
 
 「表。仕手が尋常な人物であり、善悪相殺の理を解して、世に広めるならばそれで良し。　そして裏。仕手が戒律に縛られてなお見境なく、殺しに殺しを重ねるなら、それも良し」
-
+「
 
 「その有様を見た人々は、武の罪悪を自ずと悟るであろうからだ」
 
