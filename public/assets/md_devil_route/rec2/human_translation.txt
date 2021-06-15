@@ -3743,19 +3743,19 @@ Booting up
 「That much fighting! That much slaughter! Even with all that hell!」
 
 「諸人に戦の醜さ、愚劣さ、その独善を知らしめるには、全く足りなかったのだ!　武とは常に善悪相殺、戦には正義なし――村正が示した真理は瞬く間に忘れ去られた!」
-
+「It wasn't enough to make people aware of the ugliness, foolishness, and self-righteousness in wars! Good and evil will always offset each other, there is no justice in warfare―― The truth that Muramasa showed was forgotten in the blink of an eye!」
 
 「人々は飽きもせずまた独善の渦に浸り切り、戦い、殺し……南北朝の時代よりも長い時を、無為の争乱に費やしたのだ!」
-
+「People persistently immersed themselves in the vortex of self righteousness, they fight, they kill... They wasted their time with useless conflicts that lasted longer than even the Nanboku-chō period!」
 
 《か……母様……》
 《M...Mother...》
 
 「人の愚かさを甘く見ていたわ」
-
+「I underestimated people's foolishness.」
 
 「冑ら劒冑は魂を甲鉄に打ち込める、ゆえに不変の理念を持つが……　肉の脳髄は真理を刻んでも、刻むそばから忘れてゆくようだ」
-
+「
 
 《だから……だから？　もう一度やるって言うの?》
 《So... So? So you're going to do it once more?》
@@ -3764,7 +3764,7 @@ Booting up
 「That's right.」
 
 《本末転倒じゃないの！　そんなこと、爺様だって望まない！》
-
+《
 
 《爺様はあくまで、善悪相殺の戒めを人々に広めて、争いを未然に治めようとしただけで――》
 
@@ -3848,7 +3848,7 @@ Booting up
 
 
 《母様……》
-
+《Mother...》
 
 「戯けめ。　冑が胎がなれのような駄作を産み落としたとあっては、御父に顔向けできぬ」
 
@@ -3860,13 +3860,13 @@ Booting up
 
 
 《か――母様ァ……！》
-
+《M-Mother...!》
 
 「ふん、立ったか」
-
+「Hm, you stood up.」
 
 「ま……立たねばなるまいな？　これを言われて、相手を捨て置くようでは、劒冑の一分が守れん」
-
+「Well... 
 
 「自ら屑鉄と認めるに等しい……」
 
