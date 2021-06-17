@@ -3815,10 +3815,10 @@ Booting up
 「Humans are beyond help. Even the calamity of the Nanboku-chō period has taught them nothing.」
 
 「一度絶滅に瀕するところまでゆかねば大悟を得られまい！　いや……もはやこの際、絶滅しても良しとしよう」
-「
+「They will never gain enlightment unless they are pushed to the brink of extinction! No... at this point, bringing them to complete extinction may be fine as well.」
 
 「人が滅びれば争いも無くなる。　御父の望みが果たされるわ!」
-
+「If the humans are extinct, then the conflicts will disappear as well. Father's desire will be fulfilled!」
 
 ―――――――
 
@@ -3827,34 +3827,34 @@ Booting up
 
 
 「狂っている、とでも云いたいか」
-
+「You want to say that I'm crazy, don't you?」
 
 《……狂ってるでしょう……》
-
+《...Aren't you?》
 
 「なれが道理をわからぬだけだ。　人の業深さを甘く見ているのよ」
-
+「Then that just means that you don't understand the truth. You're underestimating the depths of humanity.」
 
 《…………》
 《…………》
 
 「ふん」
-
+「Hmph.」
 
 「理を知らず。　世を知らず。　人を知らず。　己も知らず……」
-
+「You don't know basic principles. You don't know the world. You don't know humans. You don't even know yourself...」
 
 「仕手をよそへ置いて先走った挙句、かように這い蹲って泣き言を囀るのみとは、な。　これが……三世村正、冑が娘か」
-
+「Leaving your wielder behind and going ahead on your own, only to grovel on your knees and chatter on about your complaints. So this is... third-generation Muramasa, my daughter.」
 
 《母様……》
 《Mother...》
 
 「戯けめ。　冑が胎がなれのような駄作を産み落としたとあっては、御父に顔向けできぬ」
-
+「You fool. To think that trash like you was born out of my womb, I can't face Father like this.」
 
 「なれ如きは……　鋳潰されて、仏像にでもなるがいい」
-
+「A fool such as you... should just be melted down, and be made into a statue of Buddha or something.」
 
 《!》
 
@@ -3866,133 +3866,133 @@ Booting up
 「Hm, you stood up.」
 
 「ま……立たねばなるまいな？　これを言われて、相手を捨て置くようでは、劒冑の一分が守れん」
-「Well... 
+「Well... You have no choice but to stand, don't you? You wouldn't be able to protect your pride as a tsurugi if you had let your opponent go after being told something like that.」
 
 「自ら屑鉄と認めるに等しい……」
-
+「It would be the same as admitting the fact that you are rubbish...」
 
 《……》
 《……》
 
 「されど、口惜しきかな。　娘よ……」
-
+「Even so, it is truly regrettable, my daughter...」
 
 「なれは、屑鉄だ」
-
+「You are nothing but scrap iron.」
 
 《黙れェ!》
-
+《Shut up!》
 
 「磁気引斥を利する抜刀術……　なれの仕手が完成させた至芸だな」
-
+「The art of sword drawing that takes advantage of magnetic repulsion... An art that your wielder perfected, huh.」
 
 「できるつもりでいるのか？」
-
+「Do you think you can pull it off?
 
 《斬る……！》
-
+《I will cut you...!》
 
 「……く」
-
+「...Guh」
 
 「参れ」
-
+「Come」
 
 《ッ、ぁぁぁあああああ!》
-
+《Ahhhhhh!》
 
 《……ッッ?》
-
+《...Huh?》
 
 「知恵なき者は白日のもと闇を歩く！　なれのことだ!」
-
+「Those without wisdom walks in darkness under the cover of day! That is what you are!」
 
 《……ぁっ……グ……》
-
+《...Ah...Guh...》
 
 《……ぅ……》
-
+《...Ngh...》
 
 「熱量が尽き果て、再生も利くまい。　……身に過ぎた武技を使うからだ」
-
+「You've exhausted your energy, you shouldn't be able to recover... It's because you used something that was beyond your capabilities.」
 
 「才なく心なく刀刃を弄んだ愚物！　相応の惨めさで果てるがいい！」
-
+「You are a fool that played around with a sword despite having no talent nor heart! Die a miserable death as it is what you deserve!」
 
 《…………》
 《…………》
 
 「最後の情けだ。　引導はこの母が渡してくれる」
-
+「One last mercy. Your mother will give it to you」
 
 「逝けい」
-
+「Death」
 
 「――待て。村正」
-
+「――Wait. Muramasa.」
 
 「御堂？　止めてくれるな。身内の恥は雪ぎたい」
-
+「Midou? Don't try to stop me. I want to wipe out the disgrace of my family. 」
 
 「うむ。その気持ちはわかるが……　仕方あるまい」
-
+「Yeah. I know the feeling, but... there's no choice.」
 
 「座興はここまでと、あちらが言うのだ」
-
+「This is as far as the fun goes, that guy over there is saying so.」
 
 「…………」
 「…………」
 
 「待ち人か……折良く。　知恵なきこやつにも、いくばくかの天運はあったと見ゆる」
-
+「You have a person waiting for you... Lucky. Even someone without wisdom such as you is also blessed with divine luck to a certain extent.」
 
 「景明」
-
+「Kageaki」
 
 「……光……」
-
+「...Hikaru...」
 
 「……どうするのだ？　御堂」
-
+「...What are you going to do, Midou?」
 
 「今日はもう良い。　顔を見たら、気が済んだ」
-
+「That's enough for today. I've seen his face so I'm satisfied.」
 
 「景明も、劒冑がその態では遊べまいしな」
-
+「Kageaki can't play when his tsurugi is like that anyways.」
 
 「承知」
-
+「Understood.」
 
 「景明。　おまえに伝えておくぞ」
-
+「Kageaki. I will tell you this」
 
 「……」
 「……」
 
 「おれは八幡宮へゆく」
-
+「I'm going to Hachiman shrine.」
 
 「……?」
 「……?」
 
 「少し、面白い趣向を考えついてな」
-
+「I came up with an interesting idea.」
 
 「我が父に我が覇道を捧げる……。　そのために相応しい時と場を選んだ」
-
+「I will dedicate my hegemony to my father... I have chosen a suitable time and place for that.」
 
 「……父に……？」
-
+「...To your father...?」
 
 「近いうちだ。　待っているがいい！」
-
+「It will be soon. Just wait for it！」
 
 「…………」
 「…………」
 
 銀星号は去り、俺は視線を地上へ戻した。　……瀕死の劒冑が蹲っている。
-
+The Silver Star left, my gaze returned to the ground... A tsurugi on the verge of death was cowering.
 
 村正は、見るも無残な姿と化していた。　歪み、捩れ、曲がり――山峰から転落した上に落石の雨を浴びればかくもなろうか。
 
