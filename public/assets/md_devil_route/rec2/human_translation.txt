@@ -4460,10 +4460,10 @@ It took me a while to realize that...
 「Is it about the Silver Star?」
 
 あれが八幡宮来襲を予告した事は、既に伝えている。　適当な口実を設けて親王には――当然署長にも――遷居して頂くべきだと進言もしておいたが。
-
+I've already told them about the announcement of the attack in Hachiman Shrine. I've also suggested that this announcement would be a good reason for the imperial prince to be moved to another location―― Of course, the chief as well. 
 
 その話か。
-
+So it's about that.
 
 「いや、違う。　そちらも火急だが……今日話したいことは別だ」
 「No, that's not it. That is also urgent... but that's not what I wanted to discuss today.」
@@ -4472,94 +4472,95 @@ It took me a while to realize that...
 「I see...」
 
 「ええね、景明くん？　今からの話はよそで言うたらあかんえ……」
-「
+「Are you listening, Kageaki-kun? What I'm about to say must not be said anywhere else...」
 
 「なんて、きみには念を押さなくても平気やろうけどな」
-
+「I'm sure you don't need me to remind you of that.」
 
 「しかし宮殿下、事が事ですので。　……景明」
-
+「But your highness, please do tread carefully. ...Kageaki.」
 
 「はっ。　如何様なお話であれ、決して他言しないとお約束致します」
-
+「Yes. No matter what happens, I promise not to tell anyone.」
 
 「うんうん。　景明くんみたいな人がそう言うてくれると、本当に安心できるわー」
-
+「Yup. If someone like Kageaki says so, I can be at easeー」
 
 ほほほと笑う親王。　だが、その笑いの中にも緊張の成分がある。
-
+The imperial prince let out a hearty laugh. However, within that laugh, there was also a hint of tension. 
 
 余程の話のようだ。　……政治向き、であろうか。やはり。
-
+It seems to be a very important matter. ...As I thought. It must be something political.
 
 しかし、そんな話をわざわざ俺にするとは……？
-
+But then, why would he go out of his way to talk about that with someone like me...?
 
 「近々、八幡宮で奉刀参拝の儀式が行われるのは知っているな」
-
+「You are aware of the ceremony that will happen in Hachiman shrine soon, are you not?」
 
 「はい。　準備は滞りなく進んでいると聞いています」
-
+「Yes. I heard that the preparations are going smoothly.」
 
 「……その祭礼の場で――」
-
+「...At that festival――」
 
 牧村さんに挨拶して、署長宅の門をくぐる。　常の事ながら、玄関は勤勉かつ優秀なる家宰の手で万全に清められていた。
-
+After greeting Makimura-san, I passed through the gates of the chief's house. As usual, the entrance had been thoroughly cleansed by the diligent and talented family leader.
+ 
 
 自分用にあてがわれている一室へ入り、腰を下ろすや、俺はすぐ八幡宮から持参した紙を広げた。　そうして、黙考を開始する。
-
+I walked into the room that was reserved for me, sat down, and immediately unfolded the paper that I had brought from Hachiman Shrine.　As soon as I sat down, I unfolded the paper that Hachimangu had brought with him and began to ponder in silence. 
 
 「………………」
 「………………」
 
 《またしばらくはこっちの家なのね》
-
+《So we're staying in this house again for a while.》
 
 「村正か……　ああ、そうなる」
-
+「Muramasa, huh... Yeah, that's how it is.」
 
 《宮様に、何か仕事でも頼まれた？》
-
+《Did the prince asked you to do something?》
 
 「そんなところだ」
-
+「Something like that.」
 
 《ふぅん》
-
+《Hmm》
 
 「…………。　どう説明したものかな」
-
+「...How to explain it」
 
 《……無理に話してくれなくてもいいのよ。　事情を知ろうと知るまいと、私のやることは変わらない》
-
+《...You don't have to force yourself to talk about it. Whether I know or not it won't change what I'm going to do.》
 
 《貴方が必要とする力をすべて用意する。　それだけだから》
-
+《I will give you all the help you need. That's all there is to it.》
 
 「そうか……。　だが、やはり話しておこう」
-
+「I see... But I'll tell you anyways.」
 
 「お前の知恵も借りたい」
-
+「I also want your insight on it.」
 
 《悩むようなこと？》
-
+《Is it something that's troubling you?》
 
 「なかなか」
-
+「Somewhat.」
 
 《……何を頼まれたの？》
-
+《...What did he ask you to do?》
 
 「うむ……」
-
+「Hmm...」
 
 「回りくどく言えば」
-
+「Putting it in a roundabout way
 
 《わざわざ》
-
+《Why the bother
 
 「武家の棟梁にとって鶴岡八幡宮は鬼門の地、そう語られるようにしろと。　……二度となれば、声価も不朽だろうな」
 
@@ -4568,7 +4569,7 @@ It took me a while to realize that...
 《……………………》
 
 《……それって》
-
+《...That's》
 
 源氏長者が八幡宮に詣でて武運隆盛を祈る年例行事、奉刀参拝。　これを、襲い、
 
