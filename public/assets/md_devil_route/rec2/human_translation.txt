@@ -4394,7 +4394,7 @@ The voice from behind the bamboo curtains did not sound reprimanding at all, but
 「……」
 
 あくまで気楽な様子の親王に、言葉も返せない。
-I couldn't say a word in reply to the king, who seemed to be only taking it easy.
+I couldn't say a word in reply to the prince, who seemed to be only taking it easy.
 
 「それが劒冑のためやったっちゅうんやから、見上げたもんやねぇ。　武者の鑑やないか……」
 「To think that he did that because of a tsurugi. It's truly something to look up to. An exemplary musha...」
@@ -4409,7 +4409,7 @@ I couldn't say a word in reply to the king, who seemed to be only taking it easy
 「……」
 
 「……菊池ぃ……。　おまさんまでそんな調子やと、景明くんも頭上げられんやろう」
-「...(name later)... if you keep that up, Kageaki-kun won't be able to raise his head.」
+「...Kikuchii... if you keep that up, Kageaki-kun won't be able to raise his head.」
 
 「は。　しかし、今回は私の管理不行届で――」
 「Yes. However, this happened because of my mismanagement―― 」
@@ -4418,7 +4418,7 @@ I couldn't say a word in reply to the king, who seemed to be only taking it easy
 「Ahh, fineee. I can't win against these two.」
 
 「何事も無う済んだわけやし、この話はもうこれまで。　ええね、二人とも」
-「Since everything has been taken care of, this discussion is over. Is that understood you two?」
+「Since everything has been taken care of, this discussion is over. Is that understood, you two?」
 
 「……はッ」
 「...Yes.」
@@ -4427,7 +4427,7 @@ I couldn't say a word in reply to the king, who seemed to be only taking it easy
 「……」
 
 ぱんぱん、と手を打って言う八幡宮別当親王。　俺と署長は期せずして同時に、一揖した。
-Imperial prince (Name later) said so while clapping his hands. The chief and I unexpectedly looked at each other at the same time.
+Imperial prince Hachiman Betto said so while clapping his hands. The chief and I unexpectedly looked at each other at the same time.
 
 「……あぁ、けど、景明くん」
 「...Ah, but Kageaki-kun」
@@ -4475,7 +4475,7 @@ So it's about that.
 「Are you listening, Kageaki-kun? What I'm about to say must not be said anywhere else...」
 
 「なんて、きみには念を押さなくても平気やろうけどな」
-「I'm sure you don't need me to remind you of that.」
+「I'm sure I don't have to worry about it if it's you.」
 
 「しかし宮殿下、事が事ですので。　……景明」
 「But your highness, please do tread carefully. ...Kageaki.」
@@ -4484,7 +4484,7 @@ So it's about that.
 「Yes. No matter what happens, I promise not to tell anyone.」
 
 「うんうん。　景明くんみたいな人がそう言うてくれると、本当に安心できるわー」
-「Yup. If someone like Kageaki says so, I can be at easeー」
+「Yup. If someone like Kageaki says so, I can really be at easeー」
 
 ほほほと笑う親王。　だが、その笑いの中にも緊張の成分がある。
 The imperial prince let out a hearty laugh. However, within that laugh, there was also a hint of tension. 
@@ -4506,7 +4506,6 @@ But then, why would he go out of his way to talk about that with someone like me
 
 牧村さんに挨拶して、署長宅の門をくぐる。　常の事ながら、玄関は勤勉かつ優秀なる家宰の手で万全に清められていた。
 After greeting Makimura-san, I passed through the gates of the chief's house. As usual, the entrance had been thoroughly cleansed by the diligent and talented family leader.
- 
 
 自分用にあてがわれている一室へ入り、腰を下ろすや、俺はすぐ八幡宮から持参した紙を広げた。　そうして、黙考を開始する。
 I walked into the room that was reserved for me, sat down, and immediately unfolded the paper that I had brought from Hachiman Shrine.　As soon as I sat down, I unfolded the paper that Hachimangu had brought with him and began to ponder in silence. 
@@ -4521,7 +4520,7 @@ I walked into the room that was reserved for me, sat down, and immediately unfol
 「Muramasa, huh... Yeah, that's how it is.」
 
 《宮様に、何か仕事でも頼まれた？》
-《Did the prince asked you to do something?》
+《Did the prince ask you to do something?》
 
 「そんなところだ」
 「Something like that.」
@@ -4533,7 +4532,7 @@ I walked into the room that was reserved for me, sat down, and immediately unfol
 「...How to explain it」
 
 《……無理に話してくれなくてもいいのよ。　事情を知ろうと知るまいと、私のやることは変わらない》
-《...You don't have to force yourself to talk about it. Whether I know or not it won't change what I'm going to do.》
+《...You don't have to force yourself to talk about it. Whether I know or not, it won't change what I'm going to do.》
 
 《貴方が必要とする力をすべて用意する。　それだけだから》
 《I will give you all the help you need. That's all there is to it.》
@@ -4557,13 +4556,14 @@ I walked into the room that was reserved for me, sat down, and immediately unfol
 「Hmm...」
 
 「回りくどく言えば」
-「Putting it in a roundabout way
+「Putting it in a roundabout way...」
 
 《わざわざ》
-《Why the bother
+《Don't bother.》
 
 「武家の棟梁にとって鶴岡八幡宮は鬼門の地、そう語られるようにしろと。　……二度となれば、声価も不朽だろうな」
-
+「To a samurai lord, the Hachiman shrine is a place that is akin to Achilles' heel. ...If it is attacked once more, the effects would be everlasting.」 
+(TL/n: In the siege of Kamakura, Hachiman shrine was a weak spot.) 
 
 《……………………》
 《……………………》
@@ -4572,37 +4572,38 @@ I walked into the room that was reserved for me, sat down, and immediately unfol
 《...That's》
 
 源氏長者が八幡宮に詣でて武運隆盛を祈る年例行事、奉刀参拝。　これを、襲い、
+The Minamoto clan's chief paid a visit to Hachiman Shrine to pray for their fortune and to perform a ceremony.　They were attacked,  
 
-
-正三位六衛大将領、
-
+正三位六衛大将領、元帥竜軍大将、大和の覇者、足利護氏を―――　討つ。
+and Ashikaga Goji, the third ranked general of the Sixth order, general of the Imperial Army, and Champion of Yamato, was defeated. 
+(recheck this later)
 
 「……そして」
-
+「...And then」
 
 「大きく動揺するであろう幕府を朝廷権威で補強してやり――反面、朝廷の発言力を増す。　この公武合体による新体制で官民の対立を緩和、治政に安定をもたらし」
-
+「The shogunate would be greatly shaken, and the authority of the imperial court would reinforce the shogunate―― while at the same time increasing the influence of the imperial court's voice. This cooperation would give birth to a new system that will alleviate antagonism between the government and the people, stabilizing the government's rule.」
 
 「ＧＨＱの介入する隙を無くしてゆく……」
-
+「Thus the opportunity for GHQ to intervene would be eliminated...」
 
 「まとめると、そういうことやねぇ」
-
+「That's the gist of it.」
 
 「……」
 「……」
 
 雄略と呼ぶべきだろう。　徒手空拳に等しい身で強大な軍事政権に挑み、その体質を改めさせようというのであるから。
-
+It could be called heroic.　It is an eloquent strategy to challenge a powerful military regime and force it to change its ways.
 
 成就する見込みの程は知れない。　が、何もせず情況を見守れば、進駐軍は時節が到来次第六波羅の排除に乗り出し――これを遂げて大和を完全な占領下に置くか。
-
+There's no telling how likely it is to be accomplished. However, if they only watched and did not act, the Allied Forces will set out to eliminate Rokhala when the time is right―― Let them succeed and have Japan completely under their control...
 
 それとも六波羅が勝利を得て大和唯一の支配権者となりおおせるか。　この国はどちらかの結末を迎えるだろう。……苛烈な交戦の後に。
-
+or have Rokhala emerge victorious as the sole ruler of Japan. After such a fierce war... which ending will this country greet in the end? 
 
 いや、可能性はもう一つある。　両者の相克に決着がつかず、延々と戦争が続く――という最悪の展開も起こり得る。
-
+No, there is one more possibility. Both sides could not settle their rivalry, and the war will continue to go on forever―― Such a horrible conclusion could also happen. 
 
 喜ばしからざる運命を拒否し、比較的にでも良好な未来を手に入れたいと望むなら、やはり行動は必要だ。　親王と署長、この二人の構想は、暴挙といえば暴挙であったが至当といえば至当に違いなかった。
 
