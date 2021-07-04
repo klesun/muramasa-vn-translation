@@ -4575,7 +4575,7 @@ I walked into the room that was reserved for me, sat down, and immediately unfol
 The Minamoto clan's chief paid a visit to Hachiman Shrine to pray for their fortune and to perform a ceremony.　They were attacked,  
 
 正三位六衛大将領、元帥竜軍大将、大和の覇者、足利護氏を―――　討つ。
-and Ashikaga Goji, the third ranked general of the Sixth order, general of the Imperial Army, and Champion of Yamato, was defeated. 
+and Ashikaga Moriuji, the third ranked general of the Sixth order, general of the Imperial Army, and Champion of Yamato, was defeated. 
 (recheck this later)
 
 「……そして」
@@ -4612,7 +4612,7 @@ If they wanted to reject their unpleasant fate and have a relatively better futu
 「It seems that」
 
 暗殺を実行できる者は、俺しかいない。　足利護氏は戦歴余る武者。銃一丁で倒せるような男ではない。同じ武者だけがその首級を狙える。
-I'm the only one who could carry out the assassination. Ashikaga Gouji is a musha with a long history. He is not the kind of man who can be defeated with a gun. Only another musha can take his head. 
+I'm the only one who could carry out the assassination. Ashikaga Moriuji is a musha with a long history. He is not the kind of man who can be defeated with a gun. Only another musha can take his head. 
 
 春煕親王は大仰に頭を下げたりしなかった。　大和のため国民のためと、くどく言い重ねることも。
 Imperial prince (name later) did not bow down in a grandiose fashion. He also did not try to persuade everyone that he was doing it for the sake of Japan and its people. 
@@ -4633,7 +4633,7 @@ It will not be an easy plan. There may be some failures, and some things may be 
 Above all, I coulnd't come up with a better plan myself, so I had no reason to deny it. There is no angle in which I could say that the prince was wrong. 
 
 ……ならばできるか。　足利護氏を襲い、命を奪えるか。
-...Then can I do it? Can I attack Ashikaga Goji and take his life? 
+...Then can I do it? Can I attack Ashikaga Moriuji and take his life? 
 
 （大和のために）
 （This is for Yamato.）
@@ -4669,7 +4669,7 @@ For my good, I will consider his good as evil. One sword, one kill, that is coun
 My answer was set in stone.
 
 「行きましょう。　奉刀参拝の日、足利護氏の前へ」
-「Let's go. On the day of the ceremony, let us go before Ashikaga Gouji.」
+「Let's go. On the day of the ceremony, let us go before Ashikaga Moriuji.」
 
 「……やってくれるんか？」
 「...Are you going to do it?」
@@ -4690,7 +4690,7 @@ I shook my head.
 「I will decide once I meet the person himself. 
 
 「足利護氏は殺さねばならない男なのか。　この目で、見て……決めたく思います」
-「Whether or not Ashikaga Gouji is someone that must be killed. I will see with my own eyes... and then decide.」
+「Whether or not Ashikaga Moriuji is someone that must be killed. I will see with my own eyes... and then decide.」
 
 「…………」
 「…………」
@@ -4747,10 +4747,10 @@ If you kill your enemy, you will also kill your ally.
 「…………」
 
 「舞殿宮殿下。　もしも自分が、足利護氏を斬った暁には」
-「Your highness Maidonomiya. If I were to slay Ashikaga Gouji,」
+「Your highness Maidonomiya. If I were to slay Ashikaga Moriuji,」
 
 「貴方の御命をも頂かねばなりません」
-「I would also have to take the life of an ally as well.」
+「I would also have to take your life as well.」
 
 それが村正の掟。　善悪相殺の律法。
 That is the law of Muramasa. The precept of counterbalancing good and evil.
@@ -4765,7 +4765,7 @@ That is the law of Muramasa. The precept of counterbalancing good and evil.
 「……」
 
 「このアホが大将領と差し違えるわけやな。　……大儲けやないか」
-「It seems this fool has been mistaken as a great general. ...How fortunate.」
+「It seems that fool has been mistaken as a great general. ...How unfortunate.」
 
 「わしの代わりなら、何処にでもおるわ」
 「You can find a replacement for me anywhere.」
@@ -4774,7 +4774,7 @@ That is the law of Muramasa. The precept of counterbalancing good and evil.
 「Your highness...」
 
 嘘の響きは聞き取れなかった。　……それはもしかすると、俺の耳が騙されただけで、親王はいま内心で用が済んだら俺を始末しようと決意しているのかもしれない。
-It didn't sound like a lie. 
+It didn't sound like a lie. ...It could be that my ears are just deceiving me, and that the prince is secretly thinking of getting rid of me when it's all done.
 
 どちらが真実か。　　どちらであっても、舞殿宮春煕親王という人物は、心底からの敬意を払うに値する。
 Which is true? Whichever it is, prince Haruki of Maidonomiya is someone who deserves my deepest respect. 
@@ -4807,13 +4807,13 @@ Without looking back towards the bamboo curtains, the chief said his eyes on me 
 ――Counterbalancing good and evil.
 
 足利護氏を斬るなら、この人も斬らねばならない。
-If I were to kill Ashikaga Gouji, I would have to kill this person as well.
+If I were to kill Ashikaga Moriuji, I would have to kill this person as well.
 
 「署長……」
 「Chief...」
 
 「明堯様」
-「
+「Akitaka-sama」
 
 何年ぶりにか、養父の名を呼ぶ。　応えはなかった。
 For the first time in many years, I called out my adoptive father's name.　There was no response.
@@ -4828,7 +4828,7 @@ How can I cut down this person to whom I owe so much with my own hands?
 （However)
 
 そう思う一方、足利護氏は構わず斬れるのか。
-But at the same time, could I really kill Ashikaga Gouji without any care?
+But at the same time, could I really kill Ashikaga Moriuji without any care?
 
 同じ人間である。　善あり悪あり功あり罪ある、同じ只人である。
 He is also human. He is also an ordinary person who has his goods and bads.
@@ -4855,10 +4855,10 @@ Yes. That's how it is.
 「……」
 
 「大将領を斬った、その時は……　貴方を」
-「Once I kill the general, I will... an ally」
+「Once I kill the general, I will... you」
 
 斬る。
-I will kill them.
+I will kill him.
 
 この養父を斬る。
 I will kill my foster father.
@@ -4867,7 +4867,7 @@ I will kill my foster father.
 I have to kill him.
 
 ……斬れぬのなら、　足利護氏もまた、斬ってはならないのだ。
-...If I can't, I won't be able to kill Ashikaga Gouji either.
+...If I can't, I won't be able to kill Ashikaga Moriuji either.
 
 「という次第だ」
 「That's how it is.」
@@ -4972,10 +4972,10 @@ There were some major differences between that map and the publicly available ma
 「That's right.」
 
 大階段を登った上にある社。　上宮と呼ばれる。
-The shrine is located at the top of a large staircase.　It is called (name later).
+The shrine is located at the top of a large staircase.　It is called the Jouguu (Upper Palace).
 
 《その奥にある……これは何？》
-《There's something inside... What's this?》
+《There's something at the back... What's this?》
 
 「隠された裏参道だそうだ。　ぐるりと回って、地下へ向かう」
 「They said it's a hidden path. If you go around, you can head for the basement.」
@@ -4984,115 +4984,116 @@ The shrine is located at the top of a large staircase.　It is called (name late
 《...And the spacious room beyond that?》
 
 「下宮だ」
-「It's the  (name) 」
+「It's the Geguu (Lower Palace). 」
 
 《下宮はこっちでしょう？》
-《Isn't the (name) supposed to be over here?》
+《Isn't the Geguu supposed to be over here?》
 
 「それは若宮。　若宮も下宮と呼ばれるが、本当はこちらを指すらしい」
-「That's the Wakamiya. The Wakamiya is also called (name), but it seems the real one is this one.」
+「That's the Wakamiya. The Wakamiya is also called Geguu, but it seems the real one is this one.」
 
 上宮の真下の、地下空間を指差して言う。　そんなものが存在するなどと、俺もつい先刻聞いて知ったばかりだ。
-
+I said as I pointed at the underground space underneath the upper palace. I've only just now learned of the existence of such a thing.
 
 限られた祭事の折にしか開かれない施設で、公には秘されている、との話であった。
-
+I was told that it was a facility that was only open on limited occasions, and that it was kept secret from the public.
 
 「奉刀参拝の手順だが……　参拝そのものは、大将領と十人余りの側近だけで行われる」
-
+「About the sword offering ceremonial procedures... The ceremony itself will only be performed by the general and his entourage of 10 people.」
 
 「普陀楽から八幡宮までは相当数の兵を引き連れて来るが、彼らは祭祀に関与しない。　徒士衆は敷地の外、武者衆は境内や上空で警備につく」
-
+「They will bring a considerable number of soldiers with them from Fudaraku to Hachiman Shrine, but they will not be involved in the rituals.　The toushis will be outside the grounds, and the mushas will be on guard inside the grounds.」
 
 《……》
 《……》
 
 「大将領と側近は上宮へ向かう。　そこで太刀を奉納、祭儀を執り行う」
-
+「The general and his entourage will head towards the upper palace. There, the will offer up the sword and perform the ritual.」
 
 「ここまで襲撃の隙はない」
-
+「There are no openings to make an attack so far.」
 
 《大銀杏の陰に隠れてってわけにはいかないのね》
-
+《There's also no way you can hide behind the large ginkgo tree, is there》
 
 「実朝公の時は本人も随員も非武装であったから、公暁はそれで成功したがな。　護氏が連れる側近のうち少なくとも半数は武者だと云う」
+「In the case of Lord Sanetomo, both he and his entourage were unarmed, so Kugyō (Minamoto no Yoshinari) was successful because of that. But among all the aides that accompanied Moriuji, at least half of them are mushas.」
 
 
 不意を襲っても彼らに防がれるだろう。　そうこうする間に周辺から警備の者が集まってきて、取り囲まれ、終わりだ。
-
+Even if we ambush them they would probably block it. Then when we are making our escape, guards from the surrounding area will surround us, and it would be over.
 
 「しかし、この後。　護氏は供奉の者と別れ、地下へ向かう」
-
+「But after this, Moriuji will part ways with his attendants and head to the basement.」
 
 《……》
 《……》
 
 「秘密の下宮にも太刀を奉納するためだ。　同行を許されるのは、祭祀を行う神官数名だけ」
-
+「It's to offer up the sword in the secret Lower Palace as well. The only one who is allowed to accompany him would be a few priests who will perform the ritual.」
 
 《護衛はなし？　……また随分と、おあつらえ向きね》
-
+《No escorts? ...That's surprisingly ideal.》
 
 「これが古くからの慣例で、変更はできないらしい」
-
+「It's apparently an old custom that can't be changed.」
 
 達て望めば変えられなくもないのだろうが、それでは臆病者の謗りを受ける。　身内の信望を失い、四公方の誰かに地位を奪われるような事態になりかねない。
-
+It could be changed if he strongly requested so, but then he will receive critism for being a coward. He will lose the confindence of his people and his position as one of the four lords might be stolen by someone else.
 
 六波羅元帥がそんな運命を良しとするとは考えられなかった。
-
+There was no way that general Rokhara would approve of such a fate.
 
 「暗殺の機会があるとすれば、この下宮参拝の時だけだ」
-
+「The only chance for an assassination would be during the ceremony on the Lower Palace.」
 
 《でしょうね……》
-
+《It seems so...》
 
 「問題は」
-
+「The problem is」
 
 ここから先の具体案。
-
+The planning from here on out.
 
 事前に下宮へ潜んで待つのは難しい。　参拝儀式に先立って境内全域の検査が行われ、危険要素はこの段階で徹底的に洗い出される。それが完了すれば警備網が敷かれ、以後の潜入は不可能となる。
-
+It is difficult to hide and wait in the lower shrine beforehand.　
 
 儀式中の強行突入などは論外だ。
 
 
 「……やはり手は一つか」
-
+「...I guess there's only one way.」
 
 《神官になりすまして、大将領と一緒に下宮へ降りる？》
-
+《
 
 「ああ」
-
+「Yeah.」
 
 そして暗殺を遂げた場合には、すぐさま八幡宮から脱出。これに手管は要らず、騎航での強行突破で良い。　外からの敵襲に備えた警備網は内からの奇襲に即応しかねるだろう。捕まる危険はごく低い筈だった。
 
 
 《そうね。　……問題はなさそうだけど》
-
+《Yeah. ...There doesn't seem to be any problems.》
 
 《何を悩んでるの？》
-
+《What are you worried about?》
 
 「お前をどうするかだ」
-
+「What I'm going to do with you.」
 
 護氏は武者。　もしも挑むことになるなら、劒冑がなくては勝負にならない。
-
+Moriuji is a musha. If you were to challenge him, you would need a tsurugi or else it can't even be called a fight.
 
 のだが……
-
+But...
 
 「持ち込む方法が思いつかん」
-
+「I can't think of a way to bring you in.」
 
 《……私だけ、あらかじめ潜伏しておくってのは駄目なの？》
-
+《
 
 「事前検査には武者も加わるそうだ。　如何にお前が隠形に優れていても、武者の信号探査や熱源探査まで騙すのは無理だろう」
 
