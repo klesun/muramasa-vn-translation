@@ -5057,25 +5057,25 @@ There was no way that general Rokhara would approve of such a fate.
 The planning from here on out.
 
 事前に下宮へ潜んで待つのは難しい。　参拝儀式に先立って境内全域の検査が行われ、危険要素はこの段階で徹底的に洗い出される。それが完了すれば警備網が敷かれ、以後の潜入は不可能となる。
-It is difficult to hide and wait in the lower shrine beforehand.　
+It is difficult to hide and wait in the lower shrine beforehand. The entire premise will go through an inspection before the ceremony starts, and any dangerous elements would thoroughly identified at this stage. A security network will be set up once the inspections are done, attemps of inflitration will be impossible hereafter.
 
 儀式中の強行突入などは論外だ。
-
+Forcible entry during the ceremony is out of the question.
 
 「……やはり手は一つか」
 「...I guess there's only one way.」
 
 《神官になりすまして、大将領と一緒に下宮へ降りる？》
-《
+《Disguise yourself as a priest and go down to the lower palace together with the general?》
 
 「ああ」
 「Yeah.」
 
 そして暗殺を遂げた場合には、すぐさま八幡宮から脱出。これに手管は要らず、騎航での強行突破で良い。　外からの敵襲に備えた警備網は内からの奇襲に即応しかねるだろう。捕まる危険はごく低い筈だった。
-
+Should the assassination proved to be successful, immediately make an escape from Hachiman shrine. No tricks are needed for this, we can just force our way through. The security network that had been prepared for an enemy attack from the outside would not be able to respond immediately to a surprise attack from the inside. The risk of being caught should be very low.
 
 《そうね。　……問題はなさそうだけど》
-《Yeah. ...There doesn't seem to be any problems.》
+《Yeah. ...There doesn't seem to be any problems, but》
 
 《何を悩んでるの？》
 《What are you worried about?》
@@ -5093,40 +5093,37 @@ But...
 「I can't think of a way to bring you in.」
 
 《……私だけ、あらかじめ潜伏しておくってのは駄目なの？》
-《
+《...Is it not possible for me to hide in advance?》
 
 「事前検査には武者も加わるそうだ。　如何にお前が隠形に優れていても、武者の信号探査や熱源探査まで騙すのは無理だろう」
-
+「It seems mushas will also participate for the inspection. No matter how good you are at concealment, you won't be able to fool a musha's signal detection and heat source detection.」
 
 《…………。　検査が済んだ後で潜り込もうとしても……同じことよね？》
-
+《...Trying to sneak in once the inspections are done would... lead to the same thing, huh?》
 
 「警備隊に武者がいない筈はないからな……」
-
+「Yeah, since there's no way the guards won't have a musha in their ranks...」
 
 《祭具の中に紛れ込むとか》
-
+《How about blending in with the ritual equipments?》
 
 「無理だろう。　鏡や玉と一緒に蜘蛛の彫像があったら普通気付く。奇天烈過ぎる。文化的に有り得ん」
-
+「That won't be possible. People would usually realize it if a statue of a spider were mixed in with a mirror or a jade. It's too odd. It's culturally impossible.」
 
 《……私、貴方の家で五百年ばかり、鏡や玉と一緒に御神体やってたんですけど》
+《...I've been a deity in your house for 500 years along with mirrors and jades though.》
 
-
-「…………
-
-
-そうだったな」
-
+「…………そうだったな」
+「...You did.」
 
 振り返れば、奇天烈に過ぎる祭祀であった。
-
+In retrospect, the ritual was too bizarre to be true.
 
 つまるところ、考えはここで渦を巻く。　俺一人の潜入なら神官を装えば済む話だが、村正を連れてとなるともう一工夫が要る――しかし良い案が浮かばない。
+In the end, my thoughts came to a full circle. If I were to sneak in alone, I could just pose as a priest, but if I want to take Muramasa with me, I'd have to be creative―― but I can't come up with a good idea.
 
-
-いっそ神官ではなく警備の武者になりすまして……
-
+いっそ神官ではなく警備の武者になりすまして…… 無駄か。
+I'd rather impersonate a musha instead of a priest... I guess that's impossible. 
 
 そもそもなりかわる困難が神官の比ではない。　六波羅百万騎と称される大軍団の中でも武者はごく限られた特権階級、『無名の者』などいない。誰かが消え、代わりに別の者が増えていれば、必ず露見する。
 
@@ -5147,22 +5144,22 @@ But...
 
 
 「その通りだが、約束した手前、何もせずでは宮殿下に対して義理が立たん」
-
+「
 
 《待って。　要は、私も神官のふりをすればいいわけよね？》
-
+《Wait
 
 「無茶を言うな」
-
+「Don't say
 
 蜘蛛の御神体以上に、蜘蛛の神官は有り得ない。
 
 
 《御堂はあの時、見なかったの？》
-
+《Did you not see it that time, Midou?》
 
 「何をだ」
-
+「See what?」
 
 《…………。　そうね……》
 
