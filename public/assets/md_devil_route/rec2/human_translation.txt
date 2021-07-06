@@ -5122,38 +5122,38 @@ In retrospect, the ritual was too bizarre to be true.
 つまるところ、考えはここで渦を巻く。　俺一人の潜入なら神官を装えば済む話だが、村正を連れてとなるともう一工夫が要る――しかし良い案が浮かばない。
 In the end, my thoughts came to a full circle. If I were to sneak in alone, I could just pose as a priest, but if I want to take Muramasa with me, I'd have to be creative―― but I can't come up with a good idea.
 
-いっそ神官ではなく警備の武者になりすまして…… 無駄か。
-I'd rather impersonate a musha instead of a priest... I guess that's impossible. 
+いっそ神官ではなく警備の武者になりすまして…… 無駄か。警備兵が任務を放り出して下官へ向かったりすれば、その時点で騒ぎになる。
+I'd rather impersonate a musha instead of a priest... I guess that's impossible. If the guards were to abandon their duties and head to the lower palace, there will be an uproar the moment we're found out.
 
 そもそもなりかわる困難が神官の比ではない。　六波羅百万騎と称される大軍団の中でも武者はごく限られた特権階級、『無名の者』などいない。誰かが消え、代わりに別の者が増えていれば、必ず露見する。
-
+In the first place, the difficulty of trying to become a priest makes it not worth considering. Even within the great army that called itself the Rokhara Hyakumanki (one million cavalry of rokhara), mushas are a privileged class, there is no such thing as an "unknown person". If someone disappears and is replaced by another, they will definitely be discovered.
 
 入念な準備の上で潜入するなら、見込みもあろうが。　……そんな事をしている時間は無い。
-
+If you were to infiltrate with careful preparation, there might be a chance. ...But there's no time to do that.
 
 《…………》
 《…………》
 
 「どうも手立ては無さそうだ。　暗殺は断念するか」
-
+「There doesn't seem to be a way. I guess we should give up on the assassination.」
 
 「俺が単身で潜入するだけしよう。　それならさして難しいことはない」
-
+「I'll just go in alone.　If I do that it shouldn't be too hard.」
 
 《危険よ。ばれた時どうするの。　それに、襲う気もないのに潜り込んだって意味がないじゃない》
-
+《That's dangerous. What are you going to do if you're discovered? Besides, what's the point of sneaking in if you're not going to attack?》
 
 「その通りだが、約束した手前、何もせずでは宮殿下に対して義理が立たん」
-「
+「That's exactly right, but since I've made a promise, I won't be able to face his highness if I do nothing.」
 
 《待って。　要は、私も神官のふりをすればいいわけよね？》
-《Wait
+《Wait. In short, I just need to pretend to be a priest too, right?》
 
 「無茶を言うな」
-「Don't say
+「Don't be absurd.」
 
 蜘蛛の御神体以上に、蜘蛛の神官は有り得ない。
-
+A spider priest is much more preposterous than a spider deity. 
 
 《御堂はあの時、見なかったの？》
 《Did you not see it that time, Midou?》
@@ -5162,88 +5162,88 @@ I'd rather impersonate a musha instead of a priest... I guess that's impossible.
 「See what?」
 
 《…………。　そうね……》
-
+《... Hmm...》
 
 《母様は、一歩進めればできると言っていた。　……試してみましょうか》
-
+《Mother said I could do it if I took one step forward.　...Shall we try?》
 
 「……？」
 「……？」
 
 「村正？」
-
+「Muramasa?」
 
 《今は見ていて。　……あの時の……母様の術式は……》
-
+《Just watch. ...The technique... that Mother used that time...》
 
 《おそらく……》
-
+《it's probably...》
 
 「何を――」
-
+「What are you――」
 
 《昔の姿に戻ってみる》
-
+《I'll try to go back to my old form.》
 
 「……昔の?」
-
+「...Old form?」
 
 それはどういう意味だ。　まさか。
-
+What does she mean by that? Could it be
 
 《これで――》
-
+《With this I――》
 
 「…………………」
 「…………………」
 
 《――で》
-
+《―― I》
 
 《できた》
-
+《I did it!》
 
 《できちゃった……》
-
+《I actually did it...》
 
 「……村正……」
-
+「...Muramasa...」
 
 「お――お前なのか……」
-
+「I-Is that you...」
 
 《……ええ。御堂。　私よ》
-
+《...Yes, Midou. It's me.》
 
 《蝦夷として生きていた頃の私よ！》
-
+《This is me when I was still living as a human!》
 
 …………………
 …………………
 
-そうか」
-
+「そうか」
+「...I see.」
 
 「非常に……　その、個性的……だな？」
-
+「It's very... Umm, unique... isn't it?」
 
 《…………》
 《…………》
 
 《あれ……？　私、ものすごく間違えてる……？》
-
+《Huh...? Did I make a huge mistake...?》
 
 「……然らば、舞殿宮殿下。　これより太刀奉納の儀のため八幡宮へ赴きますゆえ」
-
+「...If that case, your highness Maidonomiya, I will now go to Hachiman Shrine for the sword offering ceremony.」
 
 「普陀楽の留守と奉幣使九条殿の饗応、何卒宜しくお頼み申します」
-
+「
 
 「あぁ、うん。　そっちも宜しゅうにな、六府」
-
+「Ah, yup. 
 
 「はっ。　国家百年の繁栄を祈願して参りましょう」
-
+「Yes. 
 
 「そらええことやなァ」
 
@@ -5267,7 +5267,7 @@ I'd rather impersonate a musha instead of a priest... I guess that's impossible.
 
 
 「はい、お父様」
-
+「Yes, father.」
 
 「み……宮殿下……」
 
