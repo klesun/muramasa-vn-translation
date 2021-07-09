@@ -5348,7 +5348,7 @@ What does she mean by that? Could it be
 「……」
 
 「何もご存じなかったのなら……話は簡単に済みましょうな。　して、如何に」
-「If you truly didn't know... this problem can be solved easily. However, if」
+「If you truly didn't know... this problem can be solved easily. However, if-」
 
 「……」
 「……」
@@ -5372,7 +5372,7 @@ What does she mean by that? Could it be
 「...Fufu...」
 
 「……では、宮殿下。　この者の処分は当方に一任して頂いて構いませぬな」
-「...If so, you wouldn't mind leaving the disposition of this man to us, you highness? 」
+「...If so, you wouldn't mind leaving the disposition of this man to us, your highness? 」
 
 「あぁ、……かまへん。　どうとでもしてや」
 「Yes, ...I don't mind. Do as you like.」
@@ -5390,79 +5390,79 @@ What does she mean by that? Could it be
 「...Yeah」
 
 「岡部の死に損ねも近々一網打尽に捕らまえ、あやつめの後を追わせましょう。　どうか安んじてお待ちあれ」
-
+「I will soon capture the rest of Okabe's followers who escaped death, and I will chase after him as well. Please rest easy and wait.」
 
 「……」
 「……」
 
 「この六府、宮殿下が愚劣なる大逆の企てに関わりなしと知り、心より安堵致しました。　宮殿下は物の道理を良くわきまえた御方、元より疑ってなどおりませなんだが――」
-
+「This Rikufu is deeply relieved to know that Your Highness is not involved in this foolish and treasonous plot. Though I never had a doubt, since your highness is a man of principle――」
 
 「どうか今後とも、御身を正しく保たれますよう」
-「
+「Please keep yourself righteous in the future.」
 
 「わかってるよ……」
 「I know...」
 
 「お陰をもちまして、心置きなく奉刀の儀を執り行えまする。　では……これにて」
-
+「Thanks to you, I can now perform the sword offering ceremony without any worries. Well then... That is all.」
 
 「……」
 「……」
 
 「宮殿下」
-
+「Your highness.」
 
 「何やね」
-
+「What?」
 
 「沙羅双樹の花の色は、盛者必衰の理を表す。　驕り高ぶる者の世も、春の夜の夢に等しい」
-
+「The color of the flower from the twin Sal trees represents the truth that even the most prospering person will surely decline. The world of the proud is but a dream on a spring night.」
 
 「――とでも念じて、気長に待たれるが宜しかろうと存ずる。　六波羅は狭量にあらず、頭の中で夢を楽しまれている分には咎め立ても致しませぬゆえ」
-
+「――though it is recited as such, I think it is better to wait patiently. Rokhara is not narrow-minded, he will not blame you for enjoying your dream in your mind.」
 
 「…………」
 「…………」
 
 「クククク……　カハハハハハハハハハハハッ!」
-
+「Kukukuku... Gahahahahahahahaha!」
 
 「……」
 「……」
 
 「……ッ……」
-
+「...」
 
 「護氏は普陀楽を出た。　もうじきここへ着く」
-
+「Moriuji has left Fudaraku. He will be here shortly.」
 
 「諒解」
-
+「Understood.」
 
 「用意はいいのか？」
-
+「Have you finished your preparations?」
 
 「本物の神官と入れ替わる手筈は万端整っています。　実行に二分と掛かりません」
-
+「The preparations to change places with a real priest are in place. It won't take more than two minutes to carry out.」
 
 「そうか。　……狙うのはやはり下宮だな？」
-
+「I see. ...In any case, you're aiming for the lower palace, right? 」
 
 「はい」
-
+「Yes.」
 
 「大将領の手の者が既に潜んでいる、などということは万一にもないのか……それだけが懸念だ」
-
+「The only thing I'm concerned about is whether or not there's any chance that the general's subordinates are already hiding in there.」
 
 「その点は再三確かめました。　今、村正が最後の確認を――」
-
+「I have checked again and again. Right now, Muramasa is doing the last check――」
 
 「大丈夫よ、御堂。　下宮には誰もいない」
-
+「It's all good, Midou. There is no one in the lower palace.」
 
 「どう見ても隠れ潜むには不都合な場所だし、間違いはないでしょう」
-
+「No matter how you look at it, it's an inconvenient place to hide, you can't go wrong.」
 
 「…………」
 「…………」
@@ -5471,28 +5471,28 @@ What does she mean by that? Could it be
 「…………」
 
 「景明」
-
+「Kageaki.」
 
 「はい」
-
+「Yes.」
 
 「どういう事だ」
-
+「What is the meaning of this?」
 
 「どういう事なのでしょうか」
-
+「What do you mean?」
 
 「他人事のように言ってどうする……」
-
+「How could you say that as if it's someone else's problem...」
 
 「自分も途方もなく戸惑っているのです。　御容赦下さい」
-
+「I'm at a tremendous loss myself. Please forgive me.」
 
 「……そうか」
-
+「...I see.」
 
 「何よ？」
-
+「What is it?」
 
 「…………」
 「…………」
@@ -5504,28 +5504,29 @@ What does she mean by that? Could it be
 「……？」
 
 ――――何故、こうなる。
-
+――――How did this happen?
 
 鎧だったのだ。
-
+She was an armor.
 
 蜘蛛だったのだ。
-
+She was a spider.
 
 ある日突然、妙齢の女性に化ける道理がない。
-
+There was no reason for her to suddenly turn into a young woman.
 
 恩返しに来た鶴でもあるまいに。
-
+It's not like the cranes are here to return the favor.
+(TL/n: Japanese folk story --> the old man helps a crane caught in a trap, the crane changes its appearance to a human woman and returns the favor to the old man and his wife.)
 
 （どうしろと）
-
+（What do you want me to do?）
 
 どうしたらいいものやら。　この姿を見るのもこれで幾度目かだが、未だにわからない。
-
+I don't know what to do.　I've seen this figure several times by now, but I still don't know.
 
 わからな過ぎる。
-
+I have no idea.
 
 とどのつまり自分が何を悩んでいるのかすら、良くわからない。　とにかくこの現状が俺の頭脳では消化不可能なのだ。
 
@@ -5537,10 +5538,10 @@ What does she mean by that? Could it be
 「……」
 
 「どうしたの？」
-
+「What's wrong?」
 
 「きゃっ！」
-
+「Kya!」
 
 「……」
 「……」
