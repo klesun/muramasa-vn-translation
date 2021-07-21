@@ -6488,16 +6488,17 @@ First of all, let's try to lure them in.　If it works, good. If not...
 My heart skipped a beat.　A roar without warning.
 
 合当理だ。　敵騎が――合当理に火を入れている。
-
+It's the Gattari. There's fire coming out of the opponent's Gattari.
+(tl/n: Gattari --> banner mounting at the back of samurai armor)
 
 （真逆）
-
+（No way）
 
 ……騎航するつもりか?　この限られた空間で！
-
+...Is he trying to take off? In this confined space?!
 
 「思い出してきたわ……」
-「I remembered something...」
+「I'm starting to remember...」
 
 「……？」
 「……？」
@@ -6506,100 +6507,101 @@ My heart skipped a beat.　A roar without warning.
 「The winds of war. The suffocating smell of corpses.」
 
 「反吐を催す――――あの匂い」
-「The smell... that made me want to vomit.」
+「That repulsive smell...」
 
 ――――飛び立った、
-
+He took off.
 
 （無茶を）
-
+（He's being reckless)
 
 焦りに負けたのか。　これは、どう計っても自殺行為……
-
+He gave in to impatience. This is suicide no matter how you look at it. 
 
 敵騎の姿が消えるのと、ほとんど同瞬に襲ってきた一刀を危うく打ち返す。　正確に首根を狙っていたその太刀筋に、皮膚が総毛立った。
-
+As the enemy disappeared, I barely returned the strike that came towards me at about the same moment. It was a very precise strike to the base of the neck, and the strike made my skin crawl.
 
 しかし、この先は――　敵騎は壁に突入して、己の墓穴を掘るしかない筈、
-
+But from here on out, the enemy would have no choice but to charge into the wall and dig their own grave... 
 
 「何だとォ?」
-「What?」
+「What the-?」
 
 有り得ぬ光景が顕現した。
-
+An unbelievable scene manifested itself.
 
 猛スピードで壁に突き進んだ敵騎が、刹那、騎体を反転させ。　対面効果も利用し、勢力を絶妙に殺す……
-
+The enemy, which has been plunging towards the wall at great speed, changed directions in an instant. By utilizing the fact that we were face-to-face, he perfectly killed off his momentum... *check again
 
 そして両脚で壁を蹴り。　再び、俺目掛けて襲い来る!
-
+Then he kicks the wall with both legs. And again, he set his sights on me and attacked. 
 
 《冗談でしょぉっ?》
-
+《You're kidding, right?》
 
 完全に意表を突かれては、躱しきるのも無理だった。　胸甲に刃先を浴びる。
-
+It was impossible to dodge when you were caught completely off guard. The tip of the blade hit my breastplate.
 
 寸前で上体を反らし、浅傷に留めるのが精々の限度。　反撃などしている暇はなかった。
-
+He was able to turn his body around just in time and only sustain a minor injury.　There was no time for a counterattack.
 
 ……夢だと思いたいところだが、夢ではない。　異常も異常、無道法外の騎体運動を、敵は実現している！
-
+...I would like to think that it's just a dream, but it's not. The enemy just did an extraordinary and outrageous move.
 
 「縦回転ができるような騎体かっ?」
-
+「It's capable of doing a Kulbit?」
+(tl/n: Kulbit --> an aerial maneuver where an aircraft performs an extremely tight loop, often not much wider than the length of the aircraft itself.)
 
 「貴様が洟を垂らしていた頃の、大陸の戦で……石窟寺院に立て篭もって敵の軍勢を迎え撃ったことがあった」
-
+「While you were snivelling, there was a time when I confined myself in a cave temple to intercept an enemy army.」
 
 「これはその折に編み出した技術よ。　若造がッ、どう背伸びしても届くまい！」
-
+「This is a technique I developed at that time. No matter how much you push yourself, you won't be able reach it lad!」
 
 「あ、あの大将軍……　実は〝赤い悪魔〟戦団の出身ではなかろうな」
-
+「T-That general... he's not actually from from the Freiherr Flying Circus, is he?」
 
 《余裕っぽいこと言ってる場合かな》
-
+《Is it really the time to be saying such carefree things?》
 
 全く違う。
-
+It's completely different.
 
 片や騎航、片や徒行では、速力に差がつき過ぎる。　後者唯一の利点であり、本来ならこの空間において大きく意味をなす筈の小回りは、敵手の常軌を逸した曲芸技でほぼ無効化されてしまった。
-
+There is too much of a gap between his flying speed and ground speed. The latter could be the only advantage I have against him. Originally, the tight turns in this empty space would be of great significance, but even that has been nullified by his unorthodox acrobatics.
 
 このままでは何もできずに斬り刻まれる。
-
+If I don't do anything, I'll be cut to pieces.
 
 これで三度。　……どうにか決定打は避けているが、運にせよ技量にせよいつまでも続くまい。
-
+This is the third time. ...I managed to avoid his decisive blow somehow, but whether that was luck or skill, it wouldn't last forever.
 
 敵騎の運動が速過ぎ、奇想天外過ぎて、対応の手が完全に遅れてしまう。　反撃、迎撃が実行できないのだ。
-
+The enemy's movement is too fast and unreadable, anything I have to equal him will definitely not be fast enough. I can't counterattack nor intercept.
 
 一方的に攻め立てられるばかりでは、つまり敗北が時間の問題である。
-
+If he one-sidedly keeps up his onslaught, our defeat will be a matter of time.
 
 （どう……する？）
-
+（What should... I do?）
 
 無理矢理にでも手を出すか？　しかし、それが致命的な隙を生めばそこまでとなる勝負。
-
+Should I make a move even if I have to force myself? However, if that gives birth to a fatal gap in my defences, that will be the end of the battle. 
 
 ならこちらも騎航して――それこそ最悪の下策だ。　俺にあんな芸当はできない。今日が初騎航の騎士のように蝶々泳ぎをするのが関の山。
-
+Then we'll fly too―― That's the worst possible plan. I can't pull off such a stunt. The most I could do would be to do a butterfly stroke just like a pilot on his first day of flight. 
 
 宙に浮く分、今より状況が悪化する。　敵騎は墜落を避けるため、攻撃の際は必ず水平騎航で来るが、俺が地面から離れればその制約も必要なくなるからだ。
-
+If I was in the air, the situation would be worse than it is right now. 
 
 どちらの選択も分が悪過ぎる。　だが――しかし……。
 
 
 《……御堂！》
-
+《...Midou!》
 
 「村正？」
-
+「Muramasa?」
 
 「往生際の良からぬ奴。　潔く首を差し出せば、綺麗に刎ねてやろうものを！」
 
