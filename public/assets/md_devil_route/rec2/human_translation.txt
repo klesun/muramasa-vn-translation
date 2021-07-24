@@ -6224,7 +6224,7 @@ This man does not wish to rule in order to govern. He does politics as a means o
 「I've been too generous even if it is a gift for you to take to the afterlife. Well, that's okay... I'll give you one more honor while I'm at it.」
 
 「鬚切！」
-「Higekiri!」
+「Higekiri (beard cutter)!」
 
 「!」
 
@@ -6731,10 +6731,10 @@ I wanted to end the battle then, but it can't be helped.
 We are wounded, but the damage to the enemy is more severe now. As long as we're not careless, we can bring them down.
 
 前方、左右に足を進め、打ち込む間合を計る。　しかし敵も然る者、いちいち巧妙に間を外す。
-
+I moved my left leg forward, followed by the right, trying to get into striking distance. But the enemy is formidable, he never lets me close the distance.
 
 戦闘経験では先方に分が有るせいか、埒が明かない。
-
+Perhaps it was because the opponent had the advantage in combat experience, but we couldn't make any progress.
 
 「…………」
 「…………」
@@ -6743,55 +6743,55 @@ We are wounded, but the damage to the enemy is more severe now. As long as we're
 「…………」
 
 ここまで来て、時間切れ――敵側の来援という結末は願い下げだった。　一撃受けるのを覚悟して、一気に攻め出るべきか。数秒、脳裏で考えを弄ぶ。
-
+Having come this far, I didn't want to run out of time and end up having to face the enemy reinforcements as well. Should I just prepare myself to take a blow or should I launch an attack? I played with the idea for a few seconds in my mind.
 
 ……計算上、俺にとって悪い勝負とは言えない。　が、
-
+...According to my calculations, it's not really a bad match for me. However,
 
 （村正。　あの劒冑の底をどの程度と見積もる？）
-
+（Muramasa. How strong do you think is that tsurugi's bottom armour?）
 
 《私とほぼ互角の甲鉄。反則物の機動性。　……これでおしまい、って考えるのは虫が良過ぎるんじゃないかしら》
-
+《It's armour quality is about equal to mine. It has an unfair amount of mobility. ...Thinking that this is the end of the list might be asking for too much.》
 
 （まだ、有るか）
-
+（So there's still more, huh.）
 
 《鬚切といえば、神代とまでは言わないにしても上古の作……誰がどんな技術で鍛えたのかも知られていない古代遺産よ。　何が飛び出してくるやら》
-
+《Speaking of Higekiri, although you can't say that it was made during the age of gods, it is still a creation from ancient times... It is an ancient legacy in which who or how it was made is unknown. Of all the things that could pop out.》
 
 《最低限、陰義のことは考えておくべきね。　知りたかったのはそこでしょう？》
-
+《At the very least, you should bear its shinogi in mind. That's what you wanted to know, right?》
 
 （ああ）
-
+（Yeah)
 
 陰義。　武者戦の計算外要素……計算を根底から覆し得る力。
-
+Shinogi. An unaccounted factor within a battle of mushas... A power that can overturn any calculations from its roots.
 
 追い込まれた敵騎が恃むとすれば、まずこれだろう。　おそらく今は、実行の機を窺っているのだ。
-
+This is the first thing that a cornered enemy rider would rely on. Perhaps they are now looking for an opportunity to activate it.
 
 勝負を決めようと踏み込んだ途端、待ち構えていたそれに迎え撃たれる可能性もある。
-
+As soon as you step in to decide the battle, you may be intercepted by it that has been lying in wait.
 
 《いっそこちらから仕掛ける？》
-
+《Should we attack first?》
 
 村正が言うのは、同様の手段で先手を打て、ということだ。　――こちらが先に、陰義で仕掛ける。
-
+Muramasa was saying to take the first move while using a similar ability. ――We will attack first with our shinogi.
 
 しかし相手の手の内によっては、それこそが悪手となる恐れもある。　水と火ではないが、陰義によって陰義を封ずるなどという形にはまってしまえば最期だ。
-
+However, depending on the opponent's hand, this could be a bad move. It's not like water to fire, but if it turns out my shinogi was blocked by his shinogi , that would be the end.
 
 敵の手を読めれば良いのだが……　　鬚切か。
-
+It would be great if I could read the enemy's hand... Higekiri, huh.
 
 いつからか、源氏の長たるを証す宝として重んじられてきた名劒冑。　盗賊退治に鬼退治、あるいは獣のように吠えたなど、様々な逸話を持つ。
-
+Since some time or another, it became a renown tsurugi that was honored as a treasure by head of the Minamoto clan. From the extermination of bandits to demons, and its howl that was akin to a beast, it had various anecdotes.
 
 それらを慎重に考察すれば、陰義の正体に当たりをつけることも不可能ではないのだろう。　が、俺の脳内の限られた知識を今の限られた時間で検討してみても、思い当たる何かは無かった。
-
+If I carefully examined them, it would not be impossible to find out the nature of its shinogi. However, even when I tried to go through the limited knowledge I have in my brain, with the limited time I had, I couldn't come up with anything.
 
 刃味の鋭さが特筆されているのは確かなのだが……　どの劒冑の伝説も同じだと言ってしまえばそれまでである。
 
@@ -6803,7 +6803,7 @@ We are wounded, but the damage to the enemy is more severe now. As long as we're
 
 
 （良し）
-
+（All right.）
 
 決意する。
 
