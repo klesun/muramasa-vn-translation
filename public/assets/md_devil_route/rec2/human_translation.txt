@@ -3110,7 +3110,7 @@ This wave is trying to devour from the inside out. I don't have any means to rej
 "...That's why... I will erase it..."
 
 「――――――――」
-
+「――――――――」
 
 「……あぁ……」
 「...Oh...」
@@ -3821,10 +3821,7 @@ Booting up
 「If the humans are extinct, then the conflicts will disappear as well. Father's desire will be fulfilled!」
 
 ―――――――
-
-
-》
-
+―――――――
 
 「狂っている、とでも云いたいか」
 「You want to say that I'm crazy, don't you?」
@@ -7581,9 +7578,7 @@ It's because he doesn't know. He hasn't realized.
 
 
 ―――――――
-
-
-」
+―――――――
 
 
 「ふフ」
