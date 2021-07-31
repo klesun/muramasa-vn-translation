@@ -6290,7 +6290,7 @@ I will slay Ashikaga Moriuji! And then――――
 「A tsurugi? You―――― You're a musha!」
 
 「鬼に逢うては鬼を斬る。　仏に逢うては仏を斬る」
-「When you meet a demon, slay the demon. When you meet Buddha, kill Buddha.」
+「When you meet a demon, slay the demon. When you meet Buddha, slay Buddha.」
 
 「ツルギの理ここに在り！」
 「The truth of the Tsurugi is here!」
@@ -7057,7 +7057,7 @@ My whisper was drowned out by an angry voice from the other direction. Hmm? Hika
 It was the general who was disregarded.
 
 「何か。　急ぎの用件でないなら、家族の対話に割り込まないで頂きたい」
-「What? If it's not urgent, I'd appreaciate it if you didn't interrupt our family dialogue.」
+「What? If it's not urgent, I'd appreciate it if you didn't interrupt our family dialogue.」
 
 「……き、　貴様はこの状況が見えておらんのか?」
 「...D-Do you not see what's going on?!」
@@ -7066,13 +7066,13 @@ It was the general who was disregarded.
 There was Hikaru who seemed to be displeased that my words were interrupted, as well as general Rokhara who was baffled and filled with fury. Their worlds are so seperated to the point that it's sad.
 
 断崖絶壁の上と下。　　だが――上の光には護氏とそれを取り巻くすべてが見えるが、下の護氏には漠たる空しか見えないのだ。
-Like the top and bottom of a precipitous cliff. However―― the one above, Hikaru, could see the general and everything around him, why the general below could only see a vague sky.
+Like the top and bottom of a precipitous cliff. However―― the one above, Hikaru, could see the general and everything around him, whereas the general below could only see a vague sky.
 
 大将領はいま必要なことを理解していない。
 The general doesn't understand what he needs to do now.
 
 「長庚とやら！　この有様の中にいて、何も見ておらぬことはあるまい」
-「Yuutsuzu! There is no way you didn't see anything despite when you're standing in the middle of all this!」
+「Yuutsuzu! There is no way you didn't see anything when you're standing in the middle of all this!」
 
 「予の問いに答えよ！　これはいかなる仕儀か?」
 「Answer my question! What happened here?!」
@@ -7126,7 +7126,7 @@ It's because he doesn't know. He hasn't realized.
 「Why?」
 
 「貴様がやった、だと……？　夢物語も大概にしろ。貴様の何処にそんな力があると抜かすか！」
-「You're saying that you did this...? Take your wild tales elsewhere. Which part of you 
+「You're saying that you did this...? Take your wild tales elsewhere. How in the world would you have that kind of power to do this?!
 
 「それは無論――」
 「Well, naturally that's――」
@@ -7135,10 +7135,10 @@ It's because he doesn't know. He hasn't realized.
 「... Wait, I've been the only one talking a lot for a while.」
 
 《人の相手をいちいち、まめにするからだ。　些事は適当にいなしておけ》
-《It's because you always try 
+《It's because you always try to take care of everyone's problems. Leave trivial matters aside.》
 
 「むぅ。しかし無礼は好かん。　するのもされるのも」
-
+「Hmm. But I don't like rudeness. Both being rude to someone, and vice versa.」
 
 「貴様、長庚――」
 「You, Yuutzusu――」
@@ -7147,25 +7147,25 @@ It's because he doesn't know. He hasn't realized.
 「...It can't be helped.」
 
 「先にそっちから済ませることにしよう。　六衛大将領、足利護氏卿」
-「
+「I'll take care of you first. General Rikufu, Ashikaga Moriuji.」
 
 「なにィ……？」
 「What...?」
 
 「おまえに会いに来た用向はほかでもない。　この光が、覇を問うためだ！」
-
+「I've come to see you for one reason and one reason only.　It is so that I, Hikaru, can ask you about your take on domination!」
 
 ゆるりと伸ばされる腕。　微笑む口元。
-
+An arm stretched out loosely.　A smiling mouth.
 
 紡がれる誓句。
-
+An oath was spun.
 
 「鬼に逢うては鬼を斬る」
-
+「When you meet a demon, slay the demon.」
 
 「仏に逢うては仏を斬る」
-
+「 When you meet Buddha, slay Buddha.」
 
 「……白銀の劒冑……？」
 「...A silver tsurugi...?」
@@ -7174,10 +7174,10 @@ It's because he doesn't know. He hasn't realized.
 「Could it be you're-」
 
 「ツルギの理」
-
+「The truth of the tsurugi」
 
 「ここに在り!」
-
+「is here!」
 
 「――銀星号、だと?」
 「――the silver star?」
@@ -7198,139 +7198,139 @@ It's because he doesn't know. He hasn't realized.
 「What...?」
 
 「足利護氏。　天下に武を布かんとする者。光と同じ道を求める者」
-「Ashikaga Moriuji. 
+「Ashikaga Moriuji. He who seeks to spread war under the heavens. One who seeks the same path as I.」
 
 「覇道の先達に対し、おれは礼節を示そう。　その影を拝して教えを乞おう」
-
+「I shall show civility to my predecessor who also walks the path of Hegemony. I shall bow my head in respect and ask him to teach me.」
 
 「覇とは如何に！」
-
+「What is domination?!」
 
 「――――」
 「――――」
 
 「答えられぬ道理は無かろう」
-
+「There's no reason you shouldn't be able to answer.」
 
 「……はっ。　予とあろう者が、日に二度も下民に大道を問われるとはな！」
-
+「...Haa.　To think that a man of my stature would be asked the same question twice in one day by a lowborn!」
 
 「覇を知りたいか、銀色の化物！」
-
+「You want to know the meaning of domination, you silver monster?!」
 
 「うむ！」
-
+「Yes!」
 
 「ならば知れ！　……奪い取ることだ!」
-
+「Then you shall know! ...It is to take!」
 
 「光?」
-
+「Hikaru?」
 
 「予は天下が欲しい。　だから、奪うのよ」
-
+「I want the world. That's why I'm going to take it.」
 
 「このようにしてな！　貴様の首など要らぬが、予の道に立ち塞がるのであれば刈り取るほかにあるまいて」
-
+「This is how it's done!　I don't want your head, but if it stands in my way, I have no choice but to cut it off.」
 
 《…………》
 《…………》
 
 「鬚切の秘太刀は獲物の滓も残さぬ」
-
+「The secret sword of Higekiri leaves no residue of its prey.」
 
 「幽鬼よろしく闇夜に潜んで血を啜っている分には見逃してもくれようが……　予の前にぬけぬけと姿を見せるとは、増上慢にも程があろうぞ！　戯けめ!」
-
+「I'm sure you'll be able to forgive me if I'm hiding in the dark like a ghost and sipping blood... To think you would brazenly show your face in front of me, there's a limit to how proud you can be! You fool!」
 
 「なるほど。そうか」
-
+「I see. So that's how it is.」
 
 「……ッ?」
-
+「...Ngh?」
 
 「覇とは、即ち強奪。　　異論の余地は欠片もない。至当である」
-
+「To you, domination is extortion. There is no room for objection. It is just.」
 
 「この光も全く賛同する！」
-
+「I totally agree with that!」
 
 「――――」
 「――――」
 
 「おまえはひたすらに大和が欲しいのだな。　　自分自身の存在に懸けて求めるか！」
-
+「You want Yamato desperately, right? Will you seek it even at the cost of your whole being?!」
 
 「そこまで、この国を欲してやまぬと」
-
+「Is that how much you want this country?」
 
 「……ふん。　別に大和でなくとも構わぬ」
-
+「...Hmph. It's fine even if it's not Yamato.」
 
 「……？」
 「……？」
 
 「たまたま大和に生まれたから、大和に覇を唱えるだけの話よ。　別の国でも構いはせなんだ」
-
+「I just happen to be born in Yamato, that is why I want to rule over it. I do not mind ruling over other countries as well.」
 
 「予の覇業を打ち立てられる場でさえあれば――」
-
+「As long as it's a place where I can establish my own supremacy.」
 
 「ちょっと待て」
-
+「Wait a minute.」
 
 「……何処に隠れた……？　姿を見せよ、凶賊!」
-
+「...Where are you hiding...? Show yourself, thug!」
 
 「それでは、愛が無いだろうがッッ!」
-
+「There's no love at all!」
 
 「おォッ?」
-
+「Woah?!」
 
 「なっ……くぅ!」
-
+「Ngh!」
 
 「おのれ……がっかりさせてくれおって！　真面目に聞いていたこっちが馬鹿を見たではないか！」
-
+「Damn you... How dare you let me down! I feel like a fool for listening to you seriously!」
 
 「おまえの騙る覇は覇にあらず！」
-
+「The domination you're speaking of is not true domination!」
 
 「む……無傷だと?　馬鹿なッ！」
-
+「Y-You're unharmed? That's impossible!」
 
 「貴様、何者――」
-
+「What are you――」
 
 「人の話はちゃんと聞け!」
-
+「Listen to what other people are saying!」
 
 「ごはァ?」
-
+「Gah?!」
 
 「覇とは強奪。　そこまでは正しい」
-
+「Domination is extortion. That much is true.」
 
 「だが、奪うとは何だ？　――欲し、求めるから奪うのであろう！」
-
+「However, what exactly is extorting? ――You want it, that's why you take it!」
 
 「求めるとは？　――愛しているから求めるのだ！」
-
+「Why do you seek? ――That's because of love!」
 
 「愛し、欲し、奪う！　それが覇道!」
-
+「You love, you want, you take! That is hegemony!」
 
 「足利護氏！　おまえは最初の一歩から間違っている!」
-
+「Ashikaga Moriuji! You're wrong from the very first step!
 
 「がふッ……?」
-
+「Gah, ugh...」
 
 「最初に愛が無ければ欲ではなく覇でもない！　虚栄に過ぎん！」
-
+「If there is no love, it's not greed, it's not domination! It's only vanity!」
 
 「おまえはッ！　単に！『天下を取る、かっこいい俺様』に陶酔したいだけではないかぁ!」
-
+「
 
 鬚切は――　大将領足利護氏は、そうして何処かへ飛んでいった。
 
