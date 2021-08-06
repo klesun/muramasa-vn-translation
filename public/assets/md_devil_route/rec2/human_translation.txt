@@ -8027,7 +8027,7 @@ Where is the silver star?
 The Silver Star was there.
 
 ……飛行体は、移動し続けなければ落下する。　そんな掟が、空の世界にはあった筈である。
-...If a flying object does not keep moving, it will fall. I think such a rule existed in the would of the sky.
+...If a flying object does not keep moving, it will fall. I think such a rule existed in the world of the sky.
 
 この掟を越えられるのは一部の昆虫と鳥類、そして高度な性能を備えた飛行艦のみ。　それらにしても多大な労力を支払い、ごく短時間に限って可能とするのだ。
 Only a few insects, birds, and highly sophisticated airships can ignore this rule. Even then, that is possible only for a very short time and it required a gread deal of effort.
