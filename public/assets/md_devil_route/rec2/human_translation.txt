@@ -7904,133 +7904,133 @@ The silver star shouts with delight. She pressed against the small wound with ut
 Muramasa's scream was a perfect representation of my state of mind.
 
 光の言う辰気障壁とは、村正の用いる磁気障壁――負極の磁装と同等のものだろう。　それが使えること自体は、何ら驚くに値しない。
-
+The barrier that Hikaru is referring to is probably the equivalent of the magnetic barrier that Muramasa uses―― a negative pole magnetic device. The fact that she can use it is not surprising.
 
 しかし。　常に障壁を張り巡らせながら戦っていた、となると――
-However, 
+However, she always fought with her barrier up, that means――
 
 村正の磁気障壁は多大な熱量を必要とする。　従って障壁の展開中は、騎航その他の機能に割ける余力が極めて少なくなる。
-
+Muramasa's magnetic barrier requires a great deal of heat.　Therefore, while the barrier is deployed, there is very little energy available for navigation and other functions.
 
 ために通常、磁気障壁は敵騎の攻撃を浴びる一瞬を見切ってその間のみ展開することになる。
-
+Therefore, magnetic barriers are usually deployed only during the moment when the enemy is about to attack.
 
 もしもこれを常時張れば、敵手がどう不意を打ってきても対応できる代わり、騎体性能が激減する。　総じて戦闘能力は低下する――どころではなく騎航すらまともに行えなくなるだろう。
-
+If she always has it on, it would enable her to respond to any surprise attacks, but her the performance of her other functions will be drastically reduced. In general, your fighting ability will be reduced - you won't even be able to navigate properly.
 
 つまり。
-
+Which means...
 
 「銀星号はこれまで……　性能をろくろく発揮していなかったということか……？」
-
+「Up untill now... the silver star has never shown her true strengh...?」
 
 《冗談きっつい》
-
+《This has got to be a joke.》
 
 惚けたような金打声の中に、決壊寸前の絶望を感じ取ったのは、俺の感性の錯覚ではないだろう。
-
+Within her voice that sounded like she was in a daze, I sensed that she was on the verge of falling into hopelessness. I don't think my senses are lying to me about that.
 
 悪夢だ。　悪夢にも程がある……!
-
+This is a nightmare. It's nothing short of a nightmare...!
 
 「ようやくここまで来てくれたな景明。　光の立つ処へ！」
-
+「You've finally come this far, Kageaki. To where Hikaru stands!」
 
 「おまえ相手に、辰気障壁はもはや無粋。　これよりは素肌にて迎えよう！」
-
+「With you as my opponent, using the barrier would be boorish. I will fight you without it from now on!」
 
 辰気の壁を――解いた?
-
+She released her barrier?
 
 「正真正銘の銀星号！　つまらん出し惜しみはもう無しだ！」
-
+「The true silver star! No more boring nonsense!」
 
 「味わえ！　楽しめ！　ゆくぞ、景明!」
-
+「Savor it! Enjoy it! Let's go, Kageaki!」
 
 「く――ッ?」
-
+「Guh?」
 
 ……心を折るな！　戦う前に負けるなど、武人の端くれにも有るまじき恥。
-
+...Don't lose heart! It is a shame for a warrior to admit defeat before the fight even begins.
 
 銀星号は防壁を捨てた！　いま一撃を加えれば、今度こそ墜とせる！
-
+The Silver Star has abandoned its defenses. If we can land a hit now, we can bring them down for sure!
 
 一度やり遂げた事だ。　もう一度やれない道理はない
-
+It's something that we have done before. There's no reason we can't do it again.
 
 「…………」
 「…………」
 
 「――あ――？」
-
+「Ah?」
 
 飛んでいる。
-
+We're flying.
 
 まるで吹き飛ばされたかのように、宙を泳いでいる。
-
+We swam through the air as if we had been blown away.
 
 ……何故だ？
-
+...Where are they?
 
 俺は攻撃など――
-
+I never received any attacks――
 
 「……」
 「……」
 
 何だ、これは。
-
+What is this?
 
 何が起きている？
-
+What's going on?
 
 何故、俺は跳ね飛ばされている？
-
+Why am I being bounced around?
 
 何
-
+Wha
 
 「…………」
 「…………」
 
 何だというのだ。
-
+What the hell is this?
 
 何だ――――これは？
-
+What―――― is this?
 
 《こ……こんな。　こんなの》
-
+《T-This... This is》
 
 「村正……」
-
+「Muramasa...」
 
 「俺達は、攻撃されている……のか？」
-
+「Are we... being attacked?」
 
 《…………》
 《…………》
 
 何処だ。
-
+Where?
 
 銀星号は、何処に、
-
+Where is the silver star?
 
 「――――」
 「――――」
 
 銀星号は居た。
-
+The Silver Star was there.
 
 ……飛行体は、移動し続けなければ落下する。　そんな掟が、空の世界にはあった筈である。
-
+...If a flying object does not keep moving, it will fall. I think such a rule existed in the would of the sky.
 
 この掟を越えられるのは一部の昆虫と鳥類、そして高度な性能を備えた飛行艦のみ。　それらにしても多大な労力を支払い、ごく短時間に限って可能とするのだ。
-
+Only a few insects, birds, and highly sophisticated airships can ignore this rule. Even then, that is possible only for a very short time and it required a gread deal of effort.
 
 こんな――事も無げに。　そこにガラス張りの床があるのだと言わんばかりに。　　悠然と立つ、など。
 
@@ -8054,7 +8054,7 @@ However,
 
 
 「……は……」
-
+「...Haa...」
 
 ここが夢の中だというのなら、さっさと現実へ戻してもらいたかった。
 
