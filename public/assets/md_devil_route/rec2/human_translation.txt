@@ -2466,10 +2466,10 @@ I've been thinking about that old man's words frequently these days, and I wonde
 （Old Yagenta)
 
 あの時は、貴重な忠告を突っ撥ねたのだった。　心が有ろうが無かろうが道具は道具、使い手の意思のみで――全てを使い手の責任において扱いきるべきものだ、と。
-At that time, I brushed off his valuable advice. I told him that whether or not it has a heart, a tool is a tool, it is only a reflection of its user's will―― Its use should completely be the responsibility of its master.
+At that time, I brushed off his valuable advice. I told him that whether or not it has a heart, a tool is a tool, it is only a reflection of its master's will―― Its use should completely be the responsibility of its master.
 
 今とてその存念が何か変化したわけではない。　劒冑を使う責任、使った結果に対する責任は仕手が一人で担うもので、誰とも分かち合えないし、分かち合ってはならない。そう思う。
-It's not that I have changed my mind. The responsibility of using a Tsurugi, and the responsibility in regards to the results that came for using it should be shouldered by its user alone, it is not something that can or should be shared with anyone else.
+It's not that I have changed my mind. The responsibility of using a Tsurugi, and the responsibility in regards to the results that came for using it should be shouldered by its m alone, it is not something that can or should be shared with anyone else.
 
 だが……
 However...
@@ -2792,7 +2792,7 @@ If possible, to zero.　It is said that no one has ever reached the summit befor
 《...That's》
 
 「心甲一致は、仕手と劒冑の課題だ」
-「Mind-body unity is an issue for both the Tsurugi and its user.」
+「Mind-body unity is an issue for both the Tsurugi and its master.」
 
 「両者の間合がどう在るかという評価だ……。　遠ければ適わず、近ければ適う」
 「It is an evaluation of the distance between the two... If it's far, then they are not a match, and if it's close, then they match.」
@@ -3035,7 +3035,7 @@ The duty that is assigned to me is not something that can be entrusted to anothe
 《It is only possible because I was forged with a specific purpose of holding back second Muramasa. If it is to accomplish my purpose――》
 
 《己の仕手に対しても力を揮える》
-《I am able to use my powers against my own user.》
+《I am able to use my powers against my own master.》
 
 「村正……」
 「Muramasa...」
@@ -3146,7 +3146,7 @@ But why? I thought I was forced to yield to that power...
 《It doesn't matter where. This is the last time I'm seeing you.》
 
 《私は別の仕手を探す……》
-《I will find another user...》
+《I will find another master...》
 
 「何だと？」
 「What?」
@@ -3197,7 +3197,7 @@ Right now I'd like to keep running around like this, and shake off whatever it i
 （There's no way―― that I will acknowledge it.)
 
 俺の意思を認めてくれ、と。　自分の意思で戦い、責任を負うことを認めて欲しいと……それだけを望んだ仕手に、完全な拒絶を返した。
-Please acknowledge my wish. I want you to acknowledge the fact that I'm fighting out of my own will, and that I also bear responsibility for it, he said... I completely rejected a user who only asked for that much.
+Please acknowledge my wish. I want you to acknowledge the fact that I'm fighting out of my own will, and that I also bear responsibility for it, he said... I completely rejected a master who only asked for that much.
 
 彼は私の意志を認めると言ってくれたのに。　あの錆びた錠前のような頑固者が。なのに。　　けれどどうしても、それは認められないのだ。
 Even though he acknowledged my wish. That person who was as stubborn as a rusty lock. And yet. Even then, I couldn't acknowledge it.
@@ -4573,7 +4573,7 @@ The Minamoto clan's chief paid a visit to Hachiman Shrine to pray for their fort
 
 正三位六衛大将領、元帥竜軍大将、大和の覇者、足利護氏を―――　討つ。
 and Ashikaga Moriuji, the third ranked general of the Sixth order, general of the Imperial Army, and Champion of Yamato, was defeated. 
-(recheck this later)
+
 
 「……そして」
 「...And then」
@@ -7351,7 +7351,7 @@ The Silver Star spat grumpily.　Her arms crossed, she truly looked abhorrent.
 I asked and answered questions I didn't want to - that's all I could see.　There was nothing to indicate the remnants of the battle.
 
 実力の程は先刻思い知らされている、鬚切――上代の大名物と練達の仕手から成る強剛の武者を打倒しておきながら。　息一つ乱れていない。
-Having tried to defeat a strong musha combination of an experienced user and a renown tsurugi from ancient times―― Higekiri, I am reminded of the extent of their strength. Not one of his breath was dishelved.
+Having tried to defeat a strong musha combination of an experienced master and a renown tsurugi from ancient times―― Higekiri, I am reminded of the extent of their strength. Not one of his breath was dishelved.
 
 銀星号。
 The silver star.
@@ -10298,10 +10298,10 @@ I'm destined to not get along with that thing.
 Just one look at her and I knew that we would never understand each other.
 
 「そうそう」
-That's right.
+Yes Yes.
 
 「どうしようもない感じよね」
-It feels like it can't be helped, right? (check audio)
+It feels like it can't be helped, right? 
 
 そんなところだけ合意されても困る。
 It's going to trouble me if that's the only part you guys agree on.
@@ -10331,7 +10331,7 @@ Ah, that? Because it smelled like rusty, rotten scrap metal.
 Don't lie!
 
 「床は軋んで抜けそうになってるしさ」
-The floor is creaking and seemed like it was going to fall out.
+The floor was creaking and seemed like it was going to fall out.
 
 「そんなに重くない！」
 I'm not that heavy!
@@ -10367,7 +10367,7 @@ What would that be?
 I hadn't gotten an answer yet. What are you going to do after all, mister?
 
 「これから」
-After this, 
+From this point on.
 
 「…………」
 「…………」
@@ -10494,118 +10494,118 @@ And Midou, you don't like to take back something that you've already said, right
 ...That would be true.
 
 お願いしますと頼んでおきながら、承諾をもらった後でやっぱり結構ですと突き放すのは、どうにも相手を馬鹿にしている。　やりたい事ではない。
-
+Despite requesting help from someone and even receiving their consent, to thrust them away right after that, it would be like making fun of them. That's not something I would like to do.
 
 「気を遣わせたか」
-
+I've troubled you.
 
 「大袈裟よ」
-
+You're exaggerating.
 
 「では、中将閣下。　改めて、御世話になります」
 Well then, your excellency the liutenant general. Once again, we will be in your care.
 
 「なんか気に食わない紆余曲折があったけど、結論がそうなったならまあいいか。　我が家だと思ってくつろいでね、お兄さん」
-
+There were some twists and turns that I didn't like, but if this is the way it turned out, then it's fine.　Make yourself at home, mister.
 
 「は」
-
+Yes.
 
 「くつろぐから、出て行ってくれない？　貴方邪魔よ」
-
+Why don't you get out of here so I can relax? You're a nuisance.
 
 「……礼節の水準に差が有り過ぎじゃねえかこの主従……」
-
+...Aint there too much difference in the level of civility between this master-servant pair...
 
 「つか、おめーこそ出てけよ！　ここはお兄さんの部屋だっつーの」
-
+And you're the one who should get out! This is the mister's room.
 
 「私達は一緒で構わないけど。　ねぇ？」
-
+We don't mind staying together though. Right?
 
 「まぁ」
-
+Well...
 
 「男女同衾なんて不埒な真似、あての館では許しません。　おめーにもちゃんと部屋やるから、そっちいけ」
-
+A man and a woman sharing a bed is an inexcusable behavior, it is not allowed in my house. I'll properly give you a room too, so go over there.
 
 「そう？」
-
+Is that so?
 
 「誰かー」
-
+Someone-
 
 「はッ。　お呼びでございましょうか」
-
+Yes. Did you call?
 
 「そこの姉ちゃん、物置に連れてってやって」
-
+Take that girl to the storage room.
 
 「はッ」
-
+Yes.
 
 「ちょっと」
-
+You little-
 
 「ほら、行けよ。　その人がいい部屋に案内してくれるから」
-
+There, go on. That person will guide you to a nice room.
 
 「今はっきり、物置って言ったでしょうが！」
-
+I'm sure you just said it was a storeroom!
 
 「ち……いらねーこと聞いてやがる」
-
+Tch... You listened in on stuff you shouldn't have.
 
 「とことん決着つけないとだめなのかしら」
-
+I guess we have no choice but to settle this once and for all.
 
 「上等だオラ。　おとなしく物置に片付いてりゃいいもんを、スクラップ工場の方が趣味だってんならそうしてやる」
-
+Fine by me. You should have just quietly went to the storeroom, but if you prefer going to a scrap factory then I'll grant your wish.
 
 「やってみなさいよ！」
-
+Go ahead, try it!
 
 消えた筈の炎が再燃する。
-
+The flame that was supposed to be extinguished is rekindled.
 
 それは魂の激突であった。　熱く燃える力と力のぶつかり合いであった。　　どう考えても近所迷惑であった。
-
+It was a clash of souls.　It was a clash between intensely burning powers.　　No matter how you looked at it, it was a nuisance to the neighborhood.
 
 「…………」
 「…………」
 
 「お客様。　お茶など、ご用意致しましょうか」
-
+Dear guests. Shall I prepare some tea for you?
 
 「……夜も遅いので。　お気持ちだけ頂きます」
-
+...It's already late at night, but I thank you for the kind offer.
 
 「畏まりました。　では、ごゆるりとお過ごし下さいませ」
-
+Certainly. Well then, please have a relaxing time.
 
 無茶を言うなと返したかったがやめておいた。　養父母の教育の賜物である。
-
+I wanted to tell her to stop being so reckless, but I refrained. It was the result of my adoptive parent's education.
 
 「……あら？」
-
+...Oh my?
 
 「村正?」
-
+Murasa?!
 
 《――――》
 《――――》
 
 「回復したてで無茶するからだ。　自動休眠しやがったな」
-
+It's because she was being so reckless right after recovering. She auto-downed, huh.
 
 「…………」
 「…………」
 
 「分析がお早い」
-
+Such quick analysis.
 
 仕手の俺ですら、状態の把握に数秒は掛かった。　思わず動揺したせいでもあるが……。
-
+It took even me, her master, a few seconds to grasp the situation. Although it might also be because I was a little shaken...
 
 何の縁もない劒冑の異変をほとんど一瞬で理解する――些細な事のようで、中々に尋常な話ではない。　普通、そんな真似ができるのは鍛冶師だけだろう。
 
@@ -10614,7 +10614,7 @@ Well then, your excellency the liutenant general. Once again, we will be in your
 
 
 「は……」
-
+Ha...
 
 「予定通り物置へうっちゃっておけばＯＫ」
 
