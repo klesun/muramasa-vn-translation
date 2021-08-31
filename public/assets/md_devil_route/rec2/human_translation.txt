@@ -10436,61 +10436,62 @@ See.
 Mister... You spoil your tsurugi too much.
 
 「駄作がますます劣化しちまうよ？」
-
+That poor piece of work might deteriorate even more you know?
 
 「いえ。問題有りません」
-
+No. There are no problems.
 
 「そーかなー」
-
+Oh really?
 
 「甘やかそうがどうしようが、村正が自己の役割を忘れる事はありませんから。　必要な時に必要な働きを必ずする」
-
+It doesn't matter whether I spoil her or not, Muramasa will never forget her role. She will definitely do what she needs to do when the time comes.
 
 「それは疑いなく信じられます。　それで、自分には充分です」
-
+I believe that without a doubt. That's enough for me.
 
 「…………」
 「…………」
 
 「自分が村正の信頼を裏切らない限り、村正の性能が劣化する事など有り得ません」
-
+As long as I do not betray her trust, there is no way that Muramasa's performance will deteriorate.
 
 「そして御堂が私を裏切ることなんて有り得ないから、私は常に完全な性能を発揮できる。　……どう？　こういうものなのよ」
-
+And since there is no way that Midou would ever betray me, I can always perform at my full potential. ...What do you think? This is what it's all about.
 
 「互いを認める仕手と劒冑っていうのはねっ。　以前はともかく、今の私達はちゃんと帯刀の儀も済ませて結縁してるの。お子様が何を言ったって、壊される間柄じゃないんだから」
-
+A tsurugi and a master that acknowledges on another. It was different back then, but now we have properly done the ceremony. No matter what a child like you says, ours is not a bond that will easily be broken.
 
 「わかった？」
-
+Do you understand?
 
 「天井のシミ、なんかこないだよりも増えてねえかなー」
-
+I wonder if the spots on the ceiling have increased since than the other day~
 
 「聞きなさいよ！　いい話してたんだから！」
-
+Listen when I'm talking! I was telling you something good!
 
 「ただの惚気だろ。　つかおめー、本気でお兄さん外に引っ張り出すつもりか？」
-
+You were just going on about your love affair. And are you seriously planning on dragging the mister out of the house?
 
 「銅鐸は緑青が悪化するだけで済むけどよ、人間は風邪引いたりとかするんだぜ」
-
+The old bell will probably only get more rusty, but humans can get colds and stuff.
+(Dōtaku --> bronze bell used in ceremonies during the Yayoi era. features patterns of nature & animals, including spiders)
 
 「わかってます。冗談に決まってるでしょ。　あと銅鐸って誰のことか」
-
+I know that. I was obviously joking. And who are you calling an old bell?! 
 
 「良いのか？」
-
+Are you fine with it?
 
 「私がここにいたくないのも、御堂を置いておきたくないのも本当だけど。　わざわざ野宿するのもばかみたいだし」
-
+It's true that I don't want to stay here, but it's also true that I don't want to leave Midou behind. It seems that going out of my way to stay out in the open is stupid as well.
 
 「それに御堂、一度口にしたことを翻すのは嫌なんでしょ？」
-
+And Midou, you don't like to take back something that you've already said, right?
 
 「……そうだな」
-
+...That would be true.
 
 お願いしますと頼んでおきながら、承諾をもらった後でやっぱり結構ですと突き放すのは、どうにも相手を馬鹿にしている。　やりたい事ではない。
 
@@ -10502,7 +10503,7 @@ Mister... You spoil your tsurugi too much.
 
 
 「では、中将閣下。　改めて、御世話になります」
-
+Well then, your excellency the liutenant general. Once again, we will be in your care.
 
 「なんか気に食わない紆余曲折があったけど、結論がそうなったならまあいいか。　我が家だと思ってくつろいでね、お兄さん」
 
