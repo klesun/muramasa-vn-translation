@@ -54,7 +54,7 @@ I'll put here everything that I'll use during extraction and translation of this
 
 ![image](https://user-images.githubusercontent.com/5202330/109388412-7f2c1d80-790f-11eb-9aa2-d69f47b86324.png)
 
-As it appears, the [#8 VN in vndb](https://vndb.org/v2016) does not have much in terms of being translated to english.
+As it appears, the [#8 VN in vndb](https://vndb.org/v2016) ~~does not have much in terms of being translated to english~~ (official english translation [is out](https://www.reddit.com/r/Games/comments/pbna12/full_metal_daemon_muramasa_has_been_relased_in/) at last, yay).
 
 The most serious movement on the moment of writing is the @Maa-chan2018's 24+ hours of [recorded gameplay](https://www.youtube.com/watch?v=AXSc9oNXSTk&list=PL3gfx-bBhOYKHY7QJcyxsnO4qeRgMwUmS) with translation added in form of hardsub. It seems to translate 4 Chapters of the Common Route. This is awesome, but still far from fully covering all the game.
 
