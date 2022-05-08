@@ -1,5 +1,5 @@
 import {promises as fs} from "fs";
-import {parseSentenceTranslationsFile} from "../public/node_modules/vn-translation-tools/src/SrtUtils.js";
+import {parseSentenceTranslationsFile} from "../public/node_modules/vn-translation-tools/public/modules/SrtUtils.js";
 import FastestLevenshtein from 'fastest-levenshtein';
 
 const cutters = [

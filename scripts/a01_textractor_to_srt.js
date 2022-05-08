@@ -2,7 +2,7 @@
 import { promises as fs } from 'fs';
 import { dirname } from 'path';
 import { fileURLToPath } from 'url';
-import {buildSrtBlock} from "../public/node_modules/vn-translation-tools/src/SrtUtils.js";
+import {buildSrtBlock} from "../public/node_modules/vn-translation-tools/public/modules/SrtUtils.js";
 
 /**
  * @module - this script transforms the output of textractor_capture.lua and a file

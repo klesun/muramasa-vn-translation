@@ -1,7 +1,7 @@
 import {dirname} from 'path';
 import {fileURLToPath} from 'url';
 import {promises as fs} from "fs";
-import {parseSentenceTranslationsFile, parseSrtSentence} from "../public/node_modules/vn-translation-tools/src/SrtUtils.js";
+import {parseSentenceTranslationsFile, parseSrtSentence} from "../public/node_modules/vn-translation-tools/public/modules/SrtUtils.js";
 import {tryGetDeeplTranslations} from "./DeeplCleaner.js";
 
 const __dirname = dirname(fileURLToPath(import.meta.url));

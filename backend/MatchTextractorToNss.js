@@ -1,6 +1,6 @@
 
 import {promises as fs} from "fs";
-import {parseSrtSentence} from "../public/node_modules/vn-translation-tools/src/SrtUtils.js";
+import {parseSrtSentence} from "../public/node_modules/vn-translation-tools/public/modules/SrtUtils.js";
 import {dirname} from "path";
 import {fileURLToPath} from "url";
 import {ParseNwscript} from "../public/modules/ParseNwscript.js";
