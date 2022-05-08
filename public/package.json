@@ -1,0 +1,10 @@
+{
+  "name": "muramasa-vn-translation-web",
+  "version": "0.0.1",
+  "description": "This package represents the web-tools used for the translation where you did some semi-automatic text linking in GUI",
+  "author": "klesun",
+  "license": "ISC",
+  "dependencies": {
+    "vn-translation-tools": "https://github.com/klesun-misc/vn-translation-tools/tarball/9405aa6acda696007623b02e228d809bf9f45295"
+  }
+}

@@ -1,6 +1,6 @@
 
 import { promises as fs } from 'fs';
-import {joinSrtBlockParts} from "../public/modules/SrtUtils.js";
+import {joinSrtBlockParts} from "../public/node_modules/vn-translation-tools/src/SrtUtils.js";
 import {getTranslatedSrt, RECORDING_LOCATIONS} from "../backend/assets_index.js";
 
 const translateAt = async ({

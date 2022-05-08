@@ -5,7 +5,7 @@ import {
     RECORDING_LOCATIONS
 } from "../backend/assets_index.js";
 
-import {joinSrtBlockParts, parseSrtSentence} from "../public/modules/SrtUtils.js";
+import {joinSrtBlockParts, parseSrtSentence} from "../public/node_modules/vn-translation-tools/src/SrtUtils.js";
 import {allocateBetweenKeyframes} from "../public/modules/GareLinker.js";
 
 const addGarejeiAt = async (dirPath, gareDir) => {

@@ -1,6 +1,6 @@
 import {RECORDING_LOCATIONS} from "../backend/assets_index.js";
 import {promises as fs} from "fs";
-import {parseSentenceTranslationsFile} from "../public/modules/SrtUtils.js";
+import {parseSentenceTranslationsFile} from "../public/node_modules/vn-translation-tools/src/SrtUtils.js";
 import {dirname} from 'path';
 import {fileURLToPath} from 'url';
 

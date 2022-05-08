@@ -1,4 +1,4 @@
-import {parseSrtSentence, parseSrtTimestamp} from "../modules/SrtUtils.js";
+import {parseSrtSentence, parseSrtTimestamp} from "../node_modules/vn-translation-tools/src/SrtUtils.js";
 import {Dom} from 'https://klesun-misc.github.io/dev_data/common/js/Dom.js';
 import Api from "../modules/Api.js";
 import {allocateBetweenKeyframes} from "../modules/GareLinker.js";
